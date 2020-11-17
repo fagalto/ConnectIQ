@@ -1,3 +1,0 @@
-project.manifest = manifest.xml
-
-base.resourcePath = $(base.resourcePath);asset

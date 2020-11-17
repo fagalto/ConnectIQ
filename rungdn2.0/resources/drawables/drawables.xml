@@ -1,5 +1,0 @@
-<resources>
-    <bitmap id="LauncherIcon" filename="launcher_icon.png" />
-     <bitmap id="RunGdnIcon" filename="rungdn.png"   />
-          <bitmap id="BarGdn" filename="bar.PNG"   />
-</resources>
