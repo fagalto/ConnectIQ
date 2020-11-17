@@ -1,0 +1,17 @@
+info face="Cherry Swash" size=190 bold=1 italic=0 charset="" unicode=1 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=0,0 outline=0
+common lineHeight=190 base=147 scaleW=300 scaleH=300 pages=1 packed=0 alphaChnl=0 redChnl=4 greenChnl=4 blueChnl=4
+page id=0 file="cherry_0.png"
+chars count=13
+char id=-1   x=292   y=0     width=1     height=1     xoffset=0     yoffset=0     xadvance=44    page=0  chnl=15
+char id=32   x=291   y=0     width=1     height=1     xoffset=0     yoffset=0     xadvance=44    page=0  chnl=15
+char id=48   x=203   y=106   width=80    height=84    xoffset=3     yoffset=65    xadvance=86    page=0  chnl=15
+char id=49   x=0     y=212   width=57    height=82    xoffset=6     yoffset=65    xadvance=70    page=0  chnl=15
+char id=50   x=57    y=212   width=68    height=81    xoffset=6     yoffset=66    xadvance=80    page=0  chnl=15
+char id=51   x=150   y=0     width=72    height=106   xoffset=2     yoffset=67    xadvance=79    page=0  chnl=15
+char id=52   x=71    y=0     width=79    height=106   xoffset=3     yoffset=66    xadvance=84    page=0  chnl=15
+char id=53   x=0     y=0     width=71    height=107   xoffset=2     yoffset=66    xadvance=79    page=0  chnl=15
+char id=54   x=134   y=106   width=69    height=104   xoffset=5     yoffset=45    xadvance=77    page=0  chnl=15
+char id=55   x=0     y=107   width=64    height=105   xoffset=5     yoffset=67    xadvance=74    page=0  chnl=15
+char id=56   x=64    y=107   width=70    height=104   xoffset=5     yoffset=45    xadvance=81    page=0  chnl=15
+char id=57   x=222   y=0     width=69    height=106   xoffset=3     yoffset=66    xadvance=77    page=0  chnl=15
+char id=58   x=125   y=211   width=22    height=63    xoffset=9     yoffset=86    xadvance=40    page=0  chnl=15

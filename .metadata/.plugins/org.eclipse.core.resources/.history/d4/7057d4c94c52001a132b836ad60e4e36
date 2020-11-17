@@ -1,0 +1,19 @@
+<resources>
+    <fonts>
+        <font id="mari_font_min" filename="fonts/mari_min1.fnt"   antialias="true"/>
+    </fonts>  
+        <fonts>
+        <font id="mari_font_min2" filename="fonts/mari_min2.fnt"  antialias="true"/>
+    </fonts>         
+       
+     <fonts>
+        <font id="steelfish" filename="fonts/steelfish.fnt" filter="0123456789:" antialias="true"/>
+        </fonts>
+      <fonts>
+        <font id="osans" filename="fonts/osans.fnt" filter="0123456789:" antialias="true"/>
+        
+        <font id="cherry" filename="fonts/cherry.fnt" filter="0123456789: " antialias="true"/>
+         <font id="cherrym" filename="fonts/cherrym.fnt" filter="0123456789: " antialias="true"/>
+          <font id="lacquer" filename="fonts/lacquer.fnt" filter="0123456789: " antialias="true"/>
+        </fonts>         
+</resources>

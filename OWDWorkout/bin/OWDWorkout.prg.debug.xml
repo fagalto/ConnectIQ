@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\OWDWorkout\\source\\accelerationData.mc" id="3" lineNum="10" pc="268435456" symbol="enableAccel"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\OWDWorkout\\source\\accelerationData.mc" id="3" lineNum="11" pc="268435460" symbol="enableAccel"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\OWDWorkout\\source\\accelerationData.mc" id="3" lineNum="14" pc="268435477" symbol="enableAccel"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\OWDWorkout\\source\\accelerationData.mc" id="3" lineNum="15" pc="268435518" symbol="enableAccel"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\OWDWorkout\\source\\accelerationData.mc" id="3" lineNum="16" pc="268435518" symbol="enableAccel"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\OWDWorkout\\source\\accelerationData.mc" id="3" lineNum="19" pc="268435562" symbol="enableAccel"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\OWDWorkout\\source\\accelerationData.mc" id="4" lineNum="24" pc="268435604" symbol="accelHistoryCallback"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\OWDWorkout\\source\\accelerationData.mc" id="4" lineNum="25" pc="268435608" symbol="accelHistoryCallback"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\OWDWorkout\\source\\accelerationData.mc" id="4" lineNum="26" pc="268435630" symbol="accelHistoryCallback"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\OWDWorkout\\source\\accelerationData.mc" id="4" lineNum="27" pc="268435652" symbol="accelHistoryCallback"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\OWDWorkout\\source\\accelerationData.mc" id="5" lineNum="30" pc="268435675" symbol="disableAccel"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\OWDWorkout\\source\\accelerationData.mc" id="5" lineNum="31" pc="268435679" symbol="disableAccel"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\OWDWorkout\\source\\OWDWorkoutMenuDelegate.mc" id="7" lineNum="6" pc="268435699" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\OWDWorkout\\source\\OWDWorkoutMenuDelegate.mc" id="7" lineNum="7" pc="268435703" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\OWDWorkout\\source\\OWDWorkoutMenuDelegate.mc" id="8" lineNum="10" pc="268435722" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\OWDWorkout\\source\\OWDWorkoutMenuDelegate.mc" id="8" lineNum="11" pc="268435726" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\OWDWorkout\\source\\OWDWorkoutMenuDelegate.mc" id="8" lineNum="12" pc="268435737" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\OWDWorkout\\source\\OWDWorkoutMenuDelegate.mc" id="8" lineNum="13" pc="268435761" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\OWDWorkout\\source\\OWDWorkoutMenuDelegate.mc" id="8" lineNum="14" pc="268435772" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\OWDWorkout\\source\\OWDWorkoutApp.mc" id="10" lineNum="6" pc="268435797" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\OWDWorkout\\source\\OWDWorkoutApp.mc" id="10" lineNum="7" pc="268435801" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\OWDWorkout\\source\\OWDWorkoutApp.mc" id="11" lineNum="11" pc="268435820" symbol="onStart"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\OWDWorkout\\source\\OWDWorkoutApp.mc" id="12" lineNum="15" pc="268435825" symbol="onStop"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\OWDWorkout\\source\\OWDWorkoutApp.mc" id="13" lineNum="19" pc="268435830" symbol="getInitialView"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\OWDWorkout\\source\\OWDWorkoutApp.mc" id="13" lineNum="20" pc="268435834" symbol="getInitialView"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\OWDWorkout\\source\\OWDWorkoutDelegate.mc" id="15" lineNum="5" pc="268435902" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\OWDWorkout\\source\\OWDWorkoutDelegate.mc" id="15" lineNum="6" pc="268435906" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\OWDWorkout\\source\\OWDWorkoutDelegate.mc" id="16" lineNum="9" pc="268435925" symbol="onMenu"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\OWDWorkout\\source\\OWDWorkoutDelegate.mc" id="16" lineNum="10" pc="268435929" symbol="onMenu"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\OWDWorkout\\source\\OWDWorkoutDelegate.mc" id="16" lineNum="11" pc="268436013" symbol="onMenu"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\OWDWorkout\\source\\OWDWorkoutView.mc" id="18" lineNum="7" pc="268436017" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\OWDWorkout\\source\\OWDWorkoutView.mc" id="18" lineNum="8" pc="268436021" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\OWDWorkout\\source\\OWDWorkoutView.mc" id="18" lineNum="9" pc="268436039" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\OWDWorkout\\source\\OWDWorkoutView.mc" id="19" lineNum="13" pc="268436070" symbol="onLayout"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\OWDWorkout\\source\\OWDWorkoutView.mc" id="19" lineNum="14" pc="268436074" symbol="onLayout"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\OWDWorkout\\source\\OWDWorkoutView.mc" id="19" lineNum="15" pc="268436111" symbol="onLayout"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\OWDWorkout\\source\\OWDWorkoutView.mc" id="20" lineNum="21" pc="268436130" symbol="onShow"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\OWDWorkout\\source\\OWDWorkoutView.mc" id="21" lineNum="25" pc="268436135" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\OWDWorkout\\source\\OWDWorkoutView.mc" id="21" lineNum="27" pc="268436139" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\OWDWorkout\\source\\OWDWorkoutView.mc" id="21" lineNum="28" pc="268436153" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\OWDWorkout\\source\\OWDWorkoutView.mc" id="21" lineNum="29" pc="268436179" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\OWDWorkout\\source\\OWDWorkoutView.mc" id="21" lineNum="30" pc="268436219" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\OWDWorkout\\source\\OWDWorkoutView.mc" id="21" lineNum="31" pc="268436231" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\OWDWorkout\\source\\OWDWorkoutView.mc" id="22" lineNum="37" pc="268436296" symbol="onHide"/>
+<entry filename="Rez" id="28" lineNum="16" pc="268436301" symbol="MainLayout"/>
+<entry filename="Rez" id="28" lineNum="18" pc="268436313" symbol="MainLayout"/>
+<entry filename="Rez" id="28" lineNum="20" pc="268436326" symbol="MainLayout"/>
+<entry filename="Rez" id="28" lineNum="21" pc="268436481" symbol="MainLayout"/>
+<entry filename="Rez" id="28" lineNum="22" pc="268436593" symbol="MainLayout"/>
+<entry filename="Rez" id="28" lineNum="24" pc="268436630" symbol="MainLayout"/>
+<entry filename="Rez" id="31" lineNum="37" pc="268436658" symbol="initialize"/>
+<entry filename="Rez" id="31" lineNum="38" pc="268436662" symbol="initialize"/>
+<entry filename="Rez" id="31" lineNum="39" pc="268436680" symbol="initialize"/>
+<entry filename="Rez" id="31" lineNum="40" pc="268436736" symbol="initialize"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="8388644" module="true" symbol="System"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="8389349" symbol="justification"/>
+<entry id="10" object="true" symbol="OWDWorkoutMenuDelegate"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry id="24" object="true" symbol="MainMenu"/>
+<entry id="8388770" module="true" object="true" symbol="Strings"/>
+<entry id="8388643" module="true" symbol="Sensor"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="8388639" module="true" symbol="Graphics"/>
+<entry id="25" method="true" symbol="MainLayout"/>
+<entry id="8388769" module="true" object="true" symbol="Rez"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry id="19" method="true" symbol="disableAccel"/>
+<entry id="8389808" symbol="period"/>
+<entry id="18" method="true" symbol="accelHistoryCallback"/>
+<entry field="true" id="8390134" symbol="sampleRate"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="29" symbol="AppName"/>
+<entry id="8389080" method="true" symbol="onMenu"/>
+<entry id="32" symbol="item_2"/>
+<entry id="31" symbol="item_1"/>
+<entry field="true" id="23" symbol="LauncherIcon"/>
+<entry field="true" id="27" symbol="menu_label_2"/>
+<entry field="true" id="26" symbol="menu_label_1"/>
+<entry id="8388648" module="true" symbol="WatchUi"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry field="true" id="8389065" symbol="locY"/>
+<entry field="true" id="8389064" symbol="locX"/>
+<entry id="8388771" module="true" object="true" symbol="Drawables"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry id="9" object="true" symbol="accelerationData"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry field="true" id="22" symbol="id_monkey"/>
+<entry id="8389348" symbol="font"/>
+<entry id="8389347" symbol="color"/>
+<entry id="13" object="true" symbol="OWDWorkoutView"/>
+<entry id="12" object="true" symbol="OWDWorkoutDelegate"/>
+<entry field="true" id="16" symbol="mSamplesZ"/>
+<entry field="true" id="15" symbol="mSamplesY"/>
+<entry field="true" id="14" symbol="mSamplesX"/>
+<entry id="8389109" method="true" symbol="onMenuItem"/>
+<entry id="17" method="true" symbol="enableAccel"/>
+<entry id="20" module="true" symbol="Layouts"/>
+<entry field="true" id="28" symbol="prompt"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+<entry id="8389345" symbol="rezId"/>
+<entry id="8390088" module="true" object="true" symbol="JsonData"/>
+<entry id="11" object="true" symbol="OWDWorkoutApp"/>
+<entry id="8389346" symbol="text"/>
+<entry field="true" id="8389063" symbol="identifier"/>
+<entry id="21" module="true" symbol="Menus"/>
+<entry field="true" id="30" symbol="accdataa"/>
+<entry id="8390135" symbol="enableAccelerometer"/>
+<entry id="8388772" module="true" object="true" symbol="Fonts"/>
+<entry id="8388635" module="true" symbol="Application"/>
+</symbolTable>
+<localVars>
+<entry endPc="268435603" name="maxSampleRate" stackId="1" startPc="268435460"/>
+<entry endPc="268435603" name="options" stackId="2" startPc="268435460"/>
+<entry endPc="268435675" name="sensorData" stackId="1" startPc="268435604"/>
+<entry endPc="268435797" name="item" stackId="1" startPc="268435722"/>
+<entry endPc="268435825" name="state" stackId="1" startPc="268435820"/>
+<entry endPc="268435830" name="state" stackId="1" startPc="268435825"/>
+<entry endPc="268436130" name="dc" stackId="1" startPc="268436070"/>
+<entry endPc="268436295" name="infos" stackId="2" startPc="268436139"/>
+<entry endPc="268436296" name="dc" stackId="1" startPc="268436135"/>
+<entry endPc="268436657" name="rez_cmp_local_var_dc_getWidth" stackId="2" startPc="268436313"/>
+<entry endPc="268436657" name="rez_cmp_local_text_2432045334" stackId="3" startPc="268436313"/>
+<entry endPc="268436657" name="rez_cmp_local_bitmap_id_monkey" stackId="4" startPc="268436313"/>
+<entry endPc="268436658" name="dc" stackId="1" startPc="268436301"/>
+</localVars>
+<annotations/>
+<dataEntryOffsetMappings>
+<dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+<dataEntry offset="174" parentId="globals" symbolId="accelerationData" type="class"/>
+<dataEntry offset="269" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry offset="348" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry offset="395" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry offset="434" parentId="Menus" symbolId="MainMenu" type="class"/>
+<dataEntry offset="481" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry offset="512" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry offset="551" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry offset="582" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry offset="645" parentId="globals" symbolId="OWDWorkoutView" type="class"/>
+<dataEntry offset="732" parentId="globals" symbolId="OWDWorkoutApp" type="class"/>
+<dataEntry offset="803" parentId="globals" symbolId="OWDWorkoutMenuDelegate" type="class"/>
+<dataEntry offset="858" parentId="globals" symbolId="OWDWorkoutDelegate" type="class"/>
+</dataEntryOffsetMappings>
+<functions>
+<functionEntry accessMode="public" name="enableAccel" parent="accelerationData">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="accelHistoryCallback" parent="accelerationData">
+<param id="sensorData"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="disableAccel" parent="accelerationData">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="OWDWorkoutMenuDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onMenuItem" parent="OWDWorkoutMenuDelegate">
+<param id="item"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="OWDWorkoutApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStart" parent="OWDWorkoutApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStop" parent="OWDWorkoutApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getInitialView" parent="OWDWorkoutApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="OWDWorkoutDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onMenu" parent="OWDWorkoutDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="OWDWorkoutView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onLayout" parent="OWDWorkoutView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onShow" parent="OWDWorkoutView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onUpdate" parent="OWDWorkoutView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onHide" parent="OWDWorkoutView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="MainLayout" parent="Layouts">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="MainMenu">
+<documentation/>
+</functionEntry>
+</functions>
+</debugInfo>

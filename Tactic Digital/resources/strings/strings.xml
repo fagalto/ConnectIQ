@@ -1,0 +1,62 @@
+<strings>
+
+    <string id="AppName">Pure Digital</string>
+
+    <string id="BackgroundColorTitle">Background Color</string>
+    <string id="ForegroundColorTitle">Foreground Color</string>
+    <string id="ThemeColorTitle">Theme Color</string>
+     <string id="StepCalsTitle">Cals | Steps | Temp | Elev</string>
+    <string id="DotColorTitle">Tiny Dots Color</string>
+
+    <string id="ColorBlack">Black</string>
+    <string id="ColorDarkGray">Dark Gray</string>
+    <string id="ColorLightGray">Light Gray</string>
+    <string id="ColorWhite">White</string>
+    <string id="ColorBlue">Blue</string>
+    <string id="ColorRed">Red</string>
+    <string id="ColorYellow">Yellow</string>
+    <string id="ColorGreen">Green</string>
+     <string id="ColorOrange">Orange</string>
+<string id="MPink">Pink</string>
+<string id="MPurple">Purple</string>
+<string id="MDeepPurple">DeepPurple</string>
+<string id="MIndigo">Indigo</string>
+<string id="MBlue">Blue</string>
+<string id="MLightBlue">LightBlue</string>
+<string id="MCyan">Cyan</string>
+<string id="MTeal">Teal</string>
+<string id="MGreen">Green</string>
+<string id="MLightGreen">LightGreen</string>
+<string id="MLime">Lime</string>
+<string id="MYellow">Yellow</string>
+<string id="MAmber">Amber</string>
+<string id="MOrange">Orange</string>
+<string id="MDeepOrange">DeepOrange</string>
+<string id="MBrown">Brown</string>
+<string id="MGrey">Grey</string>
+<string id="MBlueGrey">BlueGrey</string>  
+
+<string id="Field_1_Title">Field 1 Data</string>
+<string id="Field_2_Title">Field 2 Data</string>  
+<string id="Field_3_Title">Field 3 Data</string>  
+<string id="Field_4_Title">Field 4 Data</string>  
+<string id="Field_5_Title">Field 5 Data</string>  
+<string id="Field_6_Title">Field 6 Data</string>  
+    
+    <string id="Steps">Steps</string>
+    <string id="Calories">Calories</string>
+    <string id="Temperature">Temperature</string>
+    <string id="Battery">Battery</string>
+    <string id="HeartRate">Heart Rate</string>
+    <string id="Floors">Floors Climbed</string>
+    <string id="Altitude">Altitude</string>
+    <string id="Messages">Message Count</string>
+    <string id="MemoryUsed">Memory Used</string>
+    
+
+    <string id="displaySeconds">Display seconds</string>
+      
+
+           
+
+</strings>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete 8 resources" deleteContents="false" description="Delete 8 resources" element1="/rungdn2.0/resources/fonts/cherry_0.png" element2="/rungdn2.0/resources/fonts/cherry.fnt" element3="/rungdn2.0/resources/fonts/cherrym_0.png" element4="/rungdn2.0/resources/fonts/cherrym.fnt" element5="/rungdn2.0/resources/fonts/osans_0.png" element6="/rungdn2.0/resources/fonts/osans.fnt" element7="/rungdn2.0/resources/fonts/steelfish_0.png" element8="/rungdn2.0/resources/fonts/steelfish.fnt" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="8" stamp="1582092221559"/>
+</session>

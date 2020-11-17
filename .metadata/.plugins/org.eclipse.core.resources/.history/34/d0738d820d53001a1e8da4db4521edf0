@@ -1,0 +1,16 @@
+<resources>
+    <fonts>
+        <font id="mari_font_min" filename="fonts/mari_min1.fnt"   antialias="true"/>
+    </fonts>  
+        <fonts>
+        <font id="mari_font_min2" filename="fonts/mari_min2.fnt"  antialias="true"/>
+    </fonts>         
+       
+      <fonts>
+        
+
+          <font id="lacquerb" filename="fonts/lacquerb.fnt" filter="0123456789: " antialias="true"/>
+           <font id="lacquerm" filename="fonts/lacquerm.fnt" filter="0123456789: " antialias="true"/>
+            <font id="lacquer_full" filename="fonts/lacquer_full.fnt"   antialias="true"/>
+        </fonts>         
+</resources>

@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="3" lineNum="33" pc="268435456" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="3" lineNum="34" pc="268435460" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="3" lineNum="35" pc="268435478" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="3" lineNum="36" pc="268435507" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="3" lineNum="37" pc="268435517" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="4" lineNum="41" pc="268435552" symbol="onLayout"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="4" lineNum="44" pc="268435556" symbol="onLayout"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="4" lineNum="48" pc="268435599" symbol="onLayout"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="4" lineNum="49" pc="268435623" symbol="onLayout"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="4" lineNum="51" pc="268435669" symbol="onLayout"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="4" lineNum="55" pc="268435678" symbol="onLayout"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="4" lineNum="59" pc="268435701" symbol="onLayout"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="4" lineNum="74" pc="268435873" symbol="onLayout"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="4" lineNum="79" pc="268435970" symbol="onLayout"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="4" lineNum="82" pc="268435979" symbol="onLayout"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="4" lineNum="84" pc="268435988" symbol="onLayout"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="5" lineNum="91" pc="268436053" symbol="generateHandCoordinates"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="5" lineNum="93" pc="268436057" symbol="generateHandCoordinates"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="5" lineNum="94" pc="268436249" symbol="generateHandCoordinates"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="5" lineNum="95" pc="268436257" symbol="generateHandCoordinates"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="5" lineNum="96" pc="268436276" symbol="generateHandCoordinates"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="5" lineNum="99" pc="268436295" symbol="generateHandCoordinates"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="5" lineNum="100" pc="268436313" symbol="generateHandCoordinates"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="5" lineNum="101" pc="268436350" symbol="generateHandCoordinates"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="5" lineNum="103" pc="268436387" symbol="generateHandCoordinates"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="5" lineNum="106" pc="268436449" symbol="generateHandCoordinates"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="6" lineNum="110" pc="268436453" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="6" lineNum="111" pc="268436457" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="6" lineNum="112" pc="268436470" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="6" lineNum="115" pc="268436483" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="6" lineNum="116" pc="268436507" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="6" lineNum="117" pc="268436507" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="6" lineNum="118" pc="268436507" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="6" lineNum="119" pc="268436517" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="6" lineNum="121" pc="268436527" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="6" lineNum="123" pc="268436577" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="6" lineNum="124" pc="268436602" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="6" lineNum="125" pc="268436627" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="6" lineNum="126" pc="268436652" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="6" lineNum="127" pc="268436677" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="6" lineNum="128" pc="268436697" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="6" lineNum="129" pc="268436720" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="6" lineNum="130" pc="268436745" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="6" lineNum="131" pc="268436770" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="6" lineNum="132" pc="268436795" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="6" lineNum="133" pc="268436820" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="6" lineNum="136" pc="268436869" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="6" lineNum="137" pc="268436938" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="6" lineNum="138" pc="268436962" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="6" lineNum="139" pc="268436987" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="6" lineNum="141" pc="268437003" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="6" lineNum="143" pc="268437199" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="7" lineNum="149" pc="268437421" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="7" lineNum="150" pc="268437425" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="7" lineNum="151" pc="268437425" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="7" lineNum="152" pc="268437425" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="7" lineNum="153" pc="268437438" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="7" lineNum="154" pc="268437455" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="7" lineNum="155" pc="268437455" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="7" lineNum="156" pc="268437455" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="7" lineNum="157" pc="268437455" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="7" lineNum="160" pc="268437458" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="7" lineNum="162" pc="268437468" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="7" lineNum="163" pc="268437481" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="7" lineNum="164" pc="268437493" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="7" lineNum="167" pc="268437502" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="7" lineNum="169" pc="268437524" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="7" lineNum="172" pc="268437528" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="7" lineNum="173" pc="268437541" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="7" lineNum="176" pc="268437554" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="7" lineNum="177" pc="268437590" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="7" lineNum="180" pc="268437634" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="7" lineNum="181" pc="268437670" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="7" lineNum="184" pc="268437866" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="7" lineNum="187" pc="268437880" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="7" lineNum="188" pc="268437920" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="7" lineNum="192" pc="268437965" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="7" lineNum="195" pc="268438001" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="7" lineNum="196" pc="268438032" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="7" lineNum="197" pc="268438042" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="7" lineNum="199" pc="268438065" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="7" lineNum="202" pc="268438113" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="7" lineNum="203" pc="268438148" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="7" lineNum="206" pc="268438196" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="7" lineNum="207" pc="268438232" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="7" lineNum="208" pc="268438265" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="7" lineNum="209" pc="268438301" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="7" lineNum="212" pc="268438334" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="7" lineNum="213" pc="268438370" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="7" lineNum="214" pc="268438420" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="7" lineNum="215" pc="268438479" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="7" lineNum="216" pc="268438532" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="7" lineNum="221" pc="268438588" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="7" lineNum="222" pc="268438601" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="7" lineNum="225" pc="268438620" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="7" lineNum="228" pc="268438659" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="7" lineNum="232" pc="268438689" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="7" lineNum="235" pc="268438703" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="7" lineNum="238" pc="268438756" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="7" lineNum="239" pc="268438779" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="7" lineNum="240" pc="268438786" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="7" lineNum="242" pc="268438802" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="7" lineNum="243" pc="268438838" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="7" lineNum="245" pc="268438898" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="7" lineNum="248" pc="268438909" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="7" lineNum="249" pc="268438926" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="7" lineNum="252" pc="268438937" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="7" lineNum="253" pc="268438973" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="7" lineNum="255" pc="268439008" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="7" lineNum="258" pc="268439059" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="8" lineNum="262" pc="268439070" symbol="drawDateString"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="8" lineNum="263" pc="268439074" symbol="drawDateString"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="8" lineNum="264" pc="268439118" symbol="drawDateString"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="8" lineNum="266" pc="268439194" symbol="drawDateString"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="8" lineNum="267" pc="268439230" symbol="drawDateString"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="9" lineNum="271" pc="268439273" symbol="onPartialUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="9" lineNum="275" pc="268439277" symbol="onPartialUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="9" lineNum="276" pc="268439289" symbol="onPartialUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="9" lineNum="279" pc="268439306" symbol="onPartialUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="9" lineNum="280" pc="268439323" symbol="onPartialUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="9" lineNum="281" pc="268439358" symbol="onPartialUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="9" lineNum="284" pc="268439396" symbol="onPartialUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="9" lineNum="285" pc="268439417" symbol="onPartialUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="9" lineNum="286" pc="268439466" symbol="onPartialUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="9" lineNum="287" pc="268439515" symbol="onPartialUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="9" lineNum="290" pc="268439571" symbol="onPartialUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="9" lineNum="291" pc="268439607" symbol="onPartialUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="10" lineNum="295" pc="268439622" symbol="getBoundingBox"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="10" lineNum="296" pc="268439626" symbol="getBoundingBox"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="10" lineNum="297" pc="268439660" symbol="getBoundingBox"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="10" lineNum="299" pc="268439694" symbol="getBoundingBox"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="10" lineNum="300" pc="268439718" symbol="getBoundingBox"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="10" lineNum="301" pc="268439741" symbol="getBoundingBox"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="10" lineNum="304" pc="268439763" symbol="getBoundingBox"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="10" lineNum="305" pc="268439786" symbol="getBoundingBox"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="10" lineNum="308" pc="268439808" symbol="getBoundingBox"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="10" lineNum="309" pc="268439831" symbol="getBoundingBox"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="10" lineNum="312" pc="268439853" symbol="getBoundingBox"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="10" lineNum="313" pc="268439876" symbol="getBoundingBox"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="10" lineNum="317" pc="268439911" symbol="getBoundingBox"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="11" lineNum="325" pc="268439939" symbol="drawBackground"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="11" lineNum="326" pc="268439943" symbol="drawBackground"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="11" lineNum="327" pc="268439956" symbol="drawBackground"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="11" lineNum="331" pc="268439969" symbol="drawBackground"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="11" lineNum="332" pc="268439982" symbol="drawBackground"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="11" lineNum="336" pc="268440015" symbol="drawBackground"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="11" lineNum="338" pc="268440028" symbol="drawBackground"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="11" lineNum="341" pc="268440064" symbol="drawBackground"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="12" lineNum="347" pc="268440095" symbol="onEnterSleep"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="12" lineNum="348" pc="268440099" symbol="onEnterSleep"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="12" lineNum="349" pc="268440109" symbol="onEnterSleep"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="13" lineNum="354" pc="268440126" symbol="onExitSleep"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="13" lineNum="355" pc="268440130" symbol="onExitSleep"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="15" lineNum="365" pc="268440141" symbol="onPowerBudgetExceeded"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="15" lineNum="366" pc="268440145" symbol="onPowerBudgetExceeded"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="15" lineNum="367" pc="268440175" symbol="onPowerBudgetExceeded"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogView.mc" id="15" lineNum="368" pc="268440205" symbol="onPowerBudgetExceeded"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogGoalView.mc" id="17" lineNum="22" pc="268440219" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogGoalView.mc" id="17" lineNum="23" pc="268440223" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogGoalView.mc" id="17" lineNum="24" pc="268440241" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogGoalView.mc" id="17" lineNum="26" pc="268440270" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogGoalView.mc" id="17" lineNum="28" pc="268440283" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogGoalView.mc" id="17" lineNum="29" pc="268440301" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogGoalView.mc" id="17" lineNum="31" pc="268440326" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogGoalView.mc" id="17" lineNum="32" pc="268440344" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogGoalView.mc" id="17" lineNum="34" pc="268440369" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogGoalView.mc" id="17" lineNum="35" pc="268440387" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogGoalView.mc" id="18" lineNum="39" pc="268440413" symbol="onLayout"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogGoalView.mc" id="18" lineNum="41" pc="268440417" symbol="onLayout"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogGoalView.mc" id="19" lineNum="45" pc="268440430" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogGoalView.mc" id="19" lineNum="46" pc="268440434" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogGoalView.mc" id="19" lineNum="47" pc="268440434" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogGoalView.mc" id="19" lineNum="48" pc="268440434" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogGoalView.mc" id="19" lineNum="50" pc="268440451" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogGoalView.mc" id="19" lineNum="51" pc="268440464" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogGoalView.mc" id="19" lineNum="53" pc="268440477" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogGoalView.mc" id="19" lineNum="54" pc="268440494" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogGoalView.mc" id="19" lineNum="56" pc="268440525" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogGoalView.mc" id="19" lineNum="59" pc="268440601" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogGoalView.mc" id="19" lineNum="60" pc="268440637" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogGoalView.mc" id="19" lineNum="63" pc="268440663" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogGoalView.mc" id="19" lineNum="64" pc="268440699" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogGoalView.mc" id="19" lineNum="67" pc="268440868" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogGoalView.mc" id="19" lineNum="68" pc="268440904" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogGoalView.mc" id="19" lineNum="71" pc="268440958" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogApp.mc" id="21" lineNum="16" pc="268441019" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogApp.mc" id="21" lineNum="17" pc="268441023" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogApp.mc" id="22" lineNum="20" pc="268441042" symbol="onStart"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogApp.mc" id="23" lineNum="23" pc="268441047" symbol="onStop"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogApp.mc" id="24" lineNum="26" pc="268441052" symbol="getInitialView"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogApp.mc" id="24" lineNum="27" pc="268441056" symbol="getInitialView"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogApp.mc" id="24" lineNum="28" pc="268441079" symbol="getInitialView"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogApp.mc" id="24" lineNum="30" pc="268441149" symbol="getInitialView"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogApp.mc" id="25" lineNum="35" pc="268441187" symbol="getGoalView"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Analog\\source\\AnalogApp.mc" id="25" lineNum="36" pc="268441191" symbol="getGoalView"/>
+</pcToLineNum>
+<symbolTable>
+<entry field="true" id="24" symbol="dateBuffer"/>
+<entry id="8388644" module="true" symbol="System"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="8388637" module="true" symbol="Communications"/>
+<entry id="12" object="true" symbol="AnalogGoalView"/>
+<entry id="8390097" method="true" symbol="onPartialUpdate"/>
+<entry id="10" object="true" symbol="AnalogView"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry id="8388645" module="true" symbol="Time"/>
+<entry field="true" id="16" symbol="DoNotDisturbIcon"/>
+<entry field="true" id="23" symbol="offscreenBuffer"/>
+<entry id="8388770" module="true" object="true" symbol="Strings"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="8389377" method="true" symbol="onExitSleep"/>
+<entry id="8390098" method="true" symbol="onPowerBudgetExceeded"/>
+<entry id="8388640" module="true" symbol="Lang"/>
+<entry id="8388639" module="true" symbol="Graphics"/>
+<entry id="8388769" module="true" object="true" symbol="Rez"/>
+<entry id="8388924" module="true" symbol="Gregorian"/>
+<entry id="8389916" method="true" symbol="getGoalView"/>
+<entry id="8390101" object="true" symbol="BufferedBitmap"/>
+<entry id="31" method="true" symbol="getBoundingBox"/>
+<entry id="8390095" object="true" symbol="WatchFaceDelegate"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="19" symbol="AppName"/>
+<entry id="11" object="true" symbol="AnalogDelegate"/>
+<entry field="true" id="8388962" symbol="temperature"/>
+<entry id="32" method="true" symbol="drawBackground"/>
+<entry id="8388641" module="true" symbol="Math"/>
+<entry field="true" id="22" symbol="dndIcon"/>
+<entry field="true" id="17" symbol="LauncherIcon"/>
+<entry id="8389660" symbol="palette"/>
+<entry field="true" id="8389795" symbol="doNotDisturb"/>
+<entry id="8388648" module="true" symbol="WatchUi"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry id="8388771" module="true" object="true" symbol="Drawables"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry field="true" id="8389670" symbol="screenShape"/>
+<entry field="true" id="20" symbol="goalString"/>
+<entry id="8389376" method="true" symbol="onEnterSleep"/>
+<entry field="true" id="8389348" symbol="font"/>
+<entry field="true" id="26" symbol="screenCenterPoint"/>
+<entry id="29" method="true" symbol="drawHashMarks"/>
+<entry field="true" id="21" symbol="isAwake"/>
+<entry field="true" id="8389067" symbol="height"/>
+<entry id="13" object="true" symbol="AnalogWatch"/>
+<entry id="14" module="true" symbol="Layouts"/>
+<entry id="30" method="true" symbol="drawDateString"/>
+<entry field="true" id="27" symbol="fullScreenRefresh"/>
+<entry id="8390088" module="true" object="true" symbol="JsonData"/>
+<entry field="true" id="8389066" symbol="width"/>
+<entry id="28" method="true" symbol="generateHandCoordinates"/>
+<entry field="true" id="25" symbol="curClip"/>
+<entry id="15" module="true" symbol="Menus"/>
+<entry field="true" id="18" symbol="id_font_black_diamond"/>
+<entry field="true" id="9" symbol="partialUpdatesAllowed"/>
+<entry id="8388772" module="true" object="true" symbol="Fonts"/>
+<entry id="8388635" module="true" symbol="Application"/>
+</symbolTable>
+<localVars>
+<entry endPc="268436053" name="dc" stackId="1" startPc="268435552"/>
+<entry endPc="268436436" name="x" stackId="11" startPc="268436313"/>
+<entry endPc="268436436" name="y" stackId="12" startPc="268436313"/>
+<entry endPc="268436449" name="i" stackId="10" startPc="268436313"/>
+<entry endPc="268436452" name="result" stackId="7" startPc="268436057"/>
+<entry endPc="268436452" name="sin" stackId="9" startPc="268436057"/>
+<entry endPc="268436452" name="cos" stackId="8" startPc="268436057"/>
+<entry endPc="268436452" name="coords" stackId="6" startPc="268436057"/>
+<entry endPc="268436453" name="handLength" stackId="3" startPc="268436053"/>
+<entry endPc="268436453" name="tailLength" stackId="4" startPc="268436053"/>
+<entry endPc="268436453" name="width" stackId="5" startPc="268436053"/>
+<entry endPc="268436453" name="angle" stackId="2" startPc="268436053"/>
+<entry endPc="268436453" name="centerPoint" stackId="1" startPc="268436053"/>
+<entry endPc="268436866" name="i" stackId="10" startPc="268436577"/>
+<entry endPc="268436866" name="eY" stackId="7" startPc="268436507"/>
+<entry endPc="268436866" name="eX" stackId="6" startPc="268436507"/>
+<entry endPc="268436866" name="innerRad" stackId="9" startPc="268436507"/>
+<entry endPc="268436866" name="outerRad" stackId="8" startPc="268436507"/>
+<entry endPc="268436866" name="sY" stackId="5" startPc="268436507"/>
+<entry endPc="268436866" name="sX" stackId="4" startPc="268436507"/>
+<entry endPc="268437407" name="upperX" stackId="14" startPc="268436962"/>
+<entry endPc="268437407" name="dx" stackId="13" startPc="268436962"/>
+<entry endPc="268437420" name="i" stackId="12" startPc="268436962"/>
+<entry endPc="268437420" name="coords" stackId="11" startPc="268436869"/>
+<entry endPc="268437420" name="height" stackId="3" startPc="268436457"/>
+<entry endPc="268437420" name="width" stackId="2" startPc="268436457"/>
+<entry endPc="268437421" name="dc" stackId="1" startPc="268436453"/>
+<entry endPc="268438686" name="dateDc" stackId="10" startPc="268438601"/>
+<entry endPc="268439069" name="screenWidth" stackId="4" startPc="268437425"/>
+<entry endPc="268439069" name="width" stackId="2" startPc="268437425"/>
+<entry endPc="268439069" name="backgroundData" stackId="12" startPc="268437425"/>
+<entry endPc="268439069" name="minuteHandAngle" stackId="6" startPc="268437425"/>
+<entry endPc="268439069" name="secondHand" stackId="8" startPc="268437425"/>
+<entry endPc="268439069" name="clockTime" stackId="5" startPc="268437425"/>
+<entry endPc="268439069" name="dataString" stackId="11" startPc="268437425"/>
+<entry endPc="268439069" name="targetDc" stackId="9" startPc="268437425"/>
+<entry endPc="268439069" name="hourHandAngle" stackId="7" startPc="268437425"/>
+<entry endPc="268439069" name="height" stackId="3" startPc="268437425"/>
+<entry endPc="268439070" name="dc" stackId="1" startPc="268437421"/>
+<entry endPc="268439272" name="dateStr" stackId="5" startPc="268439074"/>
+<entry endPc="268439272" name="info" stackId="4" startPc="268439074"/>
+<entry endPc="268439273" name="x" stackId="2" startPc="268439070"/>
+<entry endPc="268439273" name="dc" stackId="1" startPc="268439070"/>
+<entry endPc="268439273" name="y" stackId="3" startPc="268439070"/>
+<entry endPc="268439621" name="bboxHeight" stackId="6" startPc="268439277"/>
+<entry endPc="268439621" name="secondHand" stackId="3" startPc="268439277"/>
+<entry endPc="268439621" name="secondHandPoints" stackId="4" startPc="268439277"/>
+<entry endPc="268439621" name="bboxWidth" stackId="5" startPc="268439277"/>
+<entry endPc="268439621" name="clockTime" stackId="2" startPc="268439277"/>
+<entry endPc="268439622" name="dc" stackId="1" startPc="268439273"/>
+<entry endPc="268439911" name="i" stackId="4" startPc="268439718"/>
+<entry endPc="268439938" name="max" stackId="3" startPc="268439626"/>
+<entry endPc="268439938" name="min" stackId="2" startPc="268439626"/>
+<entry endPc="268439939" name="points" stackId="1" startPc="268439622"/>
+<entry endPc="268440094" name="height" stackId="3" startPc="268439943"/>
+<entry endPc="268440094" name="width" stackId="2" startPc="268439943"/>
+<entry endPc="268440095" name="dc" stackId="1" startPc="268439939"/>
+<entry endPc="268440216" name="powerInfo" stackId="1" startPc="268440141"/>
+<entry endPc="268440413" name="goal" stackId="1" startPc="268440219"/>
+<entry endPc="268440430" name="dc" stackId="1" startPc="268440413"/>
+<entry endPc="268441018" name="height" stackId="3" startPc="268440434"/>
+<entry endPc="268441018" name="dateStr" stackId="7" startPc="268440434"/>
+<entry endPc="268441018" name="now" stackId="5" startPc="268440434"/>
+<entry endPc="268441018" name="width" stackId="2" startPc="268440434"/>
+<entry endPc="268441018" name="clockTime" stackId="4" startPc="268440434"/>
+<entry endPc="268441018" name="info" stackId="6" startPc="268440434"/>
+<entry endPc="268441019" name="dc" stackId="1" startPc="268440430"/>
+<entry endPc="268441047" name="state" stackId="1" startPc="268441042"/>
+<entry endPc="268441052" name="state" stackId="1" startPc="268441047"/>
+<entry endPc="268441231" name="goal" stackId="1" startPc="268441187"/>
+</localVars>
+<annotations/>
+<dataEntryOffsetMappings>
+<dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+<dataEntry offset="174" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry offset="253" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry offset="300" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry offset="331" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry offset="370" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry offset="401" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry offset="432" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry offset="471" parentId="globals" symbolId="AnalogGoalView" type="class"/>
+<dataEntry offset="550" parentId="globals" symbolId="AnalogView" type="class"/>
+<dataEntry offset="749" parentId="globals" symbolId="AnalogWatch" type="class"/>
+<dataEntry offset="836" parentId="globals" symbolId="AnalogDelegate" type="class"/>
+</dataEntryOffsetMappings>
+<functions>
+<functionEntry accessMode="public" name="initialize" parent="AnalogView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onLayout" parent="AnalogView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="generateHandCoordinates" parent="AnalogView">
+<param id="centerPoint"/>
+<param id="angle"/>
+<param id="handLength"/>
+<param id="tailLength"/>
+<param id="width"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawHashMarks" parent="AnalogView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onUpdate" parent="AnalogView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawDateString" parent="AnalogView">
+<param id="dc"/>
+<param id="x"/>
+<param id="y"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onPartialUpdate" parent="AnalogView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getBoundingBox" parent="AnalogView">
+<param id="points"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawBackground" parent="AnalogView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onEnterSleep" parent="AnalogView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onExitSleep" parent="AnalogView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onPowerBudgetExceeded" parent="AnalogDelegate">
+<param id="powerInfo"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="AnalogGoalView">
+<param id="goal"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onLayout" parent="AnalogGoalView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onUpdate" parent="AnalogGoalView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="AnalogWatch">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStart" parent="AnalogWatch">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStop" parent="AnalogWatch">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getInitialView" parent="AnalogWatch">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getGoalView" parent="AnalogWatch">
+<param id="goal"/>
+<documentation/>
+</functionEntry>
+</functions>
+</debugInfo>

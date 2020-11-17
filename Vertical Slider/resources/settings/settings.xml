@@ -1,0 +1,149 @@
+<settings>
+
+    <setting propertyKey="@Properties.BackgroundColor" title="@Strings.BackgroundColorTitle">
+        <settingConfig type="list">
+            <listEntry value="0x000000">@Strings.ColorBlack</listEntry>
+            <listEntry value="0xFFFFFF">@Strings.ColorWhite</listEntry>            
+            <listEntry value="0xAAAAAA">@Strings.ColorLightGray</listEntry>
+            <listEntry value="0x0000FF">@Strings.ColorBlue</listEntry>
+            <listEntry value="0xFF0000">@Strings.ColorRed</listEntry> 
+             <listEntry value="0x00FF00">@Strings.ColorGreen</listEntry>  
+
+ <listEntry value="0xAA0000">@Strings.MRed</listEntry>
+ <listEntry value="0xAA0005">@Strings.MPink</listEntry>
+ <listEntry value="0xAA00FF">@Strings.MPurple</listEntry>
+ <listEntry value="0xFF0055">@Strings.MDeepPurple</listEntry>
+ <listEntry value="0x5500AA">@Strings.MIndigo</listEntry>
+ <listEntry value="0x0055AA">@Strings.MBlue</listEntry>
+ <listEntry value="0x00AAFF">@Strings.MLightBlue</listEntry>
+ <listEntry value="0x00FFFF">@Strings.MTeal</listEntry>
+ <listEntry value="0x00FF55">@Strings.MGreen</listEntry>
+ <listEntry value="0x00FFAA">@Strings.MLightGreen</listEntry>
+ <listEntry value="0xAAFF55">@Strings.MLime</listEntry>
+ <listEntry value="0xFFFF55">@Strings.MYellow</listEntry>
+ <listEntry value="0xFFAA00">@Strings.MAmber</listEntry>
+ <listEntry value="0xFF5500">@Strings.MOrange</listEntry>
+ <listEntry value="0xAA5500">@Strings.MDeepOrange</listEntry>
+ <listEntry value="0x550000">@Strings.MBrown</listEntry>
+ <listEntry value="0x555555">@Strings.MGrey</listEntry>
+ <listEntry value="0x5555AA">@Strings.MBlueGrey</listEntry>         
+        </settingConfig>
+    </setting>
+
+    <setting propertyKey="@Properties.ForegroundColor" title="@Strings.ForegroundColorTitle">
+        <settingConfig type="list">
+            <listEntry value="0x000000">@Strings.ColorBlack</listEntry>
+            <listEntry value="0xFFFFFF">@Strings.ColorWhite</listEntry>            
+            <listEntry value="0xAAAAAA">@Strings.ColorLightGray</listEntry>
+            <listEntry value="0x0000FF">@Strings.ColorBlue</listEntry>
+            <listEntry value="0xFF0000">@Strings.ColorRed</listEntry> 
+             <listEntry value="0x00FF00">@Strings.ColorGreen</listEntry>  
+
+ <listEntry value="0xAA0000">@Strings.MRed</listEntry>
+ <listEntry value="0xAA0005">@Strings.MPink</listEntry>
+ <listEntry value="0xAA00FF">@Strings.MPurple</listEntry>
+ <listEntry value="0xFF0055">@Strings.MDeepPurple</listEntry>
+ <listEntry value="0x5500AA">@Strings.MIndigo</listEntry>
+ <listEntry value="0x0055AA">@Strings.MBlue</listEntry>
+ <listEntry value="0x00AAFF">@Strings.MLightBlue</listEntry>
+ <listEntry value="0x00FFFF">@Strings.MTeal</listEntry>
+ <listEntry value="0x00FF55">@Strings.MGreen</listEntry>
+ <listEntry value="0x00FFAA">@Strings.MLightGreen</listEntry>
+ <listEntry value="0xAAFF55">@Strings.MLime</listEntry>
+ <listEntry value="0xFFFF55">@Strings.MYellow</listEntry>
+ <listEntry value="0xFFAA00">@Strings.MAmber</listEntry>
+ <listEntry value="0xFF5500">@Strings.MOrange</listEntry>
+ <listEntry value="0xAA5500">@Strings.MDeepOrange</listEntry>
+ <listEntry value="0x550000">@Strings.MBrown</listEntry>
+ <listEntry value="0x555555">@Strings.MGrey</listEntry>
+ <listEntry value="0x5555AA">@Strings.MBlueGrey</listEntry>            
+        </settingConfig>
+    </setting>
+
+    <setting propertyKey="@Properties.BarColor" title="@Strings.BarSelectorTitle">
+        <settingConfig type="list">
+            <listEntry value="0x000000">@Strings.ColorBlack</listEntry>
+            <listEntry value="0xFFFFFF">@Strings.ColorWhite</listEntry>            
+            <listEntry value="0xAAAAAA">@Strings.ColorLightGray</listEntry>
+            <listEntry value="0x0000FF">@Strings.ColorBlue</listEntry>
+            <listEntry value="0xFF0000">@Strings.ColorRed</listEntry> 
+             <listEntry value="0x00FF00">@Strings.ColorGreen</listEntry>  
+
+ <listEntry value="0xAA0000">@Strings.MRed</listEntry>
+ <listEntry value="0xAA0005">@Strings.MPink</listEntry>
+ <listEntry value="0xAA00FF">@Strings.MPurple</listEntry>
+ <listEntry value="0xFF0055">@Strings.MDeepPurple</listEntry>
+ <listEntry value="0x5500AA">@Strings.MIndigo</listEntry>
+ <listEntry value="0x0055AA">@Strings.MBlue</listEntry>
+ <listEntry value="0x00AAFF">@Strings.MLightBlue</listEntry>
+ <listEntry value="0x00FFFF">@Strings.MTeal</listEntry>
+ <listEntry value="0x00FF55">@Strings.MGreen</listEntry>
+ <listEntry value="0x00FFAA">@Strings.MLightGreen</listEntry>
+ <listEntry value="0xAAFF55">@Strings.MLime</listEntry>
+ <listEntry value="0xFFFF55">@Strings.MYellow</listEntry>
+ <listEntry value="0xFFAA00">@Strings.MAmber</listEntry>
+ <listEntry value="0xFF5500">@Strings.MOrange</listEntry>
+ <listEntry value="0xAA5500">@Strings.MDeepOrange</listEntry>
+ <listEntry value="0x550000">@Strings.MBrown</listEntry>
+ <listEntry value="0x555555">@Strings.MGrey</listEntry>
+ <listEntry value="0x5555AA">@Strings.MBlueGrey</listEntry>             
+        </settingConfig>
+    </setting>
+    <setting propertyKey="@Properties.DotColor" title="@Strings.DotColorTitle">
+        <settingConfig type="list">
+            <listEntry value="0x000000">@Strings.ColorBlack</listEntry>
+            <listEntry value="0xFFFFFF">@Strings.ColorWhite</listEntry>            
+            <listEntry value="0xAAAAAA">@Strings.ColorLightGray</listEntry>
+            <listEntry value="0x0000FF">@Strings.ColorBlue</listEntry>
+            <listEntry value="0xFF0000">@Strings.ColorRed</listEntry> 
+             <listEntry value="0x00FF00">@Strings.ColorGreen</listEntry>  
+
+ <listEntry value="0xAA0000">@Strings.MRed</listEntry>
+ <listEntry value="0xAA0005">@Strings.MPink</listEntry>
+ <listEntry value="0xAA00FF">@Strings.MPurple</listEntry>
+ <listEntry value="0xFF0055">@Strings.MDeepPurple</listEntry>
+ <listEntry value="0x5500AA">@Strings.MIndigo</listEntry>
+ <listEntry value="0x0055AA">@Strings.MBlue</listEntry>
+ <listEntry value="0x00AAFF">@Strings.MLightBlue</listEntry>
+ <listEntry value="0x00FFFF">@Strings.MTeal</listEntry>
+ <listEntry value="0x00FF55">@Strings.MGreen</listEntry>
+ <listEntry value="0x00FFAA">@Strings.MLightGreen</listEntry>
+ <listEntry value="0xAAFF55">@Strings.MLime</listEntry>
+ <listEntry value="0xFFFF55">@Strings.MYellow</listEntry>
+ <listEntry value="0xFFAA00">@Strings.MAmber</listEntry>
+ <listEntry value="0xFF5500">@Strings.MOrange</listEntry>
+ <listEntry value="0xAA5500">@Strings.MDeepOrange</listEntry>
+ <listEntry value="0x550000">@Strings.MBrown</listEntry>
+ <listEntry value="0x555555">@Strings.MGrey</listEntry>
+ <listEntry value="0x5555AA">@Strings.MBlueGrey</listEntry>         
+        </settingConfig>
+    </setting>
+      <setting propertyKey="@Properties.StepCals" title="@Strings.StepCalsTitle">
+        <settingConfig type="list">
+            <listEntry value="0">@Strings.Steps</listEntry>
+            <listEntry value="1">@Strings.Calories</listEntry>
+             <listEntry value="2">@Strings.Temperature</listEntry>
+              <listEntry value="3">@Strings.Elevation</listEntry>
+        </settingConfig>
+    </setting> 
+      <setting propertyKey="@Properties.FontSize" title="@Strings.SelectFontSize">
+        <settingConfig type="list">
+            <listEntry value="0">@Strings.FontNormal</listEntry>
+            <listEntry value="1">@Strings.FontLarger</listEntry>
+        </settingConfig>
+    </setting>     
+        <setting propertyKey="@Properties.ShowBatteryBar" title="@Strings.ShowBatteryBar">
+        <settingConfig type="boolean" />
+         
+    </setting>
+         <setting propertyKey="@Properties.displaySeconds" title="@Strings.displaySeconds">
+        <settingConfig type="boolean" />
+    </setting> 
+      <setting propertyKey="@Properties.FontName" title="@Strings.FontName">
+        <settingConfig type="list">
+            <listEntry value="0">@Strings.Teko</listEntry>
+            <listEntry value="1">@Strings.Mari</listEntry>
+            <listEntry value="2">@Strings.Cone</listEntry>
+        </settingConfig>
+    </setting>         
+</settings>

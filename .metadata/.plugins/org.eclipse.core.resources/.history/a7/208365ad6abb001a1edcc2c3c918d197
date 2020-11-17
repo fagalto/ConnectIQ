@@ -1,0 +1,19 @@
+
+class hrRenderer {
+var _dc;
+public var width;
+public var height;
+public var fgColor;
+public var bgColor;
+
+ 
+
+function initialize (dc,width,height) {
+_dc = dc;
+
+}
+
+	
+
+
+}

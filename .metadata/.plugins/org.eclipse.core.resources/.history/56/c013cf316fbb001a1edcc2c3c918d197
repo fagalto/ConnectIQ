@@ -1,0 +1,36 @@
+using Toybox.ActivityMonitor;
+
+class hrRenderer {
+var _dc;
+public var width;
+public var height;
+public var fgColor;
+public var bgColor;
+public var noOfsamples;
+
+ 
+
+function initialize (dc) {
+_dc = dc;
+
+}
+
+function getHrHistory() {
+
+var rawHr = new[120];
+		//var onehour = new Time.Duration(3600);
+var currenth = new Gregorian.Moment(Time.now().value());
+		var hourLater =  Gregorian.info(currenth.add(onehour),Time.FORMAT_MEDIUM).hour.format("%02d");
+
+
+for( var i = 0; i < rawHr.size(); i++ )
+{
+var moment = currenth - new Time.Duration(120-i);
+ rawHr[i] =  ActivityMonitor.HeartRateSample(moment);
+}
+
+
+}	
+
+
+}

@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\SimpleWatch\\source\\WatchView.mc" lineNum="10" pc="268435458" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\SimpleWatch\\source\\WatchView.mc" lineNum="15" pc="268435479" symbol="onLayout"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\SimpleWatch\\source\\WatchView.mc" lineNum="29" pc="268435522" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\SimpleWatch\\source\\WatchBackground.mc" lineNum="19" pc="268435554" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\SimpleWatch\\source\\WatchBackground.mc" lineNum="27" pc="268435627" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\SimpleWatch\\source\\WatchBackground.mc" lineNum="29" pc="268435647" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\SimpleWatch\\source\\WatchBackground.mc" lineNum="30" pc="268435690" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\SimpleWatch\\source\\WatchBackground.mc" lineNum="31" pc="268435733" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\SimpleWatch\\source\\WatchBackground.mc" lineNum="32" pc="268435776" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\SimpleWatch\\source\\WatchBackground.mc" lineNum="33" pc="268435819" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\SimpleWatch\\source\\WatchBackground.mc" lineNum="39" pc="268435842" symbol="draw"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\SimpleWatch\\source\\WatchBackground.mc" lineNum="40" pc="268435855" symbol="draw"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\SimpleWatch\\source\\WatchBackground.mc" lineNum="41" pc="268435868" symbol="draw"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\SimpleWatch\\source\\WatchBackground.mc" lineNum="43" pc="268435904" symbol="draw"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\SimpleWatch\\source\\WatchBackground.mc" lineNum="45" pc="268435916" symbol="draw"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\SimpleWatch\\source\\WatchBackground.mc" lineNum="49" pc="268435952" symbol="draw"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\SimpleWatch\\source\\WatchBackground.mc" lineNum="50" pc="268435971" symbol="draw"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\SimpleWatch\\source\\WatchBackground.mc" lineNum="51" pc="268435990" symbol="draw"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\SimpleWatch\\source\\WatchBackground.mc" lineNum="52" pc="268436009" symbol="draw"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\SimpleWatch\\source\\WatchBackground.mc" lineNum="53" pc="268436028" symbol="draw"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\SimpleWatch\\source\\WatchBackground.mc" lineNum="54" pc="268436047" symbol="draw"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\SimpleWatch\\source\\WatchBackground.mc" lineNum="56" pc="268436066" symbol="draw"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\SimpleWatch\\source\\WatchBackground.mc" lineNum="57" pc="268436085" symbol="draw"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\SimpleWatch\\source\\WatchBackground.mc" lineNum="58" pc="268436104" symbol="draw"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\SimpleWatch\\source\\WatchBackground.mc" lineNum="59" pc="268436123" symbol="draw"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\SimpleWatch\\source\\WatchBackground.mc" lineNum="60" pc="268436142" symbol="draw"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\SimpleWatch\\source\\WatchBackground.mc" lineNum="62" pc="268436161" symbol="draw"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\SimpleWatch\\source\\WatchBackground.mc" lineNum="63" pc="268436180" symbol="draw"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\SimpleWatch\\source\\WatchBackground.mc" lineNum="66" pc="268436199" symbol="draw"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\SimpleWatch\\source\\WatchBackground.mc" lineNum="67" pc="268436235" symbol="draw"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\SimpleWatch\\source\\WatchBackground.mc" lineNum="68" pc="268436255" symbol="draw"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\SimpleWatch\\source\\WatchBackground.mc" lineNum="69" pc="268436275" symbol="draw"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\SimpleWatch\\source\\WatchBackground.mc" lineNum="71" pc="268436331" symbol="draw"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\SimpleWatch\\source\\WatchBackground.mc" lineNum="73" pc="268436367" symbol="draw"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\SimpleWatch\\source\\WatchBackground.mc" lineNum="75" pc="268436435" symbol="draw"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\SimpleWatch\\source\\WatchBackground.mc" lineNum="77" pc="268436482" symbol="draw"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\SimpleWatch\\source\\WatchBackground.mc" lineNum="79" pc="268436518" symbol="draw"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\SimpleWatch\\source\\WatchBackground.mc" lineNum="80" pc="268436542" symbol="draw"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\SimpleWatch\\source\\WatchBackground.mc" lineNum="84" pc="268436572" symbol="draw"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\SimpleWatch\\source\\WatchBackground.mc" lineNum="85" pc="268436616" symbol="draw"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\SimpleWatch\\source\\WatchBackground.mc" lineNum="87" pc="268436666" symbol="draw"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\SimpleWatch\\source\\WatchBackground.mc" lineNum="89" pc="268436755" symbol="draw"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\SimpleWatch\\source\\WatchBackground.mc" lineNum="90" pc="268436793" symbol="draw"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\SimpleWatch\\source\\WatchBackground.mc" lineNum="91" pc="268436826" symbol="draw"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\SimpleWatch\\source\\WatchBackground.mc" lineNum="98" pc="268436891" symbol="makeClockTime"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\SimpleWatch\\source\\WatchBackground.mc" lineNum="99" pc="268436908" symbol="makeClockTime"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\SimpleWatch\\source\\WatchBackground.mc" lineNum="101" pc="268436908" symbol="makeClockTime"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\SimpleWatch\\source\\WatchBackground.mc" lineNum="102" pc="268436918" symbol="makeClockTime"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\SimpleWatch\\source\\WatchBackground.mc" lineNum="105" pc="268436928" symbol="makeClockTime"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\SimpleWatch\\source\\WatchBackground.mc" lineNum="112" pc="268436992" symbol="getStats"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\SimpleWatch\\source\\WatchBackground.mc" lineNum="113" pc="268437000" symbol="getStats"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\SimpleWatch\\source\\WatchBackground.mc" lineNum="114" pc="268437017" symbol="getStats"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\SimpleWatch\\source\\WatchBackground.mc" lineNum="116" pc="268437042" symbol="getStats"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\SimpleWatch\\source\\WatchBackground.mc" lineNum="117" pc="268437059" symbol="getStats"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\SimpleWatch\\source\\WatchBackground.mc" lineNum="118" pc="268437075" symbol="getStats"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\SimpleWatch\\source\\WatchBackground.mc" lineNum="120" pc="268437091" symbol="getStats"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\SimpleWatch\\source\\WatchBackground.mc" lineNum="123" pc="268437141" symbol="getStats"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\SimpleWatch\\source\\WatchBackground.mc" lineNum="124" pc="268437157" symbol="getStats"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\SimpleWatch\\source\\WatchBackground.mc" lineNum="125" pc="268437173" symbol="getStats"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\SimpleWatch\\source\\WatchBackground.mc" lineNum="126" pc="268437189" symbol="getStats"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\SimpleWatch\\source\\WatchBackground.mc" lineNum="128" pc="268437205" symbol="getStats"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\SimpleWatch\\source\\WatchApp.mc" lineNum="7" pc="268437211" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\SimpleWatch\\source\\WatchApp.mc" lineNum="20" pc="268437238" symbol="getInitialView"/>
+<entry filename="Rez" lineNum="23" pc="268437281" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="24" pc="268437306" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="25" pc="268437333" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="27" pc="268437349" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="28" pc="268437363" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="29" pc="268437460" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="30" pc="268437475" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="31" pc="268437527" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="32" pc="268437573" symbol="WatchFace"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="17" module="true" symbol="Menus"/>
+<entry field="true" id="12" symbol="runicon"/>
+<entry field="true" id="23" symbol="AppName"/>
+<entry field="true" id="13" symbol="baticon"/>
+<entry id="8389683" method="true" symbol="onSettingsChanged"/>
+<entry id="8388771" module="true" symbol="Drawables"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry id="8389376" method="true" symbol="onEnterSleep"/>
+<entry field="true" id="20" symbol="run"/>
+<entry id="8389347" symbol="color"/>
+<entry field="true" id="19" symbol="id_c64"/>
+<entry id="18" module="true" symbol="Layouts"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry field="true" id="14" symbol="statsfont"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="8389375" method="true" object="true" symbol="WatchFace"/>
+<entry id="8389377" method="true" symbol="onExitSleep"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry field="true" id="8389065" symbol="locY"/>
+<entry field="true" id="8389064" symbol="locX"/>
+<entry id="8388641" module="true" symbol="Math"/>
+<entry id="8388772" module="true" symbol="Fonts"/>
+<entry field="true" id="8389063" symbol="identifier"/>
+<entry id="8389349" symbol="justification"/>
+<entry id="8388769" module="true" symbol="Rez"/>
+<entry field="true" id="21" symbol="bat"/>
+<entry field="true" id="8389348" symbol="font"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry field="true" id="22" symbol="id_font_c64"/>
+<entry id="15" symbol="makeClockTime"/>
+<entry field="true" id="11" symbol="cals"/>
+<entry id="9" object="true" symbol="Background"/>
+<entry field="true" id="8389066" symbol="width"/>
+<entry id="8" object="true" symbol="WatchView"/>
+<entry id="8388645" module="true" symbol="Time"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry id="8389068" method="true" symbol="draw"/>
+<entry id="16" method="true" symbol="getStats"/>
+<entry id="8388770" module="true" symbol="Strings"/>
+<entry field="true" id="8389067" symbol="height"/>
+<entry id="10" object="true" symbol="WatchApp"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry id="8388640" module="true" symbol="Lang"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+</symbolTable>
+<localVars>
+<entry endPc="268435839" name="dictionary" stackId="1" startPc="268435554"/>
+<entry endPc="268436888" name="calstxtx" stackId="17" startPc="268435842"/>
+<entry endPc="268436888" name="vCenter" stackId="4" startPc="268435842"/>
+<entry endPc="268436888" name="time" stackId="2" startPc="268435842"/>
+<entry endPc="268436888" name="battxtwidth" stackId="18" startPc="268435842"/>
+<entry endPc="268436888" name="battxtypos" stackId="10" startPc="268435842"/>
+<entry endPc="268436888" name="hCenter" stackId="5" startPc="268435842"/>
+<entry endPc="268436888" name="stats" stackId="3" startPc="268435842"/>
+<entry endPc="268436888" name="secondlineheight" stackId="9" startPc="268435842"/>
+<entry endPc="268436888" name="statstxtheight" stackId="12" startPc="268435842"/>
+<entry endPc="268436888" name="battxtxpos" stackId="11" startPc="268435842"/>
+<entry endPc="268436888" name="firslineheight" stackId="6" startPc="268435842"/>
+<entry endPc="268436888" name="statstxtwidth2" stackId="14" startPc="268435842"/>
+<entry endPc="268436888" name="statstxtwidth" stackId="13" startPc="268435842"/>
+<entry endPc="268436888" name="linestart" stackId="7" startPc="268435842"/>
+<entry endPc="268436888" name="linewidth" stackId="8" startPc="268435842"/>
+<entry endPc="268436888" name="datewidth" stackId="16" startPc="268435842"/>
+<entry endPc="268436888" name="dateheight" stackId="15" startPc="268435842"/>
+<entry endPc="268436989" name="hour" stackId="2" startPc="268436891"/>
+<entry endPc="268436989" name="min" stackId="3" startPc="268436891"/>
+<entry endPc="268436989" name="clockTime" stackId="1" startPc="268436891"/>
+<entry endPc="268437208" name="statsy" stackId="2" startPc="268436992"/>
+<entry endPc="268437208" name="date" stackId="4" startPc="268436992"/>
+<entry endPc="268437208" name="stats" stackId="1" startPc="268436992"/>
+<entry endPc="268437208" name="actvinfo" stackId="3" startPc="268436992"/>
+<entry endPc="268437600" name="rez_cmp_local_custom_drawable_1HBSZ390O34GFB0KNGE7" stackId="2" startPc="268437281"/>
+<entry endPc="268437600" name="rez_cmp_local_label_TimeLabel_fontHeight" stackId="5" startPc="268437281"/>
+<entry endPc="268437600" name="rez_cmp_local_label_TimeLabel_font" stackId="3" startPc="268437281"/>
+<entry endPc="268437600" name="rez_cmp_local_label_TimeLabel" stackId="4" startPc="268437281"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry name="initialize" parent="WatchView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onLayout" parent="WatchView">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Load your resources here<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onShow" parent="WatchView">
+<documentation><![CDATA[<div class="description"> Called when this View is brought to the foreground. Restore<br/> the state of this View and prepare it to be shown. This includes<br/> loading resources into memory.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onUpdate" parent="WatchView">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Update the view<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onHide" parent="WatchView">
+<documentation><![CDATA[<div class="description"> Called when this View is removed from the screen. Save the<br/> state of this View here. This includes freeing resources from<br/> memory.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onExitSleep" parent="WatchView">
+<documentation><![CDATA[<div class="description"> The user has just looked at their watch. Timers and animations may be started here.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onEnterSleep" parent="WatchView">
+<documentation><![CDATA[<div class="description"> Terminate any active timers and prepare for slow updates.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="initialize" parent="Background">
+<documentation/>
+</functionEntry>
+<functionEntry name="draw" parent="Background">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="makeClockTime" parent="Background">
+<documentation/>
+</functionEntry>
+<functionEntry name="getStats" parent="Background">
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="WatchApp">
+<documentation/>
+</functionEntry>
+<functionEntry name="onStart" parent="WatchApp">
+<documentation><![CDATA[<div class="description"> onStart() is called on application start up<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onStop" parent="WatchApp">
+<documentation><![CDATA[<div class="description"> onStop() is called when your application is exiting<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="getInitialView" parent="WatchApp">
+<documentation><![CDATA[<div class="description"> Return the initial view of your application here<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onSettingsChanged" parent="WatchApp">
+<documentation><![CDATA[<div class="description"> New app settings have been received so trigger a UI update<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="WatchFace" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+</functions>
+</debugInfo>

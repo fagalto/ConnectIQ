@@ -1,0 +1,57 @@
+<strings>
+
+    <string id="AppName">Slider</string>
+
+    <string id="BackgroundColorTitle">Background Color</string>
+    <string id="ForegroundColorTitle">Fonts Color</string>
+    <string id="BarSelectorTitle">Bar Color</string>
+     <string id="StepCalsTitle">Cals | Steps | Temp | Elev</string>
+    <string id="DotColorTitle">Tiny Dots Color</string>
+
+    <string id="ColorBlack">Black</string>
+    <string id="ColorDarkGray">Dark Gray</string>
+    <string id="ColorLightGray">Light Gray</string>
+    <string id="ColorWhite">White</string>
+    <string id="ColorBlue">Blue</string>
+    <string id="ColorRed">Red</string>
+    <string id="ColorYellow">Yellow</string>
+    <string id="ColorGreen">Green</string>
+    <string id="ColorOrange">Orange</string>
+    
+    
+<string id="MRed">Material Red</string>
+<string id="MPink">Material Pink</string>
+<string id="MPurple">Material Purple</string>
+<string id="MDeepPurple">Material DeepPurple</string>
+<string id="MIndigo">Material Indigo</string>
+<string id="MBlue">Material Blue</string>
+<string id="MLightBlue">Material LightBlue</string>
+<string id="MCyan">Material Cyan</string>
+<string id="MTeal">Material Teal</string>
+<string id="MGreen">Material Green</string>
+<string id="MLightGreen">Material LightGreen</string>
+<string id="MLime">Material Lime</string>
+<string id="MYellow">Material Yellow</string>
+<string id="MAmber">Material Amber</string>
+<string id="MOrange">Material Orange</string>
+<string id="MDeepOrange">Material DeepOrange</string>
+<string id="MBrown">Material Brown</string>
+<string id="MGrey">Material Grey</string>
+<string id="MBlueGrey">Material BlueGrey</string>    
+    
+    <string id="Steps">Steps</string>
+    <string id="Calories">Calories</string>
+      <string id="Temperature">Temperature</string>
+        <string id="Elevation">Elevation</string>    
+
+ <string id="ShowBatteryBar">Show Battery Bar</string>
+ <string id="ShowActivityBar">Show Activity Bar</string>
+  <string id="ShowBatteryBar">Show Battery Bar</string>
+  
+        <string id="SelectFontSize">Select Font Size</string>
+      
+      <string id="FontNormal">Normal</string>
+      <string id="FontLarger">Larger</string>
+      <string id="displaySeconds">Display seconds</string>
+   
+</strings>

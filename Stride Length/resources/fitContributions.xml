@@ -1,0 +1,23 @@
+ <resources>
+    <fitContributions>
+        <fitField id="0" 
+        displayInChart="true" 
+        sortOrder = "0" 
+        precision="0"
+        displayInActivityLaps = "true"
+        displayInActivitySummary = "true"
+        chartTitle="@Strings.chartTitle" 
+        dataLabel="@Strings.dataLabel"
+        unitLabel="@Strings.unitLabel" fillColor="#E57100" />
+ 
+        <fitField id="1" 
+        displayInChart="true" 
+        sortOrder = "0" 
+        precision="1"
+        displayInActivityLaps = "true"
+        displayInActivitySummary = "true"
+        chartTitle="@Strings.gChartTitle" 
+        dataLabel="@Strings.gDataLabel"
+        unitLabel="@Strings.gUnitLabel" fillColor="#00FF40" />
+    </fitContributions>    
+</resources>    

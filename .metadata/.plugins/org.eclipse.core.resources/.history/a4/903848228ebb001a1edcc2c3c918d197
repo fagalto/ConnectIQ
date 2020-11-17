@@ -1,0 +1,123 @@
+using Toybox.ActivityMonitor;
+using Toybox.Time.Gregorian;
+
+class hrRenderer {
+var _dc;
+public var width;
+public var height;
+public var fgColor;
+public var bgColor;
+public var noOfsamples;
+public var hrData;
+public var maxHr;
+public var minHr;
+public var noOfSamples;
+
+ 
+
+function initialize (dc) {
+	_dc = dc;
+	
+	 me.minHr = 255;
+	 me.maxHr = 0;
+	 me.noOfSamples = 22;
+	 me.hrData = new[me.noOfSamples];
+	}
+
+function getHrHistory() {
+	
+	var currenth = new Gregorian.Moment(Time.now().value());
+	var hrIterator = ActivityMonitor.getHeartRateHistory( me.noOfSamples, false);
+	maxHr = hrIterator.getMax();
+	minHr = hrIterator.getMin();
+		 
+	for( var i = 0; i < hrData.size(); i++ )
+	{
+	 var sample = hrIterator.next();
+	if( sample.heartRate< ActivityMonitor.INVALID_HR_SAMPLE) {
+	 hrData[i] = sample.heartRate;
+	 }
+	 else
+	 	{
+	 	hrData[i] = 0;
+	 	}
+
+	}
+	
+	
+	}	
+
+function calculateHrGraph() {
+
+var graphMax = me.height-2; //margin
+var graphWidth = me.width;
+
+var graphScaleY = graphMax.toFloat()/(me.maxHr-me.minHr);
+var graphScaleX = graphWidth.toFloat()/hrData.size();
+System.println("scales are "+graphScaleX+","+graphScaleY);
+var points = new[hrData.size()+2];
+var i;
+	for(i = 0; i < hrData.size(); i++ )
+		{
+		points[i] = [i*graphScaleX,graphMax-(hrData[i]-me.minHr)*graphScaleY];
+		//System.println("scales are "+points);
+		
+		}
+	points[i] = [graphWidth,0];
+		i++;
+	points[i] = [0,0];
+System.println("scales are "+points);
+return points;
+	}
+	
+function drawHrGraph(x,y) {
+
+var points = calculateHrGraph();
+points = PolyTranslate(points,x,y);
+_dc.fillPolygon(points);
+
+
+}	
+	
+	
+	
+	
+	
+	
+	
+	
+function getMax (array)
+	{
+	var maxX = 0;
+		if(array !=null)
+		{
+		var s = array.size();
+		
+		
+		for( var j = 0; j < array.size(); j++ ) {
+				   //System.println("imma translatin"+Polygon[j]);
+				    if(array[j]>maxX)
+				    	{
+				    	maxX = array[j];
+				    	
+				    	}
+				}
+		}
+		//System.println("maxX is"+maxX+", from "+Polygon);
+	return maxX.toNumber();	
+	}
+function PolyTranslate(Polygon,Tx,Ty)
+	{
+	if(Polygon !=null)
+	{
+	var s = Polygon.size();
+	var tempShifter = new [s];
+	
+	for( var j = 0; j < Polygon.size(); j++ ) {
+			  // System.println("imma translatin"+Polygon[j]+[Tx,Ty]);
+			    Polygon[j] =  [Polygon[j][0]+Tx,Polygon[j][1]+Ty];
+			}
+	}
+	return Polygon;	
+	}	
+}

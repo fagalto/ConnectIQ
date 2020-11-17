@@ -1,0 +1,1203 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\hrRenderer.mc" id="3" lineNum="19" pc="268435456" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\hrRenderer.mc" id="3" lineNum="20" pc="268435460" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\hrRenderer.mc" id="3" lineNum="22" pc="268435470" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\hrRenderer.mc" id="3" lineNum="23" pc="268435483" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\hrRenderer.mc" id="3" lineNum="24" pc="268435496" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\hrRenderer.mc" id="3" lineNum="25" pc="268435509" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\hrRenderer.mc" id="3" lineNum="26" pc="268435526" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\hrRenderer.mc" id="4" lineNum="29" pc="268435566" symbol="getHrHistory"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\hrRenderer.mc" id="4" lineNum="31" pc="268435570" symbol="getHrHistory"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\hrRenderer.mc" id="4" lineNum="32" pc="268435624" symbol="getHrHistory"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\hrRenderer.mc" id="4" lineNum="35" pc="268435661" symbol="getHrHistory"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\hrRenderer.mc" id="4" lineNum="36" pc="268435671" symbol="getHrHistory"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\hrRenderer.mc" id="4" lineNum="37" pc="268435698" symbol="getHrHistory"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\hrRenderer.mc" id="4" lineNum="40" pc="268435767" symbol="getHrHistory"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\hrRenderer.mc" id="4" lineNum="44" pc="268435789" symbol="getHrHistory"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\hrRenderer.mc" id="4" lineNum="46" pc="268435802" symbol="getHrHistory"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\hrRenderer.mc" id="4" lineNum="49" pc="268435871" symbol="getHrHistory"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\hrRenderer.mc" id="4" lineNum="53" pc="268435893" symbol="getHrHistory"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\hrRenderer.mc" id="4" lineNum="55" pc="268435906" symbol="getHrHistory"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\hrRenderer.mc" id="4" lineNum="57" pc="268435919" symbol="getHrHistory"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\hrRenderer.mc" id="4" lineNum="59" pc="268435949" symbol="getHrHistory"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\hrRenderer.mc" id="4" lineNum="60" pc="268435973" symbol="getHrHistory"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\hrRenderer.mc" id="4" lineNum="62" pc="268435992" symbol="getHrHistory"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\hrRenderer.mc" id="4" lineNum="67" pc="268436008" symbol="getHrHistory"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\hrRenderer.mc" id="5" lineNum="75" pc="268436044" symbol="calculateHrGraph"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\hrRenderer.mc" id="5" lineNum="77" pc="268436048" symbol="calculateHrGraph"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\hrRenderer.mc" id="5" lineNum="78" pc="268436064" symbol="calculateHrGraph"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\hrRenderer.mc" id="5" lineNum="80" pc="268436074" symbol="calculateHrGraph"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\hrRenderer.mc" id="5" lineNum="81" pc="268436105" symbol="calculateHrGraph"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\hrRenderer.mc" id="5" lineNum="83" pc="268436136" symbol="calculateHrGraph"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\hrRenderer.mc" id="5" lineNum="84" pc="268436162" symbol="calculateHrGraph"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\hrRenderer.mc" id="5" lineNum="85" pc="268436162" symbol="calculateHrGraph"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\hrRenderer.mc" id="5" lineNum="87" pc="268436192" symbol="calculateHrGraph"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\hrRenderer.mc" id="5" lineNum="91" pc="268436263" symbol="calculateHrGraph"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\hrRenderer.mc" id="5" lineNum="92" pc="268436294" symbol="calculateHrGraph"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\hrRenderer.mc" id="5" lineNum="93" pc="268436304" symbol="calculateHrGraph"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\hrRenderer.mc" id="5" lineNum="95" pc="268436338" symbol="calculateHrGraph"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\hrRenderer.mc" id="6" lineNum="98" pc="268436342" symbol="drawHrGraph"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\hrRenderer.mc" id="6" lineNum="100" pc="268436346" symbol="drawHrGraph"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\hrRenderer.mc" id="6" lineNum="101" pc="268436359" symbol="drawHrGraph"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\hrRenderer.mc" id="6" lineNum="102" pc="268436378" symbol="drawHrGraph"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\hrRenderer.mc" id="7" lineNum="114" pc="268436399" symbol="getMax"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\hrRenderer.mc" id="7" lineNum="116" pc="268436403" symbol="getMax"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\hrRenderer.mc" id="7" lineNum="117" pc="268436410" symbol="getMax"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\hrRenderer.mc" id="7" lineNum="119" pc="268436417" symbol="getMax"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\hrRenderer.mc" id="7" lineNum="122" pc="268436430" symbol="getMax"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\hrRenderer.mc" id="7" lineNum="124" pc="268436454" symbol="getMax"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\hrRenderer.mc" id="7" lineNum="126" pc="268436465" symbol="getMax"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\hrRenderer.mc" id="7" lineNum="132" pc="268436491" symbol="getMax"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\hrRenderer.mc" id="8" lineNum="134" pc="268436504" symbol="PolyTranslate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\hrRenderer.mc" id="8" lineNum="136" pc="268436508" symbol="PolyTranslate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\hrRenderer.mc" id="8" lineNum="138" pc="268436515" symbol="PolyTranslate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\hrRenderer.mc" id="8" lineNum="139" pc="268436528" symbol="PolyTranslate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\hrRenderer.mc" id="8" lineNum="141" pc="268436533" symbol="PolyTranslate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\hrRenderer.mc" id="8" lineNum="143" pc="268436557" symbol="PolyTranslate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\hrRenderer.mc" id="8" lineNum="146" pc="268436628" symbol="PolyTranslate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderApp.mc" id="10" lineNum="6" pc="268436632" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderApp.mc" id="10" lineNum="7" pc="268436636" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderApp.mc" id="11" lineNum="10" pc="268436655" symbol="onStart"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderApp.mc" id="12" lineNum="13" pc="268436660" symbol="onStop"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderApp.mc" id="13" lineNum="16" pc="268436665" symbol="getInitialView"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderApp.mc" id="13" lineNum="17" pc="268436669" symbol="getInitialView"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderApp.mc" id="13" lineNum="18" pc="268436692" symbol="getInitialView"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderApp.mc" id="13" lineNum="20" pc="268436762" symbol="getInitialView"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderApp.mc" id="14" lineNum="25" pc="268436800" symbol="onSettingsChanged"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderApp.mc" id="14" lineNum="26" pc="268436804" symbol="onSettingsChanged"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\infoKeeper.mc" id="16" lineNum="13" pc="268436821" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\infoKeeper.mc" id="16" lineNum="15" pc="268436825" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\infoKeeper.mc" id="16" lineNum="16" pc="268436839" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\infoKeeper.mc" id="17" lineNum="19" pc="268436869" symbol="getFieldValue"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\infoKeeper.mc" id="17" lineNum="21" pc="268436873" symbol="getFieldValue"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\infoKeeper.mc" id="17" lineNum="22" pc="268436890" symbol="getFieldValue"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\infoKeeper.mc" id="17" lineNum="24" pc="268436897" symbol="getFieldValue"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\infoKeeper.mc" id="17" lineNum="129" pc="268437080" symbol="getFieldValue"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\infoKeeper.mc" id="17" lineNum="130" pc="268437087" symbol="getFieldValue"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\infoKeeper.mc" id="17" lineNum="26" pc="268437093" symbol="getFieldValue"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\infoKeeper.mc" id="17" lineNum="28" pc="268437103" symbol="getFieldValue"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\infoKeeper.mc" id="17" lineNum="30" pc="268437106" symbol="getFieldValue"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\infoKeeper.mc" id="17" lineNum="31" pc="268437116" symbol="getFieldValue"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\infoKeeper.mc" id="17" lineNum="33" pc="268437119" symbol="getFieldValue"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\infoKeeper.mc" id="17" lineNum="34" pc="268437126" symbol="getFieldValue"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\infoKeeper.mc" id="17" lineNum="36" pc="268437143" symbol="getFieldValue"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\infoKeeper.mc" id="17" lineNum="38" pc="268437166" symbol="getFieldValue"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\infoKeeper.mc" id="17" lineNum="41" pc="268437227" symbol="getFieldValue"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\infoKeeper.mc" id="17" lineNum="42" pc="268437234" symbol="getFieldValue"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\infoKeeper.mc" id="17" lineNum="45" pc="268437258" symbol="getFieldValue"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\infoKeeper.mc" id="17" lineNum="46" pc="268437298" symbol="getFieldValue"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\infoKeeper.mc" id="17" lineNum="48" pc="268437308" symbol="getFieldValue"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\infoKeeper.mc" id="17" lineNum="49" pc="268437312" symbol="getFieldValue"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\infoKeeper.mc" id="17" lineNum="51" pc="268437315" symbol="getFieldValue"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\infoKeeper.mc" id="17" lineNum="52" pc="268437332" symbol="getFieldValue"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\infoKeeper.mc" id="17" lineNum="53" pc="268437351" symbol="getFieldValue"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\infoKeeper.mc" id="17" lineNum="55" pc="268437354" symbol="getFieldValue"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\infoKeeper.mc" id="17" lineNum="58" pc="268437371" symbol="getFieldValue"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\infoKeeper.mc" id="17" lineNum="60" pc="268437394" symbol="getFieldValue"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\infoKeeper.mc" id="17" lineNum="62" pc="268437427" symbol="getFieldValue"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\infoKeeper.mc" id="17" lineNum="64" pc="268437467" symbol="getFieldValue"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\infoKeeper.mc" id="17" lineNum="67" pc="268437477" symbol="getFieldValue"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\infoKeeper.mc" id="17" lineNum="74" pc="268437499" symbol="getFieldValue"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\infoKeeper.mc" id="17" lineNum="79" pc="268437509" symbol="getFieldValue"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\infoKeeper.mc" id="17" lineNum="82" pc="268437516" symbol="getFieldValue"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\infoKeeper.mc" id="17" lineNum="84" pc="268437519" symbol="getFieldValue"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\infoKeeper.mc" id="17" lineNum="86" pc="268437530" symbol="getFieldValue"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\infoKeeper.mc" id="17" lineNum="90" pc="268437543" symbol="getFieldValue"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\infoKeeper.mc" id="17" lineNum="95" pc="268437550" symbol="getFieldValue"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\infoKeeper.mc" id="17" lineNum="98" pc="268437553" symbol="getFieldValue"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\infoKeeper.mc" id="17" lineNum="102" pc="268437560" symbol="getFieldValue"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\infoKeeper.mc" id="17" lineNum="104" pc="268437577" symbol="getFieldValue"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\infoKeeper.mc" id="17" lineNum="106" pc="268437600" symbol="getFieldValue"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\infoKeeper.mc" id="17" lineNum="109" pc="268437661" symbol="getFieldValue"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\infoKeeper.mc" id="17" lineNum="112" pc="268437685" symbol="getFieldValue"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\infoKeeper.mc" id="17" lineNum="117" pc="268437698" symbol="getFieldValue"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\infoKeeper.mc" id="17" lineNum="118" pc="268437702" symbol="getFieldValue"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\infoKeeper.mc" id="17" lineNum="120" pc="268437705" symbol="getFieldValue"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\infoKeeper.mc" id="17" lineNum="122" pc="268437728" symbol="getFieldValue"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\infoKeeper.mc" id="17" lineNum="124" pc="268437731" symbol="getFieldValue"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\infoKeeper.mc" id="17" lineNum="125" pc="268437748" symbol="getFieldValue"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\infoKeeper.mc" id="17" lineNum="127" pc="268437758" symbol="getFieldValue"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\infoKeeper.mc" id="17" lineNum="132" pc="268437764" symbol="getFieldValue"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\infoKeeper.mc" id="17" lineNum="133" pc="268437786" symbol="getFieldValue"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="19" lineNum="58" pc="268437799" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="19" lineNum="60" pc="268437803" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="19" lineNum="62" pc="268437821" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="19" lineNum="63" pc="268437831" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="19" lineNum="64" pc="268437845" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="19" lineNum="69" pc="268437859" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="20" lineNum="73" pc="268437894" symbol="onLayout"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="20" lineNum="75" pc="268437898" symbol="onLayout"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="20" lineNum="77" pc="268437962" symbol="onLayout"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="20" lineNum="78" pc="268438028" symbol="onLayout"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="20" lineNum="80" pc="268438048" symbol="onLayout"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="20" lineNum="82" pc="268438117" symbol="onLayout"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="20" lineNum="84" pc="268438137" symbol="onLayout"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="20" lineNum="88" pc="268438206" symbol="onLayout"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="20" lineNum="89" pc="268438220" symbol="onLayout"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="20" lineNum="90" pc="268438252" symbol="onLayout"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="20" lineNum="91" pc="268438284" symbol="onLayout"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="20" lineNum="92" pc="268438314" symbol="onLayout"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="20" lineNum="93" pc="268438346" symbol="onLayout"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="20" lineNum="95" pc="268438356" symbol="onLayout"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="20" lineNum="96" pc="268438399" symbol="onLayout"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="20" lineNum="97" pc="268438442" symbol="onLayout"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="20" lineNum="98" pc="268438485" symbol="onLayout"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="21" lineNum="104" pc="268438529" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="21" lineNum="105" pc="268438533" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="21" lineNum="106" pc="268438533" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="21" lineNum="107" pc="268438533" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="21" lineNum="108" pc="268438546" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="21" lineNum="109" pc="268438563" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="21" lineNum="110" pc="268438563" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="21" lineNum="111" pc="268438563" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="21" lineNum="112" pc="268438563" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="21" lineNum="113" pc="268438566" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="21" lineNum="114" pc="268438569" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="21" lineNum="116" pc="268438579" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="21" lineNum="117" pc="268438591" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="21" lineNum="118" pc="268438613" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="21" lineNum="119" pc="268438635" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="21" lineNum="120" pc="268438657" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="21" lineNum="121" pc="268438679" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="21" lineNum="122" pc="268438697" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="21" lineNum="124" pc="268438789" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="21" lineNum="126" pc="268438801" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="21" lineNum="127" pc="268438830" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="21" lineNum="131" pc="268438859" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="21" lineNum="133" pc="268438873" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="21" lineNum="135" pc="268438907" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="21" lineNum="139" pc="268438947" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="22" lineNum="144" pc="268438986" symbol="drawBackground"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="22" lineNum="147" pc="268438990" symbol="drawBackground"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="22" lineNum="148" pc="268439002" symbol="drawBackground"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="22" lineNum="149" pc="268439014" symbol="drawBackground"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="22" lineNum="150" pc="268439042" symbol="drawBackground"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="22" lineNum="152" pc="268439086" symbol="drawBackground"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="22" lineNum="154" pc="268439103" symbol="drawBackground"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="22" lineNum="155" pc="268439125" symbol="drawBackground"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="22" lineNum="156" pc="268439147" symbol="drawBackground"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="22" lineNum="157" pc="268439169" symbol="drawBackground"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="22" lineNum="158" pc="268439185" symbol="drawBackground"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="22" lineNum="160" pc="268439199" symbol="drawBackground"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="22" lineNum="161" pc="268439222" symbol="drawBackground"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="23" lineNum="167" pc="268439250" symbol="drawMinutes"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="23" lineNum="169" pc="268439254" symbol="drawMinutes"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="23" lineNum="170" pc="268439291" symbol="drawMinutes"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="23" lineNum="172" pc="268439310" symbol="drawMinutes"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="23" lineNum="173" pc="268439365" symbol="drawMinutes"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="23" lineNum="174" pc="268439390" symbol="drawMinutes"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="23" lineNum="176" pc="268439412" symbol="drawMinutes"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="23" lineNum="177" pc="268439477" symbol="drawMinutes"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="24" lineNum="180" pc="268439500" symbol="drawHours"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="24" lineNum="181" pc="268439504" symbol="drawHours"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="24" lineNum="182" pc="268439548" symbol="drawHours"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="24" lineNum="183" pc="268439558" symbol="drawHours"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="24" lineNum="185" pc="268439569" symbol="drawHours"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="24" lineNum="187" pc="268439591" symbol="drawHours"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="24" lineNum="188" pc="268439603" symbol="drawHours"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="24" lineNum="189" pc="268439631" symbol="drawHours"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="24" lineNum="192" pc="268439652" symbol="drawHours"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="24" lineNum="194" pc="268439675" symbol="drawHours"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="24" lineNum="196" pc="268439701" symbol="drawHours"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="24" lineNum="204" pc="268439714" symbol="drawHours"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="24" lineNum="205" pc="268439732" symbol="drawHours"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="24" lineNum="206" pc="268439765" symbol="drawHours"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="24" lineNum="209" pc="268439817" symbol="drawHours"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="24" lineNum="210" pc="268439833" symbol="drawHours"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="24" lineNum="213" pc="268439888" symbol="drawHours"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="24" lineNum="216" pc="268439910" symbol="drawHours"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="24" lineNum="217" pc="268439929" symbol="drawHours"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="24" lineNum="220" pc="268439945" symbol="drawHours"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="24" lineNum="222" pc="268440010" symbol="drawHours"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="24" lineNum="223" pc="268440029" symbol="drawHours"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="24" lineNum="224" pc="268440078" symbol="drawHours"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="24" lineNum="229" pc="268440122" symbol="drawHours"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="24" lineNum="230" pc="268440162" symbol="drawHours"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="24" lineNum="233" pc="268440206" symbol="drawHours"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="24" lineNum="235" pc="268440225" symbol="drawHours"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="24" lineNum="236" pc="268440244" symbol="drawHours"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="24" lineNum="237" pc="268440290" symbol="drawHours"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="24" lineNum="240" pc="268440330" symbol="drawHours"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="24" lineNum="241" pc="268440352" symbol="drawHours"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="24" lineNum="242" pc="268440384" symbol="drawHours"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="24" lineNum="246" pc="268440424" symbol="drawHours"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="24" lineNum="251" pc="268440507" symbol="drawHours"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="24" lineNum="253" pc="268440587" symbol="drawHours"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="24" lineNum="254" pc="268440633" symbol="drawHours"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="24" lineNum="255" pc="268440658" symbol="drawHours"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="25" lineNum="260" pc="268440706" symbol="drawHoursoffCalc"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="25" lineNum="262" pc="268440710" symbol="drawHoursoffCalc"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="25" lineNum="264" pc="268440732" symbol="drawHoursoffCalc"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="25" lineNum="265" pc="268440754" symbol="drawHoursoffCalc"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="25" lineNum="266" pc="268440776" symbol="drawHoursoffCalc"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="25" lineNum="268" pc="268440784" symbol="drawHoursoffCalc"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="25" lineNum="270" pc="268440843" symbol="drawHoursoffCalc"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="26" lineNum="279" pc="268440860" symbol="drawSeconds"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="26" lineNum="281" pc="268440864" symbol="drawSeconds"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="26" lineNum="285" pc="268440878" symbol="drawSeconds"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="26" lineNum="286" pc="268440907" symbol="drawSeconds"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="26" lineNum="288" pc="268440918" symbol="drawSeconds"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="26" lineNum="291" pc="268440956" symbol="drawSeconds"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="26" lineNum="294" pc="268440984" symbol="drawSeconds"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="26" lineNum="295" pc="268441005" symbol="drawSeconds"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="26" lineNum="296" pc="268441085" symbol="drawSeconds"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="26" lineNum="297" pc="268441104" symbol="drawSeconds"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="26" lineNum="300" pc="268441157" symbol="drawSeconds"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="26" lineNum="302" pc="268441179" symbol="drawSeconds"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="26" lineNum="303" pc="268441232" symbol="drawSeconds"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="26" lineNum="308" pc="268441254" symbol="drawSeconds"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="26" lineNum="310" pc="268441273" symbol="drawSeconds"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="26" lineNum="311" pc="268441305" symbol="drawSeconds"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="26" lineNum="312" pc="268441322" symbol="drawSeconds"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="26" lineNum="313" pc="268441344" symbol="drawSeconds"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="27" lineNum="317" pc="268441367" symbol="drawFields"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="27" lineNum="321" pc="268441371" symbol="drawFields"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="27" lineNum="322" pc="268441388" symbol="drawFields"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="27" lineNum="323" pc="268441413" symbol="drawFields"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="27" lineNum="324" pc="268441420" symbol="drawFields"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="27" lineNum="325" pc="268441427" symbol="drawFields"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="27" lineNum="326" pc="268441458" symbol="drawFields"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="27" lineNum="327" pc="268441483" symbol="drawFields"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="27" lineNum="330" pc="268441513" symbol="drawFields"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="27" lineNum="331" pc="268441544" symbol="drawFields"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="27" lineNum="335" pc="268441555" symbol="drawFields"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="27" lineNum="336" pc="268441610" symbol="drawFields"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="27" lineNum="339" pc="268441623" symbol="drawFields"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="28" lineNum="347" pc="268441672" symbol="drawField"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="28" lineNum="352" pc="268441676" symbol="drawField"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="28" lineNum="353" pc="268441683" symbol="drawField"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="28" lineNum="355" pc="268441688" symbol="drawField"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="28" lineNum="356" pc="268441709" symbol="drawField"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="28" lineNum="359" pc="268441725" symbol="drawField"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="28" lineNum="364" pc="268441738" symbol="drawField"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="28" lineNum="367" pc="268441764" symbol="drawField"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="28" lineNum="369" pc="268441814" symbol="drawField"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="28" lineNum="371" pc="268441825" symbol="drawField"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="28" lineNum="373" pc="268441912" symbol="drawField"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="28" lineNum="375" pc="268441923" symbol="drawField"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="29" lineNum="379" pc="268442011" symbol="drawOffCalcField"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="29" lineNum="380" pc="268442015" symbol="drawOffCalcField"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="29" lineNum="383" pc="268442041" symbol="drawOffCalcField"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="30" lineNum="390" pc="268442092" symbol="RenderShade"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="30" lineNum="393" pc="268442096" symbol="RenderShade"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="30" lineNum="394" pc="268442106" symbol="RenderShade"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="30" lineNum="395" pc="268442116" symbol="RenderShade"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="30" lineNum="396" pc="268442126" symbol="RenderShade"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="30" lineNum="397" pc="268442136" symbol="RenderShade"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="30" lineNum="398" pc="268442152" symbol="RenderShade"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="30" lineNum="400" pc="268442169" symbol="RenderShade"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="30" lineNum="403" pc="268442181" symbol="RenderShade"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="30" lineNum="404" pc="268442201" symbol="RenderShade"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="30" lineNum="407" pc="268442224" symbol="RenderShade"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="30" lineNum="409" pc="268442236" symbol="RenderShade"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="30" lineNum="410" pc="268442256" symbol="RenderShade"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="31" lineNum="418" pc="268442280" symbol="DrawPolygon"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="31" lineNum="419" pc="268442284" symbol="DrawPolygon"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="31" lineNum="421" pc="268442308" symbol="DrawPolygon"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="32" lineNum="428" pc="268442390" symbol="dayOfWeek"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="32" lineNum="430" pc="268442394" symbol="dayOfWeek"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="32" lineNum="431" pc="268442506" symbol="dayOfWeek"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="32" lineNum="432" pc="268442515" symbol="dayOfWeek"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="32" lineNum="433" pc="268442528" symbol="dayOfWeek"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="32" lineNum="434" pc="268442541" symbol="dayOfWeek"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="32" lineNum="435" pc="268442554" symbol="dayOfWeek"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="32" lineNum="436" pc="268442567" symbol="dayOfWeek"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="32" lineNum="437" pc="268442580" symbol="dayOfWeek"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="32" lineNum="438" pc="268442593" symbol="dayOfWeek"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="32" lineNum="440" pc="268442606" symbol="dayOfWeek"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="33" lineNum="450" pc="268442632" symbol="getColorSettings"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="33" lineNum="451" pc="268442636" symbol="getColorSettings"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="33" lineNum="453" pc="268442670" symbol="getColorSettings"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="33" lineNum="457" pc="268442710" symbol="getColorSettings"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="33" lineNum="460" pc="268442748" symbol="getColorSettings"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="33" lineNum="462" pc="268442782" symbol="getColorSettings"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="33" lineNum="466" pc="268442822" symbol="getColorSettings"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="33" lineNum="468" pc="268442860" symbol="getColorSettings"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="33" lineNum="470" pc="268442894" symbol="getColorSettings"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="33" lineNum="475" pc="268442934" symbol="getColorSettings"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="34" lineNum="484" pc="268442973" symbol="getBoundingBox"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="34" lineNum="485" pc="268442977" symbol="getBoundingBox"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="34" lineNum="486" pc="268442999" symbol="getBoundingBox"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="34" lineNum="487" pc="268443021" symbol="getBoundingBox"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="34" lineNum="488" pc="268443043" symbol="getBoundingBox"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="34" lineNum="490" pc="268443065" symbol="getBoundingBox"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="34" lineNum="492" pc="268443089" symbol="getBoundingBox"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="34" lineNum="494" pc="268443116" symbol="getBoundingBox"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="34" lineNum="496" pc="268443136" symbol="getBoundingBox"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="34" lineNum="498" pc="268443155" symbol="getBoundingBox"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="34" lineNum="500" pc="268443175" symbol="getBoundingBox"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="34" lineNum="502" pc="268443194" symbol="getBoundingBox"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="34" lineNum="504" pc="268443214" symbol="getBoundingBox"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="34" lineNum="506" pc="268443233" symbol="getBoundingBox"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="34" lineNum="508" pc="268443253" symbol="getBoundingBox"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="34" lineNum="520" pc="268443298" symbol="getBoundingBox"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="34" lineNum="521" pc="268443317" symbol="getBoundingBox"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="34" lineNum="522" pc="268443336" symbol="getBoundingBox"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="35" lineNum="527" pc="268443410" symbol="generateSecondsThicks"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="35" lineNum="529" pc="268443414" symbol="generateSecondsThicks"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="35" lineNum="530" pc="268443421" symbol="generateSecondsThicks"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="35" lineNum="531" pc="268443431" symbol="generateSecondsThicks"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="35" lineNum="532" pc="268443435" symbol="generateSecondsThicks"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="35" lineNum="534" pc="268443458" symbol="generateSecondsThicks"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="35" lineNum="536" pc="268443555" symbol="generateSecondsThicks"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="35" lineNum="538" pc="268443652" symbol="generateSecondsThicks"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="35" lineNum="539" pc="268443671" symbol="generateSecondsThicks"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="35" lineNum="540" pc="268443690" symbol="generateSecondsThicks"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="35" lineNum="545" pc="268443698" symbol="generateSecondsThicks"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="35" lineNum="549" pc="268443942" symbol="generateSecondsThicks"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="35" lineNum="553" pc="268444186" symbol="generateSecondsThicks"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="36" lineNum="556" pc="268444214" symbol="miniBgRedraw"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="36" lineNum="558" pc="268444218" symbol="miniBgRedraw"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="36" lineNum="560" pc="268444231" symbol="miniBgRedraw"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="36" lineNum="561" pc="268444265" symbol="miniBgRedraw"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="36" lineNum="567" pc="268444354" symbol="miniBgRedraw"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="36" lineNum="570" pc="268444377" symbol="miniBgRedraw"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="36" lineNum="572" pc="268444502" symbol="miniBgRedraw"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="36" lineNum="575" pc="268444525" symbol="miniBgRedraw"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="36" lineNum="577" pc="268444650" symbol="miniBgRedraw"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="36" lineNum="583" pc="268444673" symbol="miniBgRedraw"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="36" lineNum="585" pc="268444786" symbol="miniBgRedraw"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="36" lineNum="589" pc="268444809" symbol="miniBgRedraw"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="37" lineNum="598" pc="268444923" symbol="onEnterSleep"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="37" lineNum="600" pc="268444927" symbol="onEnterSleep"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="37" lineNum="601" pc="268444950" symbol="onEnterSleep"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="37" lineNum="602" pc="268444959" symbol="onEnterSleep"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="37" lineNum="603" pc="268444977" symbol="onEnterSleep"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="37" lineNum="604" pc="268444995" symbol="onEnterSleep"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="37" lineNum="605" pc="268445011" symbol="onEnterSleep"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="37" lineNum="608" pc="268445033" symbol="onEnterSleep"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="37" lineNum="609" pc="268445043" symbol="onEnterSleep"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="37" lineNum="610" pc="268445053" symbol="onEnterSleep"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="38" lineNum="615" pc="268445078" symbol="onExitSleep"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="38" lineNum="616" pc="268445082" symbol="onExitSleep"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="38" lineNum="617" pc="268445092" symbol="onExitSleep"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="38" lineNum="618" pc="268445102" symbol="onExitSleep"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="39" lineNum="625" pc="268445119" symbol="onShow"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="39" lineNum="626" pc="268445123" symbol="onShow"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="39" lineNum="627" pc="268445133" symbol="onShow"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="39" lineNum="628" pc="268445143" symbol="onShow"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="40" lineNum="631" pc="268445160" symbol="drawIfActive"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="40" lineNum="632" pc="268445164" symbol="drawIfActive"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="40" lineNum="633" pc="268445174" symbol="drawIfActive"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="40" lineNum="635" pc="268445182" symbol="drawIfActive"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="40" lineNum="637" pc="268445195" symbol="drawIfActive"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="40" lineNum="638" pc="268445223" symbol="drawIfActive"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="41" lineNum="644" pc="268445292" symbol="getFields"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="41" lineNum="647" pc="268445296" symbol="getFields"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="41" lineNum="649" pc="268445303" symbol="getFields"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="41" lineNum="651" pc="268445321" symbol="getFields"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="41" lineNum="652" pc="268445331" symbol="getFields"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="41" lineNum="653" pc="268445368" symbol="getFields"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="41" lineNum="655" pc="268445414" symbol="getFields"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="42" lineNum="660" pc="268445472" symbol="onPartialUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="42" lineNum="663" pc="268445476" symbol="onPartialUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="42" lineNum="664" pc="268445490" symbol="onPartialUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="42" lineNum="665" pc="268445502" symbol="onPartialUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="42" lineNum="666" pc="268445525" symbol="onPartialUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="42" lineNum="667" pc="268445537" symbol="onPartialUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="42" lineNum="668" pc="268445566" symbol="onPartialUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="42" lineNum="670" pc="268445577" symbol="onPartialUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="42" lineNum="673" pc="268445615" symbol="onPartialUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="42" lineNum="676" pc="268445643" symbol="onPartialUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="42" lineNum="677" pc="268445664" symbol="onPartialUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="42" lineNum="681" pc="268445744" symbol="onPartialUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="44" lineNum="693" pc="268445772" symbol="onPowerBudgetExceeded"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="44" lineNum="694" pc="268445776" symbol="onPowerBudgetExceeded"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="44" lineNum="695" pc="268445806" symbol="onPowerBudgetExceeded"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderView.mc" id="44" lineNum="696" pc="268445836" symbol="onPowerBudgetExceeded"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\textRenderer.mc" id="46" lineNum="9" pc="268445850" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\textRenderer.mc" id="46" lineNum="10" pc="268445854" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\textRenderer.mc" id="47" lineNum="14" pc="268445865" symbol="calcText"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\textRenderer.mc" id="47" lineNum="17" pc="268445869" symbol="calcText"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\textRenderer.mc" id="47" lineNum="18" pc="268445882" symbol="calcText"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\textRenderer.mc" id="48" lineNum="21" pc="268445886" symbol="drawText"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\textRenderer.mc" id="48" lineNum="23" pc="268445890" symbol="drawText"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\textRenderer.mc" id="48" lineNum="24" pc="268445930" symbol="drawText"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\textRenderer.mc" id="49" lineNum="28" pc="268445959" symbol="calcDigit"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\textRenderer.mc" id="50" lineNum="33" pc="268445964" symbol="polyMaxX"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\textRenderer.mc" id="50" lineNum="35" pc="268445968" symbol="polyMaxX"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\textRenderer.mc" id="50" lineNum="36" pc="268445975" symbol="polyMaxX"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\textRenderer.mc" id="50" lineNum="38" pc="268445982" symbol="polyMaxX"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\textRenderer.mc" id="50" lineNum="41" pc="268445995" symbol="polyMaxX"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\textRenderer.mc" id="50" lineNum="43" pc="268446019" symbol="polyMaxX"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\textRenderer.mc" id="50" lineNum="45" pc="268446036" symbol="polyMaxX"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\textRenderer.mc" id="50" lineNum="51" pc="268446068" symbol="polyMaxX"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\textRenderer.mc" id="51" lineNum="53" pc="268446081" symbol="PolyTranslate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\textRenderer.mc" id="51" lineNum="55" pc="268446085" symbol="PolyTranslate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\textRenderer.mc" id="51" lineNum="57" pc="268446092" symbol="PolyTranslate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\textRenderer.mc" id="51" lineNum="58" pc="268446105" symbol="PolyTranslate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\textRenderer.mc" id="51" lineNum="60" pc="268446110" symbol="PolyTranslate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\textRenderer.mc" id="51" lineNum="62" pc="268446134" symbol="PolyTranslate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\textRenderer.mc" id="51" lineNum="65" pc="268446205" symbol="PolyTranslate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\textRenderer.mc" id="52" lineNum="69" pc="268446209" symbol="getBoundingBox"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\textRenderer.mc" id="52" lineNum="70" pc="268446213" symbol="getBoundingBox"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\textRenderer.mc" id="52" lineNum="71" pc="268446229" symbol="getBoundingBox"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\textRenderer.mc" id="52" lineNum="72" pc="268446245" symbol="getBoundingBox"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\textRenderer.mc" id="52" lineNum="73" pc="268446261" symbol="getBoundingBox"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\textRenderer.mc" id="52" lineNum="75" pc="268446277" symbol="getBoundingBox"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\textRenderer.mc" id="52" lineNum="77" pc="268446301" symbol="getBoundingBox"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\textRenderer.mc" id="52" lineNum="79" pc="268446328" symbol="getBoundingBox"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\textRenderer.mc" id="52" lineNum="81" pc="268446342" symbol="getBoundingBox"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\textRenderer.mc" id="52" lineNum="83" pc="268446355" symbol="getBoundingBox"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\textRenderer.mc" id="52" lineNum="85" pc="268446369" symbol="getBoundingBox"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\textRenderer.mc" id="52" lineNum="87" pc="268446382" symbol="getBoundingBox"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\textRenderer.mc" id="52" lineNum="89" pc="268446396" symbol="getBoundingBox"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\textRenderer.mc" id="52" lineNum="91" pc="268446409" symbol="getBoundingBox"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\textRenderer.mc" id="52" lineNum="93" pc="268446423" symbol="getBoundingBox"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\textRenderer.mc" id="52" lineNum="105" pc="268446462" symbol="getBoundingBox"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\textRenderer.mc" id="52" lineNum="106" pc="268446481" symbol="getBoundingBox"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\textRenderer.mc" id="52" lineNum="107" pc="268446500" symbol="getBoundingBox"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\symbolRenderer.mc" id="54" lineNum="7" pc="268446574" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\symbolRenderer.mc" id="54" lineNum="8" pc="268446578" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\symbolRenderer.mc" id="55" lineNum="13" pc="268446589" symbol="renderSymbol"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\symbolRenderer.mc" id="55" lineNum="14" pc="268446593" symbol="renderSymbol"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\symbolRenderer.mc" id="55" lineNum="15" pc="268446600" symbol="renderSymbol"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\symbolRenderer.mc" id="55" lineNum="16" pc="268446603" symbol="renderSymbol"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\symbolRenderer.mc" id="55" lineNum="17" pc="268446606" symbol="renderSymbol"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\symbolRenderer.mc" id="55" lineNum="18" pc="268446609" symbol="renderSymbol"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\symbolRenderer.mc" id="55" lineNum="19" pc="268446617" symbol="renderSymbol"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\symbolRenderer.mc" id="55" lineNum="20" pc="268446651" symbol="renderSymbol"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\symbolRenderer.mc" id="55" lineNum="22" pc="268446674" symbol="renderSymbol"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\symbolRenderer.mc" id="55" lineNum="98" pc="268446857" symbol="renderSymbol"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\symbolRenderer.mc" id="55" lineNum="99" pc="268447049" symbol="renderSymbol"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\symbolRenderer.mc" id="55" lineNum="26" pc="268447055" symbol="renderSymbol"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\symbolRenderer.mc" id="55" lineNum="27" pc="268447703" symbol="renderSymbol"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\symbolRenderer.mc" id="55" lineNum="29" pc="268448351" symbol="renderSymbol"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\symbolRenderer.mc" id="55" lineNum="30" pc="268448379" symbol="renderSymbol"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\symbolRenderer.mc" id="55" lineNum="31" pc="268448403" symbol="renderSymbol"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\symbolRenderer.mc" id="55" lineNum="33" pc="268448446" symbol="renderSymbol"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\symbolRenderer.mc" id="55" lineNum="36" pc="268448482" symbol="renderSymbol"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\symbolRenderer.mc" id="55" lineNum="38" pc="268448485" symbol="renderSymbol"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\symbolRenderer.mc" id="55" lineNum="42" pc="268449813" symbol="renderSymbol"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\symbolRenderer.mc" id="55" lineNum="43" pc="268450461" symbol="renderSymbol"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\symbolRenderer.mc" id="55" lineNum="44" pc="268450486" symbol="renderSymbol"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\symbolRenderer.mc" id="55" lineNum="45" pc="268450511" symbol="renderSymbol"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\symbolRenderer.mc" id="55" lineNum="46" pc="268450525" symbol="renderSymbol"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\symbolRenderer.mc" id="55" lineNum="47" pc="268450545" symbol="renderSymbol"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\symbolRenderer.mc" id="55" lineNum="49" pc="268450548" symbol="renderSymbol"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\symbolRenderer.mc" id="55" lineNum="50" pc="268451436" symbol="renderSymbol"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\symbolRenderer.mc" id="55" lineNum="51" pc="268451455" symbol="renderSymbol"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\symbolRenderer.mc" id="55" lineNum="52" pc="268451783" symbol="renderSymbol"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\symbolRenderer.mc" id="55" lineNum="53" pc="268451802" symbol="renderSymbol"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\symbolRenderer.mc" id="55" lineNum="54" pc="268451816" symbol="renderSymbol"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\symbolRenderer.mc" id="55" lineNum="56" pc="268451830" symbol="renderSymbol"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\symbolRenderer.mc" id="55" lineNum="58" pc="268451833" symbol="renderSymbol"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\symbolRenderer.mc" id="55" lineNum="59" pc="268451852" symbol="renderSymbol"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\symbolRenderer.mc" id="55" lineNum="61" pc="268451862" symbol="renderSymbol"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\symbolRenderer.mc" id="55" lineNum="63" pc="268451907" symbol="renderSymbol"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\symbolRenderer.mc" id="55" lineNum="64" pc="268452275" symbol="renderSymbol"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\symbolRenderer.mc" id="55" lineNum="65" pc="268452300" symbol="renderSymbol"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\symbolRenderer.mc" id="55" lineNum="67" pc="268452502" symbol="renderSymbol"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\symbolRenderer.mc" id="55" lineNum="68" pc="268452521" symbol="renderSymbol"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\symbolRenderer.mc" id="55" lineNum="69" pc="268452535" symbol="renderSymbol"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\symbolRenderer.mc" id="55" lineNum="70" pc="268452555" symbol="renderSymbol"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\symbolRenderer.mc" id="55" lineNum="72" pc="268452566" symbol="renderSymbol"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\symbolRenderer.mc" id="55" lineNum="73" pc="268452654" symbol="renderSymbol"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\symbolRenderer.mc" id="55" lineNum="74" pc="268452673" symbol="renderSymbol"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\symbolRenderer.mc" id="55" lineNum="76" pc="268452690" symbol="renderSymbol"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\symbolRenderer.mc" id="55" lineNum="78" pc="268452693" symbol="renderSymbol"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\symbolRenderer.mc" id="55" lineNum="79" pc="268453141" symbol="renderSymbol"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\symbolRenderer.mc" id="55" lineNum="81" pc="268453144" symbol="renderSymbol"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\symbolRenderer.mc" id="55" lineNum="82" pc="268453952" symbol="renderSymbol"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\symbolRenderer.mc" id="55" lineNum="84" pc="268453955" symbol="renderSymbol"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\symbolRenderer.mc" id="55" lineNum="85" pc="268454163" symbol="renderSymbol"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\symbolRenderer.mc" id="55" lineNum="87" pc="268454166" symbol="renderSymbol"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\symbolRenderer.mc" id="55" lineNum="88" pc="268454534" symbol="renderSymbol"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\symbolRenderer.mc" id="55" lineNum="89" pc="268454553" symbol="renderSymbol"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\symbolRenderer.mc" id="55" lineNum="90" pc="268454567" symbol="renderSymbol"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\symbolRenderer.mc" id="55" lineNum="92" pc="268454570" symbol="renderSymbol"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\symbolRenderer.mc" id="55" lineNum="94" pc="268455738" symbol="renderSymbol"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\symbolRenderer.mc" id="55" lineNum="95" pc="268455757" symbol="renderSymbol"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\symbolRenderer.mc" id="55" lineNum="96" pc="268455771" symbol="renderSymbol"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\symbolRenderer.mc" id="55" lineNum="101" pc="268455777" symbol="renderSymbol"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\symbolRenderer.mc" id="55" lineNum="102" pc="268455784" symbol="renderSymbol"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\symbolRenderer.mc" id="55" lineNum="103" pc="268455803" symbol="renderSymbol"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\symbolRenderer.mc" id="55" lineNum="104" pc="268455837" symbol="renderSymbol"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\symbolRenderer.mc" id="56" lineNum="109" pc="268455861" symbol="DrawPoly"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\symbolRenderer.mc" id="56" lineNum="110" pc="268455865" symbol="DrawPoly"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\symbolRenderer.mc" id="56" lineNum="112" pc="268455889" symbol="DrawPoly"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\symbolRenderer.mc" id="57" lineNum="116" pc="268455977" symbol="PolyTranslate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\symbolRenderer.mc" id="57" lineNum="118" pc="268455981" symbol="PolyTranslate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\symbolRenderer.mc" id="57" lineNum="120" pc="268455988" symbol="PolyTranslate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\symbolRenderer.mc" id="57" lineNum="121" pc="268456001" symbol="PolyTranslate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\symbolRenderer.mc" id="57" lineNum="123" pc="268456006" symbol="PolyTranslate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\symbolRenderer.mc" id="57" lineNum="125" pc="268456030" symbol="PolyTranslate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\symbolRenderer.mc" id="57" lineNum="128" pc="268456101" symbol="PolyTranslate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderBackground.mc" id="59" lineNum="7" pc="268456105" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderBackground.mc" id="59" lineNum="8" pc="268456109" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderBackground.mc" id="59" lineNum="12" pc="268456130" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderBackground.mc" id="60" lineNum="15" pc="268456151" symbol="draw"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderBackground.mc" id="60" lineNum="17" pc="268456155" symbol="draw"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Digital\\source\\SliderBackground.mc" id="60" lineNum="18" pc="268456208" symbol="draw"/>
+<entry filename="Rez" id="66" lineNum="20" pc="268456221" symbol="WatchFace"/>
+<entry filename="Rez" id="66" lineNum="23" pc="268456233" symbol="WatchFace"/>
+<entry filename="Rez" id="66" lineNum="24" pc="268456257" symbol="WatchFace"/>
+<entry filename="Rez" id="66" lineNum="26" pc="268456438" symbol="WatchFace"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="8388639" module="true" symbol="Graphics"/>
+<entry field="true" id="25" symbol="polygons"/>
+<entry field="true" id="87" symbol="screenCenterPoint"/>
+<entry field="true" id="84" symbol="Altitude"/>
+<entry field="true" id="91" symbol="tempUnits"/>
+<entry id="116" method="true" symbol="drawMinutes"/>
+<entry field="true" id="62" symbol="Temperature"/>
+<entry id="139" method="true" symbol="drawHrGraph"/>
+<entry field="true" id="36" symbol="MPink"/>
+<entry id="125" method="true" symbol="dayOfWeek"/>
+<entry field="true" id="46" symbol="MLightBlue"/>
+<entry field="true" id="60" symbol="Steps"/>
+<entry field="true" id="114" symbol="fheights"/>
+<entry field="true" id="78" symbol="Field_4_Title"/>
+<entry field="true" id="72" symbol="ColorGreen"/>
+<entry id="8389683" method="true" symbol="onSettingsChanged"/>
+<entry field="true" id="65" symbol="ColorYellow"/>
+<entry field="true" id="107" symbol="myDc"/>
+<entry id="15" object="true" symbol="textRenderer"/>
+<entry id="8390098" method="true" symbol="onPowerBudgetExceeded"/>
+<entry field="true" id="83" symbol="MDeepOrange"/>
+<entry field="true" id="110" symbol="font_hours"/>
+<entry field="true" id="38" symbol="Field_5_Title"/>
+<entry field="true" id="57" symbol="MAmber"/>
+<entry field="true" id="40" symbol="ColorRed"/>
+<entry id="8389702" method="true" symbol="getHeartRateHistory"/>
+<entry field="true" id="33" symbol="DoNotDisturbIcon"/>
+<entry field="true" id="50" symbol="Field_6_Title"/>
+<entry field="true" id="94" symbol="DtColor"/>
+<entry id="121" method="true" symbol="drawField"/>
+<entry field="true" id="105" symbol="iKeeper"/>
+<entry id="119" method="true" symbol="drawSeconds"/>
+<entry field="true" id="106" symbol="hrBox"/>
+<entry id="27" method="true" symbol="calcText"/>
+<entry id="126" method="true" symbol="getColorSettings"/>
+<entry id="8389800" method="true" symbol="getTemperatureHistory"/>
+<entry id="8388924" module="true" symbol="Gregorian"/>
+<entry field="true" id="99" symbol="offlineFieldValues"/>
+<entry field="true" id="37" symbol="MPurple"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry field="true" id="63" symbol="HeartRate"/>
+<entry id="14" object="true" symbol="SliderViewDelegate"/>
+<entry field="true" id="61" symbol="ColorBlue"/>
+<entry id="29" method="true" symbol="polyMaxX"/>
+<entry field="true" id="67" symbol="AppName"/>
+<entry id="8388633" module="true" symbol="ActivityMonitor"/>
+<entry field="true" id="35" symbol="date"/>
+<entry field="true" id="8389807" symbol="data"/>
+<entry field="true" id="95" symbol="FgColor"/>
+<entry field="true" id="24" symbol="bgColor"/>
+<entry id="8388772" module="true" object="true" symbol="Fonts"/>
+<entry field="true" id="85" symbol="isAwake"/>
+<entry id="128" method="true" symbol="miniBgRedraw"/>
+<entry id="8388648" module="true" symbol="WatchUi"/>
+<entry field="true" id="52" symbol="ColorOrange"/>
+<entry id="8390097" method="true" symbol="onPartialUpdate"/>
+<entry field="true" id="98" symbol="bgRedrawRequested"/>
+<entry id="140" method="true" symbol="getFieldValue"/>
+<entry field="true" id="88" symbol="fullScreenRefresh"/>
+<entry id="22" method="true" symbol="PolyTranslate"/>
+<entry field="true" id="132" symbol="hrData"/>
+<entry field="true" id="112" symbol="font_date"/>
+<entry field="true" id="113" symbol="font_data"/>
+<entry field="true" id="42" symbol="MGrey"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="8389375" method="true" object="true" symbol="WatchFace"/>
+<entry field="true" id="8389065" symbol="locY"/>
+<entry field="true" id="8389064" symbol="locX"/>
+<entry field="true" id="53" symbol="MTeal"/>
+<entry field="true" id="55" symbol="MGreen"/>
+<entry field="true" id="111" symbol="font_minutes"/>
+<entry id="8388771" module="true" object="true" symbol="Drawables"/>
+<entry id="8389348" symbol="font"/>
+<entry field="true" id="8389067" symbol="height"/>
+<entry field="true" id="49" symbol="Messages"/>
+<entry field="true" id="68" symbol="MBrown"/>
+<entry field="true" id="100" symbol="offCalcBuffer"/>
+<entry id="32" module="true" symbol="Menus"/>
+<entry field="true" id="75" symbol="ColorDarkGray"/>
+<entry field="true" id="8389066" symbol="width"/>
+<entry field="true" id="51" symbol="StepCalsTitle"/>
+<entry field="true" id="18" symbol="_themeColor"/>
+<entry id="118" method="true" symbol="drawHoursoffCalc"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry id="20" method="true" symbol="renderSymbol"/>
+<entry field="true" id="104" symbol="tRenderer"/>
+<entry field="true" id="89" symbol="is24hour"/>
+<entry id="8389376" method="true" symbol="onEnterSleep"/>
+<entry field="true" id="69" symbol="MOrange"/>
+<entry field="true" id="8389063" symbol="identifier"/>
+<entry field="true" id="134" symbol="minHr"/>
+<entry id="8389349" symbol="justification"/>
+<entry field="true" id="44" symbol="MBlue"/>
+<entry field="true" id="59" symbol="MYellow"/>
+<entry field="true" id="48" symbol="MLime"/>
+<entry id="123" method="true" symbol="RenderShade"/>
+<entry field="true" id="131" symbol="noOfsamples"/>
+<entry id="21" method="true" symbol="DrawPoly"/>
+<entry field="true" id="45" symbol="ColorWhite"/>
+<entry id="8389802" method="true" symbol="getElevationHistory"/>
+<entry field="true" id="74" symbol="MLightGreen"/>
+<entry field="true" id="77" symbol="ColorBlack"/>
+<entry id="8390095" object="true" symbol="WatchFaceDelegate"/>
+<entry field="true" id="26" symbol="len"/>
+<entry field="true" id="102" symbol="offCalcField6"/>
+<entry field="true" id="101" symbol="offCalcField1"/>
+<entry id="115" method="true" symbol="drawBackground"/>
+<entry field="true" id="82" symbol="Field_1_Title"/>
+<entry id="10" object="true" symbol="SliderApp"/>
+<entry id="8389706" method="true" symbol="getMax"/>
+<entry field="true" id="17" symbol="_dc"/>
+<entry id="8389377" method="true" symbol="onExitSleep"/>
+<entry id="8388644" module="true" symbol="System"/>
+<entry id="13" object="true" symbol="SliderView"/>
+<entry field="true" id="19" symbol="_bgColor"/>
+<entry id="8388645" module="true" symbol="Time"/>
+<entry id="8388769" module="true" object="true" symbol="Rez"/>
+<entry id="122" method="true" symbol="drawOffCalcField"/>
+<entry id="129" method="true" symbol="drawIfActive"/>
+<entry id="30" method="true" symbol="getBoundingBox"/>
+<entry field="true" id="66" symbol="MCyan"/>
+<entry id="8388640" module="true" symbol="Lang"/>
+<entry field="true" id="97" symbol="chosenFields"/>
+<entry field="true" id="133" symbol="maxHr"/>
+<entry id="8390088" module="true" object="true" symbol="JsonData"/>
+<entry id="8389068" method="true" symbol="draw"/>
+<entry id="9" object="true" symbol="hrRenderer"/>
+<entry id="120" method="true" symbol="drawFields"/>
+<entry field="true" id="34" symbol="LauncherIcon"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry field="true" id="8388794" method="true" symbol="values"/>
+<entry field="true" id="8389342" symbol="hours"/>
+<entry field="true" id="80" symbol="MIndigo"/>
+<entry field="true" id="92" symbol="BgColor"/>
+<entry field="true" id="64" symbol="BackgroundColorTitle"/>
+<entry field="true" id="103" symbol="sRenderer"/>
+<entry field="true" id="96" symbol="ThemeColor"/>
+<entry id="127" method="true" symbol="generateSecondsThicks"/>
+<entry field="true" id="47" symbol="Floors"/>
+<entry id="8388770" module="true" object="true" symbol="Strings"/>
+<entry field="true" id="56" symbol="DotColorTitle"/>
+<entry field="true" id="70" symbol="MBlueGrey"/>
+<entry field="true" id="43" symbol="Battery"/>
+<entry id="8390146" module="true" object="true" symbol="Background"/>
+<entry field="true" id="39" symbol="ThemeColorTitle"/>
+<entry id="130" method="true" symbol="getFields"/>
+<entry field="true" id="8389872" symbol="floorsClimbed"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="86" symbol="curClip"/>
+<entry field="true" id="93" symbol="BrColor"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry field="true" id="109" symbol="curMinute"/>
+<entry field="true" id="71" symbol="MemoryUsed"/>
+<entry field="true" id="12" symbol="partialUpdatesAllowed"/>
+<entry field="true" id="23" symbol="fgColor"/>
+<entry id="8388641" module="true" symbol="Math"/>
+<entry id="11" object="true" symbol="infoKeeper"/>
+<entry id="8389190" method="true" symbol="drawText"/>
+<entry id="28" method="true" symbol="calcDigit"/>
+<entry field="true" id="73" symbol="ColorLightGray"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry id="117" method="true" symbol="drawHours"/>
+<entry field="true" id="41" symbol="Field_2_Title"/>
+<entry id="8389347" symbol="color"/>
+<entry field="true" id="58" symbol="Field_3_Title"/>
+<entry id="8389781" module="true" symbol="SensorHistory"/>
+<entry id="16" object="true" symbol="symbolRenderer"/>
+<entry field="true" id="76" symbol="displaySeconds"/>
+<entry field="true" id="81" symbol="MDeepPurple"/>
+<entry field="true" id="54" symbol="ForegroundColorTitle"/>
+<entry id="31" module="true" symbol="Layouts"/>
+<entry field="true" id="79" symbol="Calories"/>
+<entry field="true" id="8389343" symbol="minutes"/>
+<entry field="true" id="136" symbol="&lt;globals/hrRenderer/&lt;&gt;hrHistTimestamp&gt;"/>
+<entry id="124" method="true" symbol="DrawPolygon"/>
+<entry field="true" id="90" symbol="fontSize"/>
+<entry id="137" method="true" symbol="getHrHistory"/>
+<entry field="true" id="135" symbol="noOfSamples"/>
+<entry id="8388635" module="true" symbol="Application"/>
+<entry id="138" method="true" symbol="calculateHrGraph"/>
+<entry field="true" id="108" symbol="curHour"/>
+</symbolTable>
+<localVars>
+<entry endPc="268435566" name="dc" stackId="1" startPc="268435456"/>
+<entry endPc="268436040" name="i" stackId="4" startPc="268435949"/>
+<entry endPc="268436040" name="hrIterator" stackId="2" startPc="268435661"/>
+<entry endPc="268436040" name="sample" stackId="3" startPc="268435661"/>
+<entry endPc="268436043" name="currenth" stackId="1" startPc="268435570"/>
+<entry endPc="268436341" name="i" stackId="6" startPc="268436048"/>
+<entry endPc="268436341" name="points" stackId="5" startPc="268436048"/>
+<entry endPc="268436341" name="graphScaleY" stackId="3" startPc="268436048"/>
+<entry endPc="268436341" name="graphScaleX" stackId="4" startPc="268436048"/>
+<entry endPc="268436341" name="graphMax" stackId="1" startPc="268436048"/>
+<entry endPc="268436341" name="graphWidth" stackId="2" startPc="268436048"/>
+<entry endPc="268436398" name="points" stackId="3" startPc="268436346"/>
+<entry endPc="268436399" name="x" stackId="1" startPc="268436342"/>
+<entry endPc="268436399" name="y" stackId="2" startPc="268436342"/>
+<entry endPc="268436488" name="j" stackId="4" startPc="268436454"/>
+<entry endPc="268436488" name="s" stackId="3" startPc="268436417"/>
+<entry endPc="268436503" name="maxX" stackId="2" startPc="268436403"/>
+<entry endPc="268436504" name="array" stackId="1" startPc="268436399"/>
+<entry endPc="268436625" name="j" stackId="6" startPc="268436557"/>
+<entry endPc="268436625" name="tempShifter" stackId="5" startPc="268436515"/>
+<entry endPc="268436625" name="s" stackId="4" startPc="268436515"/>
+<entry endPc="268436632" name="Ty" stackId="3" startPc="268436504"/>
+<entry endPc="268436632" name="Polygon" stackId="1" startPc="268436504"/>
+<entry endPc="268436632" name="Tx" stackId="2" startPc="268436504"/>
+<entry endPc="268436660" name="state" stackId="1" startPc="268436655"/>
+<entry endPc="268436665" name="state" stackId="1" startPc="268436660"/>
+<entry endPc="268437764" name="myStats" stackId="6" startPc="268436899"/>
+<entry endPc="268437764" name="temp" stackId="4" startPc="268436899"/>
+<entry endPc="268437764" name="alt" stackId="7" startPc="268436899"/>
+<entry endPc="268437764" name="tMark" stackId="5" startPc="268436899"/>
+<entry endPc="268437798" name="value" stackId="3" startPc="268436873"/>
+<entry endPc="268437798" name="info" stackId="2" startPc="268436873"/>
+<entry endPc="268437799" name="fieldType" stackId="1" startPc="268436869"/>
+<entry endPc="268438529" name="dc" stackId="1" startPc="268437894"/>
+<entry endPc="268438985" name="screenWidth" stackId="4" startPc="268438533"/>
+<entry endPc="268438985" name="width" stackId="2" startPc="268438533"/>
+<entry endPc="268438985" name="minuteHandAngle" stackId="6" startPc="268438533"/>
+<entry endPc="268438985" name="secondHand" stackId="8" startPc="268438533"/>
+<entry endPc="268438985" name="curClip" stackId="10" startPc="268438533"/>
+<entry endPc="268438985" name="clockTime" stackId="5" startPc="268438533"/>
+<entry endPc="268438985" name="targetDc" stackId="9" startPc="268438533"/>
+<entry endPc="268438985" name="hourHandAngle" stackId="7" startPc="268438533"/>
+<entry endPc="268438985" name="height" stackId="3" startPc="268438533"/>
+<entry endPc="268438986" name="dc" stackId="1" startPc="268438529"/>
+<entry endPc="268439246" name="secs" stackId="2" startPc="268439199"/>
+<entry endPc="268439250" name="dc" stackId="1" startPc="268438986"/>
+<entry endPc="268439499" name="x" stackId="6" startPc="268439254"/>
+<entry endPc="268439499" name="fsize" stackId="4" startPc="268439254"/>
+<entry endPc="268439499" name="minutes" stackId="3" startPc="268439254"/>
+<entry endPc="268439499" name="y" stackId="5" startPc="268439254"/>
+<entry endPc="268439500" name="dc" stackId="1" startPc="268439250"/>
+<entry endPc="268439500" name="Color" stackId="2" startPc="268439250"/>
+<entry endPc="268440705" name="yd" stackId="16" startPc="268439504"/>
+<entry endPc="268440705" name="yb" stackId="15" startPc="268439504"/>
+<entry endPc="268440705" name="ya" stackId="20" startPc="268439504"/>
+<entry endPc="268440705" name="gwidth" stackId="13" startPc="268439504"/>
+<entry endPc="268440705" name="xhr" stackId="18" startPc="268439504"/>
+<entry endPc="268440705" name="daten" stackId="5" startPc="268439504"/>
+<entry endPc="268440705" name="months" stackId="4" startPc="268439504"/>
+<entry endPc="268440705" name="currenth" stackId="9" startPc="268439504"/>
+<entry endPc="268440705" name="y" stackId="11" startPc="268439504"/>
+<entry endPc="268440705" name="x" stackId="12" startPc="268439504"/>
+<entry endPc="268440705" name="fsize" stackId="10" startPc="268439504"/>
+<entry endPc="268440705" name="dayOfWeek" stackId="6" startPc="268439504"/>
+<entry endPc="268440705" name="xd" stackId="14" startPc="268439504"/>
+<entry endPc="268440705" name="yhr_label" stackId="19" startPc="268439504"/>
+<entry endPc="268440705" name="x2" stackId="21" startPc="268439504"/>
+<entry endPc="268440705" name="hours" stackId="7" startPc="268439504"/>
+<entry endPc="268440705" name="today" stackId="3" startPc="268439504"/>
+<entry endPc="268440705" name="yhr" stackId="17" startPc="268439504"/>
+<entry endPc="268440705" name="onehour" stackId="8" startPc="268439504"/>
+<entry endPc="268440706" name="dc" stackId="1" startPc="268439500"/>
+<entry endPc="268440706" name="Color" stackId="2" startPc="268439500"/>
+<entry endPc="268440860" name="shade" stackId="6" startPc="268440706"/>
+<entry endPc="268440860" name="fsize" stackId="4" startPc="268440706"/>
+<entry endPc="268440860" name="x" stackId="2" startPc="268440706"/>
+<entry endPc="268440860" name="hours" stackId="5" startPc="268440706"/>
+<entry endPc="268440860" name="dc" stackId="1" startPc="268440706"/>
+<entry endPc="268440860" name="Color" stackId="7" startPc="268440706"/>
+<entry endPc="268440860" name="y" stackId="3" startPc="268440706"/>
+<entry endPc="268441366" name="secondsAngle" stackId="4" startPc="268440864"/>
+<entry endPc="268441366" name="thick" stackId="5" startPc="268440864"/>
+<entry endPc="268441367" name="dc" stackId="1" startPc="268440860"/>
+<entry endPc="268441367" name="secs" stackId="3" startPc="268440860"/>
+<entry endPc="268441367" name="Color" stackId="2" startPc="268440860"/>
+<entry endPc="268441671" name="i" stackId="8" startPc="268441513"/>
+<entry endPc="268441671" name="fsize" stackId="6" startPc="268441371"/>
+<entry endPc="268441671" name="x" stackId="3" startPc="268441371"/>
+<entry endPc="268441671" name="asc" stackId="7" startPc="268441371"/>
+<entry endPc="268441671" name="z" stackId="5" startPc="268441371"/>
+<entry endPc="268441671" name="y" stackId="4" startPc="268441371"/>
+<entry endPc="268441672" name="dc" stackId="1" startPc="268441367"/>
+<entry endPc="268441672" name="FieldColor" stackId="2" startPc="268441367"/>
+<entry endPc="268442010" name="value" stackId="8" startPc="268441676"/>
+<entry endPc="268442011" name="x" stackId="2" startPc="268441672"/>
+<entry endPc="268442011" name="DrawContext" stackId="1" startPc="268441672"/>
+<entry endPc="268442011" name="fieldType" stackId="4" startPc="268441672"/>
+<entry endPc="268442011" name="fontSize" stackId="6" startPc="268441672"/>
+<entry endPc="268442011" name="FieldColor" stackId="5" startPc="268441672"/>
+<entry endPc="268442011" name="fieldno" stackId="7" startPc="268441672"/>
+<entry endPc="268442011" name="y" stackId="3" startPc="268441672"/>
+<entry endPc="268442092" name="x" stackId="2" startPc="268442011"/>
+<entry endPc="268442092" name="DrawContext" stackId="1" startPc="268442011"/>
+<entry endPc="268442092" name="fieldType" stackId="5" startPc="268442011"/>
+<entry endPc="268442092" name="value" stackId="7" startPc="268442011"/>
+<entry endPc="268442092" name="fontSize" stackId="4" startPc="268442011"/>
+<entry endPc="268442092" name="FieldColor" stackId="6" startPc="268442011"/>
+<entry endPc="268442092" name="y" stackId="3" startPc="268442011"/>
+<entry endPc="268442224" name="i" stackId="8" startPc="268442181"/>
+<entry endPc="268442279" name="j" stackId="9" startPc="268442236"/>
+<entry endPc="268442280" name="dc" stackId="1" startPc="268442092"/>
+<entry endPc="268442280" name="x2" stackId="4" startPc="268442092"/>
+<entry endPc="268442280" name="Fg" stackId="7" startPc="268442092"/>
+<entry endPc="268442280" name="x1" stackId="2" startPc="268442092"/>
+<entry endPc="268442280" name="y2" stackId="5" startPc="268442092"/>
+<entry endPc="268442280" name="y1" stackId="3" startPc="268442092"/>
+<entry endPc="268442280" name="Bg" stackId="6" startPc="268442092"/>
+<entry endPc="268442389" name="i" stackId="3" startPc="268442308"/>
+<entry endPc="268442390" name="DrawContext" stackId="1" startPc="268442280"/>
+<entry endPc="268442390" name="polygon" stackId="2" startPc="268442280"/>
+<entry endPc="268442631" name="days" stackId="2" startPc="268442394"/>
+<entry endPc="268442632" name="day" stackId="1" startPc="268442390"/>
+<entry endPc="268443285" name="j" stackId="7" startPc="268443116"/>
+<entry endPc="268443298" name="i" stackId="6" startPc="268443089"/>
+<entry endPc="268443409" name="height" stackId="9" startPc="268442977"/>
+<entry endPc="268443409" name="minX" stackId="2" startPc="268442977"/>
+<entry endPc="268443409" name="width" stackId="8" startPc="268442977"/>
+<entry endPc="268443409" name="maxY" stackId="5" startPc="268442977"/>
+<entry endPc="268443409" name="maxX" stackId="4" startPc="268442977"/>
+<entry endPc="268443409" name="minY" stackId="3" startPc="268442977"/>
+<entry endPc="268443410" name="array" stackId="1" startPc="268442973"/>
+<entry endPc="268444213" name="cP" stackId="6" startPc="268443414"/>
+<entry endPc="268444213" name="result3" stackId="13" startPc="268443414"/>
+<entry endPc="268444213" name="yMax" stackId="5" startPc="268443414"/>
+<entry endPc="268444213" name="result1" stackId="12" startPc="268443414"/>
+<entry endPc="268444213" name="ThickLen" stackId="4" startPc="268443414"/>
+<entry endPc="268444213" name="ret" stackId="11" startPc="268443414"/>
+<entry endPc="268444213" name="sin" stackId="10" startPc="268443414"/>
+<entry endPc="268444213" name="coords3" stackId="8" startPc="268443414"/>
+<entry endPc="268444213" name="cos" stackId="9" startPc="268443414"/>
+<entry endPc="268444213" name="coords1" stackId="7" startPc="268443414"/>
+<entry endPc="268444214" name="handLength" stackId="3" startPc="268443410"/>
+<entry endPc="268444214" name="angle" stackId="2" startPc="268443410"/>
+<entry endPc="268444214" name="centerPoint" stackId="1" startPc="268443410"/>
+<entry endPc="268445077" name="secs" stackId="1" startPc="268444927"/>
+<entry endPc="268445291" name="Color" stackId="3" startPc="268445164"/>
+<entry endPc="268445292" name="dc" stackId="1" startPc="268445160"/>
+<entry endPc="268445292" name="awake" stackId="2" startPc="268445160"/>
+<entry endPc="268445471" name="i" stackId="2" startPc="268445321"/>
+<entry endPc="268445471" name="j" stackId="1" startPc="268445296"/>
+<entry endPc="268445768" name="secondsAngle" stackId="3" startPc="268445490"/>
+<entry endPc="268445768" name="secs" stackId="2" startPc="268445490"/>
+<entry endPc="268445768" name="thick" stackId="4" startPc="268445490"/>
+<entry endPc="268445772" name="dc" stackId="1" startPc="268445472"/>
+<entry endPc="268445847" name="powerInfo" stackId="1" startPc="268445772"/>
+<entry endPc="268445865" name="dc" stackId="1" startPc="268445850"/>
+<entry endPc="268445886" name="size" stackId="1" startPc="268445865"/>
+<entry endPc="268445886" name="value" stackId="2" startPc="268445865"/>
+<entry endPc="268445959" name="x" stackId="1" startPc="268445886"/>
+<entry endPc="268445959" name="font" stackId="3" startPc="268445886"/>
+<entry endPc="268445959" name="text" stackId="4" startPc="268445886"/>
+<entry endPc="268445959" name="align" stackId="5" startPc="268445886"/>
+<entry endPc="268445959" name="y" stackId="2" startPc="268445886"/>
+<entry endPc="268445964" name="s" stackId="1" startPc="268445959"/>
+<entry endPc="268445964" name="digit" stackId="2" startPc="268445959"/>
+<entry endPc="268446065" name="j" stackId="4" startPc="268446019"/>
+<entry endPc="268446065" name="s" stackId="3" startPc="268445982"/>
+<entry endPc="268446080" name="maxX" stackId="2" startPc="268445968"/>
+<entry endPc="268446081" name="Polygon" stackId="1" startPc="268445964"/>
+<entry endPc="268446202" name="j" stackId="6" startPc="268446134"/>
+<entry endPc="268446202" name="tempShifter" stackId="5" startPc="268446092"/>
+<entry endPc="268446202" name="s" stackId="4" startPc="268446092"/>
+<entry endPc="268446209" name="Ty" stackId="3" startPc="268446081"/>
+<entry endPc="268446209" name="Polygon" stackId="1" startPc="268446081"/>
+<entry endPc="268446209" name="Tx" stackId="2" startPc="268446081"/>
+<entry endPc="268446449" name="j" stackId="7" startPc="268446328"/>
+<entry endPc="268446462" name="i" stackId="6" startPc="268446301"/>
+<entry endPc="268446573" name="height" stackId="9" startPc="268446213"/>
+<entry endPc="268446573" name="minX" stackId="2" startPc="268446213"/>
+<entry endPc="268446573" name="width" stackId="8" startPc="268446213"/>
+<entry endPc="268446573" name="maxY" stackId="5" startPc="268446213"/>
+<entry endPc="268446573" name="maxX" stackId="4" startPc="268446213"/>
+<entry endPc="268446573" name="minY" stackId="3" startPc="268446213"/>
+<entry endPc="268446574" name="array" stackId="1" startPc="268446209"/>
+<entry endPc="268446589" name="dc" stackId="1" startPc="268446574"/>
+<entry endPc="268448482" name="i" stackId="10" startPc="268448403"/>
+<entry endPc="268452687" name="batFull" stackId="16" startPc="268452566"/>
+<entry endPc="268455777" name="batLvlLine" stackId="15" startPc="268446676"/>
+<entry endPc="268455777" name="myStats" stackId="13" startPc="268446676"/>
+<entry endPc="268455777" name="mercury" stackId="12" startPc="268446676"/>
+<entry endPc="268455777" name="batLvl" stackId="14" startPc="268446676"/>
+<entry endPc="268455777" name="polygon3" stackId="11" startPc="268446676"/>
+<entry endPc="268455860" name="polygon2" stackId="8" startPc="268446593"/>
+<entry endPc="268455860" name="polygon1" stackId="7" startPc="268446593"/>
+<entry endPc="268455860" name="polygon" stackId="6" startPc="268446593"/>
+<entry endPc="268455860" name="s" stackId="5" startPc="268446593"/>
+<entry endPc="268455860" name="complicatedIcon" stackId="9" startPc="268446593"/>
+<entry endPc="268455861" name="x" stackId="1" startPc="268446589"/>
+<entry endPc="268455861" name="fieldType" stackId="3" startPc="268446589"/>
+<entry endPc="268455861" name="FieldColor" stackId="4" startPc="268446589"/>
+<entry endPc="268455861" name="y" stackId="2" startPc="268446589"/>
+<entry endPc="268455976" name="i" stackId="2" startPc="268455889"/>
+<entry endPc="268455977" name="polygon" stackId="1" startPc="268455861"/>
+<entry endPc="268456098" name="j" stackId="6" startPc="268456030"/>
+<entry endPc="268456098" name="tempShifter" stackId="5" startPc="268455988"/>
+<entry endPc="268456098" name="s" stackId="4" startPc="268455988"/>
+<entry endPc="268456105" name="Ty" stackId="3" startPc="268455977"/>
+<entry endPc="268456105" name="Polygon" stackId="1" startPc="268455977"/>
+<entry endPc="268456105" name="Tx" stackId="2" startPc="268455977"/>
+<entry endPc="268456150" name="dictionary" stackId="1" startPc="268456109"/>
+<entry endPc="268456221" name="dc" stackId="1" startPc="268456151"/>
+<entry endPc="268456465" name="rez_cmp_local_text_TimeLabel" stackId="3" startPc="268456233"/>
+<entry endPc="268456465" name="rez_cmp_local_custom_drawable_16112190781601039786" stackId="2" startPc="268456233"/>
+<entry endPc="268456466" name="dc" stackId="1" startPc="268456221"/>
+</localVars>
+<annotations/>
+<dataEntryOffsetMappings>
+<dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+<dataEntry offset="206" parentId="globals" symbolId="symbolRenderer" type="class"/>
+<dataEntry offset="301" parentId="globals" symbolId="textRenderer" type="class"/>
+<dataEntry offset="436" parentId="globals" symbolId="SliderViewDelegate" type="class"/>
+<dataEntry offset="491" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry offset="570" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry offset="617" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry offset="648" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry offset="711" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry offset="750" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry offset="781" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry offset="1204" parentId="globals" symbolId="SliderView" type="class"/>
+<dataEntry offset="1683" parentId="globals" symbolId="hrRenderer" type="class"/>
+<dataEntry offset="1858" parentId="globals" symbolId="infoKeeper" type="class"/>
+<dataEntry offset="1929" parentId="globals" symbolId="SliderApp" type="class"/>
+<dataEntry offset="2008" parentId="globals" symbolId="Background" type="class"/>
+</dataEntryOffsetMappings>
+<functions>
+<functionEntry accessMode="public" name="initialize" parent="hrRenderer">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getHrHistory" parent="hrRenderer">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="calculateHrGraph" parent="hrRenderer">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawHrGraph" parent="hrRenderer">
+<param id="x"/>
+<param id="y"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getMax" parent="hrRenderer">
+<param id="array"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="PolyTranslate" parent="hrRenderer">
+<param id="Polygon"/>
+<param id="Tx"/>
+<param id="Ty"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="SliderApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStart" parent="SliderApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStop" parent="SliderApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getInitialView" parent="SliderApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onSettingsChanged" parent="SliderApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="infoKeeper">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getFieldValue" parent="infoKeeper">
+<param id="fieldType"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="SliderView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onLayout" parent="SliderView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onUpdate" parent="SliderView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawBackground" parent="SliderView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawMinutes" parent="SliderView">
+<param id="dc"/>
+<param id="Color"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawHours" parent="SliderView">
+<param id="dc"/>
+<param id="Color"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawHoursoffCalc" parent="SliderView">
+<param id="dc"/>
+<param id="x"/>
+<param id="y"/>
+<param id="fsize"/>
+<param id="hours"/>
+<param id="shade"/>
+<param id="Color"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawSeconds" parent="SliderView">
+<param id="dc"/>
+<param id="Color"/>
+<param id="secs"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawFields" parent="SliderView">
+<param id="dc"/>
+<param id="FieldColor"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawField" parent="SliderView">
+<param id="DrawContext"/>
+<param id="x"/>
+<param id="y"/>
+<param id="fieldType"/>
+<param id="FieldColor"/>
+<param id="fontSize"/>
+<param id="fieldno"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawOffCalcField" parent="SliderView">
+<param id="DrawContext"/>
+<param id="x"/>
+<param id="y"/>
+<param id="fontSize"/>
+<param id="fieldType"/>
+<param id="FieldColor"/>
+<param id="value"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="RenderShade" parent="SliderView">
+<param id="dc"/>
+<param id="x1"/>
+<param id="y1"/>
+<param id="x2"/>
+<param id="y2"/>
+<param id="Bg"/>
+<param id="Fg"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="DrawPolygon" parent="SliderView">
+<param id="DrawContext"/>
+<param id="polygon"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="dayOfWeek" parent="SliderView">
+<param id="day"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getColorSettings" parent="SliderView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getBoundingBox" parent="SliderView">
+<param id="array"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="generateSecondsThicks" parent="SliderView">
+<param id="centerPoint"/>
+<param id="angle"/>
+<param id="handLength"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="miniBgRedraw" parent="SliderView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onEnterSleep" parent="SliderView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onExitSleep" parent="SliderView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onShow" parent="SliderView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawIfActive" parent="SliderView">
+<param id="dc"/>
+<param id="awake"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getFields" parent="SliderView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onPartialUpdate" parent="SliderView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onPowerBudgetExceeded" parent="SliderViewDelegate">
+<param id="powerInfo"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="textRenderer">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="calcText" parent="textRenderer">
+<param id="size"/>
+<param id="value"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawText" parent="textRenderer">
+<param id="x"/>
+<param id="y"/>
+<param id="font"/>
+<param id="text"/>
+<param id="align"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="calcDigit" parent="textRenderer">
+<param id="s"/>
+<param id="digit"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="polyMaxX" parent="textRenderer">
+<param id="Polygon"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="PolyTranslate" parent="textRenderer">
+<param id="Polygon"/>
+<param id="Tx"/>
+<param id="Ty"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getBoundingBox" parent="textRenderer">
+<param id="array"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="symbolRenderer">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="renderSymbol" parent="symbolRenderer">
+<param id="x"/>
+<param id="y"/>
+<param id="fieldType"/>
+<param id="FieldColor"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="DrawPoly" parent="symbolRenderer">
+<param id="polygon"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="PolyTranslate" parent="symbolRenderer">
+<param id="Polygon"/>
+<param id="Tx"/>
+<param id="Ty"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="Background">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="draw" parent="Background">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="WatchFace" parent="Layouts">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+</functions>
+</debugInfo>

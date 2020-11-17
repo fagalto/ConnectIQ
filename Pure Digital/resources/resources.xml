@@ -1,0 +1,16 @@
+<resources>
+    <fonts>
+        <font id="hours" filename="hours.fnt"   antialias="true"/>
+    </fonts>  
+        <fonts>
+        <font id="minutes" filename="minutes.fnt"  antialias="true"/>
+    </fonts>         
+       
+     <fonts>
+        <font id="date" filename="date.fnt"   antialias="true"/>
+        </fonts>
+     <fonts>
+        <font id="data" filename="data.fnt"   antialias="true"/>
+    </fonts>  
+       
+</resources>

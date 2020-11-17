@@ -1,0 +1,13 @@
+build_for_device_build_type=true
+build_for_device_device_id=fenix5x
+build_for_device_output_dir=C\:\\Users\\grabowski.a\\Desktop
+build_for_device_project_name=Slider
+build_for_device_target_sdk=3.0.0
+cmp_developerKey=C\:\\Users\\grabowski.a\\workspace\\klucze\\kluczeiq
+eclipse.preferences.version=1
+export_wizard_output_dir=C\:\\Users\\grabowski.a\\Desktop\\sliders\\slen
+export_wizard_project_name=Stride Length
+logging_log_file_location=C\:\\Users\\GRABOW~1.A\\AppData\\Local\\Temp\\GARMIN\\plugin.log
+notification_one_time_warning=true
+pathPreference=C\:\\Users\\grabowski.a\\eclipse\\connectiq-sdk-win-3.1.9-2020-06-24-1cc9d3a70
+sdk_manager_new_sdk_available=true

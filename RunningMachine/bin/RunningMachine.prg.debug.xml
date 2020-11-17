@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RunningMachine\\source\\animationApp.mc" id="3" lineNum="5" pc="268435456" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RunningMachine\\source\\animationApp.mc" id="3" lineNum="6" pc="268435460" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RunningMachine\\source\\animationApp.mc" id="4" lineNum="10" pc="268435479" symbol="onStart"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RunningMachine\\source\\animationApp.mc" id="5" lineNum="14" pc="268435484" symbol="onStop"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RunningMachine\\source\\animationApp.mc" id="6" lineNum="18" pc="268435489" symbol="getInitialView"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RunningMachine\\source\\animationApp.mc" id="6" lineNum="19" pc="268435493" symbol="getInitialView"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RunningMachine\\source\\yacoolaAnimationController.mc" id="8" lineNum="8" pc="268435531" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RunningMachine\\source\\yacoolaAnimationController.mc" id="8" lineNum="9" pc="268435535" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RunningMachine\\source\\yacoolaAnimationController.mc" id="9" lineNum="12" pc="268435546" symbol="handleOnShow"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RunningMachine\\source\\yacoolaAnimationController.mc" id="9" lineNum="13" pc="268435550" symbol="handleOnShow"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RunningMachine\\source\\yacoolaAnimationController.mc" id="9" lineNum="15" pc="268435566" symbol="handleOnShow"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RunningMachine\\source\\yacoolaAnimationController.mc" id="9" lineNum="26" pc="268435652" symbol="handleOnShow"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RunningMachine\\source\\yacoolaAnimationController.mc" id="10" lineNum="31" pc="268435676" symbol="getAnimLayer"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RunningMachine\\source\\yacoolaAnimationController.mc" id="10" lineNum="32" pc="268435680" symbol="getAnimLayer"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RunningMachine\\source\\yacoolaAnimationController.mc" id="11" lineNum="35" pc="268435690" symbol="handleOnHide"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RunningMachine\\source\\yacoolaAnimationController.mc" id="11" lineNum="36" pc="268435694" symbol="handleOnHide"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RunningMachine\\source\\yacoolaAnimationController.mc" id="11" lineNum="37" pc="268435706" symbol="handleOnHide"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RunningMachine\\source\\yacoolaAnimationController.mc" id="12" lineNum="46" pc="268435716" symbol="play"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RunningMachine\\source\\yacoolaAnimationController.mc" id="12" lineNum="48" pc="268435720" symbol="play"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RunningMachine\\source\\yacoolaAnimationController.mc" id="12" lineNum="49" pc="268435732" symbol="play"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RunningMachine\\source\\yacoolaAnimationController.mc" id="12" lineNum="50" pc="268435764" symbol="play"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RunningMachine\\source\\yacoolaAnimationController.mc" id="12" lineNum="53" pc="268435804" symbol="play"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RunningMachine\\source\\yacoolaAnimationController.mc" id="12" lineNum="56" pc="268435817" symbol="play"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RunningMachine\\source\\yacoolaAnimationController.mc" id="12" lineNum="57" pc="268435857" symbol="play"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RunningMachine\\source\\yacoolaAnimationController.mc" id="13" lineNum="61" pc="268435868" symbol="stop"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RunningMachine\\source\\yacoolaAnimationController.mc" id="13" lineNum="63" pc="268435872" symbol="stop"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RunningMachine\\source\\yacoolaAnimationController.mc" id="13" lineNum="64" pc="268435883" symbol="stop"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RunningMachine\\source\\yacoolaAnimationController.mc" id="13" lineNum="65" pc="268435901" symbol="stop"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RunningMachine\\source\\animationView.mc" id="15" lineNum="7" pc="268435915" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RunningMachine\\source\\animationView.mc" id="15" lineNum="9" pc="268435919" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RunningMachine\\source\\animationView.mc" id="16" lineNum="13" pc="268435950" symbol="onLayout"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RunningMachine\\source\\animationView.mc" id="17" lineNum="23" pc="268435955" symbol="onShow"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RunningMachine\\source\\animationView.mc" id="17" lineNum="25" pc="268435959" symbol="onShow"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RunningMachine\\source\\animationView.mc" id="17" lineNum="26" pc="268435979" symbol="onShow"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RunningMachine\\source\\animationView.mc" id="18" lineNum="30" pc="268435998" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RunningMachine\\source\\animationView.mc" id="18" lineNum="34" pc="268436002" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RunningMachine\\source\\animationView.mc" id="18" lineNum="35" pc="268436042" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RunningMachine\\source\\animationView.mc" id="19" lineNum="42" pc="268436055" symbol="onHide"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RunningMachine\\source\\animationView.mc" id="19" lineNum="43" pc="268436059" symbol="onHide"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RunningMachine\\source\\yacoolaAnimationDelegate.mc" id="21" lineNum="10" pc="268436080" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RunningMachine\\source\\yacoolaAnimationDelegate.mc" id="21" lineNum="11" pc="268436084" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RunningMachine\\source\\yacoolaAnimationDelegate.mc" id="21" lineNum="12" pc="268436102" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RunningMachine\\source\\yacoolaAnimationDelegate.mc" id="22" lineNum="16" pc="268436113" symbol="onAnimationEvent"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RunningMachine\\source\\yacoolaAnimationDelegate.mc" id="22" lineNum="17" pc="268436117" symbol="onAnimationEvent"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RunningMachine\\source\\yacoolaAnimationDelegate.mc" id="22" lineNum="19" pc="268436184" symbol="onAnimationEvent"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RunningMachine\\source\\yacoolaAnimationDelegate.mc" id="22" lineNum="20" pc="268436202" symbol="onAnimationEvent"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RunningMachine\\source\\yacoolaAnimationDelegate.mc" id="22" lineNum="22" pc="268436205" symbol="onAnimationEvent"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RunningMachine\\source\\yacoolaAnimationDelegate.mc" id="22" lineNum="23" pc="268436223" symbol="onAnimationEvent"/>
+<entry filename="Rez" id="28" lineNum="16" pc="268436227" symbol="MainLayout"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry id="8388770" module="true" object="true" symbol="Strings"/>
+<entry field="true" id="13" symbol="&lt;globals/yacoolaAnimationController/&lt;&gt;_animation&gt;"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="9" object="true" symbol="animationApp"/>
+<entry id="8388639" module="true" symbol="Graphics"/>
+<entry id="23" method="true" symbol="MainLayout"/>
+<entry id="8388769" module="true" object="true" symbol="Rez"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry field="true" id="25" symbol="_controller"/>
+<entry id="16" method="true" symbol="getAnimLayer"/>
+<entry id="15" method="true" symbol="handleOnShow"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="24" symbol="AppName"/>
+<entry field="true" id="21" symbol="LauncherIcon"/>
+<entry id="8388648" module="true" symbol="WatchUi"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry field="true" id="18" symbol="_animationDelegate"/>
+<entry field="true" id="8389065" symbol="locY"/>
+<entry field="true" id="8389064" symbol="locX"/>
+<entry id="8388771" module="true" object="true" symbol="Drawables"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry id="8391314" method="true" symbol="onAnimationEvent"/>
+<entry field="true" id="14" symbol="&lt;globals/yacoolaAnimationController/&lt;&gt;_playing&gt;"/>
+<entry id="11" object="true" symbol="animationView"/>
+<entry field="true" id="8391333" symbol="delegate"/>
+<entry id="8391298" method="true" symbol="play"/>
+<entry id="10" object="true" symbol="yacoolaAnimationController"/>
+<entry field="true" id="22" symbol="yacoola"/>
+<entry id="19" module="true" symbol="Layouts"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+<entry id="8390088" module="true" object="true" symbol="JsonData"/>
+<entry id="17" method="true" symbol="handleOnHide"/>
+<entry id="20" module="true" symbol="Menus"/>
+<entry id="12" object="true" symbol="yacoolaAnimationDelegate"/>
+<entry id="8388699" method="true" symbol="stop"/>
+<entry id="8388772" module="true" object="true" symbol="Fonts"/>
+<entry id="8388635" module="true" symbol="Application"/>
+</symbolTable>
+<localVars>
+<entry endPc="268435484" name="state" stackId="1" startPc="268435479"/>
+<entry endPc="268435489" name="state" stackId="1" startPc="268435484"/>
+<entry endPc="268435676" name="view" stackId="1" startPc="268435546"/>
+<entry endPc="268435716" name="view" stackId="1" startPc="268435690"/>
+<entry endPc="268435955" name="dc" stackId="1" startPc="268435950"/>
+<entry endPc="268436055" name="dc" stackId="1" startPc="268435998"/>
+<entry endPc="268436113" name="controller" stackId="1" startPc="268436080"/>
+<entry endPc="268436227" name="options" stackId="2" startPc="268436113"/>
+<entry endPc="268436227" name="event" stackId="1" startPc="268436113"/>
+<entry endPc="268436240" name="dc" stackId="1" startPc="268436227"/>
+</localVars>
+<annotations/>
+<dataEntryOffsetMappings>
+<dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+<dataEntry offset="166" parentId="globals" symbolId="yacoolaAnimationController" type="class"/>
+<dataEntry offset="277" parentId="globals" symbolId="animationView" type="class"/>
+<dataEntry offset="364" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry offset="443" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry offset="490" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry offset="521" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry offset="552" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry offset="591" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry offset="622" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry offset="661" parentId="globals" symbolId="yacoolaAnimationDelegate" type="class"/>
+<dataEntry offset="724" parentId="globals" symbolId="animationApp" type="class"/>
+</dataEntryOffsetMappings>
+<functions>
+<functionEntry accessMode="public" name="initialize" parent="animationApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStart" parent="animationApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStop" parent="animationApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getInitialView" parent="animationApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="yacoolaAnimationController">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="handleOnShow" parent="yacoolaAnimationController">
+<param id="view"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getAnimLayer" parent="yacoolaAnimationController">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="handleOnHide" parent="yacoolaAnimationController">
+<param id="view"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="play" parent="yacoolaAnimationController">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="stop" parent="yacoolaAnimationController">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="animationView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onLayout" parent="animationView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onShow" parent="animationView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onUpdate" parent="animationView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onHide" parent="animationView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="yacoolaAnimationDelegate">
+<param id="controller"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onAnimationEvent" parent="yacoolaAnimationDelegate">
+<param id="event"/>
+<param id="options"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="MainLayout" parent="Layouts">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+</functions>
+</debugInfo>

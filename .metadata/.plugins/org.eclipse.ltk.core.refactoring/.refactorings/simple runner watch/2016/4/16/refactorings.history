@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;simple runner watch/source/C64Face.mc&apos; to &apos;smiplewatch.mc&apos;" description="Rename resource &apos;C64Face.mc&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="source/C64Face.mc" name="smiplewatch.mc" stamp="1460968004881" updateReferences="true"/>
+</session>
