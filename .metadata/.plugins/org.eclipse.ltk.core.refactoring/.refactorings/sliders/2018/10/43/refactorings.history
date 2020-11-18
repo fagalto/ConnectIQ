@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename resource &apos;sliders/resources/drawables/donotdisturb.png&apos; to &apos;DoNotDisturbIcon.png&apos;" description="Rename resource &apos;donotdisturb.png&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="resources/drawables/donotdisturb.png" name="DoNotDisturbIcon.png" stamp="1540279482382" updateReferences="true"/>
-</session>

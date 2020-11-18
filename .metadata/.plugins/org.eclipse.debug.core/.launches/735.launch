@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<launchConfiguration type="connectiq.launcher.AppLauncher">
-<stringAttribute key="connectiq.debugInfo" value="C:\Users\grabowski.a\workspace\Slider\bin\Slider.prg.debug.xml"/>
-<stringAttribute key="connectiq.prg" value="C:\Users\grabowski.a\workspace\Slider\bin\Slider.prg"/>
-<stringAttribute key="connectiq.project" value="Slider"/>
-<stringAttribute key="connectiq.targetDevice" value="fenix5x"/>
-<stringAttribute key="connectiq.targetSdk" value="3.0.0"/>
-<stringAttribute key="connectiq.workingDir" value="C:\Users\grabowski.a\workspace\Slider"/>
-</launchConfiguration>

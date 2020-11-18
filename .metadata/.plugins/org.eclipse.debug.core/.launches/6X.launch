@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<launchConfiguration type="connectiq.launcher.AppLauncher">
-<stringAttribute key="connectiq.debugInfo" value="C:\Users\grabowski.a\workspace\Stride Length\bin\Stride Length.prg.debug.xml"/>
-<stringAttribute key="connectiq.prg" value="C:\Users\grabowski.a\workspace\Stride Length\bin\Stride Length.prg"/>
-<stringAttribute key="connectiq.project" value="Stride Length"/>
-<stringAttribute key="connectiq.targetDevice" value="fr245"/>
-<stringAttribute key="connectiq.targetSdk" value="3.1.0"/>
-<stringAttribute key="connectiq.workingDir" value="C:\Users\grabowski.a\workspace\Stride Length"/>
-</launchConfiguration>

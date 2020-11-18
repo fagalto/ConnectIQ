@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename resource &apos;RunningMachine/resources/drawables/ycaool_icon.png&apos; to &apos;yacool_icon.png&apos;" description="Rename resource &apos;ycaool_icon.png&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="resources/drawables/ycaool_icon.png" name="yacool_icon.png" stamp="1593071565631" updateReferences="true"/>
-</session>
