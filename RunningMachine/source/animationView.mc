@@ -5,6 +5,7 @@ var  _animationDelegate;
 
 
     function initialize() {
+    var gitworks = true;
 
  _animationDelegate = new yacoolaAnimationController();
     }
