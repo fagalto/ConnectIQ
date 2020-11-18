@@ -255,7 +255,7 @@ if(mCad >0 and isPaused==false)
  
 function onLayout(dc) {
 
-		//obscurityFlags = DataField.getObscurityFlags(); 
+		obscurityFlags = DataField.getObscurityFlags(); 
         View.setLayout(Rez.Layouts.FullScreenLayout(dc));
  return true;
     } 

@@ -77,59 +77,59 @@
 <entry filename="C:\\Users\\grabowski.a\\workspace\\Stride Length\\source\\StrideLengthView.mc" id="13" lineNum="150" pc="268436989" symbol="compute"/>
 <entry filename="C:\\Users\\grabowski.a\\workspace\\Stride Length\\source\\StrideLengthView.mc" id="13" lineNum="151" pc="268437041" symbol="compute"/>
 <entry filename="C:\\Users\\grabowski.a\\workspace\\Stride Length\\source\\StrideLengthView.mc" id="14" lineNum="158" pc="268437077" symbol="onUpdate"/>
-<entry filename="C:\\Users\\grabowski.a\\workspace\\Stride Length\\source\\StrideLengthView.mc" id="14" lineNum="161" pc="268437081" symbol="onUpdate"/>
-<entry filename="C:\\Users\\grabowski.a\\workspace\\Stride Length\\source\\StrideLengthView.mc" id="14" lineNum="162" pc="268437100" symbol="onUpdate"/>
-<entry filename="C:\\Users\\grabowski.a\\workspace\\Stride Length\\source\\StrideLengthView.mc" id="14" lineNum="164" pc="268437124" symbol="onUpdate"/>
-<entry filename="C:\\Users\\grabowski.a\\workspace\\Stride Length\\source\\StrideLengthView.mc" id="14" lineNum="167" pc="268437147" symbol="onUpdate"/>
-<entry filename="C:\\Users\\grabowski.a\\workspace\\Stride Length\\source\\StrideLengthView.mc" id="14" lineNum="169" pc="268437167" symbol="onUpdate"/>
-<entry filename="C:\\Users\\grabowski.a\\workspace\\Stride Length\\source\\StrideLengthView.mc" id="14" lineNum="170" pc="268437184" symbol="onUpdate"/>
-<entry filename="C:\\Users\\grabowski.a\\workspace\\Stride Length\\source\\StrideLengthView.mc" id="14" lineNum="172" pc="268437200" symbol="onUpdate"/>
-<entry filename="C:\\Users\\grabowski.a\\workspace\\Stride Length\\source\\StrideLengthView.mc" id="14" lineNum="173" pc="268437255" symbol="onUpdate"/>
-<entry filename="C:\\Users\\grabowski.a\\workspace\\Stride Length\\source\\StrideLengthView.mc" id="14" lineNum="175" pc="268437271" symbol="onUpdate"/>
-<entry filename="C:\\Users\\grabowski.a\\workspace\\Stride Length\\source\\StrideLengthView.mc" id="14" lineNum="176" pc="268437326" symbol="onUpdate"/>
-<entry filename="C:\\Users\\grabowski.a\\workspace\\Stride Length\\source\\StrideLengthView.mc" id="14" lineNum="178" pc="268437342" symbol="onUpdate"/>
-<entry filename="C:\\Users\\grabowski.a\\workspace\\Stride Length\\source\\StrideLengthView.mc" id="14" lineNum="180" pc="268437399" symbol="onUpdate"/>
-<entry filename="C:\\Users\\grabowski.a\\workspace\\Stride Length\\source\\StrideLengthView.mc" id="14" lineNum="183" pc="268437415" symbol="onUpdate"/>
-<entry filename="C:\\Users\\grabowski.a\\workspace\\Stride Length\\source\\StrideLengthView.mc" id="14" lineNum="186" pc="268437428" symbol="onUpdate"/>
-<entry filename="C:\\Users\\grabowski.a\\workspace\\Stride Length\\source\\StrideLengthView.mc" id="14" lineNum="189" pc="268437445" symbol="onUpdate"/>
-<entry filename="C:\\Users\\grabowski.a\\workspace\\Stride Length\\source\\StrideLengthView.mc" id="14" lineNum="191" pc="268437486" symbol="onUpdate"/>
-<entry filename="C:\\Users\\grabowski.a\\workspace\\Stride Length\\source\\StrideLengthView.mc" id="14" lineNum="193" pc="268437503" symbol="onUpdate"/>
-<entry filename="C:\\Users\\grabowski.a\\workspace\\Stride Length\\source\\StrideLengthView.mc" id="14" lineNum="195" pc="268437541" symbol="onUpdate"/>
-<entry filename="C:\\Users\\grabowski.a\\workspace\\Stride Length\\source\\StrideLengthView.mc" id="14" lineNum="197" pc="268437558" symbol="onUpdate"/>
-<entry filename="C:\\Users\\grabowski.a\\workspace\\Stride Length\\source\\StrideLengthView.mc" id="14" lineNum="199" pc="268437596" symbol="onUpdate"/>
-<entry filename="C:\\Users\\grabowski.a\\workspace\\Stride Length\\source\\StrideLengthView.mc" id="14" lineNum="201" pc="268437613" symbol="onUpdate"/>
-<entry filename="C:\\Users\\grabowski.a\\workspace\\Stride Length\\source\\StrideLengthView.mc" id="14" lineNum="206" pc="268437646" symbol="onUpdate"/>
-<entry filename="C:\\Users\\grabowski.a\\workspace\\Stride Length\\source\\StrideLengthView.mc" id="15" lineNum="211" pc="268437669" symbol="onTimerPause"/>
-<entry filename="C:\\Users\\grabowski.a\\workspace\\Stride Length\\source\\StrideLengthView.mc" id="15" lineNum="212" pc="268437673" symbol="onTimerPause"/>
-<entry filename="C:\\Users\\grabowski.a\\workspace\\Stride Length\\source\\StrideLengthView.mc" id="16" lineNum="214" pc="268437684" symbol="onTimerStopped"/>
-<entry filename="C:\\Users\\grabowski.a\\workspace\\Stride Length\\source\\StrideLengthView.mc" id="16" lineNum="215" pc="268437688" symbol="onTimerStopped"/>
-<entry filename="C:\\Users\\grabowski.a\\workspace\\Stride Length\\source\\StrideLengthView.mc" id="17" lineNum="217" pc="268437699" symbol="onTimerResume"/>
-<entry filename="C:\\Users\\grabowski.a\\workspace\\Stride Length\\source\\StrideLengthView.mc" id="17" lineNum="218" pc="268437703" symbol="onTimerResume"/>
-<entry filename="C:\\Users\\grabowski.a\\workspace\\Stride Length\\source\\StrideLengthView.mc" id="18" lineNum="220" pc="268437714" symbol="onTimerStart"/>
-<entry filename="C:\\Users\\grabowski.a\\workspace\\Stride Length\\source\\StrideLengthView.mc" id="18" lineNum="221" pc="268437718" symbol="onTimerStart"/>
-<entry filename="C:\\Users\\grabowski.a\\workspace\\Stride Length\\source\\StrideLengthView.mc" id="19" lineNum="224" pc="268437729" symbol="getAccelData"/>
-<entry filename="C:\\Users\\grabowski.a\\workspace\\Stride Length\\source\\StrideLengthView.mc" id="19" lineNum="225" pc="268437733" symbol="getAccelData"/>
-<entry filename="C:\\Users\\grabowski.a\\workspace\\Stride Length\\source\\StrideLengthView.mc" id="19" lineNum="226" pc="268437740" symbol="getAccelData"/>
-<entry filename="C:\\Users\\grabowski.a\\workspace\\Stride Length\\source\\StrideLengthView.mc" id="19" lineNum="227" pc="268437747" symbol="getAccelData"/>
-<entry filename="C:\\Users\\grabowski.a\\workspace\\Stride Length\\source\\StrideLengthView.mc" id="19" lineNum="228" pc="268437754" symbol="getAccelData"/>
-<entry filename="C:\\Users\\grabowski.a\\workspace\\Stride Length\\source\\StrideLengthView.mc" id="19" lineNum="229" pc="268437761" symbol="getAccelData"/>
-<entry filename="C:\\Users\\grabowski.a\\workspace\\Stride Length\\source\\StrideLengthView.mc" id="19" lineNum="230" pc="268437768" symbol="getAccelData"/>
-<entry filename="C:\\Users\\grabowski.a\\workspace\\Stride Length\\source\\StrideLengthView.mc" id="19" lineNum="231" pc="268437775" symbol="getAccelData"/>
-<entry filename="C:\\Users\\grabowski.a\\workspace\\Stride Length\\source\\StrideLengthView.mc" id="19" lineNum="233" pc="268437806" symbol="getAccelData"/>
-<entry filename="C:\\Users\\grabowski.a\\workspace\\Stride Length\\source\\StrideLengthView.mc" id="19" lineNum="234" pc="268437813" symbol="getAccelData"/>
-<entry filename="C:\\Users\\grabowski.a\\workspace\\Stride Length\\source\\StrideLengthView.mc" id="19" lineNum="238" pc="268437823" symbol="getAccelData"/>
-<entry filename="C:\\Users\\grabowski.a\\workspace\\Stride Length\\source\\StrideLengthView.mc" id="19" lineNum="240" pc="268437845" symbol="getAccelData"/>
-<entry filename="C:\\Users\\grabowski.a\\workspace\\Stride Length\\source\\StrideLengthView.mc" id="19" lineNum="241" pc="268437852" symbol="getAccelData"/>
-<entry filename="C:\\Users\\grabowski.a\\workspace\\Stride Length\\source\\StrideLengthView.mc" id="19" lineNum="242" pc="268437868" symbol="getAccelData"/>
-<entry filename="C:\\Users\\grabowski.a\\workspace\\Stride Length\\source\\StrideLengthView.mc" id="19" lineNum="243" pc="268437898" symbol="getAccelData"/>
-<entry filename="C:\\Users\\grabowski.a\\workspace\\Stride Length\\source\\StrideLengthView.mc" id="19" lineNum="244" pc="268437934" symbol="getAccelData"/>
-<entry filename="C:\\Users\\grabowski.a\\workspace\\Stride Length\\source\\StrideLengthView.mc" id="19" lineNum="245" pc="268437945" symbol="getAccelData"/>
-<entry filename="C:\\Users\\grabowski.a\\workspace\\Stride Length\\source\\StrideLengthView.mc" id="19" lineNum="246" pc="268437992" symbol="getAccelData"/>
-<entry filename="C:\\Users\\grabowski.a\\workspace\\Stride Length\\source\\StrideLengthView.mc" id="19" lineNum="250" pc="268438008" symbol="getAccelData"/>
-<entry filename="C:\\Users\\grabowski.a\\workspace\\Stride Length\\source\\StrideLengthView.mc" id="19" lineNum="251" pc="268438027" symbol="getAccelData"/>
-<entry filename="C:\\Users\\grabowski.a\\workspace\\Stride Length\\source\\StrideLengthView.mc" id="19" lineNum="253" pc="268438040" symbol="getAccelData"/>
-<entry filename="C:\\Users\\grabowski.a\\workspace\\Stride Length\\source\\StrideLengthView.mc" id="20" lineNum="256" pc="268438078" symbol="onLayout"/>
-<entry filename="C:\\Users\\grabowski.a\\workspace\\Stride Length\\source\\StrideLengthView.mc" id="20" lineNum="258" pc="268438082" symbol="onLayout"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Stride Length\\source\\StrideLengthView.mc" id="14" lineNum="160" pc="268437081" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Stride Length\\source\\StrideLengthView.mc" id="14" lineNum="161" pc="268437106" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Stride Length\\source\\StrideLengthView.mc" id="14" lineNum="162" pc="268437125" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Stride Length\\source\\StrideLengthView.mc" id="14" lineNum="164" pc="268437149" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Stride Length\\source\\StrideLengthView.mc" id="14" lineNum="167" pc="268437172" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Stride Length\\source\\StrideLengthView.mc" id="14" lineNum="169" pc="268437192" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Stride Length\\source\\StrideLengthView.mc" id="14" lineNum="170" pc="268437209" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Stride Length\\source\\StrideLengthView.mc" id="14" lineNum="172" pc="268437225" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Stride Length\\source\\StrideLengthView.mc" id="14" lineNum="173" pc="268437280" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Stride Length\\source\\StrideLengthView.mc" id="14" lineNum="175" pc="268437296" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Stride Length\\source\\StrideLengthView.mc" id="14" lineNum="176" pc="268437351" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Stride Length\\source\\StrideLengthView.mc" id="14" lineNum="178" pc="268437367" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Stride Length\\source\\StrideLengthView.mc" id="14" lineNum="180" pc="268437424" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Stride Length\\source\\StrideLengthView.mc" id="14" lineNum="183" pc="268437440" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Stride Length\\source\\StrideLengthView.mc" id="14" lineNum="186" pc="268437453" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Stride Length\\source\\StrideLengthView.mc" id="14" lineNum="189" pc="268437470" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Stride Length\\source\\StrideLengthView.mc" id="14" lineNum="191" pc="268437511" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Stride Length\\source\\StrideLengthView.mc" id="14" lineNum="193" pc="268437528" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Stride Length\\source\\StrideLengthView.mc" id="14" lineNum="195" pc="268437566" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Stride Length\\source\\StrideLengthView.mc" id="14" lineNum="197" pc="268437583" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Stride Length\\source\\StrideLengthView.mc" id="14" lineNum="199" pc="268437621" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Stride Length\\source\\StrideLengthView.mc" id="14" lineNum="201" pc="268437638" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Stride Length\\source\\StrideLengthView.mc" id="14" lineNum="206" pc="268437671" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Stride Length\\source\\StrideLengthView.mc" id="15" lineNum="211" pc="268437694" symbol="onTimerPause"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Stride Length\\source\\StrideLengthView.mc" id="15" lineNum="212" pc="268437698" symbol="onTimerPause"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Stride Length\\source\\StrideLengthView.mc" id="16" lineNum="214" pc="268437709" symbol="onTimerStopped"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Stride Length\\source\\StrideLengthView.mc" id="16" lineNum="215" pc="268437713" symbol="onTimerStopped"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Stride Length\\source\\StrideLengthView.mc" id="17" lineNum="217" pc="268437724" symbol="onTimerResume"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Stride Length\\source\\StrideLengthView.mc" id="17" lineNum="218" pc="268437728" symbol="onTimerResume"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Stride Length\\source\\StrideLengthView.mc" id="18" lineNum="220" pc="268437739" symbol="onTimerStart"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Stride Length\\source\\StrideLengthView.mc" id="18" lineNum="221" pc="268437743" symbol="onTimerStart"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Stride Length\\source\\StrideLengthView.mc" id="19" lineNum="224" pc="268437754" symbol="getAccelData"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Stride Length\\source\\StrideLengthView.mc" id="19" lineNum="225" pc="268437758" symbol="getAccelData"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Stride Length\\source\\StrideLengthView.mc" id="19" lineNum="226" pc="268437765" symbol="getAccelData"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Stride Length\\source\\StrideLengthView.mc" id="19" lineNum="227" pc="268437772" symbol="getAccelData"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Stride Length\\source\\StrideLengthView.mc" id="19" lineNum="228" pc="268437779" symbol="getAccelData"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Stride Length\\source\\StrideLengthView.mc" id="19" lineNum="229" pc="268437786" symbol="getAccelData"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Stride Length\\source\\StrideLengthView.mc" id="19" lineNum="230" pc="268437793" symbol="getAccelData"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Stride Length\\source\\StrideLengthView.mc" id="19" lineNum="231" pc="268437800" symbol="getAccelData"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Stride Length\\source\\StrideLengthView.mc" id="19" lineNum="233" pc="268437831" symbol="getAccelData"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Stride Length\\source\\StrideLengthView.mc" id="19" lineNum="234" pc="268437838" symbol="getAccelData"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Stride Length\\source\\StrideLengthView.mc" id="19" lineNum="238" pc="268437848" symbol="getAccelData"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Stride Length\\source\\StrideLengthView.mc" id="19" lineNum="240" pc="268437870" symbol="getAccelData"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Stride Length\\source\\StrideLengthView.mc" id="19" lineNum="241" pc="268437877" symbol="getAccelData"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Stride Length\\source\\StrideLengthView.mc" id="19" lineNum="242" pc="268437893" symbol="getAccelData"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Stride Length\\source\\StrideLengthView.mc" id="19" lineNum="243" pc="268437923" symbol="getAccelData"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Stride Length\\source\\StrideLengthView.mc" id="19" lineNum="244" pc="268437959" symbol="getAccelData"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Stride Length\\source\\StrideLengthView.mc" id="19" lineNum="245" pc="268437970" symbol="getAccelData"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Stride Length\\source\\StrideLengthView.mc" id="19" lineNum="246" pc="268438017" symbol="getAccelData"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Stride Length\\source\\StrideLengthView.mc" id="19" lineNum="250" pc="268438033" symbol="getAccelData"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Stride Length\\source\\StrideLengthView.mc" id="19" lineNum="251" pc="268438052" symbol="getAccelData"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Stride Length\\source\\StrideLengthView.mc" id="19" lineNum="253" pc="268438065" symbol="getAccelData"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Stride Length\\source\\StrideLengthView.mc" id="20" lineNum="256" pc="268438103" symbol="onLayout"/>
 <entry filename="C:\\Users\\grabowski.a\\workspace\\Stride Length\\source\\StrideLengthView.mc" id="20" lineNum="259" pc="268438107" symbol="onLayout"/>
 <entry filename="C:\\Users\\grabowski.a\\workspace\\Stride Length\\source\\StrideLengthView.mc" id="20" lineNum="260" pc="268438150" symbol="onLayout"/>
 <entry filename="C:\\Users\\grabowski.a\\workspace\\Stride Length\\source\\StrideLengthView.mc" id="21" lineNum="262" pc="268438154" symbol="drawFullScreenDataField"/>
@@ -338,20 +338,20 @@
 <entry endPc="268436890" name="avgStrideLen" stackId="3" startPc="268436808"/>
 <entry endPc="268437076" name="avgOrCurrent" stackId="2" startPc="268436472"/>
 <entry endPc="268437077" name="info" stackId="1" startPc="268436468"/>
-<entry endPc="268437669" name="dc" stackId="1" startPc="268437077"/>
-<entry endPc="268438008" name="doublealpha" stackId="12" startPc="268437823"/>
-<entry endPc="268438008" name="Vo" stackId="11" startPc="268437823"/>
-<entry endPc="268438008" name="sMoveTime" stackId="10" startPc="268437823"/>
-<entry endPc="268438077" name="gCons" stackId="4" startPc="268437733"/>
-<entry endPc="268438077" name="Gcount" stackId="5" startPc="268437733"/>
-<entry endPc="268438077" name="mPower" stackId="8" startPc="268437733"/>
-<entry endPc="268438077" name="hMax" stackId="7" startPc="268437733"/>
-<entry endPc="268438077" name="vGcount" stackId="6" startPc="268437733"/>
-<entry endPc="268438077" name="Vv" stackId="9" startPc="268437733"/>
-<entry endPc="268438078" name="StrideLen" stackId="3" startPc="268437729"/>
-<entry endPc="268438078" name="Cadence" stackId="1" startPc="268437729"/>
-<entry endPc="268438078" name="weight" stackId="2" startPc="268437729"/>
-<entry endPc="268438154" name="dc" stackId="1" startPc="268438078"/>
+<entry endPc="268437694" name="dc" stackId="1" startPc="268437077"/>
+<entry endPc="268438033" name="doublealpha" stackId="12" startPc="268437848"/>
+<entry endPc="268438033" name="Vo" stackId="11" startPc="268437848"/>
+<entry endPc="268438033" name="sMoveTime" stackId="10" startPc="268437848"/>
+<entry endPc="268438102" name="gCons" stackId="4" startPc="268437758"/>
+<entry endPc="268438102" name="Gcount" stackId="5" startPc="268437758"/>
+<entry endPc="268438102" name="mPower" stackId="8" startPc="268437758"/>
+<entry endPc="268438102" name="hMax" stackId="7" startPc="268437758"/>
+<entry endPc="268438102" name="vGcount" stackId="6" startPc="268437758"/>
+<entry endPc="268438102" name="Vv" stackId="9" startPc="268437758"/>
+<entry endPc="268438103" name="StrideLen" stackId="3" startPc="268437754"/>
+<entry endPc="268438103" name="Cadence" stackId="1" startPc="268437754"/>
+<entry endPc="268438103" name="weight" stackId="2" startPc="268437754"/>
+<entry endPc="268438154" name="dc" stackId="1" startPc="268438103"/>
 <entry endPc="268438798" name="dc" stackId="1" startPc="268438154"/>
 <entry endPc="268438798" name="userHeight" stackId="4" startPc="268438154"/>
 <entry endPc="268438798" name="dynamics" stackId="2" startPc="268438154"/>
@@ -411,7 +411,7 @@
 <entry endPc="268442711" name="fWidth" stackId="3" startPc="268442490"/>
 <entry endPc="268442712" name="dc" stackId="1" startPc="268442486"/>
 <entry endPc="268442712" name="StrideLen" stackId="2" startPc="268442486"/>
-<entry endPc="268442765" name="rez_cmp_local_custom_drawable_16493537181788650361" stackId="2" startPc="268442724"/>
+<entry endPc="268442765" name="rez_cmp_local_custom_drawable_12849145701178300492" stackId="2" startPc="268442724"/>
 <entry endPc="268442766" name="dc" stackId="1" startPc="268442712"/>
 </localVars>
 <annotations/>

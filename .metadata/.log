@@ -5788,3 +5788,12 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 	at com.google.gson.stream.JsonReader.beginObject(JsonReader.java:374)
 	at com.google.gson.internal.bind.ReflectiveTypeAdapterFactory$Adapter.read(ReflectiveTypeAdapterFactory.java:165)
 	... 9 more
+
+!ENTRY org.eclipse.core.resources 2 2 2020-11-18 10:04:24.367
+!MESSAGE Save operation warnings.
+!SUBENTRY 1 org.eclipse.core.resources 2 234 2020-11-18 10:04:24.367
+!MESSAGE The project description file (.project) for 'Analog' was missing.  This file contains important information about the project.  A new project description file has been created, but some information about the project may have been lost.
+!SUBENTRY 1 org.eclipse.core.resources 2 234 2020-11-18 10:04:24.367
+!MESSAGE The project description file (.project) for 'OWDWorkout' was missing.  This file contains important information about the project.  A new project description file has been created, but some information about the project may have been lost.
+!SUBENTRY 1 org.eclipse.core.resources 2 234 2020-11-18 10:04:24.367
+!MESSAGE The project description file (.project) for 'Tactic Digital' was missing.  This file contains important information about the project.  A new project description file has been created, but some information about the project may have been lost.
