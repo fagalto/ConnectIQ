@@ -2,20 +2,20 @@
 <section name="Workbench">
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
 		<item value="false" key="isRegEx"/>
-		<item value="drawHalfScreenDataField" key="selection"/>
+		<item value="" key="selection"/>
 		<item value="false" key="casesensitive"/>
 		<item value="false" key="incremental"/>
 		<item value="true" key="wrap"/>
 		<item value="false" key="wholeword"/>
 		<list key="findhistory">
+			<item value="onshow"/>
+			<item value="onShow"/>
+			<item value="bgColor = "/>
 			<item value="drawHalfScreenDataField"/>
-			<item value="dc.get"/>
-			<item value="screenCenterPoint"/>
-			<item value="drawFullScreen"/>
-			<item value="RenderShade"/>
-			<item value="bgRedrawRequested"/>
-			<item value="drawHoursoffCalc"/>
-			<item value="tRenderer"/>
+			<item value="getBack"/>
+			<item value="drawRectField"/>
+			<item value="drawHalfField"/>
+			<item value="obscurity flags is"/>
 		</list>
 		<list key="replacehistory">
 			<item value="dc"/>

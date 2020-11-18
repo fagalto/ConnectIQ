@@ -785,7 +785,7 @@
 <entry endPc="268448164" name="dc" stackId="1" startPc="268447808"/>
 <entry endPc="268448305" name="powerInfo" stackId="1" startPc="268448230"/>
 <entry endPc="268448552" name="rez_cmp_local_text_TimeLabel" stackId="3" startPc="268448320"/>
-<entry endPc="268448552" name="rez_cmp_local_custom_drawable_17063698782084347749" stackId="2" startPc="268448320"/>
+<entry endPc="268448552" name="rez_cmp_local_custom_drawable_15610648906458150903" stackId="2" startPc="268448320"/>
 <entry endPc="268448553" name="dc" stackId="1" startPc="268448308"/>
 </localVars>
 <annotations/>

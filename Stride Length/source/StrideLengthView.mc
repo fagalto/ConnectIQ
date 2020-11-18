@@ -157,16 +157,15 @@ if(mCad >0 and isPaused==false)
 
     function onUpdate(dc) {
  			
- 			View.findDrawableById("Background").setColor(getBackgroundColor());
  			
          bgColor = getBackgroundColor();
-       // System.println(bgColor);
         if(bgColor == Graphics.COLOR_BLACK)
         	{
         	fgColor = Graphics.COLOR_WHITE;
         	}
         	else
         		{fgColor = Graphics.COLOR_BLACK;}
+        		
   if(obscurityFlags==15) {
   drawFullScreen = 1;
   }
@@ -204,25 +203,7 @@ if(mCad >0 and isPaused==false)
         			else{
 				      // 	System.println("i draw rest"); 		
 		
-			  		 
-				        // Set the foreground color and value
-				        var value = View.findDrawableById("value");
-				        if(value) {
-				        if (getBackgroundColor() == Graphics.COLOR_BLACK) {
-				            value.setColor(Graphics.COLOR_WHITE);
-				        } else {
-				            value.setColor(Graphics.COLOR_BLACK);
-				        }
-				        value.setText(mValue.format("%i"));
-				        }
-				        //value.setText(obscurityFlags.toString());
-				
-				        // Call parent's onUpdate(dc) to redraw the layout
-				        if(View.findDrawableById("label"))
-				        	{
-				        	View.findDrawableById("label").setText(avgOrCurrent);
-				        	}  
-        	 View.onUpdate(dc);
+			  		 justWriteDownData(dc,mValue);
         	}
        
          	
@@ -275,39 +256,8 @@ if(mCad >0 and isPaused==false)
 function onLayout(dc) {
 
 		obscurityFlags = DataField.getObscurityFlags(); 
-            View.setLayout(Rez.Layouts.MainLayout(dc));
-        if ( obscurityFlags ==  (OBSCURE_TOP | OBSCURE_LEFT | OBSCURE_BOTTOM | OBSCURE_RIGHT)) {
-      
-			View.setLayout(Rez.Layouts.FullScreenLayout(dc));
-        // Top right quadrant so we'll use the top right layout
-        }
-        else if ( obscurityFlags ==  (OBSCURE_LEFT | OBSCURE_RIGHT | OBSCURE_TOP) and dc.getHeight() == (sHeight/2-1)) {
-			View.setLayout(Rez.Layouts.FullScreenLayout(dc));
-        // Top right quadrant so we'll use the top right layout
-        }
-        else
-        	{   
-			         if (obscurityFlags == (OBSCURE_TOP | OBSCURE_LEFT)) {
-			            View.setLayout(Rez.Layouts.TopLeftLayout(dc));
-			        } else if (obscurityFlags == (OBSCURE_TOP | OBSCURE_RIGHT)) {
-			            View.setLayout(Rez.Layouts.TopRightLayout(dc));
-			        } else if (obscurityFlags == (OBSCURE_BOTTOM | OBSCURE_LEFT)) {
-			            View.setLayout(Rez.Layouts.BottomLeftLayout(dc));
-			        } else if (obscurityFlags == (OBSCURE_BOTTOM | OBSCURE_RIGHT)) {
-			            View.setLayout(Rez.Layouts.BottomRightLayout(dc));
-			        } else if (obscurityFlags == (OBSCURE_RIGHT)) {
-			            View.setLayout(Rez.Layouts.RightLayout(dc));
-			        } else if (obscurityFlags == (OBSCURE_LEFT)) {
-			            View.setLayout(Rez.Layouts.LeftLayout(dc));
-			        }    
-        
-       	 }            
-          if(mFontHeight+xTinyHeight>sHeight)
-          	{
-          	 View.setLayout(Rez.Layouts.MiniLayout(dc));
-          	}
+        View.setLayout(Rez.Layouts.FullScreenLayout(dc));
  return true;
-       
     } 
 function drawFullScreenDataField(dc,dynamics,StrideLen,userHeight) {
 //draw Layout
@@ -511,4 +461,15 @@ dc.setColor(fgColor, Graphics.COLOR_TRANSPARENT);
 dc.drawText(fWidth/2, fHeight/10, Graphics.FONT_LARGE , StrideLen.format("%i")+" cm",Graphics.TEXT_JUSTIFY_CENTER);
 
 }  
+function justWriteDownData(dc,StrideLen) {
+var fWidth = dc.getWidth();
+var fHeight = dc.getHeight();
+dc.setColor(fgColor, bgColor);
+dc.clear();
+dc.setColor(Graphics.COLOR_DK_GRAY , Graphics.COLOR_TRANSPARENT);
+//dc.drawText(fWidth/2.0, fHeight*0.1, Graphics.FONT_TINY , "Stride [cm]",Graphics.TEXT_JUSTIFY_CENTER);
+//System.println("imma drawin on "+fWidth/2.0+"px-x, y= "+fHeight*0.1);
+dc.setColor(fgColor, Graphics.COLOR_TRANSPARENT);
+dc.drawText(fWidth/2.0, fHeight/2.0, Graphics.FONT_LARGE , StrideLen.format("%i")+"cm" ,Graphics.TEXT_JUSTIFY_CENTER | Graphics.TEXT_JUSTIFY_VCENTER);
+}
 }
