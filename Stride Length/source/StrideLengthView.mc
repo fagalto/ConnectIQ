@@ -35,6 +35,7 @@ class StrideLengthView extends WatchUi.DataField {
         var sHeight;
         var bgColor;
         var fgColor;
+        var gitTest;
 
 
     function initialize() {
