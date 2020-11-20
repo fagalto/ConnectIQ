@@ -85,7 +85,7 @@
 <entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\PureSettingsView.mc" id="17" lineNum="38" pc="268437059" symbol="onMenu"/>
 <entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\PureSettingsView.mc" id="17" lineNum="39" pc="268437113" symbol="onMenu"/>
 <entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\PureSettingsView.mc" id="17" lineNum="40" pc="268437146" symbol="onMenu"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\PureSettingsView.mc" id="17" lineNum="43" pc="268437198" symbol="onMenu"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\PureSettingsView.mc" id="17" lineNum="44" pc="268437198" symbol="onMenu"/>
 <entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\textRenderer.mc" id="19" lineNum="9" pc="268437251" symbol="initialize"/>
 <entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\textRenderer.mc" id="19" lineNum="10" pc="268437255" symbol="initialize"/>
 <entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\textRenderer.mc" id="20" lineNum="14" pc="268437266" symbol="calcText"/>
@@ -213,620 +213,719 @@
 <entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\PureSettingsMenu.mc" id="36" lineNum="47" pc="268440186" symbol="initialize"/>
 <entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\PureSettingsMenu.mc" id="37" lineNum="51" pc="268440233" symbol="onSelect"/>
 <entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\PureSettingsMenu.mc" id="37" lineNum="54" pc="268440237" symbol="onSelect"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\PureSettingsMenu.mc" id="37" lineNum="56" pc="268440265" symbol="onSelect"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\PureSettingsMenu.mc" id="37" lineNum="59" pc="268440312" symbol="onSelect"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\PureSettingsMenu.mc" id="37" lineNum="61" pc="268440330" symbol="onSelect"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\PureSettingsMenu.mc" id="37" lineNum="65" pc="268440417" symbol="onSelect"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\PureSettingsMenu.mc" id="37" lineNum="67" pc="268440477" symbol="onSelect"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\PureSettingsMenu.mc" id="37" lineNum="69" pc="268440505" symbol="onSelect"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\PureSettingsMenu.mc" id="37" lineNum="71" pc="268440552" symbol="onSelect"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\PureSettingsMenu.mc" id="37" lineNum="73" pc="268440582" symbol="onSelect"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\PureSettingsMenu.mc" id="37" lineNum="76" pc="268440669" symbol="onSelect"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\PureSettingsMenu.mc" id="37" lineNum="77" pc="268440729" symbol="onSelect"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\PureSettingsMenu.mc" id="37" lineNum="79" pc="268440757" symbol="onSelect"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\PureSettingsMenu.mc" id="37" lineNum="80" pc="268440804" symbol="onSelect"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\PureSettingsMenu.mc" id="37" lineNum="82" pc="268440834" symbol="onSelect"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\PureSettingsMenu.mc" id="37" lineNum="84" pc="268440921" symbol="onSelect"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\PureSettingsMenu.mc" id="37" lineNum="87" pc="268440981" symbol="onSelect"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\PureSettingsMenu.mc" id="37" lineNum="89" pc="268441009" symbol="onSelect"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\PureSettingsMenu.mc" id="37" lineNum="91" pc="268441023" symbol="onSelect"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\PureSettingsMenu.mc" id="37" lineNum="95" pc="268441060" symbol="onSelect"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\PureSettingsMenu.mc" id="37" lineNum="98" pc="268441097" symbol="onSelect"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\PureSettingsMenu.mc" id="37" lineNum="22" pc="268459539" symbol="&lt;init&gt;"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\PureSettingsMenu.mc" id="39" lineNum="106" pc="268441114" symbol="initialize"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\PureSettingsMenu.mc" id="39" lineNum="107" pc="268441118" symbol="initialize"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\PureSettingsMenu.mc" id="39" lineNum="108" pc="268441136" symbol="initialize"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\PureSettingsMenu.mc" id="40" lineNum="111" pc="268441147" symbol="onSelect"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\PureSettingsMenu.mc" id="40" lineNum="112" pc="268441151" symbol="onSelect"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\PureSettingsMenu.mc" id="40" lineNum="115" pc="268441164" symbol="onSelect"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\PureSettingsMenu.mc" id="40" lineNum="116" pc="268441201" symbol="onSelect"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\PureSettingsMenu.mc" id="41" lineNum="119" pc="268441230" symbol="onBack"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\PureSettingsMenu.mc" id="41" lineNum="120" pc="268441234" symbol="onBack"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderBackground.mc" id="43" lineNum="7" pc="268441263" symbol="initialize"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderBackground.mc" id="43" lineNum="8" pc="268441267" symbol="initialize"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderBackground.mc" id="43" lineNum="12" pc="268441288" symbol="initialize"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderBackground.mc" id="44" lineNum="15" pc="268441309" symbol="draw"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderBackground.mc" id="44" lineNum="17" pc="268441313" symbol="draw"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderBackground.mc" id="44" lineNum="18" pc="268441366" symbol="draw"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="46" lineNum="59" pc="268441379" symbol="initialize"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="46" lineNum="61" pc="268441383" symbol="initialize"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="46" lineNum="63" pc="268441401" symbol="initialize"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="46" lineNum="64" pc="268441411" symbol="initialize"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="46" lineNum="65" pc="268441425" symbol="initialize"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="46" lineNum="70" pc="268441439" symbol="initialize"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="47" lineNum="74" pc="268441474" symbol="onLayout"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="47" lineNum="77" pc="268441478" symbol="onLayout"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="47" lineNum="79" pc="268441542" symbol="onLayout"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="47" lineNum="80" pc="268441608" symbol="onLayout"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="47" lineNum="82" pc="268441628" symbol="onLayout"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="47" lineNum="84" pc="268441697" symbol="onLayout"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="47" lineNum="86" pc="268441717" symbol="onLayout"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="47" lineNum="90" pc="268441786" symbol="onLayout"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="47" lineNum="91" pc="268441800" symbol="onLayout"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="47" lineNum="92" pc="268441832" symbol="onLayout"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="47" lineNum="93" pc="268441864" symbol="onLayout"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="47" lineNum="94" pc="268441894" symbol="onLayout"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="47" lineNum="95" pc="268441926" symbol="onLayout"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="47" lineNum="97" pc="268441936" symbol="onLayout"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="47" lineNum="98" pc="268441979" symbol="onLayout"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="47" lineNum="99" pc="268442022" symbol="onLayout"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="47" lineNum="100" pc="268442065" symbol="onLayout"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="48" lineNum="105" pc="268442109" symbol="listProperties"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="48" lineNum="106" pc="268442113" symbol="listProperties"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="48" lineNum="107" pc="268442120" symbol="listProperties"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="48" lineNum="108" pc="268442258" symbol="listProperties"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="48" lineNum="110" pc="268442275" symbol="listProperties"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="49" lineNum="120" pc="268442289" symbol="onUpdate"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="49" lineNum="121" pc="268442293" symbol="onUpdate"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="49" lineNum="122" pc="268442293" symbol="onUpdate"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="49" lineNum="123" pc="268442293" symbol="onUpdate"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="49" lineNum="124" pc="268442306" symbol="onUpdate"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="49" lineNum="125" pc="268442323" symbol="onUpdate"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="49" lineNum="126" pc="268442323" symbol="onUpdate"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="49" lineNum="127" pc="268442323" symbol="onUpdate"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="49" lineNum="128" pc="268442323" symbol="onUpdate"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="49" lineNum="129" pc="268442326" symbol="onUpdate"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="49" lineNum="130" pc="268442329" symbol="onUpdate"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="49" lineNum="132" pc="268442339" symbol="onUpdate"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="49" lineNum="133" pc="268442351" symbol="onUpdate"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="49" lineNum="134" pc="268442373" symbol="onUpdate"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="49" lineNum="135" pc="268442395" symbol="onUpdate"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="49" lineNum="136" pc="268442417" symbol="onUpdate"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="49" lineNum="137" pc="268442439" symbol="onUpdate"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="49" lineNum="138" pc="268442457" symbol="onUpdate"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="49" lineNum="140" pc="268442549" symbol="onUpdate"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="49" lineNum="142" pc="268442561" symbol="onUpdate"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="49" lineNum="143" pc="268442590" symbol="onUpdate"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="49" lineNum="147" pc="268442619" symbol="onUpdate"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="49" lineNum="149" pc="268442633" symbol="onUpdate"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="49" lineNum="151" pc="268442667" symbol="onUpdate"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="49" lineNum="155" pc="268442707" symbol="onUpdate"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="50" lineNum="160" pc="268442746" symbol="drawBackground"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="50" lineNum="163" pc="268442750" symbol="drawBackground"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="50" lineNum="164" pc="268442762" symbol="drawBackground"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="50" lineNum="165" pc="268442774" symbol="drawBackground"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="50" lineNum="166" pc="268442802" symbol="drawBackground"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="50" lineNum="168" pc="268442846" symbol="drawBackground"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="50" lineNum="170" pc="268442863" symbol="drawBackground"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="50" lineNum="171" pc="268442885" symbol="drawBackground"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="50" lineNum="172" pc="268442907" symbol="drawBackground"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="50" lineNum="173" pc="268442929" symbol="drawBackground"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="50" lineNum="174" pc="268442945" symbol="drawBackground"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="50" lineNum="176" pc="268442959" symbol="drawBackground"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="50" lineNum="177" pc="268442982" symbol="drawBackground"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="51" lineNum="183" pc="268443010" symbol="drawMinutes"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="51" lineNum="185" pc="268443014" symbol="drawMinutes"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="51" lineNum="186" pc="268443051" symbol="drawMinutes"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="51" lineNum="188" pc="268443070" symbol="drawMinutes"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="51" lineNum="189" pc="268443125" symbol="drawMinutes"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="51" lineNum="190" pc="268443150" symbol="drawMinutes"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="51" lineNum="192" pc="268443172" symbol="drawMinutes"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="51" lineNum="193" pc="268443237" symbol="drawMinutes"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="52" lineNum="196" pc="268443260" symbol="drawHours"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="52" lineNum="197" pc="268443264" symbol="drawHours"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="52" lineNum="198" pc="268443308" symbol="drawHours"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="52" lineNum="199" pc="268443318" symbol="drawHours"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="52" lineNum="201" pc="268443329" symbol="drawHours"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="52" lineNum="203" pc="268443351" symbol="drawHours"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="52" lineNum="204" pc="268443363" symbol="drawHours"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="52" lineNum="205" pc="268443391" symbol="drawHours"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="52" lineNum="208" pc="268443412" symbol="drawHours"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="52" lineNum="210" pc="268443435" symbol="drawHours"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="52" lineNum="212" pc="268443461" symbol="drawHours"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="52" lineNum="220" pc="268443474" symbol="drawHours"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="52" lineNum="221" pc="268443492" symbol="drawHours"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="52" lineNum="222" pc="268443525" symbol="drawHours"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="52" lineNum="225" pc="268443577" symbol="drawHours"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="52" lineNum="226" pc="268443593" symbol="drawHours"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="52" lineNum="229" pc="268443648" symbol="drawHours"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="52" lineNum="232" pc="268443670" symbol="drawHours"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="52" lineNum="233" pc="268443689" symbol="drawHours"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="52" lineNum="236" pc="268443705" symbol="drawHours"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="52" lineNum="238" pc="268443770" symbol="drawHours"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="52" lineNum="239" pc="268443789" symbol="drawHours"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="52" lineNum="240" pc="268443838" symbol="drawHours"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="52" lineNum="245" pc="268443882" symbol="drawHours"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="52" lineNum="246" pc="268443922" symbol="drawHours"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="52" lineNum="249" pc="268443966" symbol="drawHours"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="52" lineNum="251" pc="268443985" symbol="drawHours"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="52" lineNum="252" pc="268444004" symbol="drawHours"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="52" lineNum="253" pc="268444050" symbol="drawHours"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="52" lineNum="256" pc="268444090" symbol="drawHours"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="52" lineNum="257" pc="268444112" symbol="drawHours"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="52" lineNum="258" pc="268444144" symbol="drawHours"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="52" lineNum="262" pc="268444184" symbol="drawHours"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="52" lineNum="267" pc="268444267" symbol="drawHours"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="52" lineNum="269" pc="268444347" symbol="drawHours"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="52" lineNum="270" pc="268444393" symbol="drawHours"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="52" lineNum="271" pc="268444418" symbol="drawHours"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="53" lineNum="276" pc="268444466" symbol="drawHoursoffCalc"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="53" lineNum="278" pc="268444470" symbol="drawHoursoffCalc"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="53" lineNum="280" pc="268444492" symbol="drawHoursoffCalc"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="53" lineNum="281" pc="268444514" symbol="drawHoursoffCalc"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="53" lineNum="282" pc="268444536" symbol="drawHoursoffCalc"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="53" lineNum="284" pc="268444544" symbol="drawHoursoffCalc"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="53" lineNum="286" pc="268444603" symbol="drawHoursoffCalc"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="54" lineNum="295" pc="268444620" symbol="drawSeconds"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="54" lineNum="297" pc="268444624" symbol="drawSeconds"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="54" lineNum="301" pc="268444638" symbol="drawSeconds"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="54" lineNum="302" pc="268444667" symbol="drawSeconds"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="54" lineNum="304" pc="268444678" symbol="drawSeconds"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="54" lineNum="307" pc="268444716" symbol="drawSeconds"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="54" lineNum="310" pc="268444744" symbol="drawSeconds"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="54" lineNum="311" pc="268444765" symbol="drawSeconds"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="54" lineNum="312" pc="268444845" symbol="drawSeconds"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="54" lineNum="313" pc="268444864" symbol="drawSeconds"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="54" lineNum="316" pc="268444917" symbol="drawSeconds"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="54" lineNum="318" pc="268444939" symbol="drawSeconds"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="54" lineNum="319" pc="268444992" symbol="drawSeconds"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="54" lineNum="324" pc="268445014" symbol="drawSeconds"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="54" lineNum="326" pc="268445033" symbol="drawSeconds"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="54" lineNum="327" pc="268445065" symbol="drawSeconds"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="54" lineNum="328" pc="268445082" symbol="drawSeconds"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="54" lineNum="329" pc="268445104" symbol="drawSeconds"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="55" lineNum="333" pc="268445127" symbol="drawFields"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="55" lineNum="337" pc="268445131" symbol="drawFields"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="55" lineNum="338" pc="268445148" symbol="drawFields"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="55" lineNum="339" pc="268445173" symbol="drawFields"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="55" lineNum="340" pc="268445180" symbol="drawFields"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="55" lineNum="341" pc="268445187" symbol="drawFields"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="55" lineNum="342" pc="268445218" symbol="drawFields"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="55" lineNum="343" pc="268445243" symbol="drawFields"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="55" lineNum="346" pc="268445273" symbol="drawFields"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="55" lineNum="347" pc="268445304" symbol="drawFields"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="55" lineNum="351" pc="268445315" symbol="drawFields"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="55" lineNum="352" pc="268445370" symbol="drawFields"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="55" lineNum="355" pc="268445383" symbol="drawFields"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="56" lineNum="363" pc="268445432" symbol="drawField"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="56" lineNum="368" pc="268445436" symbol="drawField"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="56" lineNum="369" pc="268445443" symbol="drawField"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="56" lineNum="371" pc="268445448" symbol="drawField"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="56" lineNum="372" pc="268445469" symbol="drawField"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="56" lineNum="375" pc="268445485" symbol="drawField"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="56" lineNum="380" pc="268445498" symbol="drawField"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="56" lineNum="383" pc="268445524" symbol="drawField"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="56" lineNum="385" pc="268445574" symbol="drawField"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="56" lineNum="387" pc="268445585" symbol="drawField"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="56" lineNum="389" pc="268445672" symbol="drawField"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="56" lineNum="391" pc="268445683" symbol="drawField"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="57" lineNum="395" pc="268445771" symbol="drawOffCalcField"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="57" lineNum="396" pc="268445775" symbol="drawOffCalcField"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="57" lineNum="399" pc="268445801" symbol="drawOffCalcField"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="58" lineNum="406" pc="268445852" symbol="RenderShade"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="58" lineNum="409" pc="268445856" symbol="RenderShade"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="58" lineNum="410" pc="268445866" symbol="RenderShade"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="58" lineNum="411" pc="268445876" symbol="RenderShade"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="58" lineNum="412" pc="268445886" symbol="RenderShade"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="58" lineNum="413" pc="268445896" symbol="RenderShade"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="58" lineNum="414" pc="268445912" symbol="RenderShade"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="58" lineNum="416" pc="268445929" symbol="RenderShade"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="58" lineNum="419" pc="268445941" symbol="RenderShade"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="58" lineNum="420" pc="268445961" symbol="RenderShade"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="58" lineNum="423" pc="268445984" symbol="RenderShade"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="58" lineNum="425" pc="268445996" symbol="RenderShade"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="58" lineNum="426" pc="268446016" symbol="RenderShade"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="59" lineNum="434" pc="268446040" symbol="DrawPolygon"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="59" lineNum="435" pc="268446044" symbol="DrawPolygon"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="59" lineNum="437" pc="268446068" symbol="DrawPolygon"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="60" lineNum="444" pc="268446150" symbol="dayOfWeek"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="60" lineNum="446" pc="268446154" symbol="dayOfWeek"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="60" lineNum="447" pc="268446266" symbol="dayOfWeek"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="60" lineNum="448" pc="268446275" symbol="dayOfWeek"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="60" lineNum="449" pc="268446288" symbol="dayOfWeek"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="60" lineNum="450" pc="268446301" symbol="dayOfWeek"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="60" lineNum="451" pc="268446314" symbol="dayOfWeek"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="60" lineNum="452" pc="268446327" symbol="dayOfWeek"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="60" lineNum="453" pc="268446340" symbol="dayOfWeek"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="60" lineNum="454" pc="268446353" symbol="dayOfWeek"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="60" lineNum="456" pc="268446366" symbol="dayOfWeek"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="61" lineNum="466" pc="268446392" symbol="getColorSettings"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="61" lineNum="467" pc="268446396" symbol="getColorSettings"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="61" lineNum="469" pc="268446430" symbol="getColorSettings"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="61" lineNum="473" pc="268446470" symbol="getColorSettings"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="61" lineNum="476" pc="268446508" symbol="getColorSettings"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="61" lineNum="478" pc="268446542" symbol="getColorSettings"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="61" lineNum="482" pc="268446582" symbol="getColorSettings"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="61" lineNum="484" pc="268446620" symbol="getColorSettings"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="61" lineNum="486" pc="268446654" symbol="getColorSettings"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="61" lineNum="491" pc="268446694" symbol="getColorSettings"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="62" lineNum="500" pc="268446733" symbol="getBoundingBox"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="62" lineNum="501" pc="268446737" symbol="getBoundingBox"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="62" lineNum="502" pc="268446759" symbol="getBoundingBox"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="62" lineNum="503" pc="268446781" symbol="getBoundingBox"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="62" lineNum="504" pc="268446803" symbol="getBoundingBox"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="62" lineNum="506" pc="268446825" symbol="getBoundingBox"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="62" lineNum="508" pc="268446849" symbol="getBoundingBox"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="62" lineNum="510" pc="268446876" symbol="getBoundingBox"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="62" lineNum="512" pc="268446896" symbol="getBoundingBox"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="62" lineNum="514" pc="268446915" symbol="getBoundingBox"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="62" lineNum="516" pc="268446935" symbol="getBoundingBox"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="62" lineNum="518" pc="268446954" symbol="getBoundingBox"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="62" lineNum="520" pc="268446974" symbol="getBoundingBox"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="62" lineNum="522" pc="268446993" symbol="getBoundingBox"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="62" lineNum="524" pc="268447013" symbol="getBoundingBox"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="62" lineNum="536" pc="268447058" symbol="getBoundingBox"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="62" lineNum="537" pc="268447077" symbol="getBoundingBox"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="62" lineNum="538" pc="268447096" symbol="getBoundingBox"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="63" lineNum="543" pc="268447170" symbol="generateSecondsThicks"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="63" lineNum="545" pc="268447174" symbol="generateSecondsThicks"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="63" lineNum="546" pc="268447181" symbol="generateSecondsThicks"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="63" lineNum="547" pc="268447191" symbol="generateSecondsThicks"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="63" lineNum="548" pc="268447195" symbol="generateSecondsThicks"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="63" lineNum="550" pc="268447218" symbol="generateSecondsThicks"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="63" lineNum="552" pc="268447315" symbol="generateSecondsThicks"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="63" lineNum="554" pc="268447412" symbol="generateSecondsThicks"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="63" lineNum="555" pc="268447431" symbol="generateSecondsThicks"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="63" lineNum="556" pc="268447450" symbol="generateSecondsThicks"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="63" lineNum="561" pc="268447458" symbol="generateSecondsThicks"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="63" lineNum="565" pc="268447702" symbol="generateSecondsThicks"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="63" lineNum="569" pc="268447946" symbol="generateSecondsThicks"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="64" lineNum="572" pc="268447974" symbol="miniBgRedraw"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="64" lineNum="574" pc="268447978" symbol="miniBgRedraw"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="64" lineNum="576" pc="268447991" symbol="miniBgRedraw"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="64" lineNum="577" pc="268448025" symbol="miniBgRedraw"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="64" lineNum="583" pc="268448114" symbol="miniBgRedraw"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="64" lineNum="586" pc="268448137" symbol="miniBgRedraw"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="64" lineNum="588" pc="268448262" symbol="miniBgRedraw"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="64" lineNum="591" pc="268448285" symbol="miniBgRedraw"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="64" lineNum="593" pc="268448410" symbol="miniBgRedraw"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="64" lineNum="599" pc="268448433" symbol="miniBgRedraw"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="64" lineNum="601" pc="268448546" symbol="miniBgRedraw"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="64" lineNum="605" pc="268448569" symbol="miniBgRedraw"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="65" lineNum="614" pc="268448683" symbol="onEnterSleep"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="65" lineNum="616" pc="268448687" symbol="onEnterSleep"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="65" lineNum="617" pc="268448710" symbol="onEnterSleep"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="65" lineNum="618" pc="268448719" symbol="onEnterSleep"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="65" lineNum="619" pc="268448737" symbol="onEnterSleep"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="65" lineNum="620" pc="268448755" symbol="onEnterSleep"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="65" lineNum="621" pc="268448771" symbol="onEnterSleep"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="65" lineNum="624" pc="268448793" symbol="onEnterSleep"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="65" lineNum="625" pc="268448803" symbol="onEnterSleep"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="65" lineNum="626" pc="268448813" symbol="onEnterSleep"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="66" lineNum="631" pc="268448838" symbol="onExitSleep"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="66" lineNum="632" pc="268448842" symbol="onExitSleep"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="66" lineNum="633" pc="268448852" symbol="onExitSleep"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="66" lineNum="634" pc="268448862" symbol="onExitSleep"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="67" lineNum="641" pc="268448879" symbol="onShow"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="67" lineNum="642" pc="268448883" symbol="onShow"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="67" lineNum="643" pc="268448893" symbol="onShow"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="67" lineNum="644" pc="268448903" symbol="onShow"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="68" lineNum="647" pc="268448920" symbol="drawIfActive"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="68" lineNum="648" pc="268448924" symbol="drawIfActive"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="68" lineNum="649" pc="268448934" symbol="drawIfActive"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="68" lineNum="651" pc="268448942" symbol="drawIfActive"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="68" lineNum="653" pc="268448955" symbol="drawIfActive"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="68" lineNum="654" pc="268448983" symbol="drawIfActive"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="69" lineNum="660" pc="268449052" symbol="getFields"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="69" lineNum="663" pc="268449056" symbol="getFields"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="69" lineNum="665" pc="268449063" symbol="getFields"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="69" lineNum="667" pc="268449081" symbol="getFields"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="69" lineNum="668" pc="268449091" symbol="getFields"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="69" lineNum="669" pc="268449128" symbol="getFields"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="69" lineNum="671" pc="268449174" symbol="getFields"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="70" lineNum="676" pc="268449232" symbol="onPartialUpdate"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="70" lineNum="679" pc="268449236" symbol="onPartialUpdate"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="70" lineNum="680" pc="268449250" symbol="onPartialUpdate"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="70" lineNum="681" pc="268449262" symbol="onPartialUpdate"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="70" lineNum="682" pc="268449285" symbol="onPartialUpdate"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="70" lineNum="683" pc="268449297" symbol="onPartialUpdate"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="70" lineNum="684" pc="268449326" symbol="onPartialUpdate"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="70" lineNum="686" pc="268449337" symbol="onPartialUpdate"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="70" lineNum="689" pc="268449375" symbol="onPartialUpdate"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="70" lineNum="692" pc="268449403" symbol="onPartialUpdate"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="70" lineNum="693" pc="268449424" symbol="onPartialUpdate"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="70" lineNum="697" pc="268449504" symbol="onPartialUpdate"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="72" lineNum="709" pc="268449532" symbol="onPowerBudgetExceeded"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="72" lineNum="710" pc="268449536" symbol="onPowerBudgetExceeded"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="72" lineNum="711" pc="268449566" symbol="onPowerBudgetExceeded"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="72" lineNum="712" pc="268449596" symbol="onPowerBudgetExceeded"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="74" lineNum="7" pc="268449610" symbol="initialize"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="74" lineNum="8" pc="268449614" symbol="initialize"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="75" lineNum="13" pc="268449625" symbol="renderSymbol"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="75" lineNum="14" pc="268449629" symbol="renderSymbol"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="75" lineNum="15" pc="268449636" symbol="renderSymbol"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="75" lineNum="16" pc="268449639" symbol="renderSymbol"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="75" lineNum="17" pc="268449642" symbol="renderSymbol"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="75" lineNum="18" pc="268449645" symbol="renderSymbol"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="75" lineNum="19" pc="268449653" symbol="renderSymbol"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="75" lineNum="20" pc="268449687" symbol="renderSymbol"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="75" lineNum="22" pc="268449710" symbol="renderSymbol"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="75" lineNum="98" pc="268449893" symbol="renderSymbol"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="75" lineNum="99" pc="268450085" symbol="renderSymbol"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="75" lineNum="26" pc="268450091" symbol="renderSymbol"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="75" lineNum="27" pc="268450739" symbol="renderSymbol"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="75" lineNum="29" pc="268451387" symbol="renderSymbol"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="75" lineNum="30" pc="268451415" symbol="renderSymbol"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="75" lineNum="31" pc="268451439" symbol="renderSymbol"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="75" lineNum="33" pc="268451482" symbol="renderSymbol"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="75" lineNum="36" pc="268451518" symbol="renderSymbol"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="75" lineNum="38" pc="268451521" symbol="renderSymbol"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="75" lineNum="42" pc="268452849" symbol="renderSymbol"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="75" lineNum="43" pc="268453497" symbol="renderSymbol"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="75" lineNum="44" pc="268453522" symbol="renderSymbol"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="75" lineNum="45" pc="268453547" symbol="renderSymbol"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="75" lineNum="46" pc="268453561" symbol="renderSymbol"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="75" lineNum="47" pc="268453581" symbol="renderSymbol"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="75" lineNum="49" pc="268453584" symbol="renderSymbol"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="75" lineNum="50" pc="268454472" symbol="renderSymbol"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="75" lineNum="51" pc="268454491" symbol="renderSymbol"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="75" lineNum="52" pc="268454819" symbol="renderSymbol"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="75" lineNum="53" pc="268454838" symbol="renderSymbol"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="75" lineNum="54" pc="268454852" symbol="renderSymbol"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="75" lineNum="56" pc="268454866" symbol="renderSymbol"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="75" lineNum="58" pc="268454869" symbol="renderSymbol"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="75" lineNum="59" pc="268454888" symbol="renderSymbol"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="75" lineNum="61" pc="268454898" symbol="renderSymbol"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="75" lineNum="63" pc="268454937" symbol="renderSymbol"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="75" lineNum="64" pc="268455305" symbol="renderSymbol"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="75" lineNum="65" pc="268455330" symbol="renderSymbol"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="75" lineNum="67" pc="268455532" symbol="renderSymbol"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="75" lineNum="68" pc="268455551" symbol="renderSymbol"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="75" lineNum="69" pc="268455565" symbol="renderSymbol"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="75" lineNum="70" pc="268455585" symbol="renderSymbol"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="75" lineNum="72" pc="268455596" symbol="renderSymbol"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="75" lineNum="73" pc="268455684" symbol="renderSymbol"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="75" lineNum="74" pc="268455703" symbol="renderSymbol"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="75" lineNum="76" pc="268455720" symbol="renderSymbol"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="75" lineNum="78" pc="268455723" symbol="renderSymbol"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="75" lineNum="79" pc="268456171" symbol="renderSymbol"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="75" lineNum="81" pc="268456174" symbol="renderSymbol"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="75" lineNum="82" pc="268456982" symbol="renderSymbol"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="75" lineNum="84" pc="268456985" symbol="renderSymbol"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="75" lineNum="85" pc="268457193" symbol="renderSymbol"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="75" lineNum="87" pc="268457196" symbol="renderSymbol"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="75" lineNum="88" pc="268457564" symbol="renderSymbol"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="75" lineNum="89" pc="268457583" symbol="renderSymbol"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="75" lineNum="90" pc="268457597" symbol="renderSymbol"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="75" lineNum="92" pc="268457600" symbol="renderSymbol"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="75" lineNum="94" pc="268458768" symbol="renderSymbol"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="75" lineNum="95" pc="268458787" symbol="renderSymbol"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="75" lineNum="96" pc="268458801" symbol="renderSymbol"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="75" lineNum="101" pc="268458807" symbol="renderSymbol"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="75" lineNum="102" pc="268458814" symbol="renderSymbol"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="75" lineNum="103" pc="268458833" symbol="renderSymbol"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="75" lineNum="104" pc="268458867" symbol="renderSymbol"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="76" lineNum="109" pc="268458891" symbol="DrawPoly"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="76" lineNum="110" pc="268458895" symbol="DrawPoly"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="76" lineNum="112" pc="268458919" symbol="DrawPoly"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="77" lineNum="116" pc="268459007" symbol="PolyTranslate"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="77" lineNum="118" pc="268459011" symbol="PolyTranslate"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="77" lineNum="120" pc="268459018" symbol="PolyTranslate"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="77" lineNum="121" pc="268459031" symbol="PolyTranslate"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="77" lineNum="123" pc="268459036" symbol="PolyTranslate"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="77" lineNum="125" pc="268459060" symbol="PolyTranslate"/>
-<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="77" lineNum="128" pc="268459131" symbol="PolyTranslate"/>
-<entry filename="Rez" id="83" lineNum="20" pc="268459135" symbol="WatchFace"/>
-<entry filename="Rez" id="83" lineNum="22" pc="268459147" symbol="WatchFace"/>
-<entry filename="Rez" id="83" lineNum="23" pc="268459171" symbol="WatchFace"/>
-<entry filename="Rez" id="83" lineNum="25" pc="268459334" symbol="WatchFace"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\PureSettingsMenu.mc" id="37" lineNum="55" pc="268440265" symbol="onSelect"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\PureSettingsMenu.mc" id="37" lineNum="56" pc="268440298" symbol="onSelect"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\PureSettingsMenu.mc" id="37" lineNum="62" pc="268440467" symbol="onSelect"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\PureSettingsMenu.mc" id="37" lineNum="65" pc="268440485" symbol="onSelect"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\PureSettingsMenu.mc" id="37" lineNum="67" pc="268440566" symbol="onSelect"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\PureSettingsMenu.mc" id="37" lineNum="68" pc="268440581" symbol="onSelect"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\PureSettingsMenu.mc" id="37" lineNum="69" pc="268440595" symbol="onSelect"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\PureSettingsMenu.mc" id="37" lineNum="74" pc="268440655" symbol="onSelect"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\PureSettingsMenu.mc" id="37" lineNum="77" pc="268440683" symbol="onSelect"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\PureSettingsMenu.mc" id="37" lineNum="78" pc="268440716" symbol="onSelect"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\PureSettingsMenu.mc" id="37" lineNum="84" pc="268440885" symbol="onSelect"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\PureSettingsMenu.mc" id="37" lineNum="87" pc="268440915" symbol="onSelect"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\PureSettingsMenu.mc" id="37" lineNum="89" pc="268440996" symbol="onSelect"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\PureSettingsMenu.mc" id="37" lineNum="90" pc="268441011" symbol="onSelect"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\PureSettingsMenu.mc" id="37" lineNum="91" pc="268441025" symbol="onSelect"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\PureSettingsMenu.mc" id="37" lineNum="94" pc="268441085" symbol="onSelect"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\PureSettingsMenu.mc" id="37" lineNum="96" pc="268441113" symbol="onSelect"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\PureSettingsMenu.mc" id="37" lineNum="97" pc="268441146" symbol="onSelect"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\PureSettingsMenu.mc" id="37" lineNum="103" pc="268441315" symbol="onSelect"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\PureSettingsMenu.mc" id="37" lineNum="106" pc="268441345" symbol="onSelect"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\PureSettingsMenu.mc" id="37" lineNum="108" pc="268441426" symbol="onSelect"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\PureSettingsMenu.mc" id="37" lineNum="109" pc="268441441" symbol="onSelect"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\PureSettingsMenu.mc" id="37" lineNum="110" pc="268441455" symbol="onSelect"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\PureSettingsMenu.mc" id="37" lineNum="112" pc="268441515" symbol="onSelect"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\PureSettingsMenu.mc" id="37" lineNum="114" pc="268441543" symbol="onSelect"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\PureSettingsMenu.mc" id="37" lineNum="116" pc="268441557" symbol="onSelect"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\PureSettingsMenu.mc" id="37" lineNum="120" pc="268441594" symbol="onSelect"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\PureSettingsMenu.mc" id="37" lineNum="125" pc="268441631" symbol="onSelect"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\PureSettingsMenu.mc" id="37" lineNum="22" pc="268461746" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\PureSettingsMenu.mc" id="39" lineNum="133" pc="268441648" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\PureSettingsMenu.mc" id="39" lineNum="134" pc="268441652" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\PureSettingsMenu.mc" id="39" lineNum="135" pc="268441670" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\PureSettingsMenu.mc" id="40" lineNum="138" pc="268441681" symbol="onSelect"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\PureSettingsMenu.mc" id="40" lineNum="139" pc="268441685" symbol="onSelect"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\PureSettingsMenu.mc" id="40" lineNum="142" pc="268441698" symbol="onSelect"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\PureSettingsMenu.mc" id="40" lineNum="143" pc="268441735" symbol="onSelect"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\PureSettingsMenu.mc" id="41" lineNum="146" pc="268441764" symbol="onBack"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\PureSettingsMenu.mc" id="41" lineNum="147" pc="268441768" symbol="onBack"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\PureSettingsMenu.mc" id="43" lineNum="155" pc="268441797" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\PureSettingsMenu.mc" id="43" lineNum="156" pc="268441801" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\PureSettingsMenu.mc" id="43" lineNum="157" pc="268441825" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\PureSettingsMenu.mc" id="44" lineNum="160" pc="268441854" symbol="drawTitle"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\PureSettingsMenu.mc" id="44" lineNum="161" pc="268441858" symbol="drawTitle"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\PureSettingsMenu.mc" id="44" lineNum="162" pc="268441871" symbol="drawTitle"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\PureSettingsMenu.mc" id="44" lineNum="163" pc="268441900" symbol="drawTitle"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\PureSettingsMenu.mc" id="44" lineNum="166" pc="268441935" symbol="drawTitle"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\PureSettingsMenu.mc" id="45" lineNum="169" pc="268441960" symbol="drawFooter"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\PureSettingsMenu.mc" id="45" lineNum="170" pc="268441964" symbol="drawFooter"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\PureSettingsMenu.mc" id="45" lineNum="171" pc="268441993" symbol="drawFooter"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\PureSettingsMenu.mc" id="45" lineNum="172" pc="268442007" symbol="drawFooter"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\PureSettingsMenu.mc" id="45" lineNum="173" pc="268442043" symbol="drawFooter"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\PureSettingsMenu.mc" id="45" lineNum="176" pc="268442061" symbol="drawFooter"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\PureSettingsMenu.mc" id="47" lineNum="183" pc="268442086" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\PureSettingsMenu.mc" id="47" lineNum="184" pc="268442090" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\PureSettingsMenu.mc" id="47" lineNum="185" pc="268442108" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\PureSettingsMenu.mc" id="48" lineNum="188" pc="268442119" symbol="onSelect"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\PureSettingsMenu.mc" id="48" lineNum="189" pc="268442123" symbol="onSelect"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\PureSettingsMenu.mc" id="48" lineNum="192" pc="268442136" symbol="onSelect"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\PureSettingsMenu.mc" id="48" lineNum="193" pc="268442173" symbol="onSelect"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\PureSettingsMenu.mc" id="49" lineNum="196" pc="268442202" symbol="onBack"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\PureSettingsMenu.mc" id="49" lineNum="197" pc="268442206" symbol="onBack"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\PureSettingsMenu.mc" id="50" lineNum="200" pc="268442235" symbol="onWrap"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\PureSettingsMenu.mc" id="50" lineNum="202" pc="268442239" symbol="onWrap"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\PureSettingsMenu.mc" id="52" lineNum="212" pc="268442243" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\PureSettingsMenu.mc" id="52" lineNum="213" pc="268442247" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\PureSettingsMenu.mc" id="52" lineNum="214" pc="268442273" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\PureSettingsMenu.mc" id="52" lineNum="215" pc="268442283" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\PureSettingsMenu.mc" id="52" lineNum="216" pc="268442293" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\PureSettingsMenu.mc" id="52" lineNum="218" pc="268442306" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\PureSettingsMenu.mc" id="52" lineNum="220" pc="268442329" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\PureSettingsMenu.mc" id="52" lineNum="222" pc="268442380" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\PureSettingsMenu.mc" id="53" lineNum="227" pc="268442404" symbol="draw"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\PureSettingsMenu.mc" id="53" lineNum="228" pc="268442408" symbol="draw"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\PureSettingsMenu.mc" id="53" lineNum="229" pc="268442408" symbol="draw"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\PureSettingsMenu.mc" id="53" lineNum="230" pc="268442422" symbol="draw"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\PureSettingsMenu.mc" id="53" lineNum="232" pc="268442439" symbol="draw"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\PureSettingsMenu.mc" id="53" lineNum="235" pc="268442453" symbol="draw"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\PureSettingsMenu.mc" id="53" lineNum="236" pc="268442467" symbol="draw"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\PureSettingsMenu.mc" id="53" lineNum="237" pc="268442503" symbol="draw"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\PureSettingsMenu.mc" id="53" lineNum="240" pc="268442518" symbol="draw"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\PureSettingsMenu.mc" id="53" lineNum="241" pc="268442550" symbol="draw"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\PureSettingsMenu.mc" id="53" lineNum="242" pc="268442631" symbol="draw"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\PureSettingsMenu.mc" id="53" lineNum="244" pc="268442663" symbol="draw"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\PureSettingsMenu.mc" id="55" lineNum="248" pc="268442726" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\PureSettingsMenu.mc" id="55" lineNum="249" pc="268442730" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\PureSettingsMenu.mc" id="56" lineNum="253" pc="268442755" symbol="draw"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\PureSettingsMenu.mc" id="56" lineNum="254" pc="268442759" symbol="draw"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\PureSettingsMenu.mc" id="56" lineNum="255" pc="268442795" symbol="draw"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\PureSettingsMenu.mc" id="58" lineNum="263" pc="268442834" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\PureSettingsMenu.mc" id="58" lineNum="264" pc="268442838" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\PureSettingsMenu.mc" id="58" lineNum="265" pc="268442862" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\PureSettingsMenu.mc" id="58" lineNum="266" pc="268442872" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\PureSettingsMenu.mc" id="58" lineNum="267" pc="268442882" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\PureSettingsMenu.mc" id="58" lineNum="269" pc="268442895" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\PureSettingsMenu.mc" id="59" lineNum="273" pc="268442919" symbol="setSelected"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\PureSettingsMenu.mc" id="59" lineNum="274" pc="268442923" symbol="setSelected"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\PureSettingsMenu.mc" id="60" lineNum="278" pc="268442934" symbol="draw"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\PureSettingsMenu.mc" id="60" lineNum="279" pc="268442938" symbol="draw"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\PureSettingsMenu.mc" id="60" lineNum="280" pc="268442957" symbol="draw"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\PureSettingsMenu.mc" id="60" lineNum="281" pc="268442976" symbol="draw"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\PureSettingsMenu.mc" id="60" lineNum="282" pc="268443016" symbol="draw"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\PureSettingsMenu.mc" id="60" lineNum="283" pc="268443032" symbol="draw"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\PureSettingsMenu.mc" id="60" lineNum="285" pc="268443044" symbol="draw"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\PureSettingsMenu.mc" id="60" lineNum="286" pc="268443076" symbol="draw"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderBackground.mc" id="62" lineNum="7" pc="268443138" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderBackground.mc" id="62" lineNum="8" pc="268443142" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderBackground.mc" id="62" lineNum="12" pc="268443163" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderBackground.mc" id="63" lineNum="15" pc="268443184" symbol="draw"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderBackground.mc" id="63" lineNum="17" pc="268443188" symbol="draw"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderBackground.mc" id="63" lineNum="18" pc="268443241" symbol="draw"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="65" lineNum="59" pc="268443254" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="65" lineNum="61" pc="268443258" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="65" lineNum="63" pc="268443276" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="65" lineNum="64" pc="268443286" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="65" lineNum="65" pc="268443300" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="65" lineNum="70" pc="268443314" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="66" lineNum="74" pc="268443349" symbol="onLayout"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="66" lineNum="77" pc="268443353" symbol="onLayout"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="66" lineNum="79" pc="268443417" symbol="onLayout"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="66" lineNum="80" pc="268443483" symbol="onLayout"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="66" lineNum="82" pc="268443503" symbol="onLayout"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="66" lineNum="84" pc="268443572" symbol="onLayout"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="66" lineNum="86" pc="268443592" symbol="onLayout"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="66" lineNum="90" pc="268443661" symbol="onLayout"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="66" lineNum="91" pc="268443675" symbol="onLayout"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="66" lineNum="92" pc="268443707" symbol="onLayout"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="66" lineNum="93" pc="268443739" symbol="onLayout"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="66" lineNum="94" pc="268443769" symbol="onLayout"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="66" lineNum="95" pc="268443801" symbol="onLayout"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="66" lineNum="97" pc="268443811" symbol="onLayout"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="66" lineNum="98" pc="268443854" symbol="onLayout"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="66" lineNum="99" pc="268443897" symbol="onLayout"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="66" lineNum="100" pc="268443940" symbol="onLayout"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="67" lineNum="105" pc="268443984" symbol="listProperties"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="67" lineNum="106" pc="268443988" symbol="listProperties"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="67" lineNum="107" pc="268443995" symbol="listProperties"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="67" lineNum="108" pc="268444133" symbol="listProperties"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="67" lineNum="110" pc="268444150" symbol="listProperties"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="68" lineNum="120" pc="268444164" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="68" lineNum="121" pc="268444168" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="68" lineNum="122" pc="268444168" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="68" lineNum="123" pc="268444168" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="68" lineNum="124" pc="268444181" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="68" lineNum="125" pc="268444198" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="68" lineNum="126" pc="268444198" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="68" lineNum="127" pc="268444198" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="68" lineNum="128" pc="268444198" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="68" lineNum="129" pc="268444201" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="68" lineNum="130" pc="268444204" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="68" lineNum="132" pc="268444214" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="68" lineNum="133" pc="268444226" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="68" lineNum="134" pc="268444248" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="68" lineNum="135" pc="268444270" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="68" lineNum="136" pc="268444292" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="68" lineNum="137" pc="268444314" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="68" lineNum="138" pc="268444332" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="68" lineNum="140" pc="268444424" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="68" lineNum="142" pc="268444436" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="68" lineNum="143" pc="268444465" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="68" lineNum="147" pc="268444494" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="68" lineNum="149" pc="268444508" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="68" lineNum="151" pc="268444542" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="68" lineNum="155" pc="268444582" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="69" lineNum="160" pc="268444621" symbol="drawBackground"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="69" lineNum="163" pc="268444625" symbol="drawBackground"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="69" lineNum="164" pc="268444637" symbol="drawBackground"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="69" lineNum="165" pc="268444649" symbol="drawBackground"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="69" lineNum="166" pc="268444677" symbol="drawBackground"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="69" lineNum="168" pc="268444721" symbol="drawBackground"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="69" lineNum="170" pc="268444738" symbol="drawBackground"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="69" lineNum="171" pc="268444760" symbol="drawBackground"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="69" lineNum="172" pc="268444782" symbol="drawBackground"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="69" lineNum="173" pc="268444804" symbol="drawBackground"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="69" lineNum="174" pc="268444820" symbol="drawBackground"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="69" lineNum="176" pc="268444834" symbol="drawBackground"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="69" lineNum="177" pc="268444857" symbol="drawBackground"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="70" lineNum="183" pc="268444885" symbol="drawMinutes"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="70" lineNum="185" pc="268444889" symbol="drawMinutes"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="70" lineNum="186" pc="268444926" symbol="drawMinutes"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="70" lineNum="188" pc="268444945" symbol="drawMinutes"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="70" lineNum="189" pc="268445000" symbol="drawMinutes"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="70" lineNum="190" pc="268445025" symbol="drawMinutes"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="70" lineNum="192" pc="268445047" symbol="drawMinutes"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="70" lineNum="193" pc="268445112" symbol="drawMinutes"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="71" lineNum="196" pc="268445135" symbol="drawHours"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="71" lineNum="197" pc="268445139" symbol="drawHours"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="71" lineNum="198" pc="268445183" symbol="drawHours"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="71" lineNum="199" pc="268445193" symbol="drawHours"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="71" lineNum="201" pc="268445204" symbol="drawHours"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="71" lineNum="203" pc="268445226" symbol="drawHours"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="71" lineNum="204" pc="268445238" symbol="drawHours"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="71" lineNum="205" pc="268445266" symbol="drawHours"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="71" lineNum="208" pc="268445287" symbol="drawHours"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="71" lineNum="210" pc="268445310" symbol="drawHours"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="71" lineNum="212" pc="268445336" symbol="drawHours"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="71" lineNum="220" pc="268445349" symbol="drawHours"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="71" lineNum="221" pc="268445367" symbol="drawHours"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="71" lineNum="222" pc="268445400" symbol="drawHours"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="71" lineNum="225" pc="268445452" symbol="drawHours"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="71" lineNum="226" pc="268445468" symbol="drawHours"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="71" lineNum="229" pc="268445523" symbol="drawHours"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="71" lineNum="232" pc="268445545" symbol="drawHours"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="71" lineNum="233" pc="268445564" symbol="drawHours"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="71" lineNum="236" pc="268445580" symbol="drawHours"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="71" lineNum="238" pc="268445645" symbol="drawHours"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="71" lineNum="239" pc="268445664" symbol="drawHours"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="71" lineNum="240" pc="268445713" symbol="drawHours"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="71" lineNum="245" pc="268445757" symbol="drawHours"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="71" lineNum="246" pc="268445797" symbol="drawHours"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="71" lineNum="249" pc="268445841" symbol="drawHours"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="71" lineNum="251" pc="268445860" symbol="drawHours"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="71" lineNum="252" pc="268445879" symbol="drawHours"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="71" lineNum="253" pc="268445925" symbol="drawHours"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="71" lineNum="256" pc="268445965" symbol="drawHours"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="71" lineNum="257" pc="268445987" symbol="drawHours"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="71" lineNum="258" pc="268446019" symbol="drawHours"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="71" lineNum="262" pc="268446059" symbol="drawHours"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="71" lineNum="267" pc="268446142" symbol="drawHours"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="71" lineNum="269" pc="268446222" symbol="drawHours"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="71" lineNum="270" pc="268446268" symbol="drawHours"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="71" lineNum="271" pc="268446293" symbol="drawHours"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="72" lineNum="276" pc="268446341" symbol="drawHoursoffCalc"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="72" lineNum="278" pc="268446345" symbol="drawHoursoffCalc"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="72" lineNum="280" pc="268446367" symbol="drawHoursoffCalc"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="72" lineNum="281" pc="268446389" symbol="drawHoursoffCalc"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="72" lineNum="282" pc="268446411" symbol="drawHoursoffCalc"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="72" lineNum="284" pc="268446419" symbol="drawHoursoffCalc"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="72" lineNum="286" pc="268446478" symbol="drawHoursoffCalc"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="73" lineNum="295" pc="268446495" symbol="drawSeconds"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="73" lineNum="297" pc="268446499" symbol="drawSeconds"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="73" lineNum="301" pc="268446513" symbol="drawSeconds"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="73" lineNum="302" pc="268446542" symbol="drawSeconds"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="73" lineNum="304" pc="268446553" symbol="drawSeconds"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="73" lineNum="307" pc="268446591" symbol="drawSeconds"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="73" lineNum="310" pc="268446619" symbol="drawSeconds"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="73" lineNum="311" pc="268446640" symbol="drawSeconds"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="73" lineNum="312" pc="268446720" symbol="drawSeconds"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="73" lineNum="313" pc="268446739" symbol="drawSeconds"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="73" lineNum="316" pc="268446792" symbol="drawSeconds"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="73" lineNum="318" pc="268446814" symbol="drawSeconds"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="73" lineNum="319" pc="268446867" symbol="drawSeconds"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="73" lineNum="324" pc="268446889" symbol="drawSeconds"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="73" lineNum="326" pc="268446908" symbol="drawSeconds"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="73" lineNum="327" pc="268446940" symbol="drawSeconds"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="73" lineNum="328" pc="268446957" symbol="drawSeconds"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="73" lineNum="329" pc="268446979" symbol="drawSeconds"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="74" lineNum="333" pc="268447002" symbol="drawFields"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="74" lineNum="337" pc="268447006" symbol="drawFields"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="74" lineNum="338" pc="268447023" symbol="drawFields"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="74" lineNum="339" pc="268447048" symbol="drawFields"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="74" lineNum="340" pc="268447055" symbol="drawFields"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="74" lineNum="341" pc="268447062" symbol="drawFields"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="74" lineNum="342" pc="268447093" symbol="drawFields"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="74" lineNum="343" pc="268447118" symbol="drawFields"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="74" lineNum="346" pc="268447148" symbol="drawFields"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="74" lineNum="347" pc="268447179" symbol="drawFields"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="74" lineNum="351" pc="268447190" symbol="drawFields"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="74" lineNum="352" pc="268447245" symbol="drawFields"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="74" lineNum="355" pc="268447258" symbol="drawFields"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="75" lineNum="363" pc="268447307" symbol="drawField"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="75" lineNum="368" pc="268447311" symbol="drawField"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="75" lineNum="369" pc="268447318" symbol="drawField"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="75" lineNum="371" pc="268447323" symbol="drawField"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="75" lineNum="372" pc="268447344" symbol="drawField"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="75" lineNum="375" pc="268447360" symbol="drawField"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="75" lineNum="380" pc="268447373" symbol="drawField"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="75" lineNum="383" pc="268447399" symbol="drawField"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="75" lineNum="385" pc="268447449" symbol="drawField"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="75" lineNum="387" pc="268447460" symbol="drawField"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="75" lineNum="389" pc="268447547" symbol="drawField"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="75" lineNum="391" pc="268447558" symbol="drawField"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="76" lineNum="395" pc="268447646" symbol="drawOffCalcField"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="76" lineNum="396" pc="268447650" symbol="drawOffCalcField"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="76" lineNum="399" pc="268447676" symbol="drawOffCalcField"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="77" lineNum="406" pc="268447727" symbol="RenderShade"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="77" lineNum="409" pc="268447731" symbol="RenderShade"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="77" lineNum="410" pc="268447741" symbol="RenderShade"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="77" lineNum="411" pc="268447751" symbol="RenderShade"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="77" lineNum="412" pc="268447761" symbol="RenderShade"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="77" lineNum="413" pc="268447771" symbol="RenderShade"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="77" lineNum="414" pc="268447787" symbol="RenderShade"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="77" lineNum="416" pc="268447804" symbol="RenderShade"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="77" lineNum="419" pc="268447816" symbol="RenderShade"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="77" lineNum="420" pc="268447836" symbol="RenderShade"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="77" lineNum="423" pc="268447859" symbol="RenderShade"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="77" lineNum="425" pc="268447871" symbol="RenderShade"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="77" lineNum="426" pc="268447891" symbol="RenderShade"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="78" lineNum="434" pc="268447915" symbol="DrawPolygon"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="78" lineNum="435" pc="268447919" symbol="DrawPolygon"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="78" lineNum="437" pc="268447943" symbol="DrawPolygon"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="79" lineNum="444" pc="268448025" symbol="dayOfWeek"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="79" lineNum="446" pc="268448029" symbol="dayOfWeek"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="79" lineNum="447" pc="268448141" symbol="dayOfWeek"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="79" lineNum="448" pc="268448150" symbol="dayOfWeek"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="79" lineNum="449" pc="268448163" symbol="dayOfWeek"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="79" lineNum="450" pc="268448176" symbol="dayOfWeek"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="79" lineNum="451" pc="268448189" symbol="dayOfWeek"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="79" lineNum="452" pc="268448202" symbol="dayOfWeek"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="79" lineNum="453" pc="268448215" symbol="dayOfWeek"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="79" lineNum="454" pc="268448228" symbol="dayOfWeek"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="79" lineNum="456" pc="268448241" symbol="dayOfWeek"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="80" lineNum="466" pc="268448267" symbol="getColorSettings"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="80" lineNum="467" pc="268448271" symbol="getColorSettings"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="80" lineNum="469" pc="268448305" symbol="getColorSettings"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="80" lineNum="473" pc="268448345" symbol="getColorSettings"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="80" lineNum="476" pc="268448383" symbol="getColorSettings"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="80" lineNum="478" pc="268448417" symbol="getColorSettings"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="80" lineNum="482" pc="268448457" symbol="getColorSettings"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="80" lineNum="484" pc="268448495" symbol="getColorSettings"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="80" lineNum="486" pc="268448529" symbol="getColorSettings"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="80" lineNum="491" pc="268448569" symbol="getColorSettings"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="81" lineNum="500" pc="268448608" symbol="getBoundingBox"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="81" lineNum="501" pc="268448612" symbol="getBoundingBox"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="81" lineNum="502" pc="268448634" symbol="getBoundingBox"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="81" lineNum="503" pc="268448656" symbol="getBoundingBox"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="81" lineNum="504" pc="268448678" symbol="getBoundingBox"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="81" lineNum="506" pc="268448700" symbol="getBoundingBox"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="81" lineNum="508" pc="268448724" symbol="getBoundingBox"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="81" lineNum="510" pc="268448751" symbol="getBoundingBox"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="81" lineNum="512" pc="268448771" symbol="getBoundingBox"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="81" lineNum="514" pc="268448790" symbol="getBoundingBox"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="81" lineNum="516" pc="268448810" symbol="getBoundingBox"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="81" lineNum="518" pc="268448829" symbol="getBoundingBox"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="81" lineNum="520" pc="268448849" symbol="getBoundingBox"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="81" lineNum="522" pc="268448868" symbol="getBoundingBox"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="81" lineNum="524" pc="268448888" symbol="getBoundingBox"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="81" lineNum="536" pc="268448933" symbol="getBoundingBox"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="81" lineNum="537" pc="268448952" symbol="getBoundingBox"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="81" lineNum="538" pc="268448971" symbol="getBoundingBox"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="82" lineNum="543" pc="268449045" symbol="generateSecondsThicks"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="82" lineNum="545" pc="268449049" symbol="generateSecondsThicks"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="82" lineNum="546" pc="268449056" symbol="generateSecondsThicks"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="82" lineNum="547" pc="268449066" symbol="generateSecondsThicks"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="82" lineNum="548" pc="268449070" symbol="generateSecondsThicks"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="82" lineNum="550" pc="268449093" symbol="generateSecondsThicks"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="82" lineNum="552" pc="268449190" symbol="generateSecondsThicks"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="82" lineNum="554" pc="268449287" symbol="generateSecondsThicks"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="82" lineNum="555" pc="268449306" symbol="generateSecondsThicks"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="82" lineNum="556" pc="268449325" symbol="generateSecondsThicks"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="82" lineNum="561" pc="268449333" symbol="generateSecondsThicks"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="82" lineNum="565" pc="268449577" symbol="generateSecondsThicks"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="82" lineNum="569" pc="268449821" symbol="generateSecondsThicks"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="83" lineNum="572" pc="268449849" symbol="miniBgRedraw"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="83" lineNum="574" pc="268449853" symbol="miniBgRedraw"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="83" lineNum="576" pc="268449866" symbol="miniBgRedraw"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="83" lineNum="577" pc="268449900" symbol="miniBgRedraw"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="83" lineNum="583" pc="268449989" symbol="miniBgRedraw"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="83" lineNum="586" pc="268450012" symbol="miniBgRedraw"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="83" lineNum="588" pc="268450137" symbol="miniBgRedraw"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="83" lineNum="591" pc="268450160" symbol="miniBgRedraw"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="83" lineNum="593" pc="268450285" symbol="miniBgRedraw"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="83" lineNum="599" pc="268450308" symbol="miniBgRedraw"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="83" lineNum="601" pc="268450421" symbol="miniBgRedraw"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="83" lineNum="605" pc="268450444" symbol="miniBgRedraw"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="84" lineNum="614" pc="268450558" symbol="onEnterSleep"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="84" lineNum="616" pc="268450562" symbol="onEnterSleep"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="84" lineNum="617" pc="268450585" symbol="onEnterSleep"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="84" lineNum="618" pc="268450594" symbol="onEnterSleep"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="84" lineNum="619" pc="268450612" symbol="onEnterSleep"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="84" lineNum="620" pc="268450630" symbol="onEnterSleep"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="84" lineNum="621" pc="268450646" symbol="onEnterSleep"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="84" lineNum="624" pc="268450668" symbol="onEnterSleep"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="84" lineNum="625" pc="268450678" symbol="onEnterSleep"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="84" lineNum="626" pc="268450688" symbol="onEnterSleep"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="85" lineNum="631" pc="268450713" symbol="onExitSleep"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="85" lineNum="632" pc="268450717" symbol="onExitSleep"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="85" lineNum="633" pc="268450727" symbol="onExitSleep"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="85" lineNum="634" pc="268450737" symbol="onExitSleep"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="86" lineNum="641" pc="268450754" symbol="onShow"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="86" lineNum="642" pc="268450758" symbol="onShow"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="86" lineNum="643" pc="268450768" symbol="onShow"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="86" lineNum="644" pc="268450778" symbol="onShow"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="87" lineNum="647" pc="268450795" symbol="drawIfActive"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="87" lineNum="648" pc="268450799" symbol="drawIfActive"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="87" lineNum="649" pc="268450809" symbol="drawIfActive"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="87" lineNum="651" pc="268450817" symbol="drawIfActive"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="87" lineNum="653" pc="268450830" symbol="drawIfActive"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="87" lineNum="654" pc="268450858" symbol="drawIfActive"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="88" lineNum="660" pc="268450927" symbol="getFields"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="88" lineNum="663" pc="268450931" symbol="getFields"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="88" lineNum="665" pc="268450938" symbol="getFields"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="88" lineNum="667" pc="268450956" symbol="getFields"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="88" lineNum="668" pc="268450966" symbol="getFields"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="88" lineNum="669" pc="268451003" symbol="getFields"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="88" lineNum="671" pc="268451049" symbol="getFields"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="89" lineNum="676" pc="268451107" symbol="onPartialUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="89" lineNum="679" pc="268451111" symbol="onPartialUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="89" lineNum="680" pc="268451125" symbol="onPartialUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="89" lineNum="681" pc="268451137" symbol="onPartialUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="89" lineNum="682" pc="268451160" symbol="onPartialUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="89" lineNum="683" pc="268451172" symbol="onPartialUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="89" lineNum="684" pc="268451201" symbol="onPartialUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="89" lineNum="686" pc="268451212" symbol="onPartialUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="89" lineNum="689" pc="268451250" symbol="onPartialUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="89" lineNum="692" pc="268451278" symbol="onPartialUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="89" lineNum="693" pc="268451299" symbol="onPartialUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="89" lineNum="697" pc="268451379" symbol="onPartialUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="91" lineNum="709" pc="268451407" symbol="onPowerBudgetExceeded"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="91" lineNum="710" pc="268451411" symbol="onPowerBudgetExceeded"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="91" lineNum="711" pc="268451441" symbol="onPowerBudgetExceeded"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\SliderView.mc" id="91" lineNum="712" pc="268451471" symbol="onPowerBudgetExceeded"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="93" lineNum="7" pc="268451485" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="93" lineNum="8" pc="268451489" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="94" lineNum="13" pc="268451500" symbol="renderSymbol"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="94" lineNum="14" pc="268451504" symbol="renderSymbol"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="94" lineNum="15" pc="268451511" symbol="renderSymbol"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="94" lineNum="16" pc="268451514" symbol="renderSymbol"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="94" lineNum="17" pc="268451517" symbol="renderSymbol"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="94" lineNum="18" pc="268451520" symbol="renderSymbol"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="94" lineNum="19" pc="268451528" symbol="renderSymbol"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="94" lineNum="20" pc="268451562" symbol="renderSymbol"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="94" lineNum="22" pc="268451585" symbol="renderSymbol"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="94" lineNum="98" pc="268451768" symbol="renderSymbol"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="94" lineNum="99" pc="268451960" symbol="renderSymbol"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="94" lineNum="26" pc="268451966" symbol="renderSymbol"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="94" lineNum="27" pc="268452614" symbol="renderSymbol"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="94" lineNum="29" pc="268453262" symbol="renderSymbol"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="94" lineNum="30" pc="268453290" symbol="renderSymbol"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="94" lineNum="31" pc="268453314" symbol="renderSymbol"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="94" lineNum="33" pc="268453357" symbol="renderSymbol"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="94" lineNum="36" pc="268453393" symbol="renderSymbol"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="94" lineNum="38" pc="268453396" symbol="renderSymbol"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="94" lineNum="42" pc="268454724" symbol="renderSymbol"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="94" lineNum="43" pc="268455372" symbol="renderSymbol"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="94" lineNum="44" pc="268455397" symbol="renderSymbol"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="94" lineNum="45" pc="268455422" symbol="renderSymbol"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="94" lineNum="46" pc="268455436" symbol="renderSymbol"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="94" lineNum="47" pc="268455456" symbol="renderSymbol"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="94" lineNum="49" pc="268455459" symbol="renderSymbol"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="94" lineNum="50" pc="268456347" symbol="renderSymbol"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="94" lineNum="51" pc="268456366" symbol="renderSymbol"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="94" lineNum="52" pc="268456694" symbol="renderSymbol"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="94" lineNum="53" pc="268456713" symbol="renderSymbol"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="94" lineNum="54" pc="268456727" symbol="renderSymbol"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="94" lineNum="56" pc="268456741" symbol="renderSymbol"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="94" lineNum="58" pc="268456744" symbol="renderSymbol"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="94" lineNum="59" pc="268456763" symbol="renderSymbol"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="94" lineNum="61" pc="268456773" symbol="renderSymbol"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="94" lineNum="63" pc="268456812" symbol="renderSymbol"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="94" lineNum="64" pc="268457180" symbol="renderSymbol"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="94" lineNum="65" pc="268457205" symbol="renderSymbol"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="94" lineNum="67" pc="268457407" symbol="renderSymbol"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="94" lineNum="68" pc="268457426" symbol="renderSymbol"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="94" lineNum="69" pc="268457440" symbol="renderSymbol"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="94" lineNum="70" pc="268457460" symbol="renderSymbol"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="94" lineNum="72" pc="268457471" symbol="renderSymbol"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="94" lineNum="73" pc="268457559" symbol="renderSymbol"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="94" lineNum="74" pc="268457578" symbol="renderSymbol"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="94" lineNum="76" pc="268457595" symbol="renderSymbol"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="94" lineNum="78" pc="268457598" symbol="renderSymbol"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="94" lineNum="79" pc="268458046" symbol="renderSymbol"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="94" lineNum="81" pc="268458049" symbol="renderSymbol"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="94" lineNum="82" pc="268458857" symbol="renderSymbol"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="94" lineNum="84" pc="268458860" symbol="renderSymbol"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="94" lineNum="85" pc="268459068" symbol="renderSymbol"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="94" lineNum="87" pc="268459071" symbol="renderSymbol"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="94" lineNum="88" pc="268459439" symbol="renderSymbol"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="94" lineNum="89" pc="268459458" symbol="renderSymbol"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="94" lineNum="90" pc="268459472" symbol="renderSymbol"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="94" lineNum="92" pc="268459475" symbol="renderSymbol"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="94" lineNum="94" pc="268460643" symbol="renderSymbol"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="94" lineNum="95" pc="268460662" symbol="renderSymbol"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="94" lineNum="96" pc="268460676" symbol="renderSymbol"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="94" lineNum="101" pc="268460682" symbol="renderSymbol"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="94" lineNum="102" pc="268460689" symbol="renderSymbol"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="94" lineNum="103" pc="268460708" symbol="renderSymbol"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="94" lineNum="104" pc="268460742" symbol="renderSymbol"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="95" lineNum="109" pc="268460766" symbol="DrawPoly"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="95" lineNum="110" pc="268460770" symbol="DrawPoly"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="95" lineNum="112" pc="268460794" symbol="DrawPoly"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="96" lineNum="116" pc="268460882" symbol="PolyTranslate"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="96" lineNum="118" pc="268460886" symbol="PolyTranslate"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="96" lineNum="120" pc="268460893" symbol="PolyTranslate"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="96" lineNum="121" pc="268460906" symbol="PolyTranslate"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="96" lineNum="123" pc="268460911" symbol="PolyTranslate"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="96" lineNum="125" pc="268460935" symbol="PolyTranslate"/>
+<entry filename="C:\\Users\\grabowski.a\\ConnectIQ\\Pure Digital\\source\\symbolRenderer.mc" id="96" lineNum="128" pc="268461006" symbol="PolyTranslate"/>
+<entry filename="Rez" id="100" lineNum="12" pc="268461010" symbol="initialize"/>
+<entry filename="Rez" id="100" lineNum="13" pc="268461014" symbol="initialize"/>
+<entry filename="Rez" id="101" lineNum="16" pc="268461039" symbol="draw"/>
+<entry filename="Rez" id="101" lineNum="18" pc="268461043" symbol="draw"/>
+<entry filename="Rez" id="101" lineNum="19" pc="268461079" symbol="draw"/>
+<entry filename="Rez" id="101" lineNum="20" pc="268461135" symbol="draw"/>
+<entry filename="Rez" id="105" lineNum="41" pc="268461172" symbol="WatchFace"/>
+<entry filename="Rez" id="105" lineNum="44" pc="268461184" symbol="WatchFace"/>
+<entry filename="Rez" id="105" lineNum="45" pc="268461208" symbol="WatchFace"/>
+<entry filename="Rez" id="105" lineNum="47" pc="268461389" symbol="WatchFace"/>
 </pcToLineNum>
 <symbolTable>
 <entry id="8388639" module="true" symbol="Graphics"/>
-<entry field="true" id="30" symbol="polygons"/>
-<entry field="true" id="92" symbol="screenCenterPoint"/>
-<entry field="true" id="89" symbol="Altitude"/>
-<entry field="true" id="96" symbol="tempUnits"/>
-<entry id="122" method="true" symbol="drawMinutes"/>
+<entry field="true" id="150" symbol="polygons"/>
+<entry field="true" id="104" symbol="screenCenterPoint"/>
+<entry field="true" id="81" symbol="Altitude"/>
+<entry field="true" id="108" symbol="tempUnits"/>
+<entry id="134" method="true" symbol="drawMinutes"/>
 <entry id="8388632" method="true" symbol="&lt;init&gt;"/>
-<entry field="true" id="67" symbol="Temperature"/>
-<entry id="145" method="true" symbol="drawHrGraph"/>
+<entry field="true" id="59" symbol="Temperature"/>
+<entry id="100" method="true" symbol="drawHrGraph"/>
 <entry id="4" module="true" symbol="globals/Rez/Menus"/>
-<entry field="true" id="41" symbol="MPink"/>
-<entry id="131" method="true" symbol="dayOfWeek"/>
-<entry field="true" id="51" symbol="MLightBlue"/>
-<entry field="true" id="65" symbol="Steps"/>
-<entry field="true" id="119" symbol="fheights"/>
-<entry field="true" id="146" symbol="availableColors"/>
-<entry field="true" id="83" symbol="Field_4_Title"/>
-<entry field="true" id="77" symbol="ColorGreen"/>
+<entry field="true" id="33" symbol="MPink"/>
+<entry id="143" method="true" symbol="dayOfWeek"/>
+<entry field="true" id="43" symbol="MLightBlue"/>
+<entry id="8390740" method="true" symbol="drawTitle"/>
+<entry field="true" id="57" symbol="Steps"/>
+<entry field="true" id="131" symbol="fheights"/>
+<entry field="true" id="101" symbol="availableColors"/>
+<entry field="true" id="75" symbol="Field_4_Title"/>
+<entry field="true" id="69" symbol="ColorGreen"/>
 <entry id="8389683" method="true" symbol="onSettingsChanged"/>
-<entry field="true" id="70" symbol="ColorYellow"/>
-<entry field="true" id="112" symbol="myDc"/>
+<entry field="true" id="62" symbol="ColorYellow"/>
+<entry field="true" id="124" symbol="myDc"/>
 <entry id="13" object="true" symbol="textRenderer"/>
 <entry id="8390098" method="true" symbol="onPowerBudgetExceeded"/>
-<entry field="true" id="88" symbol="MDeepOrange"/>
-<entry field="true" id="115" symbol="font_hours"/>
-<entry field="true" id="43" symbol="Field_5_Title"/>
-<entry field="true" id="62" symbol="MAmber"/>
-<entry field="true" id="45" symbol="ColorRed"/>
+<entry field="true" id="80" symbol="MDeepOrange"/>
+<entry field="true" id="127" symbol="font_hours"/>
+<entry field="true" id="35" symbol="Field_5_Title"/>
+<entry field="true" id="54" symbol="MAmber"/>
+<entry field="true" id="37" symbol="ColorRed"/>
 <entry id="8389702" method="true" symbol="getHeartRateHistory"/>
-<entry field="true" id="38" symbol="DoNotDisturbIcon"/>
-<entry field="true" id="55" symbol="Field_6_Title"/>
-<entry field="true" id="99" symbol="DtColor"/>
-<entry id="127" method="true" symbol="drawField"/>
+<entry field="true" id="29" symbol="DoNotDisturbIcon"/>
+<entry field="true" id="47" symbol="Field_6_Title"/>
+<entry field="true" id="111" symbol="DtColor"/>
+<entry id="139" method="true" symbol="drawField"/>
+<entry field="true" id="88" symbol="mIsTitleSelected"/>
 <entry id="8390424" module="true" symbol="Storage"/>
-<entry field="true" id="110" symbol="iKeeper"/>
-<entry id="125" method="true" symbol="drawSeconds"/>
-<entry field="true" id="111" symbol="hrBox"/>
-<entry id="32" method="true" symbol="calcText"/>
-<entry id="132" method="true" symbol="getColorSettings"/>
+<entry field="true" id="122" symbol="iKeeper"/>
+<entry field="true" id="8390407" symbol="mLabel"/>
+<entry id="137" method="true" symbol="drawSeconds"/>
+<entry field="true" id="123" symbol="hrBox"/>
+<entry id="152" method="true" symbol="calcText"/>
+<entry id="144" method="true" symbol="getColorSettings"/>
 <entry id="8389800" method="true" symbol="getTemperatureHistory"/>
 <entry id="8388924" module="true" symbol="Gregorian"/>
-<entry field="true" id="104" symbol="offlineFieldValues"/>
-<entry field="true" id="42" symbol="MPurple"/>
+<entry field="true" id="116" symbol="offlineFieldValues"/>
+<entry field="true" id="34" symbol="MPurple"/>
 <entry field="true" id="8388611" module="true" symbol="Toybox"/>
-<entry field="true" id="68" symbol="HeartRate"/>
-<entry id="20" object="true" symbol="SliderViewDelegate"/>
-<entry field="true" id="66" symbol="ColorBlue"/>
-<entry id="34" method="true" symbol="polyMaxX"/>
-<entry field="true" id="72" symbol="AppName"/>
+<entry id="8391075" symbol="isTitleSelected"/>
+<entry field="true" id="60" symbol="HeartRate"/>
+<entry id="25" object="true" symbol="SliderViewDelegate"/>
+<entry field="true" id="58" symbol="ColorBlue"/>
+<entry id="154" method="true" symbol="polyMaxX"/>
+<entry id="8391076" symbol="isFooterSelected"/>
+<entry field="true" id="64" symbol="AppName"/>
 <entry id="8388633" module="true" symbol="ActivityMonitor"/>
-<entry field="true" id="40" symbol="date"/>
+<entry field="true" id="32" symbol="date"/>
 <entry field="true" id="8389807" symbol="data"/>
-<entry field="true" id="100" symbol="FgColor"/>
-<entry field="true" id="29" symbol="bgColor"/>
+<entry field="true" id="112" symbol="FgColor"/>
+<entry field="true" id="91" symbol="bgColor"/>
 <entry id="8" module="true" symbol="globals/Rez/Strings"/>
 <entry id="8389080" method="true" symbol="onMenu"/>
 <entry id="8388772" module="true" object="true" symbol="Fonts"/>
-<entry field="true" id="90" symbol="isAwake"/>
-<entry id="134" method="true" symbol="miniBgRedraw"/>
+<entry field="true" id="102" symbol="isAwake"/>
+<entry id="147" method="true" symbol="miniBgRedraw"/>
 <entry id="8388648" module="true" symbol="WatchUi"/>
-<entry field="true" id="57" symbol="ColorOrange"/>
+<entry field="true" id="49" symbol="ColorOrange"/>
 <entry id="8389081" method="true" symbol="onBack"/>
 <entry id="8390097" method="true" symbol="onPartialUpdate"/>
-<entry field="true" id="103" symbol="bgRedrawRequested"/>
-<entry id="147" method="true" symbol="getFieldValue"/>
-<entry field="true" id="93" symbol="fullScreenRefresh"/>
-<entry id="27" method="true" symbol="PolyTranslate"/>
+<entry field="true" id="115" symbol="bgRedrawRequested"/>
+<entry id="155" method="true" symbol="getFieldValue"/>
+<entry field="true" id="105" symbol="fullScreenRefresh"/>
+<entry id="87" method="true" symbol="PolyTranslate"/>
 <entry id="8390425" module="true" symbol="Properties"/>
 <entry id="2" module="true" symbol="globals/Rez"/>
-<entry field="true" id="138" symbol="hrData"/>
-<entry field="true" id="117" symbol="font_date"/>
-<entry field="true" id="118" symbol="font_data"/>
-<entry field="true" id="47" symbol="MGrey"/>
+<entry field="true" id="93" symbol="hrData"/>
+<entry field="true" id="129" symbol="font_date"/>
+<entry field="true" id="130" symbol="font_data"/>
+<entry field="true" id="39" symbol="MGrey"/>
 <entry id="8389124" method="true" symbol="onUpdate"/>
 <entry id="8389375" method="true" object="true" symbol="WatchFace"/>
 <entry field="true" id="8389065" symbol="locY"/>
 <entry field="true" id="8389064" symbol="locX"/>
-<entry field="true" id="58" symbol="MTeal"/>
-<entry field="true" id="60" symbol="MGreen"/>
-<entry field="true" id="116" symbol="font_minutes"/>
+<entry field="true" id="50" symbol="MTeal"/>
+<entry id="8390754" symbol="foreground"/>
+<entry field="true" id="52" symbol="MGreen"/>
+<entry field="true" id="128" symbol="font_minutes"/>
 <entry id="8388771" module="true" object="true" symbol="Drawables"/>
 <entry id="8389348" symbol="font"/>
 <entry field="true" id="8389067" symbol="height"/>
-<entry field="true" id="54" symbol="Messages"/>
-<entry field="true" id="73" symbol="MBrown"/>
-<entry field="true" id="105" symbol="offCalcBuffer"/>
-<entry id="37" module="true" symbol="Menus"/>
-<entry field="true" id="80" symbol="ColorDarkGray"/>
+<entry field="true" id="46" symbol="Messages"/>
+<entry field="true" id="65" symbol="MBrown"/>
+<entry field="true" id="117" symbol="offCalcBuffer"/>
+<entry id="28" module="true" symbol="Menus"/>
+<entry field="true" id="72" symbol="ColorDarkGray"/>
 <entry id="6" module="true" symbol="globals/Rez/Layouts"/>
 <entry field="true" id="8389066" symbol="width"/>
-<entry field="true" id="56" symbol="StepCalsTitle"/>
-<entry field="true" id="23" symbol="_themeColor"/>
-<entry id="124" method="true" symbol="drawHoursoffCalc"/>
+<entry field="true" id="48" symbol="StepCalsTitle"/>
+<entry field="true" id="83" symbol="_themeColor"/>
+<entry id="136" method="true" symbol="drawHoursoffCalc"/>
 <entry id="8389122" method="true" symbol="onLayout"/>
-<entry id="25" method="true" symbol="renderSymbol"/>
-<entry field="true" id="109" symbol="tRenderer"/>
-<entry field="true" id="94" symbol="is24hour"/>
+<entry id="85" method="true" symbol="renderSymbol"/>
+<entry field="true" id="121" symbol="tRenderer"/>
+<entry field="true" id="106" symbol="is24hour"/>
 <entry id="8389376" method="true" symbol="onEnterSleep"/>
-<entry field="true" id="74" symbol="MOrange"/>
+<entry field="true" id="66" symbol="MOrange"/>
 <entry field="true" id="8389063" symbol="identifier"/>
-<entry field="true" id="140" symbol="minHr"/>
+<entry field="true" id="95" symbol="minHr"/>
 <entry id="8389349" symbol="justification"/>
-<entry field="true" id="49" symbol="MBlue"/>
-<entry field="true" id="64" symbol="MYellow"/>
-<entry field="true" id="53" symbol="MLime"/>
-<entry id="129" method="true" symbol="RenderShade"/>
-<entry field="true" id="137" symbol="noOfsamples"/>
-<entry id="26" method="true" symbol="DrawPoly"/>
-<entry field="true" id="50" symbol="ColorWhite"/>
+<entry field="true" id="41" symbol="MBlue"/>
+<entry field="true" id="56" symbol="MYellow"/>
+<entry field="true" id="45" symbol="MLime"/>
+<entry id="141" method="true" symbol="RenderShade"/>
+<entry field="true" id="92" symbol="noOfsamples"/>
+<entry id="86" method="true" symbol="DrawPoly"/>
+<entry id="20" object="true" symbol="CustomItem"/>
+<entry field="true" id="42" symbol="ColorWhite"/>
 <entry id="16" object="true" symbol="PureSettingsMenuDelegate"/>
 <entry id="8389802" method="true" symbol="getElevationHistory"/>
 <entry id="7" module="true" symbol="globals/Rez/JsonData"/>
-<entry field="true" id="79" symbol="MLightGreen"/>
-<entry field="true" id="82" symbol="ColorBlack"/>
+<entry field="true" id="71" symbol="MLightGreen"/>
+<entry field="true" id="74" symbol="ColorBlack"/>
 <entry id="3" module="true" symbol="globals/Rez/Drawables"/>
 <entry id="8390095" object="true" symbol="WatchFaceDelegate"/>
+<entry id="8390752" symbol="focusItemHeight"/>
 <entry id="12" object="true" symbol="PureSettingsDelegate"/>
-<entry field="true" id="31" symbol="len"/>
-<entry field="true" id="107" symbol="offCalcField6"/>
-<entry field="true" id="106" symbol="offCalcField1"/>
-<entry id="121" method="true" symbol="drawBackground"/>
-<entry field="true" id="87" symbol="Field_1_Title"/>
+<entry id="89" method="true" symbol="setSelected"/>
+<entry field="true" id="151" symbol="len"/>
+<entry field="true" id="119" symbol="offCalcField6"/>
+<entry field="true" id="118" symbol="offCalcField1"/>
+<entry id="133" method="true" symbol="drawBackground"/>
+<entry field="true" id="79" symbol="Field_1_Title"/>
 <entry id="10" object="true" symbol="SliderApp"/>
 <entry id="8389706" method="true" symbol="getMax"/>
-<entry field="true" id="22" symbol="_dc"/>
+<entry field="true" id="82" symbol="_dc"/>
 <entry id="8389377" method="true" symbol="onExitSleep"/>
 <entry id="8388644" module="true" symbol="System"/>
-<entry id="19" object="true" symbol="SliderView"/>
+<entry id="19" object="true" symbol="BasicCustomDelegate"/>
+<entry id="24" object="true" symbol="SliderView"/>
 <entry id="8389619" method="true" symbol="onSelect"/>
-<entry field="true" id="24" symbol="_bgColor"/>
+<entry field="true" id="84" symbol="_bgColor"/>
 <entry id="8388645" module="true" symbol="Time"/>
 <entry id="8388769" module="true" object="true" symbol="Rez"/>
-<entry id="128" method="true" symbol="drawOffCalcField"/>
-<entry id="135" method="true" symbol="drawIfActive"/>
-<entry id="35" method="true" symbol="getBoundingBox"/>
-<entry field="true" id="71" symbol="MCyan"/>
+<entry id="140" method="true" symbol="drawOffCalcField"/>
+<entry id="148" method="true" symbol="drawIfActive"/>
+<entry id="145" method="true" symbol="getBoundingBox"/>
+<entry field="true" id="63" symbol="MCyan"/>
 <entry id="8388640" module="true" symbol="Lang"/>
-<entry field="true" id="102" symbol="chosenFields"/>
-<entry field="true" id="139" symbol="maxHr"/>
+<entry field="true" id="114" symbol="chosenFields"/>
+<entry field="true" id="94" symbol="maxHr"/>
 <entry id="8390088" module="true" object="true" symbol="JsonData"/>
 <entry id="8389068" method="true" symbol="draw"/>
 <entry id="11" object="true" symbol="PureSettingsView"/>
 <entry id="14" object="true" symbol="hrRenderer"/>
-<entry id="126" method="true" symbol="drawFields"/>
-<entry field="true" id="39" symbol="LauncherIcon"/>
+<entry id="138" method="true" symbol="drawFields"/>
+<entry field="true" id="30" symbol="LauncherIcon"/>
 <entry id="8388610" symbol="statics"/>
 <entry id="8389123" method="true" symbol="onShow"/>
 <entry field="true" id="8388794" method="true" symbol="values"/>
+<entry id="18" object="true" symbol="BasicCustomMenu"/>
 <entry field="true" id="8389342" symbol="hours"/>
-<entry field="true" id="85" symbol="MIndigo"/>
-<entry field="true" id="97" symbol="BgColor"/>
+<entry field="true" id="77" symbol="MIndigo"/>
+<entry field="true" id="109" symbol="BgColor"/>
 <entry id="8389350" module="true" symbol="globals"/>
-<entry field="true" id="69" symbol="BackgroundColorTitle"/>
-<entry field="true" id="108" symbol="sRenderer"/>
-<entry field="true" id="101" symbol="ThemeColor"/>
-<entry id="133" method="true" symbol="generateSecondsThicks"/>
-<entry field="true" id="52" symbol="Floors"/>
+<entry field="true" id="61" symbol="BackgroundColorTitle"/>
+<entry field="true" id="120" symbol="sRenderer"/>
+<entry field="true" id="113" symbol="ThemeColor"/>
+<entry id="146" method="true" symbol="generateSecondsThicks"/>
+<entry field="true" id="44" symbol="Floors"/>
 <entry id="8388770" module="true" object="true" symbol="Strings"/>
-<entry field="true" id="61" symbol="DotColorTitle"/>
-<entry field="true" id="75" symbol="MBlueGrey"/>
-<entry field="true" id="48" symbol="Battery"/>
+<entry field="true" id="53" symbol="DotColorTitle"/>
+<entry field="true" id="67" symbol="MBlueGrey"/>
+<entry field="true" id="40" symbol="Battery"/>
 <entry id="8390146" module="true" object="true" symbol="Background"/>
-<entry field="true" id="44" symbol="ThemeColorTitle"/>
-<entry id="136" method="true" symbol="getFields"/>
+<entry field="true" id="36" symbol="ThemeColorTitle"/>
+<entry id="149" method="true" symbol="getFields"/>
 <entry field="true" id="8389872" symbol="floorsClimbed"/>
 <entry id="8388702" method="true" symbol="initialize"/>
-<entry field="true" id="91" symbol="curClip"/>
-<entry field="true" id="98" symbol="BrColor"/>
+<entry field="true" id="103" symbol="curClip"/>
+<entry field="true" id="110" symbol="BrColor"/>
 <entry id="8389279" method="true" symbol="onStart"/>
-<entry field="true" id="114" symbol="curMinute"/>
-<entry field="true" id="76" symbol="MemoryUsed"/>
-<entry field="true" id="18" symbol="partialUpdatesAllowed"/>
-<entry field="true" id="28" symbol="fgColor"/>
+<entry field="true" id="126" symbol="curMinute"/>
+<entry field="true" id="68" symbol="MemoryUsed"/>
+<entry field="true" id="23" symbol="partialUpdatesAllowed"/>
+<entry field="true" id="90" symbol="fgColor"/>
 <entry id="8388641" module="true" symbol="Math"/>
 <entry id="9" object="true" symbol="infoKeeper"/>
 <entry id="8391703" method="true" symbol="getSettingsView"/>
-<entry id="33" method="true" symbol="calcDigit"/>
+<entry id="153" method="true" symbol="calcDigit"/>
 <entry id="8389190" method="true" symbol="drawText"/>
-<entry field="true" id="78" symbol="ColorLightGray"/>
+<entry id="8390753" symbol="footer"/>
+<entry id="8390749" method="true" symbol="onWrap"/>
+<entry field="true" id="70" symbol="ColorLightGray"/>
+<entry field="true" id="8389093" symbol="mTitle"/>
 <entry id="8389280" method="true" symbol="getInitialView"/>
 <entry id="8389281" method="true" symbol="onStop"/>
-<entry id="123" method="true" symbol="drawHours"/>
-<entry field="true" id="46" symbol="Field_2_Title"/>
-<entry id="8389347" symbol="color"/>
-<entry field="true" id="63" symbol="Field_3_Title"/>
+<entry id="135" method="true" symbol="drawHours"/>
+<entry field="true" id="38" symbol="Field_2_Title"/>
+<entry field="true" id="8389347" symbol="color"/>
+<entry id="22" object="true" symbol="DrawableMenuTitle"/>
+<entry field="true" id="55" symbol="Field_3_Title"/>
 <entry id="8389781" module="true" symbol="SensorHistory"/>
-<entry id="21" object="true" symbol="symbolRenderer"/>
-<entry field="true" id="81" symbol="displaySeconds"/>
-<entry id="120" method="true" symbol="listProperties"/>
-<entry field="true" id="86" symbol="MDeepPurple"/>
-<entry field="true" id="59" symbol="ForegroundColorTitle"/>
-<entry id="36" module="true" symbol="Layouts"/>
-<entry field="true" id="84" symbol="Calories"/>
+<entry id="26" object="true" symbol="symbolRenderer"/>
+<entry field="true" id="73" symbol="displaySeconds"/>
+<entry id="132" method="true" symbol="listProperties"/>
+<entry field="true" id="78" symbol="MDeepPurple"/>
+<entry field="true" id="51" symbol="ForegroundColorTitle"/>
+<entry id="27" module="true" symbol="Layouts"/>
+<entry field="true" id="76" symbol="Calories"/>
 <entry field="true" id="8389343" symbol="minutes"/>
+<entry id="8390741" method="true" symbol="drawFooter"/>
 <entry id="15" object="true" symbol="PureSettingsMenu"/>
-<entry field="true" id="142" symbol="&lt;globals/hrRenderer/&lt;&gt;hrHistTimestamp&gt;"/>
-<entry id="130" method="true" symbol="DrawPolygon"/>
+<entry field="true" id="97" symbol="&lt;globals/hrRenderer/&lt;&gt;hrHistTimestamp&gt;"/>
+<entry id="142" method="true" symbol="DrawPolygon"/>
 <entry id="5" module="true" symbol="globals/Rez/Fonts"/>
-<entry field="true" id="95" symbol="fontSize"/>
-<entry id="143" method="true" symbol="getHrHistory"/>
-<entry field="true" id="141" symbol="noOfSamples"/>
+<entry field="true" id="107" symbol="fontSize"/>
+<entry id="98" method="true" symbol="getHrHistory"/>
+<entry field="true" id="96" symbol="noOfSamples"/>
 <entry id="8388635" module="true" symbol="Application"/>
 <entry field="true" id="8389642" symbol="title"/>
-<entry id="144" method="true" symbol="calculateHrGraph"/>
+<entry id="99" method="true" symbol="calculateHrGraph"/>
+<entry id="21" object="true" symbol="DrawableMenuFooter"/>
 <entry id="17" object="true" symbol="ColorChangeDelegate"/>
-<entry field="true" id="113" symbol="curHour"/>
+<entry id="31" object="true" symbol="MenuForeground"/>
+<entry field="true" id="125" symbol="curHour"/>
 </symbolTable>
 <localVars>
 <entry endPc="268436399" name="myStats" stackId="6" startPc="268435534"/>
@@ -894,194 +993,228 @@
 <entry arg="true" endPc="268439151" name="Ty" stackId="3" startPc="268439023"/>
 <entry arg="true" endPc="268439151" name="Polygon" stackId="1" startPc="268439023"/>
 <entry arg="true" endPc="268439151" name="Tx" stackId="2" startPc="268439023"/>
-<entry endPc="268440417" name="i" stackId="3" startPc="268440330"/>
-<entry endPc="268440474" name="bgMenu" stackId="2" startPc="268440265"/>
-<entry endPc="268440669" name="i" stackId="5" startPc="268440582"/>
-<entry endPc="268440726" name="fgMenu" stackId="4" startPc="268440505"/>
-<entry endPc="268440921" name="i" stackId="7" startPc="268440834"/>
-<entry endPc="268440978" name="themeMenu" stackId="6" startPc="268440757"/>
-<entry arg="true" endPc="268441114" name="item" stackId="1" startPc="268440233"/>
-<entry arg="true" endPc="268441147" name="gotTitle" stackId="1" startPc="268441114"/>
-<entry endPc="268441229" name="id" stackId="2" startPc="268441151"/>
-<entry arg="true" endPc="268441230" name="item" stackId="1" startPc="268441147"/>
-<entry endPc="268441308" name="dictionary" stackId="1" startPc="268441267"/>
-<entry arg="true" endPc="268441379" name="dc" stackId="1" startPc="268441309"/>
-<entry arg="true" endPc="268442109" name="dc" stackId="1" startPc="268441474"/>
-<entry endPc="268442288" name="i" stackId="1" startPc="268442113"/>
-<entry endPc="268442288" name="proptids" stackId="2" startPc="268442113"/>
-<entry endPc="268442745" name="screenWidth" stackId="4" startPc="268442293"/>
-<entry endPc="268442745" name="width" stackId="2" startPc="268442293"/>
-<entry endPc="268442745" name="minuteHandAngle" stackId="6" startPc="268442293"/>
-<entry endPc="268442745" name="secondHand" stackId="8" startPc="268442293"/>
-<entry endPc="268442745" name="curClip" stackId="10" startPc="268442293"/>
-<entry endPc="268442745" name="clockTime" stackId="5" startPc="268442293"/>
-<entry endPc="268442745" name="targetDc" stackId="9" startPc="268442293"/>
-<entry endPc="268442745" name="hourHandAngle" stackId="7" startPc="268442293"/>
-<entry endPc="268442745" name="height" stackId="3" startPc="268442293"/>
-<entry arg="true" endPc="268442746" name="dc" stackId="1" startPc="268442289"/>
-<entry endPc="268443006" name="secs" stackId="2" startPc="268442959"/>
-<entry arg="true" endPc="268443010" name="dc" stackId="1" startPc="268442746"/>
-<entry endPc="268443259" name="x" stackId="6" startPc="268443014"/>
-<entry endPc="268443259" name="fsize" stackId="4" startPc="268443014"/>
-<entry endPc="268443259" name="minutes" stackId="3" startPc="268443014"/>
-<entry endPc="268443259" name="y" stackId="5" startPc="268443014"/>
-<entry arg="true" endPc="268443260" name="dc" stackId="1" startPc="268443010"/>
-<entry arg="true" endPc="268443260" name="Color" stackId="2" startPc="268443010"/>
-<entry endPc="268444465" name="yd" stackId="16" startPc="268443264"/>
-<entry endPc="268444465" name="yb" stackId="15" startPc="268443264"/>
-<entry endPc="268444465" name="ya" stackId="20" startPc="268443264"/>
-<entry endPc="268444465" name="gwidth" stackId="13" startPc="268443264"/>
-<entry endPc="268444465" name="xhr" stackId="18" startPc="268443264"/>
-<entry endPc="268444465" name="daten" stackId="5" startPc="268443264"/>
-<entry endPc="268444465" name="months" stackId="4" startPc="268443264"/>
-<entry endPc="268444465" name="currenth" stackId="9" startPc="268443264"/>
-<entry endPc="268444465" name="y" stackId="11" startPc="268443264"/>
-<entry endPc="268444465" name="x" stackId="12" startPc="268443264"/>
-<entry endPc="268444465" name="fsize" stackId="10" startPc="268443264"/>
-<entry endPc="268444465" name="dayOfWeek" stackId="6" startPc="268443264"/>
-<entry endPc="268444465" name="xd" stackId="14" startPc="268443264"/>
-<entry endPc="268444465" name="yhr_label" stackId="19" startPc="268443264"/>
-<entry endPc="268444465" name="x2" stackId="21" startPc="268443264"/>
-<entry endPc="268444465" name="hours" stackId="7" startPc="268443264"/>
-<entry endPc="268444465" name="today" stackId="3" startPc="268443264"/>
-<entry endPc="268444465" name="yhr" stackId="17" startPc="268443264"/>
-<entry endPc="268444465" name="onehour" stackId="8" startPc="268443264"/>
-<entry arg="true" endPc="268444466" name="dc" stackId="1" startPc="268443260"/>
-<entry arg="true" endPc="268444466" name="Color" stackId="2" startPc="268443260"/>
-<entry arg="true" endPc="268444620" name="shade" stackId="6" startPc="268444466"/>
-<entry arg="true" endPc="268444620" name="fsize" stackId="4" startPc="268444466"/>
-<entry arg="true" endPc="268444620" name="x" stackId="2" startPc="268444466"/>
-<entry arg="true" endPc="268444620" name="hours" stackId="5" startPc="268444466"/>
-<entry arg="true" endPc="268444620" name="dc" stackId="1" startPc="268444466"/>
-<entry arg="true" endPc="268444620" name="Color" stackId="7" startPc="268444466"/>
-<entry arg="true" endPc="268444620" name="y" stackId="3" startPc="268444466"/>
-<entry endPc="268445126" name="secondsAngle" stackId="4" startPc="268444624"/>
-<entry endPc="268445126" name="thick" stackId="5" startPc="268444624"/>
-<entry arg="true" endPc="268445127" name="dc" stackId="1" startPc="268444620"/>
-<entry arg="true" endPc="268445127" name="secs" stackId="3" startPc="268444620"/>
-<entry arg="true" endPc="268445127" name="Color" stackId="2" startPc="268444620"/>
-<entry endPc="268445431" name="i" stackId="8" startPc="268445273"/>
-<entry endPc="268445431" name="fsize" stackId="6" startPc="268445131"/>
-<entry endPc="268445431" name="x" stackId="3" startPc="268445131"/>
-<entry endPc="268445431" name="asc" stackId="7" startPc="268445131"/>
-<entry endPc="268445431" name="z" stackId="5" startPc="268445131"/>
-<entry endPc="268445431" name="y" stackId="4" startPc="268445131"/>
-<entry arg="true" endPc="268445432" name="dc" stackId="1" startPc="268445127"/>
-<entry arg="true" endPc="268445432" name="FieldColor" stackId="2" startPc="268445127"/>
-<entry endPc="268445770" name="value" stackId="8" startPc="268445436"/>
-<entry arg="true" endPc="268445771" name="x" stackId="2" startPc="268445432"/>
-<entry arg="true" endPc="268445771" name="DrawContext" stackId="1" startPc="268445432"/>
-<entry arg="true" endPc="268445771" name="fieldType" stackId="4" startPc="268445432"/>
-<entry arg="true" endPc="268445771" name="fontSize" stackId="6" startPc="268445432"/>
-<entry arg="true" endPc="268445771" name="FieldColor" stackId="5" startPc="268445432"/>
-<entry arg="true" endPc="268445771" name="fieldno" stackId="7" startPc="268445432"/>
-<entry arg="true" endPc="268445771" name="y" stackId="3" startPc="268445432"/>
-<entry arg="true" endPc="268445852" name="x" stackId="2" startPc="268445771"/>
-<entry arg="true" endPc="268445852" name="DrawContext" stackId="1" startPc="268445771"/>
-<entry arg="true" endPc="268445852" name="fieldType" stackId="5" startPc="268445771"/>
-<entry arg="true" endPc="268445852" name="value" stackId="7" startPc="268445771"/>
-<entry arg="true" endPc="268445852" name="fontSize" stackId="4" startPc="268445771"/>
-<entry arg="true" endPc="268445852" name="FieldColor" stackId="6" startPc="268445771"/>
-<entry arg="true" endPc="268445852" name="y" stackId="3" startPc="268445771"/>
-<entry endPc="268445984" name="i" stackId="8" startPc="268445941"/>
-<entry endPc="268446039" name="j" stackId="9" startPc="268445996"/>
-<entry arg="true" endPc="268446040" name="dc" stackId="1" startPc="268445852"/>
-<entry arg="true" endPc="268446040" name="x2" stackId="4" startPc="268445852"/>
-<entry arg="true" endPc="268446040" name="Fg" stackId="7" startPc="268445852"/>
-<entry arg="true" endPc="268446040" name="x1" stackId="2" startPc="268445852"/>
-<entry arg="true" endPc="268446040" name="y2" stackId="5" startPc="268445852"/>
-<entry arg="true" endPc="268446040" name="y1" stackId="3" startPc="268445852"/>
-<entry arg="true" endPc="268446040" name="Bg" stackId="6" startPc="268445852"/>
-<entry endPc="268446149" name="i" stackId="3" startPc="268446068"/>
-<entry arg="true" endPc="268446150" name="DrawContext" stackId="1" startPc="268446040"/>
-<entry arg="true" endPc="268446150" name="polygon" stackId="2" startPc="268446040"/>
-<entry endPc="268446391" name="days" stackId="2" startPc="268446154"/>
-<entry arg="true" endPc="268446392" name="day" stackId="1" startPc="268446150"/>
-<entry endPc="268447045" name="j" stackId="7" startPc="268446876"/>
-<entry endPc="268447058" name="i" stackId="6" startPc="268446849"/>
-<entry endPc="268447169" name="height" stackId="9" startPc="268446737"/>
-<entry endPc="268447169" name="minX" stackId="2" startPc="268446737"/>
-<entry endPc="268447169" name="width" stackId="8" startPc="268446737"/>
-<entry endPc="268447169" name="maxY" stackId="5" startPc="268446737"/>
-<entry endPc="268447169" name="maxX" stackId="4" startPc="268446737"/>
-<entry endPc="268447169" name="minY" stackId="3" startPc="268446737"/>
-<entry arg="true" endPc="268447170" name="array" stackId="1" startPc="268446733"/>
-<entry endPc="268447973" name="cP" stackId="6" startPc="268447174"/>
-<entry endPc="268447973" name="result3" stackId="13" startPc="268447174"/>
-<entry endPc="268447973" name="yMax" stackId="5" startPc="268447174"/>
-<entry endPc="268447973" name="result1" stackId="12" startPc="268447174"/>
-<entry endPc="268447973" name="ThickLen" stackId="4" startPc="268447174"/>
-<entry endPc="268447973" name="ret" stackId="11" startPc="268447174"/>
-<entry endPc="268447973" name="sin" stackId="10" startPc="268447174"/>
-<entry endPc="268447973" name="coords3" stackId="8" startPc="268447174"/>
-<entry endPc="268447973" name="cos" stackId="9" startPc="268447174"/>
-<entry endPc="268447973" name="coords1" stackId="7" startPc="268447174"/>
-<entry arg="true" endPc="268447974" name="handLength" stackId="3" startPc="268447170"/>
-<entry arg="true" endPc="268447974" name="angle" stackId="2" startPc="268447170"/>
-<entry arg="true" endPc="268447974" name="centerPoint" stackId="1" startPc="268447170"/>
-<entry endPc="268448837" name="secs" stackId="1" startPc="268448687"/>
-<entry endPc="268449051" name="Color" stackId="3" startPc="268448924"/>
-<entry arg="true" endPc="268449052" name="dc" stackId="1" startPc="268448920"/>
-<entry arg="true" endPc="268449052" name="awake" stackId="2" startPc="268448920"/>
-<entry endPc="268449231" name="i" stackId="2" startPc="268449081"/>
-<entry endPc="268449231" name="j" stackId="1" startPc="268449056"/>
-<entry endPc="268449528" name="secondsAngle" stackId="3" startPc="268449250"/>
-<entry endPc="268449528" name="secs" stackId="2" startPc="268449250"/>
-<entry endPc="268449528" name="thick" stackId="4" startPc="268449250"/>
-<entry arg="true" endPc="268449532" name="dc" stackId="1" startPc="268449232"/>
-<entry arg="true" endPc="268449607" name="powerInfo" stackId="1" startPc="268449532"/>
-<entry arg="true" endPc="268449625" name="dc" stackId="1" startPc="268449610"/>
-<entry endPc="268451518" name="i" stackId="10" startPc="268451439"/>
-<entry endPc="268455717" name="batFull" stackId="16" startPc="268455596"/>
-<entry endPc="268458807" name="batLvlLine" stackId="15" startPc="268449712"/>
-<entry endPc="268458807" name="myStats" stackId="13" startPc="268449712"/>
-<entry endPc="268458807" name="mercury" stackId="12" startPc="268449712"/>
-<entry endPc="268458807" name="batLvl" stackId="14" startPc="268449712"/>
-<entry endPc="268458807" name="polygon3" stackId="11" startPc="268449712"/>
-<entry endPc="268458890" name="polygon2" stackId="8" startPc="268449629"/>
-<entry endPc="268458890" name="polygon1" stackId="7" startPc="268449629"/>
-<entry endPc="268458890" name="polygon" stackId="6" startPc="268449629"/>
-<entry endPc="268458890" name="s" stackId="5" startPc="268449629"/>
-<entry endPc="268458890" name="complicatedIcon" stackId="9" startPc="268449629"/>
-<entry arg="true" endPc="268458891" name="x" stackId="1" startPc="268449625"/>
-<entry arg="true" endPc="268458891" name="fieldType" stackId="3" startPc="268449625"/>
-<entry arg="true" endPc="268458891" name="FieldColor" stackId="4" startPc="268449625"/>
-<entry arg="true" endPc="268458891" name="y" stackId="2" startPc="268449625"/>
-<entry endPc="268459006" name="i" stackId="2" startPc="268458919"/>
-<entry arg="true" endPc="268459007" name="polygon" stackId="1" startPc="268458891"/>
-<entry endPc="268459128" name="j" stackId="6" startPc="268459060"/>
-<entry endPc="268459128" name="tempShifter" stackId="5" startPc="268459018"/>
-<entry endPc="268459128" name="s" stackId="4" startPc="268459018"/>
-<entry arg="true" endPc="268459135" name="Ty" stackId="3" startPc="268459007"/>
-<entry arg="true" endPc="268459135" name="Polygon" stackId="1" startPc="268459007"/>
-<entry arg="true" endPc="268459135" name="Tx" stackId="2" startPc="268459007"/>
-<entry endPc="268459361" name="rez_cmp_local_custom_drawable_18898900841345173773" stackId="2" startPc="268459147"/>
-<entry endPc="268459361" name="rez_cmp_local_text_TimeLabel" stackId="3" startPc="268459147"/>
-<entry arg="true" endPc="268459362" name="dc" stackId="1" startPc="268459135"/>
+<entry endPc="268440566" name="i" stackId="4" startPc="268440485"/>
+<entry endPc="268440652" name="bgMenu" stackId="3" startPc="268440265"/>
+<entry endPc="268440652" name="bgColor" stackId="5" startPc="268440265"/>
+<entry endPc="268440652" name="bgC" stackId="2" startPc="268440265"/>
+<entry endPc="268440996" name="i" stackId="8" startPc="268440915"/>
+<entry endPc="268441082" name="fgC" stackId="6" startPc="268440683"/>
+<entry endPc="268441082" name="fgMenu" stackId="7" startPc="268440683"/>
+<entry endPc="268441082" name="fgColor" stackId="9" startPc="268440683"/>
+<entry endPc="268441426" name="i" stackId="12" startPc="268441345"/>
+<entry endPc="268441512" name="themeMenu" stackId="11" startPc="268441113"/>
+<entry endPc="268441512" name="themeColor" stackId="13" startPc="268441113"/>
+<entry endPc="268441512" name="thC" stackId="10" startPc="268441113"/>
+<entry arg="true" endPc="268441648" name="item" stackId="1" startPc="268440233"/>
+<entry arg="true" endPc="268441681" name="gotTitle" stackId="1" startPc="268441648"/>
+<entry endPc="268441763" name="id" stackId="2" startPc="268441685"/>
+<entry arg="true" endPc="268441764" name="item" stackId="1" startPc="268441681"/>
+<entry arg="true" endPc="268441854" name="backgroundColor" stackId="2" startPc="268441797"/>
+<entry arg="true" endPc="268441854" name="options" stackId="3" startPc="268441797"/>
+<entry arg="true" endPc="268441854" name="itemHeight" stackId="1" startPc="268441797"/>
+<entry arg="true" endPc="268441960" name="dc" stackId="1" startPc="268441854"/>
+<entry arg="true" endPc="268442086" name="dc" stackId="1" startPc="268441960"/>
+<entry arg="true" endPc="268442119" name="gotTitle" stackId="1" startPc="268442086"/>
+<entry endPc="268442201" name="id" stackId="2" startPc="268442123"/>
+<entry arg="true" endPc="268442202" name="item" stackId="1" startPc="268442119"/>
+<entry arg="true" endPc="268442243" name="key" stackId="1" startPc="268442235"/>
+<entry arg="true" endPc="268442404" name="label" stackId="2" startPc="268442243"/>
+<entry arg="true" endPc="268442404" name="id" stackId="1" startPc="268442243"/>
+<entry endPc="268442725" name="font" stackId="2" startPc="268442408"/>
+<entry arg="true" endPc="268442726" name="dc" stackId="1" startPc="268442404"/>
+<entry arg="true" endPc="268442834" name="dc" stackId="1" startPc="268442755"/>
+<entry arg="true" endPc="268442919" name="gotTitle" stackId="1" startPc="268442834"/>
+<entry arg="true" endPc="268442919" name="gotColor" stackId="2" startPc="268442834"/>
+<entry arg="true" endPc="268442934" name="isTitleSelected" stackId="1" startPc="268442919"/>
+<entry endPc="268443137" name="bkColor" stackId="4" startPc="268442938"/>
+<entry endPc="268443137" name="labelY" stackId="3" startPc="268442938"/>
+<entry endPc="268443137" name="labelX" stackId="2" startPc="268442938"/>
+<entry arg="true" endPc="268443138" name="dc" stackId="1" startPc="268442934"/>
+<entry endPc="268443183" name="dictionary" stackId="1" startPc="268443142"/>
+<entry arg="true" endPc="268443254" name="dc" stackId="1" startPc="268443184"/>
+<entry arg="true" endPc="268443984" name="dc" stackId="1" startPc="268443349"/>
+<entry endPc="268444163" name="i" stackId="1" startPc="268443988"/>
+<entry endPc="268444163" name="proptids" stackId="2" startPc="268443988"/>
+<entry endPc="268444620" name="screenWidth" stackId="4" startPc="268444168"/>
+<entry endPc="268444620" name="width" stackId="2" startPc="268444168"/>
+<entry endPc="268444620" name="minuteHandAngle" stackId="6" startPc="268444168"/>
+<entry endPc="268444620" name="secondHand" stackId="8" startPc="268444168"/>
+<entry endPc="268444620" name="curClip" stackId="10" startPc="268444168"/>
+<entry endPc="268444620" name="clockTime" stackId="5" startPc="268444168"/>
+<entry endPc="268444620" name="targetDc" stackId="9" startPc="268444168"/>
+<entry endPc="268444620" name="hourHandAngle" stackId="7" startPc="268444168"/>
+<entry endPc="268444620" name="height" stackId="3" startPc="268444168"/>
+<entry arg="true" endPc="268444621" name="dc" stackId="1" startPc="268444164"/>
+<entry endPc="268444881" name="secs" stackId="2" startPc="268444834"/>
+<entry arg="true" endPc="268444885" name="dc" stackId="1" startPc="268444621"/>
+<entry endPc="268445134" name="x" stackId="6" startPc="268444889"/>
+<entry endPc="268445134" name="fsize" stackId="4" startPc="268444889"/>
+<entry endPc="268445134" name="minutes" stackId="3" startPc="268444889"/>
+<entry endPc="268445134" name="y" stackId="5" startPc="268444889"/>
+<entry arg="true" endPc="268445135" name="dc" stackId="1" startPc="268444885"/>
+<entry arg="true" endPc="268445135" name="Color" stackId="2" startPc="268444885"/>
+<entry endPc="268446340" name="yd" stackId="16" startPc="268445139"/>
+<entry endPc="268446340" name="yb" stackId="15" startPc="268445139"/>
+<entry endPc="268446340" name="ya" stackId="20" startPc="268445139"/>
+<entry endPc="268446340" name="gwidth" stackId="13" startPc="268445139"/>
+<entry endPc="268446340" name="xhr" stackId="18" startPc="268445139"/>
+<entry endPc="268446340" name="daten" stackId="5" startPc="268445139"/>
+<entry endPc="268446340" name="months" stackId="4" startPc="268445139"/>
+<entry endPc="268446340" name="currenth" stackId="9" startPc="268445139"/>
+<entry endPc="268446340" name="y" stackId="11" startPc="268445139"/>
+<entry endPc="268446340" name="x" stackId="12" startPc="268445139"/>
+<entry endPc="268446340" name="fsize" stackId="10" startPc="268445139"/>
+<entry endPc="268446340" name="dayOfWeek" stackId="6" startPc="268445139"/>
+<entry endPc="268446340" name="xd" stackId="14" startPc="268445139"/>
+<entry endPc="268446340" name="yhr_label" stackId="19" startPc="268445139"/>
+<entry endPc="268446340" name="x2" stackId="21" startPc="268445139"/>
+<entry endPc="268446340" name="hours" stackId="7" startPc="268445139"/>
+<entry endPc="268446340" name="today" stackId="3" startPc="268445139"/>
+<entry endPc="268446340" name="yhr" stackId="17" startPc="268445139"/>
+<entry endPc="268446340" name="onehour" stackId="8" startPc="268445139"/>
+<entry arg="true" endPc="268446341" name="dc" stackId="1" startPc="268445135"/>
+<entry arg="true" endPc="268446341" name="Color" stackId="2" startPc="268445135"/>
+<entry arg="true" endPc="268446495" name="shade" stackId="6" startPc="268446341"/>
+<entry arg="true" endPc="268446495" name="fsize" stackId="4" startPc="268446341"/>
+<entry arg="true" endPc="268446495" name="x" stackId="2" startPc="268446341"/>
+<entry arg="true" endPc="268446495" name="hours" stackId="5" startPc="268446341"/>
+<entry arg="true" endPc="268446495" name="dc" stackId="1" startPc="268446341"/>
+<entry arg="true" endPc="268446495" name="Color" stackId="7" startPc="268446341"/>
+<entry arg="true" endPc="268446495" name="y" stackId="3" startPc="268446341"/>
+<entry endPc="268447001" name="secondsAngle" stackId="4" startPc="268446499"/>
+<entry endPc="268447001" name="thick" stackId="5" startPc="268446499"/>
+<entry arg="true" endPc="268447002" name="dc" stackId="1" startPc="268446495"/>
+<entry arg="true" endPc="268447002" name="secs" stackId="3" startPc="268446495"/>
+<entry arg="true" endPc="268447002" name="Color" stackId="2" startPc="268446495"/>
+<entry endPc="268447306" name="i" stackId="8" startPc="268447148"/>
+<entry endPc="268447306" name="fsize" stackId="6" startPc="268447006"/>
+<entry endPc="268447306" name="x" stackId="3" startPc="268447006"/>
+<entry endPc="268447306" name="asc" stackId="7" startPc="268447006"/>
+<entry endPc="268447306" name="z" stackId="5" startPc="268447006"/>
+<entry endPc="268447306" name="y" stackId="4" startPc="268447006"/>
+<entry arg="true" endPc="268447307" name="dc" stackId="1" startPc="268447002"/>
+<entry arg="true" endPc="268447307" name="FieldColor" stackId="2" startPc="268447002"/>
+<entry endPc="268447645" name="value" stackId="8" startPc="268447311"/>
+<entry arg="true" endPc="268447646" name="x" stackId="2" startPc="268447307"/>
+<entry arg="true" endPc="268447646" name="DrawContext" stackId="1" startPc="268447307"/>
+<entry arg="true" endPc="268447646" name="fieldType" stackId="4" startPc="268447307"/>
+<entry arg="true" endPc="268447646" name="fontSize" stackId="6" startPc="268447307"/>
+<entry arg="true" endPc="268447646" name="FieldColor" stackId="5" startPc="268447307"/>
+<entry arg="true" endPc="268447646" name="fieldno" stackId="7" startPc="268447307"/>
+<entry arg="true" endPc="268447646" name="y" stackId="3" startPc="268447307"/>
+<entry arg="true" endPc="268447727" name="x" stackId="2" startPc="268447646"/>
+<entry arg="true" endPc="268447727" name="DrawContext" stackId="1" startPc="268447646"/>
+<entry arg="true" endPc="268447727" name="fieldType" stackId="5" startPc="268447646"/>
+<entry arg="true" endPc="268447727" name="value" stackId="7" startPc="268447646"/>
+<entry arg="true" endPc="268447727" name="fontSize" stackId="4" startPc="268447646"/>
+<entry arg="true" endPc="268447727" name="FieldColor" stackId="6" startPc="268447646"/>
+<entry arg="true" endPc="268447727" name="y" stackId="3" startPc="268447646"/>
+<entry endPc="268447859" name="i" stackId="8" startPc="268447816"/>
+<entry endPc="268447914" name="j" stackId="9" startPc="268447871"/>
+<entry arg="true" endPc="268447915" name="dc" stackId="1" startPc="268447727"/>
+<entry arg="true" endPc="268447915" name="x2" stackId="4" startPc="268447727"/>
+<entry arg="true" endPc="268447915" name="Fg" stackId="7" startPc="268447727"/>
+<entry arg="true" endPc="268447915" name="x1" stackId="2" startPc="268447727"/>
+<entry arg="true" endPc="268447915" name="y2" stackId="5" startPc="268447727"/>
+<entry arg="true" endPc="268447915" name="y1" stackId="3" startPc="268447727"/>
+<entry arg="true" endPc="268447915" name="Bg" stackId="6" startPc="268447727"/>
+<entry endPc="268448024" name="i" stackId="3" startPc="268447943"/>
+<entry arg="true" endPc="268448025" name="DrawContext" stackId="1" startPc="268447915"/>
+<entry arg="true" endPc="268448025" name="polygon" stackId="2" startPc="268447915"/>
+<entry endPc="268448266" name="days" stackId="2" startPc="268448029"/>
+<entry arg="true" endPc="268448267" name="day" stackId="1" startPc="268448025"/>
+<entry endPc="268448920" name="j" stackId="7" startPc="268448751"/>
+<entry endPc="268448933" name="i" stackId="6" startPc="268448724"/>
+<entry endPc="268449044" name="height" stackId="9" startPc="268448612"/>
+<entry endPc="268449044" name="minX" stackId="2" startPc="268448612"/>
+<entry endPc="268449044" name="width" stackId="8" startPc="268448612"/>
+<entry endPc="268449044" name="maxY" stackId="5" startPc="268448612"/>
+<entry endPc="268449044" name="maxX" stackId="4" startPc="268448612"/>
+<entry endPc="268449044" name="minY" stackId="3" startPc="268448612"/>
+<entry arg="true" endPc="268449045" name="array" stackId="1" startPc="268448608"/>
+<entry endPc="268449848" name="cP" stackId="6" startPc="268449049"/>
+<entry endPc="268449848" name="result3" stackId="13" startPc="268449049"/>
+<entry endPc="268449848" name="yMax" stackId="5" startPc="268449049"/>
+<entry endPc="268449848" name="result1" stackId="12" startPc="268449049"/>
+<entry endPc="268449848" name="ThickLen" stackId="4" startPc="268449049"/>
+<entry endPc="268449848" name="ret" stackId="11" startPc="268449049"/>
+<entry endPc="268449848" name="sin" stackId="10" startPc="268449049"/>
+<entry endPc="268449848" name="coords3" stackId="8" startPc="268449049"/>
+<entry endPc="268449848" name="cos" stackId="9" startPc="268449049"/>
+<entry endPc="268449848" name="coords1" stackId="7" startPc="268449049"/>
+<entry arg="true" endPc="268449849" name="handLength" stackId="3" startPc="268449045"/>
+<entry arg="true" endPc="268449849" name="angle" stackId="2" startPc="268449045"/>
+<entry arg="true" endPc="268449849" name="centerPoint" stackId="1" startPc="268449045"/>
+<entry endPc="268450712" name="secs" stackId="1" startPc="268450562"/>
+<entry endPc="268450926" name="Color" stackId="3" startPc="268450799"/>
+<entry arg="true" endPc="268450927" name="dc" stackId="1" startPc="268450795"/>
+<entry arg="true" endPc="268450927" name="awake" stackId="2" startPc="268450795"/>
+<entry endPc="268451106" name="i" stackId="2" startPc="268450956"/>
+<entry endPc="268451106" name="j" stackId="1" startPc="268450931"/>
+<entry endPc="268451403" name="secondsAngle" stackId="3" startPc="268451125"/>
+<entry endPc="268451403" name="secs" stackId="2" startPc="268451125"/>
+<entry endPc="268451403" name="thick" stackId="4" startPc="268451125"/>
+<entry arg="true" endPc="268451407" name="dc" stackId="1" startPc="268451107"/>
+<entry arg="true" endPc="268451482" name="powerInfo" stackId="1" startPc="268451407"/>
+<entry arg="true" endPc="268451500" name="dc" stackId="1" startPc="268451485"/>
+<entry endPc="268453393" name="i" stackId="10" startPc="268453314"/>
+<entry endPc="268457592" name="batFull" stackId="16" startPc="268457471"/>
+<entry endPc="268460682" name="batLvlLine" stackId="15" startPc="268451587"/>
+<entry endPc="268460682" name="myStats" stackId="13" startPc="268451587"/>
+<entry endPc="268460682" name="mercury" stackId="12" startPc="268451587"/>
+<entry endPc="268460682" name="batLvl" stackId="14" startPc="268451587"/>
+<entry endPc="268460682" name="polygon3" stackId="11" startPc="268451587"/>
+<entry endPc="268460765" name="polygon2" stackId="8" startPc="268451504"/>
+<entry endPc="268460765" name="polygon1" stackId="7" startPc="268451504"/>
+<entry endPc="268460765" name="polygon" stackId="6" startPc="268451504"/>
+<entry endPc="268460765" name="s" stackId="5" startPc="268451504"/>
+<entry endPc="268460765" name="complicatedIcon" stackId="9" startPc="268451504"/>
+<entry arg="true" endPc="268460766" name="x" stackId="1" startPc="268451500"/>
+<entry arg="true" endPc="268460766" name="fieldType" stackId="3" startPc="268451500"/>
+<entry arg="true" endPc="268460766" name="FieldColor" stackId="4" startPc="268451500"/>
+<entry arg="true" endPc="268460766" name="y" stackId="2" startPc="268451500"/>
+<entry endPc="268460881" name="i" stackId="2" startPc="268460794"/>
+<entry arg="true" endPc="268460882" name="polygon" stackId="1" startPc="268460766"/>
+<entry endPc="268461003" name="j" stackId="6" startPc="268460935"/>
+<entry endPc="268461003" name="tempShifter" stackId="5" startPc="268460893"/>
+<entry endPc="268461003" name="s" stackId="4" startPc="268460893"/>
+<entry arg="true" endPc="268461010" name="Ty" stackId="3" startPc="268460882"/>
+<entry arg="true" endPc="268461010" name="Polygon" stackId="1" startPc="268460882"/>
+<entry arg="true" endPc="268461010" name="Tx" stackId="2" startPc="268460882"/>
+<entry arg="true" endPc="268461172" name="dc" stackId="1" startPc="268461039"/>
+<entry endPc="268461416" name="rez_cmp_local_text_TimeLabel" stackId="3" startPc="268461184"/>
+<entry endPc="268461416" name="rez_cmp_local_custom_drawable_85665750217983797501" stackId="2" startPc="268461184"/>
+<entry arg="true" endPc="268461417" name="dc" stackId="1" startPc="268461172"/>
 </localVars>
 <annotations/>
 <dataEntryOffsetMappings>
 <dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
-<dataEntry offset="246" parentId="globals" symbolId="symbolRenderer" type="class"/>
-<dataEntry offset="341" parentId="globals" symbolId="textRenderer" type="class"/>
-<dataEntry offset="476" parentId="globals" symbolId="SliderViewDelegate" type="class"/>
-<dataEntry offset="531" parentId="globals" symbolId="Rez" type="module"/>
-<dataEntry offset="610" parentId="Rez" symbolId="Drawables" type="module"/>
-<dataEntry offset="657" parentId="Rez" symbolId="Menus" type="module"/>
-<dataEntry offset="688" parentId="Rez" symbolId="Fonts" type="module"/>
-<dataEntry offset="751" parentId="Rez" symbolId="Layouts" type="module"/>
-<dataEntry offset="790" parentId="Rez" symbolId="JsonData" type="module"/>
-<dataEntry offset="821" parentId="Rez" symbolId="Strings" type="module"/>
-<dataEntry offset="1244" parentId="globals" symbolId="SliderView" type="class"/>
-<dataEntry offset="1731" parentId="globals" symbolId="PureSettingsView" type="class"/>
-<dataEntry offset="1786" parentId="globals" symbolId="hrRenderer" type="class"/>
-<dataEntry offset="1961" parentId="globals" symbolId="PureSettingsMenuDelegate" type="class"/>
-<dataEntry offset="2024" parentId="globals" symbolId="infoKeeper" type="class"/>
-<dataEntry offset="2095" parentId="globals" symbolId="ColorChangeDelegate" type="class"/>
-<dataEntry offset="2166" parentId="globals" symbolId="PureSettingsDelegate" type="class"/>
-<dataEntry offset="2221" parentId="globals" symbolId="SliderApp" type="class"/>
-<dataEntry offset="2308" parentId="globals" symbolId="PureSettingsMenu" type="class"/>
-<dataEntry offset="2355" parentId="globals" symbolId="Background" type="class"/>
+<dataEntry offset="286" parentId="globals" symbolId="PureSettingsView" type="class"/>
+<dataEntry offset="341" parentId="globals" symbolId="CustomItem" type="class"/>
+<dataEntry offset="412" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry offset="491" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry offset="546" parentId="Drawables" symbolId="MenuForeground" type="class"/>
+<dataEntry offset="601" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry offset="632" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry offset="695" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry offset="734" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry offset="765" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry offset="1188" parentId="globals" symbolId="Background" type="class"/>
+<dataEntry offset="1243" parentId="globals" symbolId="DrawableMenuFooter" type="class"/>
+<dataEntry offset="1298" parentId="globals" symbolId="SliderViewDelegate" type="class"/>
+<dataEntry offset="1353" parentId="globals" symbolId="SliderApp" type="class"/>
+<dataEntry offset="1440" parentId="globals" symbolId="symbolRenderer" type="class"/>
+<dataEntry offset="1535" parentId="globals" symbolId="PureSettingsDelegate" type="class"/>
+<dataEntry offset="1590" parentId="globals" symbolId="DrawableMenuTitle" type="class"/>
+<dataEntry offset="1677" parentId="globals" symbolId="BasicCustomDelegate" type="class"/>
+<dataEntry offset="1756" parentId="globals" symbolId="hrRenderer" type="class"/>
+<dataEntry offset="1931" parentId="globals" symbolId="PureSettingsMenu" type="class"/>
+<dataEntry offset="1978" parentId="globals" symbolId="ColorChangeDelegate" type="class"/>
+<dataEntry offset="2049" parentId="globals" symbolId="PureSettingsMenuDelegate" type="class"/>
+<dataEntry offset="2112" parentId="globals" symbolId="SliderView" type="class"/>
+<dataEntry offset="2599" parentId="globals" symbolId="BasicCustomMenu" type="class"/>
+<dataEntry offset="2670" parentId="globals" symbolId="textRenderer" type="class"/>
+<dataEntry offset="2805" parentId="globals" symbolId="infoKeeper" type="class"/>
 </dataEntryOffsetMappings>
 <functions>
 <functionEntry accessMode="public" name="initialize" parent="infoKeeper">
@@ -1204,6 +1337,64 @@
 <documentation/>
 </functionEntry>
 <functionEntry accessMode="public" name="onBack" parent="ColorChangeDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="BasicCustomMenu">
+<param id="itemHeight"/>
+<param id="backgroundColor"/>
+<param id="options"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawTitle" parent="BasicCustomMenu">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawFooter" parent="BasicCustomMenu">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="BasicCustomDelegate">
+<param id="gotTitle"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onSelect" parent="BasicCustomDelegate">
+<param id="item"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onBack" parent="BasicCustomDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onWrap" parent="BasicCustomDelegate">
+<param id="key"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="CustomItem">
+<param id="id"/>
+<param id="label"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="draw" parent="CustomItem">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="DrawableMenuFooter">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="draw" parent="DrawableMenuFooter">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="DrawableMenuTitle">
+<param id="gotTitle"/>
+<param id="gotColor"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="setSelected" parent="DrawableMenuTitle">
+<param id="isTitleSelected"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="draw" parent="DrawableMenuTitle">
+<param id="dc"/>
 <documentation/>
 </functionEntry>
 <functionEntry accessMode="public" name="initialize" parent="Background">
@@ -1361,6 +1552,13 @@
 <param id="Polygon"/>
 <param id="Tx"/>
 <param id="Ty"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="MenuForeground">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="draw" parent="MenuForeground">
+<param id="dc"/>
 <documentation/>
 </functionEntry>
 <functionEntry accessMode="public" name="WatchFace" parent="Layouts">
