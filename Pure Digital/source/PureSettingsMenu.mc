@@ -143,7 +143,7 @@ i++; availableColors[i]=["0xFFFFFF",0xFFFFFF];
 			        for (var i=0;i<4;i++)
 			            	{
 			           		
-			           		 bgMenu.addItem(new CustomItem(availableColors[i][1], availableColors[i][0]));
+			           		 bgMenu.addItem(new CustomItem(availableColors[i][1], availableColors[i][0],false));
 			            	}
 			        var bgColor = bgMenu.findItemById(bgC);
  						bgMenu.setFocus(bgColor); 			            					    
@@ -165,7 +165,7 @@ i++; availableColors[i]=["0xFFFFFF",0xFFFFFF];
 			        for (var i=0;i<availableColors.size();i++)
 			            	{
 			           		
-			           		 fgMenu.addItem(new CustomItem(availableColors[i][1], availableColors[i][0]));
+			           		 fgMenu.addItem(new CustomItem(availableColors[i][1], availableColors[i][0],false));
 			            	}
 			        var fgColor = fgMenu.findItemById(fgC);
  						fgMenu.setFocus(fgColor);  			            					    
@@ -184,7 +184,7 @@ i++; availableColors[i]=["0xFFFFFF",0xFFFFFF];
 			        for (var i=0;i<availableColors.size();i++)
 			            	{
 			           		
-			           		 themeMenu.addItem(new CustomItem(availableColors[i][1], availableColors[i][0]));
+			           		 themeMenu.addItem(new CustomItem(availableColors[i][1], availableColors[i][0],false));
 			            	}
 			        var themeColor = themeMenu.findItemById(thC);
  						themeMenu.setFocus(themeColor);  			            					    
@@ -201,7 +201,43 @@ i++; availableColors[i]=["0xFFFFFF",0xFFFFFF];
 	        		Application.getApp().setProperty("displaySeconds", false);
 	        		}
 	        		
-        }         
+        
+        } else if( item.getId().toNumber()>10 and item.getId().toNumber()<17 ) { 
+ 
+				 var availableSettings = new[9];
+				 var i =0;
+				 var propertyId = item.getId().toNumber()-10;
+				availableSettings[i]=["Steps",i]; i++;
+				availableSettings[i]=["Calories",i]; i++;
+				availableSettings[i]=["Temperature",i]; i++;
+				availableSettings[i]=["Battery",i]; i++;
+				availableSettings[i]=["HeartRate",i]; i++;
+				availableSettings[i]=["Floors",i]; i++;
+				availableSettings[i]=["Altitude",i]; i++;
+				availableSettings[i]=["Messages",i]; i++;
+				availableSettings[i]=["MemoryUsed",i]; i++;
+				//System.println(availableSettings);
+ 
+
+           				 var currentField = Application.getApp().getProperty("Field_"+propertyId);
+				     var fieldMenu = new BasicCustomMenu(35,Graphics.COLOR_WHITE,{
+				        :focusItemHeight=>45,
+				        :foreground=>new Rez.Drawables.MenuForeground(),
+				        :title=>new DrawableMenuTitle("Field"+propertyId,Graphics.COLOR_BLACK),
+				        :footer=>new DrawableMenuFooter()
+				    });
+			        for (var i=0;i<availableSettings.size();i++)
+			            	{
+			           		
+			           		 fieldMenu.addItem(new CustomItem(availableSettings[i][1], availableSettings[i][0],true));
+			            	}
+			            	if(fieldMenu.findItemById(currentField)) {
+			        var currentFieldId = fieldMenu.findItemById(currentField);
+ 						fieldMenu.setFocus(currentFieldId); 
+ 						}			            					    
+				    WatchUi.pushView(fieldMenu, new BasicCustomDelegate("Field_"+propertyId), WatchUi.SLIDE_UP );
+	        		
+        }                  
          else {
             WatchUi.requestUpdate();
         }
@@ -289,17 +325,26 @@ var title;
 class CustomItem extends WatchUi.CustomMenuItem {
     var mLabel;
     var color;
-
-    function initialize(id, label) {
+	var sRenderer;
+	var id;
+	var drawIcon;
+	
+    function initialize(idd, label,icon) {
+    	id = idd;
         CustomMenuItem.initialize(id, {});
         mLabel = label;
-        color = id;
+        color = idd;
+        drawIcon = icon;
+        
     }
 
     // draw the item string at the center of the item.
     function draw(dc) {
         var font;
         var fcolor;
+        sRenderer = new symbolRenderer(dc);
+ 		 sRenderer._themeColor = color;
+ 		 sRenderer._bgColor = Graphics.COLOR_BLACK;         
         if( isFocused() ) {
             font = Graphics.FONT_LARGE;
             fcolor = Graphics.COLOR_BLACK;
@@ -315,9 +360,21 @@ class CustomItem extends WatchUi.CustomMenuItem {
 
         dc.setColor(fcolor, Graphics.COLOR_TRANSPARENT);
         dc.drawText(dc.getWidth()/4, dc.getHeight()/2, font, mLabel, Graphics.TEXT_JUSTIFY_LEFT | Graphics.TEXT_JUSTIFY_VCENTER);
-        dc.setColor(color, Graphics.COLOR_BLACK);
+        
         //dc.drawLine(0, 0, dc.getWidth(), 0);
-        dc.fillRectangle(0,0,dc.getWidth()/5,dc.getHeight());
+        
+        if(drawIcon)
+        	{
+        	dc.setColor(fcolor, Graphics.COLOR_BLACK);
+        	sRenderer.renderSymbol(dc.getWidth()/6, dc.getHeight()/2+7,id,fcolor);
+        	}
+        else
+        	{
+        	dc.setColor(color, Graphics.COLOR_BLACK);
+        	dc.fillRectangle(0,0,dc.getWidth()/5,dc.getHeight());
+        	}
+        
+        
        // dc.drawLine(0, dc.getHeight() - 1, dc.getWidth(), dc.getHeight() - 1);
     }
 }
