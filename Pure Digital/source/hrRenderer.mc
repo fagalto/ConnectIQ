@@ -52,14 +52,17 @@ function getHrHistory() {
 						{
 						me.minHr = 25;
 						}
-			var sample = hrIterator.next();
-				 
+			var sample=null;
 			for( var i = 0; i < hrData.size(); i++ )
 			{
-			if( sample.heartRate< ActivityMonitor.INVALID_HR_SAMPLE) {
-			 me.hrData[i] = sample.heartRate;
-			// System.println("imma requestin hr data, got "+sample.heartRate+" for time "+sample.when.value());
-			 sample = hrIterator.next();
+			if(hrIterator.next())
+			{
+			sample = hrIterator.next();
+				if( sample.heartRate< ActivityMonitor.INVALID_HR_SAMPLE) {
+				 me.hrData[i] = sample.heartRate;
+				// System.println("imma requestin hr data, got "+sample.heartRate+" for time "+sample.when.value());
+				 
+				 }
 			 }
 			 else
 			 	{

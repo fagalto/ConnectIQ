@@ -102,20 +102,7 @@ class SliderView extends WatchUi.WatchFace
    
 
 	}
-	function listProperties() {
-	var i=0;
-var proptids =  ["BackgroundColor","ForegroundColor","ThemeColor","Field_1","Field_2","Field_3","Field_4","Field_5","Field_6","displaySeconds"];
-while(i<proptids.size()) {
  
-i++;
-
-
-}
-	
-	
-   
-    //System.println(properties);	
-	}
     // Handle the update event
     function onUpdate(dc) {
         var width;

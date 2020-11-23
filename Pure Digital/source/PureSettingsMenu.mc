@@ -27,25 +27,106 @@ var availableColors = new[22];
         availableColors[1]=["White",0xFFFFFF];
         availableColors[2]=["Light Gray",0xAAAAAA];
         availableColors[3]=["Dark Gray",0x555555];
-        availableColors[4]=["Red",0xFF0000];
-        availableColors[5]=["Green",0x00FF00];
-        availableColors[6]=["Pink",0xAA0005];
-        availableColors[7]=["Purple",0xAA00FF];
-        availableColors[8]=["DeepPurple",0xFF0055];
-        availableColors[9]=["Indigo",0x5500AA];
-        availableColors[10]=["Blue",0x0055AA];
-        availableColors[11]=["LightBlue",0x00AAFF];
-        availableColors[12]=["Teal",0x00FFFF];
-        availableColors[13]=["DarkGreen",0x00FF55];
-        availableColors[14]=["LightGreen",0x00FFAA];
-        availableColors[15]=["Lime",0xAAFF55];
-        availableColors[16]=["Yellow",0xFFFF55];
-        availableColors[17]=["Amber",0xFFAA00];
-        availableColors[18]=["Orange",0xFF5500];
-        availableColors[19]=["DeepOrange",0xAA5500];
-        availableColors[20]=["Brown",0x550000];
-        availableColors[21]=["BlueGrey",0x5555AA]; 
         
+
+       
+
+        availableColors[4]=["Indigo",0x5500AA];
+        availableColors[5]=["Purple",0xAA00FF];
+        availableColors[6]=["Pink",0xFF0055];
+ 		availableColors[7]=["Blue Grey",0x5555AA];         
+        availableColors[8]=["Blue",0x0055AA];
+         
+        availableColors[9]=["Light Blue",0x00AAFF];
+       
+        availableColors[10]=["Teal",0x00FFFF];
+        availableColors[11]=["Ocean Blue",0x00FFAA]; 
+		availableColors[14]=["Lime",0xAAFF55];      
+        availableColors[12]=["Green",0x00FF00];        
+        availableColors[13]=["Dark Green",0x005500];
+
+        
+        availableColors[15]=["Yellow",0xFFFF55];
+        
+        availableColors[16]=["Amber",0xFFAA00];
+        availableColors[17]=["Light Brown",0xAA5500];
+        availableColors[18]=["Orange",0xFF5500];
+       
+        availableColors[19]=["Red",0xFF0000];
+        availableColors[20]=["Dark Red",0xAA0005];
+		
+        
+       
+        availableColors[21]=["Brown",0x550000];
+        
+    /********************
+    var i=0;
+	availableColors[i]=["0x000000",0x000000];
+i++; availableColors[i]=["0x000055",0x000055];
+i++; availableColors[i]=["0x0000AA",0x0000AA];
+i++; availableColors[i]=["0x0000FF",0x0000FF];
+i++; availableColors[i]=["0x005500",0x005500];
+i++; availableColors[i]=["0x005555",0x005555];
+i++; availableColors[i]=["0x0055AA",0x0055AA];
+i++; availableColors[i]=["0x0055FF",0x0055FF];
+i++; availableColors[i]=["0x00AA00",0x00AA00];
+i++; availableColors[i]=["0x00AA55",0x00AA55];
+i++; availableColors[i]=["0x00AAAA",0x00AAAA];
+i++; availableColors[i]=["0x00AAFF",0x00AAFF];
+i++; availableColors[i]=["0x00FF00",0x00FF00];
+i++; availableColors[i]=["0x00FF55",0x00FF55];
+i++; availableColors[i]=["0x00FFAA",0x00FFAA];
+i++; availableColors[i]=["0x00FFFF",0x00FFFF];
+i++; availableColors[i]=["0x550000",0x550000];
+i++; availableColors[i]=["0x550055",0x550055];
+i++; availableColors[i]=["0x5500AA",0x5500AA];
+i++; availableColors[i]=["0x5500FF",0x5500FF];
+i++; availableColors[i]=["0x555500",0x555500];
+i++; availableColors[i]=["0x555555",0x555555];
+i++; availableColors[i]=["0x5555AA",0x5555AA];
+i++; availableColors[i]=["0x5555FF",0x5555FF];
+i++; availableColors[i]=["0x55AA00",0x55AA00];
+i++; availableColors[i]=["0x55AA55",0x55AA55];
+i++; availableColors[i]=["0x55AAAA",0x55AAAA];
+i++; availableColors[i]=["0x55AAFF",0x55AAFF];
+i++; availableColors[i]=["0x55FF00",0x55FF00];
+i++; availableColors[i]=["0x55FF55",0x55FF55];
+i++; availableColors[i]=["0x55FFAA",0x55FFAA];
+i++; availableColors[i]=["0x55FFFF",0x55FFFF];
+i++; availableColors[i]=["0xAA0000",0xAA0000];
+i++; availableColors[i]=["0xAA0055",0xAA0055];
+i++; availableColors[i]=["0xAA00AA",0xAA00AA];
+i++; availableColors[i]=["0xAA00FF",0xAA00FF];
+i++; availableColors[i]=["0xAA5500",0xAA5500];
+i++; availableColors[i]=["0xAA5555",0xAA5555];
+i++; availableColors[i]=["0xAA55AA",0xAA55AA];
+i++; availableColors[i]=["0xAA55FF",0xAA55FF];
+i++; availableColors[i]=["0xAAAA00",0xAAAA00];
+i++; availableColors[i]=["0xAAAA55",0xAAAA55];
+i++; availableColors[i]=["0xAAAAAA",0xAAAAAA];
+i++; availableColors[i]=["0xAAAAFF",0xAAAAFF];
+i++; availableColors[i]=["0xAAFF00",0xAAFF00];
+i++; availableColors[i]=["0xAAFF55",0xAAFF55];
+i++; availableColors[i]=["0xAAFFAA",0xAAFFAA];
+i++; availableColors[i]=["0xAAFFFF",0xAAFFFF];
+i++; availableColors[i]=["0xFF0000",0xFF0000];
+i++; availableColors[i]=["0xFF0055",0xFF0055];
+i++; availableColors[i]=["0xFF00AA",0xFF00AA];
+i++; availableColors[i]=["0xFF00FF",0xFF00FF];
+i++; availableColors[i]=["0xFF5500",0xFF5500];
+i++; availableColors[i]=["0xFF5555",0xFF5555];
+i++; availableColors[i]=["0xFF55AA",0xFF55AA];
+i++; availableColors[i]=["0xFF55FF",0xFF55FF];
+i++; availableColors[i]=["0xFFAA00",0xFFAA00];
+i++; availableColors[i]=["0xFFAA55",0xFFAA55];
+i++; availableColors[i]=["0xFFAAAA",0xFFAAAA];
+i++; availableColors[i]=["0xFFAAFF",0xFFAAFF];
+i++; availableColors[i]=["0xFFFF00",0xFFFF00];
+i++; availableColors[i]=["0xFFFF55",0xFFFF55];
+i++; availableColors[i]=["0xFFFFAA",0xFFFFAA];
+i++; availableColors[i]=["0xFFFFFF",0xFFFFFF];   
+*********************/   
+      
     }
 
     function onSelect(item) {
@@ -213,23 +294,18 @@ class CustomItem extends WatchUi.CustomMenuItem {
         CustomMenuItem.initialize(id, {});
         mLabel = label;
         color = id;
-        if(color==null)
-        	{
-        	color = Graphics.COLOR_BLACK;
-        	}
-        	if(color == Graphics.COLOR_BLACK or color == Graphics.COLOR_WHITE)
-        		{
-        		color = Graphics.COLOR_DK_GRAY;
-        		}
     }
 
     // draw the item string at the center of the item.
     function draw(dc) {
         var font;
+        var fcolor;
         if( isFocused() ) {
             font = Graphics.FONT_LARGE;
+            fcolor = Graphics.COLOR_BLACK;
         } else {
             font = Graphics.FONT_SMALL;
+             fcolor = Graphics.COLOR_DK_GRAY;
         }
 
         if( isSelected() ) {
@@ -237,11 +313,12 @@ class CustomItem extends WatchUi.CustomMenuItem {
             dc.clear();
         }
 
-        dc.setColor(color, Graphics.COLOR_TRANSPARENT);
-        dc.drawText(dc.getWidth()/2, dc.getHeight()/2, font, mLabel, Graphics.TEXT_JUSTIFY_CENTER | Graphics.TEXT_JUSTIFY_VCENTER);
+        dc.setColor(fcolor, Graphics.COLOR_TRANSPARENT);
+        dc.drawText(dc.getWidth()/4, dc.getHeight()/2, font, mLabel, Graphics.TEXT_JUSTIFY_LEFT | Graphics.TEXT_JUSTIFY_VCENTER);
         dc.setColor(color, Graphics.COLOR_BLACK);
         //dc.drawLine(0, 0, dc.getWidth(), 0);
-        dc.drawLine(0, dc.getHeight() - 1, dc.getWidth(), dc.getHeight() - 1);
+        dc.fillRectangle(0,0,dc.getWidth()/5,dc.getHeight());
+       // dc.drawLine(0, dc.getHeight() - 1, dc.getWidth(), dc.getHeight() - 1);
     }
 }
 class DrawableMenuFooter extends WatchUi.Drawable {
@@ -263,11 +340,9 @@ class DrawableMenuTitle extends WatchUi.Drawable {
     function initialize(gotTitle, gotColor) {
         Drawable.initialize({});
         title = gotTitle;
-        color = gotColor;
-        if(color==null)
-        	{
+
+
         	color = Graphics.COLOR_WHITE;
-        	}
     }
 
     function setSelected(isTitleSelected) {
