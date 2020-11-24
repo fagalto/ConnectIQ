@@ -29,47 +29,39 @@ function initialize (dc) {
 function getHrHistory() {
 	
 	var currenth = new Gregorian.Moment(Time.now().value());
-	if(currenth.subtract(me.hrHistTimestamp).value()>60) //once per minute refresh data
+	if(currenth.subtract(me.hrHistTimestamp).value()>29) //once per minute refresh data
 		{
 		//System.println("refreshing hr data");
 			me.hrHistTimestamp = currenth;
 			var hrIterator = ActivityMonitor.getHeartRateHistory( me.noOfSamples, false);
-			if(hrIterator.getMax() != null and
-				 hrIterator.getMax()< ActivityMonitor.INVALID_HR_SAMPLE
-				 and hrIterator.getMax()>0) {
+			if(hrIterator.getMax() != null and  hrIterator.getMax()< ActivityMonitor.INVALID_HR_SAMPLE and hrIterator.getMax()>0) {
 					me.maxHr = hrIterator.getMax();
 					}
 					else
-						{
-						me.maxHr = 30;
-						}
-			if(hrIterator.getMin() != null and
-				 hrIterator.getMin()< ActivityMonitor.INVALID_HR_SAMPLE
-				 and hrIterator.getMin()>0) {					
+						{ me.maxHr = 30; }
+			if(hrIterator.getMin() != null and hrIterator.getMin()< ActivityMonitor.INVALID_HR_SAMPLE and hrIterator.getMin()>0) {					
 					me.minHr = hrIterator.getMin();
 					}
 					else
-						{
-						me.minHr = 25;
-						}
+						{ me.minHr = 25; }
 			var sample=null;
-			for( var i = 0; i < hrData.size(); i++ )
-			{
-			if(hrIterator.next())
-			{
 			sample = hrIterator.next();
-				if( sample.heartRate< ActivityMonitor.INVALID_HR_SAMPLE) {
-				 me.hrData[i] = sample.heartRate;
-				// System.println("imma requestin hr data, got "+sample.heartRate+" for time "+sample.when.value());
-				 
-				 }
-			 }
-			 else
-			 	{
-			 	// System.println("got bad hr data, got "+sample.heartRate);
-			 	me.hrData[i] =  minHr;
-			 	}
-		}
+
+					for( var i = 0; i < hrData.size(); i++ )
+					{
+						if( sample.heartRate< ActivityMonitor.INVALID_HR_SAMPLE and sample != null) {
+						 me.hrData[i] = sample.heartRate;
+						// System.println("imma requestin hr data, got "+sample.heartRate+" for time "+sample.when.value());
+						 
+						 }
+					 else
+					 	{
+					 	// System.println("got bad hr data, got "+sample.heartRate);
+					 	me.hrData[i] =  minHr;
+					 	}
+					 	sample = hrIterator.next();
+				 	}
+		
 	}
 	
 	
