@@ -31,6 +31,7 @@ class SliderView extends WatchUi.WatchFace
     var DtColor;
     var FgColor;
     var ThemeColor;
+    var SecondsColor;
 
 
  	var chosenFields;
@@ -45,7 +46,6 @@ class SliderView extends WatchUi.WatchFace
 	var tRenderer;
 	var iKeeper;
 	var hrBox;
-	var myDc;
 	var curHour;
 	var curMinute;
 	//fonts
@@ -114,7 +114,6 @@ class SliderView extends WatchUi.WatchFace
         var secondHand;
         var targetDc = null;
         var curClip = null;
-        myDc = dc;
        // isAwake = true;
      		 getColorSettings();
  		 sRenderer._themeColor = ThemeColor;
@@ -148,20 +147,20 @@ class SliderView extends WatchUi.WatchFace
   
      	// System.println("imma drawinn full");
      	dc.clearClip(); 
-		dc.clear();
+		
 		dc.setColor(BgColor, BgColor);
-		dc.fillRectangle(0, 0, dc.getWidth(), dc.getHeight());
+		dc.clear();
 		
 		dc.setPenWidth(1);
 
 		drawHours(dc,FgColor);
 		drawMinutes(dc,FgColor);
 		drawFields(dc,FgColor);
-		drawIfActive(dc,true);
+		//drawIfActive(dc,true);
 				    	if(displaySeconds==true)
 				    		{
 				    		 var secs = System.getClockTime().sec;
-				    		drawSeconds(dc,ThemeColor,secs);
+				    		drawSeconds(dc,SecondsColor,secs);
 				     
 				    		}
  
@@ -238,18 +237,10 @@ class SliderView extends WatchUi.WatchFace
 		hrBox.height = 50;
 		var yhr = dc.getHeight()/2+(fheights[0]*1.1)/2;
 		var xhr = dc.getWidth()/2-hrBox.width-6;	
-		
-		
 		hrBox.drawHrGraph(xhr,yhr);	
 		dc.setColor(Graphics.COLOR_RED,BgColor);
 		var yhr_label = yhr+hrBox.height-fheights[3]/2;
-		
-		   // tRenderer.calcText(10,hrBox.minHr+"-"+hrBox.maxHr);
-			//var xtm = dc.getWidth()/2-tRenderer.len-2;
 		tRenderer.drawText(x-5,yhr_label,font_data, hrBox.minHr+"-"+hrBox.maxHr, Graphics.TEXT_JUSTIFY_RIGHT);
-		//dc.drawRectangle(xhr,yhr, hrBox.width, hrBox.height)	;	
-		//System.println("hrbox max is:"+hrBox.maxHr);
-		//hrBox.drawHrGraph(x,ya);
 		
 		RenderShade(dc,0,0,x,dc.getHeight()/2-(fheights[0]*1.1)/2,BgColor,Color);
 		
@@ -281,6 +272,7 @@ class SliderView extends WatchUi.WatchFace
 	
 	function drawSeconds(dc,Color,secs)	{ 
 		//System.println("draw seconds called for drawin: "+secs);// 
+		
 		if (secs==59)
 			{
 			//fullScreenRefresh=true;
@@ -301,16 +293,19 @@ class SliderView extends WatchUi.WatchFace
 		        	{
 		        	
 		        	bgRedrawRequested[1] = 1;
+		        	drawOffCalcField(offCalcField1[0],offCalcField1[1],offCalcField1[2],offCalcField1[3],offCalcField1[4],offCalcField1[5],offCalcField1[6]);
 		        	} 
 		        else if((secs>22 and secs<27) or (secs>33 and secs<38)) {
 		        bgRedrawRequested[1] = 2;
+		        drawOffCalcField(offCalcField6[0],offCalcField6[1],offCalcField6[2],offCalcField6[3],offCalcField6[4],offCalcField6[5],offCalcField6[6]);
 		        }
+		        
 		        	
 				       	else
 				        	{
 				        	bgRedrawRequested[1] = 0;
 				        	} 	        		
-		dc.setColor(ThemeColor, Graphics.COLOR_TRANSPARENT);
+		dc.setColor(Color, Graphics.COLOR_TRANSPARENT);
 		dc.setPenWidth(2);
 		DrawPolygon(dc,thick[0]);
 		DrawPolygon(dc,thick[1]);
@@ -380,14 +375,13 @@ class SliderView extends WatchUi.WatchFace
 	
 	}
 	function drawOffCalcField(DrawContext,x,y,fontSize,fieldType,FieldColor,value) {
+			sRenderer._dc.setClip(curClip[0][0], curClip[0][1], curClip[1], curClip[2]); 
+			tRenderer._dc.setClip(curClip[0][0], curClip[0][1], curClip[1], curClip[2]); 
+
 			sRenderer.renderSymbol(x,y,fieldType,FieldColor);
-			//tRenderer.fgColor=FgColor;
-			//tRenderer.drawText(x,y-fontSize,font_data, value, Graphics.TEXT_JUSTIFY_LEFT);
+
 			tRenderer.drawText(x+fontSize,y-fontSize,font_data, value, Graphics.TEXT_JUSTIFY_LEFT);
-			//renderText(DrawContext,x+fontSize+5,y,fontSize,value.toString(),FieldColor);
-			//tRenderer.calcText(fontSize,value.toString());
-			//tRenderer.drawText(x+fontSize+5,y);
-		//	System.println("drawin fields with clip set");	
+
 	}
 	
 		function RenderShade(dc,x1,y1,x2,y2,Bg,Fg) {
@@ -477,7 +471,15 @@ function DrawPolygon(DrawContext,polygon) {
         	{
         	Application.getApp().setProperty("ThemeColor", ThemeColor);
         	}	
-	
+        if(Application.getApp().getProperty("SecondsColor") != null)
+        {
+        SecondsColor = Application.getApp().getProperty("SecondsColor");
+        
+        }   
+        else
+        	{
+        	Application.getApp().setProperty("SecondsColor", ThemeColor);
+        	}	
 	}
 
 	
@@ -556,41 +558,16 @@ function DrawPolygon(DrawContext,polygon) {
         return [result1,result3];
     } 
     
-function miniBgRedraw()
+function miniBgRedraw(dc)
 {
 		if(curClip !=null)
 			{
-			myDc.setColor(BgColor,BgColor);
-			myDc.fillRectangle(curClip[0][0], 
-								curClip[0][1], 
-								curClip[1] , 
-								curClip[2]);
-			}
+			dc.setColor(BgColor,BgColor);
 			
-			if(bgRedrawRequested[0]==1)///low
-				{
-				//dc.drawRectangle(curClip[0][0], curClip[0][1], bboxWidth, bboxHeight);
-				drawHoursoffCalc(myDc,offCalcBuffer[2][0],offCalcBuffer[2][1],offCalcBuffer[2][2],offCalcBuffer[2][3],true,offCalcBuffer[2][4]);
-				}
-			if(bgRedrawRequested[0]==3)///top
-				{
-				//dc.drawRectangle(curClip[0][0], curClip[0][1], bboxWidth, bboxHeight);
-				drawHoursoffCalc(myDc,offCalcBuffer[1][0],offCalcBuffer[1][1],offCalcBuffer[1][2],offCalcBuffer[1][3],true,offCalcBuffer[1][4]);
-				}
-			if(bgRedrawRequested[1]==1)
-				{
-				//dc.drawRectangle(curClip[0][0], curClip[0][1], bboxWidth, bboxHeight);
-				//drawFields(dc,FgColor);
-				
-				//offCalcField1 = [DrawContext,x,y,fontSize,fieldType,FieldColor,value];
-				drawOffCalcField(offCalcField1[0],offCalcField1[1],offCalcField1[2],offCalcField1[3],offCalcField1[4],offCalcField1[5],offCalcField1[6]);
-				}
-			if(bgRedrawRequested[1]==2)
-				{
-				//dc.drawRectangle(curClip[0][0], curClip[0][1], bboxWidth, bboxHeight);
-				//drawFields(dc,FgColor);
-				drawOffCalcField(offCalcField6[0],offCalcField6[1],offCalcField6[2],offCalcField6[3],offCalcField6[4],offCalcField6[5],offCalcField6[6]);
-				}	
+			dc.clear();
+
+			}
+	
 			
 				//System.println("bg_secs_clear"+secs);
 }    
@@ -599,18 +576,8 @@ function miniBgRedraw()
     // This method is called when the device re-enters sleep mode.
     // Set the isAwake flag to let onUpdate know it should stop rendering the second hand.
     function onEnterSleep() {
-       
-        var secs =System.getClockTime().sec;
-        curClip = null;
-        myDc.clearClip();
-        myDc.clear();
-        WatchUi.requestUpdate();
-        drawIfActive(myDc,false);
-       
-
         fullScreenRefresh = false;
          isAwake = false;
-      System.println("sleepin, secs="+secs);
     }
 
     // This method is called when the device exits sleep mode.
@@ -664,24 +631,9 @@ function miniBgRedraw()
      
 		
 		if( displaySeconds==true) {
-		miniBgRedraw();
+		miniBgRedraw(dc);
 		 var secs = System.getClockTime().sec;
-		dc.clearClip();
-		var secondsAngle = (secs/60.0) * Math.PI * 2;
-		if(secs>30)
-			{
-			secondsAngle = ((60-secs)/60.0) * Math.PI * 2;
-			}
-		
-		var thick = generateSecondsThicks(screenCenterPoint,secondsAngle,5);
-		
- 
-		       curClip = getBoundingBox(thick);
-		 dc.setClip(curClip[0][0], curClip[0][1], curClip[1], curClip[2]); 
-		//dc.setColor(Graphics.COLOR_RED, Graphics.COLOR_TRANSPARENT);    
- 
-
-			drawSeconds(dc,ThemeColor, secs);  
+			drawSeconds(dc,SecondsColor, secs);  
 	}
 	//System.println("partial, secs="+seconds);
     

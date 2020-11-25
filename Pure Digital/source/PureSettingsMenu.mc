@@ -190,7 +190,25 @@ i++; availableColors[i]=["0xFFFFFF",0xFFFFFF];
  						themeMenu.setFocus(themeColor);  			            					    
 				    WatchUi.pushView(themeMenu, new BasicCustomDelegate("ThemeColor"), WatchUi.SLIDE_UP );          		 
           		 
-        } else if( item.getId().equals(4) ) { 
+        } else if( item.getId().equals(5) ) {
+        //Theme Color
+						var secC = Application.getApp().getProperty("SecondsColor");
+           			var secondsColor = new BasicCustomMenu(35,Graphics.COLOR_WHITE,{
+				        :focusItemHeight=>45,
+				        :foreground=>new Rez.Drawables.MenuForeground(),
+				        :title=>new DrawableMenuTitle("Seconds Color",secC),
+				        :footer=>new DrawableMenuFooter()
+				    });
+			        for (var i=0;i<availableColors.size();i++)
+			            	{
+			           		
+			           		 secondsColor.addItem(new CustomItem(availableColors[i][1], availableColors[i][0],false));
+			            	}
+			        var secColor = secondsColor.findItemById(secC);
+ 						secondsColor.setFocus(secColor);  			            					    
+				    WatchUi.pushView(secondsColor, new BasicCustomDelegate("SecondsColor"), WatchUi.SLIDE_UP );          		 
+          		 
+        }else if( item.getId().equals(4) ) { 
         //displayseconds
 				if(item.isEnabled())
 				{
