@@ -289,15 +289,15 @@ class SliderView extends WatchUi.WatchFace
 		       curClip = getBoundingBox(thick);
 		 dc.setClip(curClip[0][0], curClip[0][1], curClip[1], curClip[2]); 
 		        	bgRedrawRequested[0] = 0;			        	
-		       	if((secs>3 and secs<8) or (secs>52 and secs<57))// drawOffCalcField(DrawContext,x,y,fontSize,fieldType,FieldColor,value,fieldno)
+		       	if((secs>4 and secs<8) or (secs>52 and secs<57))// drawOffCalcField(DrawContext,x,y,fontSize,fieldType,FieldColor,value,fieldno)
 		        	{
 		        	
 		        	bgRedrawRequested[1] = 1;
-		        	drawOffCalcField(offCalcField1[0],offCalcField1[1],offCalcField1[2],offCalcField1[3],offCalcField1[4],offCalcField1[5],offCalcField1[6]);
+		        	//drawOffCalcField(offCalcField1[0],offCalcField1[1],offCalcField1[2],offCalcField1[3],offCalcField1[4],offCalcField1[5],offCalcField1[6]);
 		        	} 
-		        else if((secs>22 and secs<27) or (secs>33 and secs<38)) {
-		        bgRedrawRequested[1] = 2;
-		        drawOffCalcField(offCalcField6[0],offCalcField6[1],offCalcField6[2],offCalcField6[3],offCalcField6[4],offCalcField6[5],offCalcField6[6]);
+		        else if((secs>22 and secs<25) or (secs>35 and secs<38)) {
+		        		bgRedrawRequested[1] = 2;
+		       //drawOffCalcField(offCalcField6[0],offCalcField6[1],offCalcField6[2],offCalcField6[3],offCalcField6[4],offCalcField6[5],offCalcField6[6]);
 		        }
 		        
 		        	
@@ -362,7 +362,7 @@ class SliderView extends WatchUi.WatchFace
 	sRenderer.renderSymbol(x,y,fieldType,FieldColor);
 //	renderText(DrawContext,x+fontSize+5,y,fontSize,value.toString(),FieldColor);
 	
-	tRenderer.drawText(x+fontSize,y-fontSize,font_data, value, Graphics.TEXT_JUSTIFY_LEFT);
+	tRenderer.drawText(x+fontSize*0.8,y-fontSize,font_data, value, Graphics.TEXT_JUSTIFY_LEFT);
 
 				if ( fieldno==0)
 				{
@@ -380,7 +380,7 @@ class SliderView extends WatchUi.WatchFace
 
 			sRenderer.renderSymbol(x,y,fieldType,FieldColor);
 
-			tRenderer.drawText(x+fontSize,y-fontSize,font_data, value, Graphics.TEXT_JUSTIFY_LEFT);
+			tRenderer.drawText(x+fontSize*0.8,y-fontSize,font_data, value, Graphics.TEXT_JUSTIFY_LEFT);
 
 	}
 	
@@ -567,7 +567,20 @@ function miniBgRedraw(dc)
 			dc.clear();
 
 			}
-	
+		       	if(bgRedrawRequested[1] == 1)// drawOffCalcField(DrawContext,x,y,fontSize,fieldType,FieldColor,value,fieldno)
+		        	{
+		        	drawOffCalcField(offCalcField1[0],offCalcField1[1],offCalcField1[2],offCalcField1[3],offCalcField1[4],offCalcField1[5],offCalcField1[6]);
+		        			      //  dc.setColor(Graphics.COLOR_RED,Graphics.COLOR_TRANSPARENT);	
+			//dc.drawRectangle(curClip[0][0], curClip[0][1], curClip[1], curClip[2]); 
+		        	} 
+		        else if(bgRedrawRequested[1] == 2) {
+		        		
+		        drawOffCalcField(offCalcField6[0],offCalcField6[1],offCalcField6[2],offCalcField6[3],offCalcField6[4],offCalcField6[5],offCalcField6[6]);
+		        		      //  dc.setColor(Graphics.COLOR_RED,Graphics.COLOR_TRANSPARENT);	
+			//dc.drawRectangle(curClip[0][0], curClip[0][1], curClip[1], curClip[2]); 
+		        }
+
+			
 			
 				//System.println("bg_secs_clear"+secs);
 }    

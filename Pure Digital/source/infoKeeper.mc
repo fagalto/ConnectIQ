@@ -24,10 +24,13 @@ var value = 0;
 		switch ( fieldType ) {
 		case 0: //steps
 		value = info.steps;
+		
+
 		 
 		break;	
 		case 1: //Calories
 		value = info.calories;
+		
 		break;	
 		case 2: //Temperature
 				var temp=000;
@@ -84,6 +87,7 @@ var value = 0;
 		if(info has :floorsClimbed)
 		{
 		value = info.floorsClimbed;
+	
 		}
 		else
 			{
@@ -115,6 +119,7 @@ var value = 0;
 			
 			
 					value = alt;
+
 		break;
 		case 7: //Messages
 		value = System.getDeviceSettings().notificationCount;
@@ -122,13 +127,14 @@ var value = 0;
 		break;	
 		case 8: //Memory
 		myStats = System.getSystemStats();
-					value = myStats.usedMemory;	
+					value = (myStats.usedMemory/1024).toNumber()+"k";	
 					//System.println("value memory is "+value);	
 		break;			
 		default:
 		value = 0;
 		break;										
 	}
+
 me.values[fieldType] = value.toString();
 return value.toString();
 
