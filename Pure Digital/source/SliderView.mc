@@ -122,7 +122,7 @@ class SliderView extends WatchUi.WatchFace
  		 tRenderer.bgColor = BgColor;   		   
        	 hrBox.getHrHistory();
          chosenFields = [1,2,3,4,5,6];
-         
+         iKeeper.refreshInfo();
          getFields ();
          
          is24hour = System.getDeviceSettings().is24Hour;
@@ -375,10 +375,10 @@ class SliderView extends WatchUi.WatchFace
 	
 	}
 	function drawOffCalcField(DrawContext,x,y,fontSize,fieldType,FieldColor,value) {
-			sRenderer._dc.setClip(curClip[0][0], curClip[0][1], curClip[1], curClip[2]); 
+			//sRenderer._dc.setClip(curClip[0][0], curClip[0][1], curClip[1], curClip[2]); 
 			tRenderer._dc.setClip(curClip[0][0], curClip[0][1], curClip[1], curClip[2]); 
 
-			sRenderer.renderSymbol(x,y,fieldType,FieldColor);
+			//sRenderer.renderSymbol(x,y,fieldType,FieldColor);
 
 			tRenderer.drawText(x+fontSize*0.8,y-fontSize,font_data, value, Graphics.TEXT_JUSTIFY_LEFT);
 
@@ -478,7 +478,7 @@ function DrawPolygon(DrawContext,polygon) {
         }   
         else
         	{
-        	Application.getApp().setProperty("SecondsColor", ThemeColor);
+        	Application.getApp().setProperty("SecondsColor", SecondsColor);
         	}	
 	}
 

@@ -39,13 +39,13 @@
     </setting>
     <setting propertyKey="@Properties.ThemeColor" title="@Strings.ThemeColorTitle">
         <settingConfig type="list">
-            <listEntry value="0x000000">@Strings.ColorBlack</listEntry>
-            <listEntry value="0xFFFFFF">@Strings.ColorWhite</listEntry>            
-            <listEntry value="0xAAAAAA">@Strings.ColorLightGray</listEntry>
- 		<listEntry value="0x55555">@Strings.ColorDarkGray</listEntry>	            
-            <listEntry value="0x0000FF">@Strings.ColorBlue</listEntry>
-            <listEntry value="0xFF0000">@Strings.ColorRed</listEntry> 
-             <listEntry value="0x00FF00">@Strings.ColorGreen</listEntry>  
+<listEntry value="0x000000">@Strings.ColorBlack</listEntry>
+<listEntry value="0xFFFFFF">@Strings.ColorWhite</listEntry>            
+<listEntry value="0xAAAAAA">@Strings.ColorLightGray</listEntry>
+<listEntry value="0x55555">@Strings.ColorDarkGray</listEntry>	            
+<listEntry value="0x0000FF">@Strings.ColorBlue</listEntry>
+<listEntry value="0xFF0000">@Strings.ColorRed</listEntry> 
+<listEntry value="0x00FF00">@Strings.ColorGreen</listEntry>  
 
  <listEntry value="0xAA0005">@Strings.MPink</listEntry>
  <listEntry value="0xAA00FF">@Strings.MPurple</listEntry>
@@ -80,6 +80,7 @@
             <listEntry value="6">@Strings.Altitude</listEntry>
             <listEntry value="7">@Strings.Messages</listEntry>
              <listEntry value="8">@Strings.MemoryUsed</listEntry>
+             <listEntry value="9">@Strings.Distance</listEntry>
              
         </settingConfig>
     </setting> 
@@ -94,6 +95,7 @@
             <listEntry value="6">@Strings.Altitude</listEntry>
             <listEntry value="7">@Strings.Messages</listEntry>
               <listEntry value="8">@Strings.MemoryUsed</listEntry>
+              <listEntry value="9">@Strings.Distance</listEntry>
              
         </settingConfig>
     </setting> 
@@ -107,7 +109,8 @@
             <listEntry value="5">@Strings.Floors</listEntry>
             <listEntry value="6">@Strings.Altitude</listEntry>
             <listEntry value="7">@Strings.Messages</listEntry>
-  			<listEntry value="8">@Strings.MemoryUsed</listEntry>            
+  			<listEntry value="8">@Strings.MemoryUsed</listEntry> 
+  			<listEntry value="9">@Strings.Distance</listEntry>           
              
         </settingConfig>
     </setting> 
@@ -121,7 +124,8 @@
             <listEntry value="5">@Strings.Floors</listEntry>
             <listEntry value="6">@Strings.Altitude</listEntry>
             <listEntry value="7">@Strings.Messages</listEntry>
-  			<listEntry value="8">@Strings.MemoryUsed</listEntry>            
+  			<listEntry value="8">@Strings.MemoryUsed</listEntry> 
+  			<listEntry value="9">@Strings.Distance</listEntry>           
              
         </settingConfig>
     </setting> 
@@ -136,6 +140,7 @@
             <listEntry value="6">@Strings.Altitude</listEntry>
             <listEntry value="7">@Strings.Messages</listEntry>
             <listEntry value="8">@Strings.MemoryUsed</listEntry> 
+            <listEntry value="9">@Strings.Distance</listEntry>
              
         </settingConfig>
     </setting> 
@@ -150,10 +155,40 @@
             <listEntry value="6">@Strings.Altitude</listEntry>
             <listEntry value="7">@Strings.Messages</listEntry>
             <listEntry value="8">@Strings.MemoryUsed</listEntry> 
+            <listEntry value="9">@Strings.Distance</listEntry>
              
         </settingConfig>
     </setting>                     
          <setting propertyKey="@Properties.displaySeconds" title="@Strings.displaySeconds">
         <settingConfig type="boolean" />
-    </setting>        
+    </setting> 
+    <setting propertyKey="@Properties.SecondsColor" title="@Strings.SecondsColorTitle">
+        <settingConfig type="list">
+<listEntry value="0x000000">@Strings.ColorBlack</listEntry>
+<listEntry value="0xFFFFFF">@Strings.ColorWhite</listEntry>            
+<listEntry value="0xAAAAAA">@Strings.ColorLightGray</listEntry>
+<listEntry value="0x55555">@Strings.ColorDarkGray</listEntry>	            
+<listEntry value="0x0000FF">@Strings.ColorBlue</listEntry>
+<listEntry value="0xFF0000">@Strings.ColorRed</listEntry> 
+<listEntry value="0x00FF00">@Strings.ColorGreen</listEntry>  
+
+ <listEntry value="0xAA0005">@Strings.MPink</listEntry>
+ <listEntry value="0xAA00FF">@Strings.MPurple</listEntry>
+ <listEntry value="0xFF0055">@Strings.MDeepPurple</listEntry>
+ <listEntry value="0x5500AA">@Strings.MIndigo</listEntry>
+ <listEntry value="0x0055AA">@Strings.MBlue</listEntry>
+ <listEntry value="0x00AAFF">@Strings.MLightBlue</listEntry>
+ <listEntry value="0x00FFFF">@Strings.MTeal</listEntry>
+ <listEntry value="0x00FF55">@Strings.MGreen</listEntry>
+ <listEntry value="0x00FFAA">@Strings.MLightGreen</listEntry>
+ <listEntry value="0xAAFF55">@Strings.MLime</listEntry>
+ <listEntry value="0xFFFF55">@Strings.MYellow</listEntry>
+ <listEntry value="0xFFAA00">@Strings.MAmber</listEntry>
+ <listEntry value="0xFF5500">@Strings.MOrange</listEntry>
+ <listEntry value="0xAA5500">@Strings.MDeepOrange</listEntry>
+ <listEntry value="0x550000">@Strings.MBrown</listEntry>
+ <listEntry value="0x555555">@Strings.MGrey</listEntry>
+ <listEntry value="0x5555AA">@Strings.MBlueGrey</listEntry>            
+        </settingConfig>
+    </setting>           
 </settings>

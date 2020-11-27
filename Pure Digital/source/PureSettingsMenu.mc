@@ -222,7 +222,7 @@ i++; availableColors[i]=["0xFFFFFF",0xFFFFFF];
         
         } else if( item.getId().toNumber()>10 and item.getId().toNumber()<17 ) { 
  
-				 var availableSettings = new[9];
+				 var availableSettings = new[10];
 				 var i =0;
 				 var propertyId = item.getId().toNumber()-10;
 				availableSettings[i]=["Steps",i]; i++;
@@ -234,6 +234,8 @@ i++; availableColors[i]=["0xFFFFFF",0xFFFFFF];
 				availableSettings[i]=["Altitude",i]; i++;
 				availableSettings[i]=["Messages",i]; i++;
 				availableSettings[i]=["MemoryUsed",i]; i++;
+				availableSettings[i]=["Distance",i]; i++;
+				//availableSettings[i]=["Weather",i]; i++;
 				//System.println(availableSettings);
  
 

@@ -4,34 +4,48 @@ using Toybox.ActivityMonitor;
 using Toybox.SensorHistory;
 using Toybox.Lang;
 using Toybox.Math;
+using Toybox.Weather;
 
 class infoKeeper {
 public var tempUnits;
 public var values;
+public var info;
 
 
 function initialize () {
 
-	me.values = new[9];
+	me.values = new[11];
 me.tempUnits = System.getDeviceSettings().temperatureUnits ;
+me.info =  ActivityMonitor.getInfo();
+}
+function refreshInfo() {
+me.info =  ActivityMonitor.getInfo();
 }
 
-function getFieldValue(fieldType) {
 
-var info = ActivityMonitor.getInfo();
+function getFieldValue(fieldType) {
 var value = 0;
 
 		switch ( fieldType ) {
 		case 0: //steps
-		value = info.steps;
+		value = me.info.steps;
 		
 
 		 
 		break;	
 		case 1: //Calories
-		value = info.calories;
+		value = me.info.calories;
 		
-		break;	
+		break;
+		case 9: //distance in cm
+		value = (me.info.distance/100).toString()+"m";//meters
+		if(info.distance/100>1000)
+			{
+			value = (info.distance/100/1000.0).format("%.01f").toString()+"km";
+			}
+
+		 
+		break;				
 		case 2: //Temperature
 				var temp=000;
 				if(Toybox has :SensorHistory)
@@ -129,7 +143,22 @@ var value = 0;
 		myStats = System.getSystemStats();
 					value = (myStats.usedMemory/1024).toNumber()+"k";	
 					//System.println("value memory is "+value);	
-		break;			
+		break;
+		case 10: //Weather
+				value = "since CIQ 3.2.0";
+				if(Toybox.Weather has :getCurrentConditions)	
+					{
+					var weather = Weather.getCurrentConditions();
+					var tempOut = weather.temperature;
+					var tempFeel = weather.feelsLikeTemperature;
+					var windSpeed = weather.windSpeed;
+					//var windDir = weather.windBearing;
+					value = tempOut+"'C";
+				//	System.println("value watch is "+value);	
+					//System.println("value weather is "+weather);	
+					}
+		//value = 1;
+		break;						
 		default:
 		value = 0;
 		break;										

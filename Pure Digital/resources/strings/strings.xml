@@ -5,6 +5,7 @@
     <string id="BackgroundColorTitle">Background Color</string>
     <string id="ForegroundColorTitle">Foreground Color</string>
     <string id="ThemeColorTitle">Theme Color</string>
+     <string id="SecondsColorTitle">Seconds Color</string>
      <string id="StepCalsTitle">Cals | Steps | Temp | Elev</string>
     <string id="DotColorTitle">Tiny Dots Color</string>
 
@@ -52,6 +53,7 @@
     <string id="Altitude">Altitude</string>
     <string id="Messages">Message Count</string>
     <string id="MemoryUsed">Memory Used</string>
+    <string id="Distance">Distance</string>
     
 
     <string id="displaySeconds">Display seconds</string>

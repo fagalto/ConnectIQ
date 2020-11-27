@@ -93,7 +93,15 @@ _dc.setPenWidth(1);
 		[3,-11],[1,-11],[3,-11]  ,  [3,-9],[1,-9],[3,-9] , [3,-7],[1,-7],[3,-7], [3,-5],[1,-5],[3,-5], [3,-3]];
 		polygon1 =	PolyTranslate(polygon1,x,y);	
 		DrawPoly(polygon1);
-		break;			
+		break;		
+		case 9: //distance
+		polygon1 = [[12,-3],[12,-12],[11,-13],[10,-14],[9,-13],[8,-12],[8,-11],[8,-6],[7,-5],[6,-4],[5,-5],[4,-6],[4,-14],[3,-12],[4,-14],[5,-12],[4,-14]];
+ 		polygon1 =	PolyTranslate(polygon1,x,y+1);
+ 		_dc.setPenWidth(2);	
+		DrawPoly(polygon1);
+		_dc.setPenWidth(1);	
+
+		break;				
 		default:
 		polygon = [[s*0.33, 0], [s, -s*0.67],[s*0.67,-s],[0,-s*0.33]];
 		break;										
@@ -115,18 +123,18 @@ function DrawPoly(polygon) {
 
 function PolyTranslate(Polygon,Tx,Ty)
 	{
-	if(Polygon !=null)
+	var poly = Polygon;
+	if(poly !=null)
 	{
-	var s = Polygon.size();
-	var tempShifter = new [s];
+	var s = poly.size();
 	
-	for( var j = 0; j < Polygon.size(); j++ ) {
+	for( var j = 0; j < poly.size(); j++ ) {
 			  // System.println("imma translatin"+Polygon[j]+[Tx,Ty]);
-			    Polygon[j] =  [Polygon[j][0]+Tx,Polygon[j][1]+Ty];
+			    poly[j] =  [poly[j][0]+Tx,poly[j][1]+Ty];
 			}
 	}
-	return Polygon;	
+		
+	return poly;
 	}
-	
 
 }
