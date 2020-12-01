@@ -54,6 +54,8 @@ class SliderView extends WatchUi.WatchFace
     var font_date;
     var font_data;
     var fheights;
+    var sWidth;
+    var sHeight;
 	
 
     function initialize() {
@@ -63,7 +65,7 @@ class SliderView extends WatchUi.WatchFace
         fullScreenRefresh = true;
         offlineFieldValues = new[15];
          fheights = new[4];
-         
+      
 
        
      
@@ -105,6 +107,9 @@ class SliderView extends WatchUi.WatchFace
  
     // Handle the update event
     function onUpdate(dc) {
+    
+        sWidth = dc.getWidth();
+     	sHeight = dc.getHeight();  
         var width;
         var height;
         var screenWidth = dc.getWidth();
@@ -169,14 +174,16 @@ class SliderView extends WatchUi.WatchFace
 	function drawMinutes(dc,Color)	{
 
 		var minutes = System.getClockTime().min.format("%02d");
-		var fsize = dc.getHeight()/4;
+		var fsize = sHeight/4;
 		//var fsize = Math.floor(dc.getWidth()/2.54);
-		var y = Math.floor(dc.getHeight()/2-fheights[1]*1.1);
-		var x = dc.getWidth()/2+5 ;
+		var y = Math.floor(sHeight/2-fheights[1]*1.1);
+		var x = sWidth/2+5 ;
 		tRenderer.fgColor = ThemeColor;
 		//renderText(dc,x,y,fsize,minutes,ThemeColor);
+		dc.setClip(sWidth/2, sHeight/3, sWidth/2, sHeight/3);
 			tRenderer.drawText(x-fheights[1]*0.05, y, font_minutes, minutes, Graphics.TEXT_JUSTIFY_LEFT);
 		tRenderer.fgColor = FgColor;
+		dc.clearClip();
 	}
 	
 	function drawHours(dc,Color)	{
@@ -209,45 +216,58 @@ class SliderView extends WatchUi.WatchFace
 
 		
 		var fsize = fheights[0];
-		var y = Math.floor(dc.getHeight()/2-fheights[0]*1.1);
+		var y = Math.floor(sHeight/2-fheights[0]*1.1);
 		
 	 
 		tRenderer.fgColor = FgColor;
 	
 
-			var x = dc.getWidth()/2;
+			var x = sWidth/2;
 			var gwidth = tRenderer.len;	
-			
-			
+			 
+		dc.setClip(0,sHeight/2-fheights[0]*0.55,sWidth/2,fsize*1.1)	;
+
+		
+
 		tRenderer.drawText(x+fheights[0]*0.05, y, font_hours, hours, Graphics.TEXT_JUSTIFY_RIGHT);
 
-			var xd = dc.getWidth()/2;
-			var yb = Math.floor(dc.getHeight()/2-fheights[0]);
+			var xd = sWidth/2;
+			var yb = Math.floor(sHeight/2-fheights[0]);
+		
+		
+		dc.setClip(0,0,sWidth/2,sHeight/3)	;
 		tRenderer.drawText(x,yb,font_date, daten, Graphics.TEXT_JUSTIFY_RIGHT);
 		
 		
 		//tRenderer.calcText(bigDataFont,dayOfWeek);
-			//var xy = dc.getWidth()/2-tRenderer.len-2;
+			//var xy = sWidth/2-tRenderer.len-2;
 			var yd = yb-Math.floor(fheights[2]*1.1);
 		tRenderer.drawText(x,yd,font_date, dayOfWeek, Graphics.TEXT_JUSTIFY_RIGHT);
+		RenderShade(dc,0,0,x,sHeight/2-(fheights[0]*1.1)/2,BgColor,Color);
 		
+		
+		
+		dc.setClip(0,sHeight/2,sWidth/2,sHeight/2)	;
 		
 		hrBox.width = 100;
 		
 		hrBox.height = 50;
-		var yhr = dc.getHeight()/2+(fheights[0]*1.1)/2;
-		var xhr = dc.getWidth()/2-hrBox.width-6;	
+		var yhr = sHeight/2+(fheights[0]*1.1)/2;
+		var xhr = sWidth/2-hrBox.width-6;	
 		hrBox.drawHrGraph(xhr,yhr);	
+		//System.println("x= "+xhr+"y="+yhr);
 		dc.setColor(Graphics.COLOR_RED,BgColor);
 		var yhr_label = yhr+hrBox.height-fheights[3]/2;
+		
 		tRenderer.drawText(x-5,yhr_label,font_data, hrBox.minHr+"-"+hrBox.maxHr, Graphics.TEXT_JUSTIFY_RIGHT);
 		
-		RenderShade(dc,0,0,x,dc.getHeight()/2-(fheights[0]*1.1)/2,BgColor,Color);
 		
-		var ya = dc.getHeight()/2+(fheights[0]*1.1)/2;
-		var x2 = dc.getWidth()/2-2;	
+		
+		var ya = sHeight/2+(fheights[0]*1.1)/2;
+		var x2 = sWidth/2-2;	
 		RenderShade(dc,xhr,ya,x2,ya+hrBox.height,BgColor,Color);
 		//offCalcBuffer = [[x,y,fsize,hours,ThemeColor],[x,yb,fsize,hourBefore,Color],[x,ya,fsize,hourLater,Color]];
+		dc.clearClip();
 	}	
 	
 	
@@ -259,7 +279,7 @@ class SliderView extends WatchUi.WatchFace
 		tRenderer.drawText(x,y);
 		if(shade==true)
 			{
-			RenderShade(dc,x,y-fsize,dc.getWidth()/2-5,y,BgColor,Color);
+			RenderShade(dc,x,y-fsize,sWidth/2-5,y,BgColor,Color);
 			}	
 			if(curClip !=null)
 				{
@@ -317,28 +337,30 @@ class SliderView extends WatchUi.WatchFace
        
         //Steps,Calories,Temperature,Battery,HeartRate,Floors,Altitude,Messages	
         dc.setPenWidth(1);
-     var x = dc.getWidth()/2+2;
+     var x = sWidth/2+2;
      var y =0;  
      var z=2;
-     var fsize = Math.floor(fheights[3]);//dc.getHeight()/20.0; 
+     var fsize = Math.floor(fheights[3]);//sHeight/20.0; 
      var asc = Graphics.getFontAscent(font_data);
 		     for(var i =0;i<chosenFields.size();i++) {
 		     //wez wartoœæ pola
 		   	
-		      y = dc.getHeight()/6.0+i*1.4*fsize;
+		      y = sHeight/6.0+i*1.4*fsize;
+		      
 		      if(i>2)
 		      	{
-		      	//minute font size = dc.getHeight()/4
+		      	//minute font size = sHeight/4
 		   
-		    y = dc.getHeight()/6.0+i*1.4*fsize+fheights[1]+0.6*fsize;
+		    y = sHeight/6.0+i*1.4*fsize+fheights[1]+0.6*fsize;
 		      z--;
 		      	}
+		      	dc.setClip(sWidth/2,y-fsize,sWidth/3,fsize*1.2);
 		      	//System.println("drawin field "+chosenFields[i]+" on y:"+y+"fsize="+fsize);
 		     		drawField(dc,x,y,chosenFields[i],FieldColor,asc,i);
 		     //narysuj pole
 		     
 		     }
-	
+	dc.clearClip();
 	
 	}	
 	
@@ -405,7 +427,8 @@ class SliderView extends WatchUi.WatchFace
 			{
 			dc.drawLine(x1, j, x2, j);
 			j++;
-			}		
+			}	
+		dc.setColor(Fg, Bg);	
 		
 		
 }
@@ -618,7 +641,7 @@ function miniBgRedraw(dc)
 		Color = BgColor;
 		}
 	dc.setColor(ThemeColor,BgColor);
-	dc.drawLine(dc.getWidth()/2-2, 2,dc.getWidth()/2+2, 2);
+	dc.drawLine(sWidth/2-2, 2,sWidth/2+2, 2);
 	
 	}
     

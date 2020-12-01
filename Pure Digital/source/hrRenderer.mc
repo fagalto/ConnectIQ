@@ -13,6 +13,8 @@ public var maxHr;
 public var minHr;
 public var noOfSamples;
 private var hrHistTimestamp;
+private var graphTimestamp;
+private var graphpoints;
 
  
 
@@ -24,6 +26,8 @@ function initialize (dc) {
 	 me.noOfSamples = 60;
 	 me.hrData = new[me.noOfSamples];
 	 me.hrHistTimestamp = new Gregorian.Moment(1);
+	  me.graphTimestamp = new Gregorian.Moment(1);
+	  me.graphpoints = null;
 	}
 
 function getHrHistory() {
@@ -33,7 +37,7 @@ function getHrHistory() {
 		{
 		//System.println("refreshing hr data");
 			me.hrHistTimestamp = currenth;
-			var hrIterator = ActivityMonitor.getHeartRateHistory( me.noOfSamples, false);
+			var hrIterator = ActivityMonitor.getHeartRateHistory( 60, false);
 			if(hrIterator.getMax() != null and  hrIterator.getMax()< ActivityMonitor.INVALID_HR_SAMPLE and hrIterator.getMax()>0) {
 					me.maxHr = hrIterator.getMax();
 					}
@@ -49,17 +53,24 @@ function getHrHistory() {
 
 					for( var i = 0; i < hrData.size(); i++ )
 					{
-						if( sample.heartRate< ActivityMonitor.INVALID_HR_SAMPLE and sample != null) {
-						 me.hrData[i] = sample.heartRate;
-						// System.println("imma requestin hr data, got "+sample.heartRate+" for time "+sample.when.value());
-						 
+						if(sample !=null)
+						{
+							if( sample.heartRate< ActivityMonitor.INVALID_HR_SAMPLE and sample != null) {
+							 me.hrData[i] = sample.heartRate;
+							// System.println("imma requestin hr data, got "+sample.heartRate+" for time "+sample.when.value());
+							 
+							 }
+						 else
+						 	{
+						 	// System.println("got bad hr data, got "+sample.heartRate);
+						 	me.hrData[i] =  minHr;
+						 	}
+						 	sample = hrIterator.next();
 						 }
-					 else
-					 	{
-					 	// System.println("got bad hr data, got "+sample.heartRate);
-					 	me.hrData[i] =  minHr;
-					 	}
-					 	sample = hrIterator.next();
+						 else
+						 	{
+						 	me.hrData[i]  =  minHr;
+						 	}
 				 	}
 		
 	}
@@ -71,8 +82,7 @@ function calculateHrGraph() {
 
 var graphMax = me.height-2; //margin
 var graphWidth = me.width;
-
-var graphScaleY = graphMax.toFloat()/(me.maxHr-me.minHr);
+var graphScaleY = graphMax.toFloat()/(me.maxHr-me.minHr+1);
 var graphScaleX = graphWidth.toFloat()/hrData.size();
 //System.println("graph width is are "+graphWidth);
 var points = new[hrData.size()+2];
@@ -92,9 +102,20 @@ return points;
 	
 function drawHrGraph(x,y) {
 
-var points = calculateHrGraph();
-points = PolyTranslate(points,x,y);
-_dc.fillPolygon(points);
+	var currenth = new Gregorian.Moment(Time.now().value());
+	if(currenth.subtract(me.graphTimestamp).value()>29) //once per minute refresh data
+		{
+		me.graphTimestamp = currenth;
+		me.graphpoints = null;
+		var points = calculateHrGraph();
+		points = PolyTranslate(points,x,y);
+		me.graphpoints = points;
+	//_dc.fillPolygon(me.graphpoints);		
+		}
+
+_dc.fillPolygon(me.graphpoints);
+
+
 
 
 }	
