@@ -27,5 +27,7 @@ class SliderApp extends Application.AppBase {
     function onSettingsChanged() {
         WatchUi.requestUpdate();
     }
-
+    function getSettingsView() {
+        return [new SlidersSettingsView(), new SlidersSettingsDelegate()];
+    } 
 }

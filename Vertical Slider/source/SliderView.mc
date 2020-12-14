@@ -23,8 +23,6 @@ class SliderView extends WatchUi.WatchFace
 {
     var font1;
     var font_min;
-    var font_min1;
-    var font_min2;
     var font_max;
     var isAwake;
     var screenShape;
@@ -84,8 +82,12 @@ class SliderView extends WatchUi.WatchFace
        // font1 = WatchUi.loadResource(Rez.Fonts.mari_font);
       //  font_min1 = WatchUi.loadResource(Rez.Fonts.mari_font_min);
        //  font_min2 = WatchUi.loadResource(Rez.Fonts.mari_font_min2);
-        font_min1 = WatchUi.loadResource(Rez.Fonts.cone_min1);
-         font_min2 = WatchUi.loadResource(Rez.Fonts.cone_min2);         
+       font_min = new[3];
+       //teko mari cone
+       font_min[0] = [WatchUi.loadResource(Rez.Fonts.mari_min1),WatchUi.loadResource(Rez.Fonts.mari_min2)];
+       font_min[1] =  font_min[0];
+       font_min[2] = [WatchUi.loadResource(Rez.Fonts.cone_min1),WatchUi.loadResource(Rez.Fonts.cone_min2)];   
+                
         ClockFont1 = WatchUi.loadResource(Rez.Fonts.teko);
  		ClockFont2 = WatchUi.loadResource(Rez.Fonts.mari_font_max);
  		ClockFont3 = WatchUi.loadResource(Rez.Fonts.cone);
@@ -106,6 +108,7 @@ class SliderView extends WatchUi.WatchFace
         var secondHand;
         var targetDc = null;
          ShowBatteryBar = false; 
+         fullScreenRefresh = true;
          
          is24hour = System.getDeviceSettings().is24Hour;
          tempUnits = System.getDeviceSettings().temperatureUnits ;
@@ -166,14 +169,14 @@ class SliderView extends WatchUi.WatchFace
         	}    
         if(Application.getApp().getProperty("FontSize")==1)
         {
-        	font_min=font_min2;
+        	font1= font_min[0][1];
         	fontSize = 1;
         	
         }
          else
         	{
         	fontSize=0;//Application.getApp().setProperty("FontSize", 0);
-        	font_min=font_min1;
+        	font1=font_min[0][0];
         	} 
         if(Application.getApp().getProperty("displaySeconds") != null)
         {
@@ -186,20 +189,23 @@ class SliderView extends WatchUi.WatchFace
 
 		switch ( Application.getApp().getProperty("FontName") ) {
 		    case 0:
-		     ClockFont =ClockFont1;
+		     ClockFont =ClockFont1; //teko
+		     font1=font_min[0][fontSize];
 		    break;
 		    case 1:
-		     ClockFont =ClockFont2;
+		     ClockFont =ClockFont2; //mari
+		     font1=font_min[1][fontSize];
 		    break;
 		    case 2: 
-		     ClockFont =ClockFont3;
+		     ClockFont =ClockFont3; //cone
+		     font1=font_min[2][fontSize];
 		    break;
 		    default:
 		    // If all else fails
 		    break;
 		}        	        	      	           	     	   
         // We always want to refresh the full screen when we get a regular onUpdate call.
-
+		dc.clearClip();
  		drawBackground(dc);
 	
 /*****************************************************/
@@ -430,9 +436,9 @@ class SliderView extends WatchUi.WatchFace
 						
 					dc.setColor(Color , Graphics.COLOR_TRANSPARENT);
 					//minutes
-					dc.drawText(AxeX+6,i*step-Graphics.getFontHeight(font_min)/2,   font_min,mindisp , Graphics.TEXT_JUSTIFY_LEFT);	
+					dc.drawText(AxeX+6,i*step-Graphics.getFontHeight(font1)/2,   font1,mindisp , Graphics.TEXT_JUSTIFY_LEFT);	
 					if(i*step>(dc.getHeight()/2-10) && i*step<(dc.getHeight()/2+10) && minVecTxt==null) {
-							minVecTxt=[AxeX+6,i*step-Graphics.getFontHeight(font_min)/2,   mindisp , Graphics.TEXT_JUSTIFY_LEFT];
+							minVecTxt=[AxeX+6,i*step-Graphics.getFontHeight(font1)/2,   mindisp , Graphics.TEXT_JUSTIFY_LEFT];
 							}						
 				}
 		}
@@ -474,7 +480,7 @@ class SliderView extends WatchUi.WatchFace
 			temp = Toybox.SensorHistory.getTemperatureHistory({}).next().data.toLong();
 			}
 		}
-		var tMark = "C";
+		var tMark = "'C";
 		if(tempUnits==System.UNIT_STATUTE)
 			{
 			//temp = Math.floor(temp*1.8+32);
@@ -487,6 +493,7 @@ class SliderView extends WatchUi.WatchFace
 		var degree = StringUtil.utf8ArrayToString([0xC2,0xB0]);
 		
 		mark= degree+tMark;
+		mark= tMark;
 		//System.println(mark);
 		//mark = 
 		}			
@@ -513,7 +520,7 @@ class SliderView extends WatchUi.WatchFace
 
 		steps = alt;
 		}		
-		var mod = Graphics.getFontHeight(font_min)*1;
+		var mod = Graphics.getFontHeight(font1)*1;
 		
 		
 		
@@ -562,10 +569,10 @@ class SliderView extends WatchUi.WatchFace
 							StepThick=[AxeX-7,i*pikselinakrok, AxeX+7, i*pikselinakrok];
 					 }	
 				dc.setColor(Color , Graphics.COLOR_TRANSPARENT);	
-				dc.drawText(AxeX-5,i*pikselinakrok+4, font_min,act.toString()+mark, Graphics.TEXT_JUSTIFY_CENTER);	
+				dc.drawText(AxeX-5,i*pikselinakrok+4, font1,act.toString()+mark, Graphics.TEXT_JUSTIFY_CENTER);	
 				dc.setColor(Graphics.COLOR_GREEN , Graphics.COLOR_TRANSPARENT);	
 				
-					var th = dc.getFontHeight(font_min);
+					var th = dc.getFontHeight(font1);
 					//dc.drawCircle(AxeX-5,i*pikselinakrok+4+th/2,10);
 					//System.println("Font height ="+th);
 					//var th = dc.getTextDimensions(act.toString()+mark, font_min);
@@ -747,20 +754,20 @@ class SliderView extends WatchUi.WatchFace
 						{
 						dc.setColor(Color , Graphics.COLOR_TRANSPARENT);
 						//dc.drawLine(i*step, dc.getHeight()*hcoord-15, i*step,dc.getHeight()*hcoord+35);
-						dc.drawText(AxeX-2,(i-shifter)*step-mod , font_min,dayOfWeek(yesterday.day_of_week) , Graphics.TEXT_JUSTIFY_RIGHT);
-						dc.drawText(AxeX+2,(i-shifter)*step-mod, font_min,yesterday.day , Graphics.TEXT_JUSTIFY_LEFT);	
+						dc.drawText(AxeX-2,(i-shifter)*step-mod , font1,dayOfWeek(yesterday.day_of_week) , Graphics.TEXT_JUSTIFY_RIGHT);
+						dc.drawText(AxeX+2,(i-shifter)*step-mod, font1,yesterday.day , Graphics.TEXT_JUSTIFY_LEFT);	
 						
 
 						
-						dc.drawText(AxeX-2,(i+24-shifter)*step-mod , font_min,dayOfWeek(today.day_of_week) , Graphics.TEXT_JUSTIFY_RIGHT);
+						dc.drawText(AxeX-2,(i+24-shifter)*step-mod , font1,dayOfWeek(today.day_of_week) , Graphics.TEXT_JUSTIFY_RIGHT);
 						//myString.draw(dc);
-						dc.drawText(AxeX+2,(i+24-shifter)*step-mod,  font_min,today.day , Graphics.TEXT_JUSTIFY_LEFT);
+						dc.drawText(AxeX+2,(i+24-shifter)*step-mod,  font1,today.day , Graphics.TEXT_JUSTIFY_LEFT);
 						
 						 dtVecTxt=[AxeX-2,(i+24-shifter)*step-mod , dayOfWeek(today.day_of_week) , Graphics.TEXT_JUSTIFY_RIGHT];
 						 dtVecNum=[AxeX+2,(i+24-shifter)*step-mod,  today.day , Graphics.TEXT_JUSTIFY_LEFT]; 						
 						
-						dc.drawText(AxeX-2,(i+48-shifter)*step-mod, font_min,dayOfWeek(tomorrow.day_of_week) , Graphics.TEXT_JUSTIFY_RIGHT);
-						dc.drawText(AxeX+2,(i+48-shifter)*step-mod, font_min,tomorrow.day , Graphics.TEXT_JUSTIFY_LEFT);						
+						dc.drawText(AxeX-2,(i+48-shifter)*step-mod, font1,dayOfWeek(tomorrow.day_of_week) , Graphics.TEXT_JUSTIFY_RIGHT);
+						dc.drawText(AxeX+2,(i+48-shifter)*step-mod, font1,tomorrow.day , Graphics.TEXT_JUSTIFY_LEFT);						
 						thisistoday = false;
 						}
 						else
@@ -800,8 +807,8 @@ class SliderView extends WatchUi.WatchFace
 	{
 						 dc.setColor(Color , Graphics.COLOR_TRANSPARENT);	
 	//System.println("drawing date : "+dtVecTxt[2]+" on pos "+dtVecTxt[0]);
-						dc.drawText(dtVecTxt[0], dtVecTxt[1], font_min,dtVecTxt[2] , dtVecTxt[3]);
-						dc.drawText(dtVecNum[0], dtVecNum[1], font_min,dtVecNum[2] , dtVecNum[3]);
+						dc.drawText(dtVecTxt[0], dtVecTxt[1], font1,dtVecTxt[2] , dtVecTxt[3]);
+						dc.drawText(dtVecNum[0], dtVecNum[1], font1,dtVecNum[2] , dtVecNum[3]);
 						
 						
 						
@@ -829,7 +836,7 @@ class SliderView extends WatchUi.WatchFace
 						
 						}
 	if(minVecTxt != null) {
-						dc.drawText(minVecTxt[0], minVecTxt[1], font_min,minVecTxt[2] , minVecTxt[3]);
+						dc.drawText(minVecTxt[0], minVecTxt[1], font1,minVecTxt[2] , minVecTxt[3]);
 						//System.println("printing minute: "+minVecTxt[2]+" on pos "+minVecTxt[1]);
 						}
 						
@@ -865,7 +872,7 @@ class SliderView extends WatchUi.WatchFace
 		}							
 	if(StepTxt != null) {
 	 dc.setColor(FgColor , Graphics.COLOR_TRANSPARENT);	
-						dc.drawText(StepTxt[0], StepTxt[1], font_min,StepTxt[2] , StepTxt[3]);
+						dc.drawText(StepTxt[0], StepTxt[1], font1,StepTxt[2] , StepTxt[3]);
 					//	System.println("printing steps txt: "+StepTxt[2]+" on pos "+StepTxt[1]);
 						}
 	}
@@ -932,11 +939,6 @@ class SliderView extends WatchUi.WatchFace
         return [min, max];
     }    
 function drawSeconds(dc,Color,secs)	{
-
-if(secs==59)
-{
- fullScreenRefresh=true;
-}
 //System.println("drawin seconds: "+secs);
 	//height = 30/170
 	
@@ -988,7 +990,6 @@ if(secs==59)
     	if(fullScreenRefresh==true)
      	{//switch fonts to aliased;
 		//System.println("drawin full bg");
-     	fullScreenRefresh=false;
      	 
      	 
         dc.setColor(BgColor, BgColor);
