@@ -54,10 +54,11 @@
     <string id="Messages">Message Count</string>
     <string id="MemoryUsed">Memory Used</string>
     <string id="Distance">Distance</string>
+    <string id="Empty">Empty Field</string>
     
 
     <string id="displaySeconds">Display seconds</string>
-      
+     <string id="btStatus">Bt Status</string>  
 
            
 

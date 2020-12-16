@@ -220,9 +220,21 @@ i++; availableColors[i]=["0xFFFFFF",0xFFFFFF];
 	        		}
 	        		
         
+        }else if( item.getId().equals(20) ) { 
+        //displayseconds
+				if(item.isEnabled())
+				{
+	        	Application.getApp().setProperty("btStatus", true);
+	        	}
+	        	else
+	        		{
+	        		Application.getApp().setProperty("btStatus", false);
+	        		}
+	        		
+        
         } else if( item.getId().toNumber()>10 and item.getId().toNumber()<17 ) { 
  
-				 var availableSettings = new[10];
+				 var availableSettings = new[11];
 				 var i =0;
 				 var propertyId = item.getId().toNumber()-10;
 				availableSettings[i]=["Steps",i]; i++;
@@ -235,6 +247,7 @@ i++; availableColors[i]=["0xFFFFFF",0xFFFFFF];
 				availableSettings[i]=["Messages",i]; i++;
 				availableSettings[i]=["MemoryUsed",i]; i++;
 				availableSettings[i]=["Distance",i]; i++;
+				availableSettings[i]=["Empty Field",i]; i++;
 				//availableSettings[i]=["Weather",i]; i++;
 				//System.println(availableSettings);
  

@@ -9,6 +9,8 @@ using Toybox.Time.Gregorian;
 using Toybox.WatchUi;
 using Toybox.Application;
 using Toybox.Application.Properties;
+using Toybox.Application.Storage;
+
 
 var partialUpdatesAllowed = false;
 
@@ -26,16 +28,17 @@ class SliderView extends WatchUi.WatchFace
 	var fontSize;
 	var tempUnits;
 	 
-    var BgColor;
-    var BrColor;   
-    var DtColor;
-    var FgColor;
-    var ThemeColor;
-    var SecondsColor;
+    public var BgColor;
+    public var BrColor;   
+    public var DtColor;
+    public var FgColor;
+    public var ThemeColor;
+    public var SecondsColor;
 
 
- 	var chosenFields;
-	var displaySeconds;
+ 	public var chosenFields;
+	public var displaySeconds;
+	public var btStatus;
 
 	var bgRedrawRequested;	
 	var offlineFieldValues;//;// = new[6];
@@ -56,6 +59,7 @@ class SliderView extends WatchUi.WatchFace
     var fheights;
     var sWidth;
     var sHeight;
+    var phoneConnectionStatus;
 	
 
     function initialize() {
@@ -65,6 +69,8 @@ class SliderView extends WatchUi.WatchFace
         fullScreenRefresh = true;
         offlineFieldValues = new[15];
          fheights = new[4];
+          is24hour = System.getDeviceSettings().is24Hour;
+         tempUnits = System.getDeviceSettings().temperatureUnits ;
       
 
        
@@ -88,7 +94,7 @@ class SliderView extends WatchUi.WatchFace
  		  fheights = [110,73,30,17];		
  		 	}
  		
- 		
+
  		bgRedrawRequested = new[2];
  		 sRenderer = new symbolRenderer(dc);
  		  tRenderer = new textRenderer(dc);
@@ -101,7 +107,13 @@ class SliderView extends WatchUi.WatchFace
         font_date = WatchUi.loadResource(Rez.Fonts.date);	
         font_data = WatchUi.loadResource(Rez.Fonts.data);	   
 
-   
+      		 getColorSettings(me);
+ 		 sRenderer._themeColor = ThemeColor;
+ 		 sRenderer._bgColor = BgColor;  
+ 		 tRenderer.fgColor = FgColor;
+ 		 tRenderer.bgColor = BgColor;   		   
+         chosenFields = [1,2,3,4,5,6];
+         getFields ();  
 
 	}
  
@@ -120,31 +132,27 @@ class SliderView extends WatchUi.WatchFace
         var targetDc = null;
         var curClip = null;
        // isAwake = true;
-     		 getColorSettings();
- 		 sRenderer._themeColor = ThemeColor;
- 		 sRenderer._bgColor = BgColor;  
- 		 tRenderer.fgColor = FgColor;
- 		 tRenderer.bgColor = BgColor;   		   
-       	 hrBox.getHrHistory();
-         chosenFields = [1,2,3,4,5,6];
+
+         hrBox.getHrHistory();
          iKeeper.refreshInfo();
          getFields ();
-         
-         is24hour = System.getDeviceSettings().is24Hour;
-         tempUnits = System.getDeviceSettings().temperatureUnits ;
-
+         phoneConnectionStatus = PhoneConnection();
+			if(Storage.getValue("SettingsChanged") == true)
+				{
+				      		 getColorSettings(me);
+					 		 sRenderer._themeColor = ThemeColor;
+					 		 sRenderer._bgColor = BgColor;  
+					 		 tRenderer.fgColor = FgColor;
+					 		 tRenderer.bgColor = BgColor;   		   
+					         chosenFields = [1,2,3,4,5,6];
+					         getFields (); 
+					         Storage.setValue("SettingsChanged", false); 
+				}
 		 
 		// fullScreenRefresh = true;
  		drawBackground(dc);
 
-        if(Application.getApp().getProperty("displaySeconds") != null)
-        {
-        displaySeconds = Application.getApp().getProperty("displaySeconds");
-        }   
-        else
-        	{
-        	Application.getApp().setProperty("displaySeconds", displaySeconds);
-        	} 	
+	
  
     }
 
@@ -326,8 +334,18 @@ class SliderView extends WatchUi.WatchFace
 				        	bgRedrawRequested[1] = 0;
 				        	} 	        		
 		dc.setColor(Color, Graphics.COLOR_TRANSPARENT);
-		dc.setPenWidth(2);
+		dc.setPenWidth(3);
 		DrawPolygon(dc,thick[0]);
+		//?BToption
+		 
+		if(btStatus)
+			{
+			dc.setColor(Graphics.COLOR_BLUE, Graphics.COLOR_TRANSPARENT);
+				if(phoneConnectionStatus[0]==0)
+				{
+					dc.setColor(Graphics.COLOR_DK_GRAY, Graphics.COLOR_TRANSPARENT);
+				}
+			}
 		DrawPolygon(dc,thick[1]);
 
 }	
@@ -354,7 +372,7 @@ class SliderView extends WatchUi.WatchFace
 		    y = sHeight/6.0+i*1.4*fsize+fheights[1]+0.6*fsize;
 		      z--;
 		      	}
-		      	dc.setClip(sWidth/2,y-fsize,sWidth/3,fsize*1.2);
+		      	dc.setClip(sWidth/2,y-fsize*1.2,sWidth/3,fsize*1.5);
 		      	//System.println("drawin field "+chosenFields[i]+" on y:"+y+"fsize="+fsize);
 		     		drawField(dc,x,y,chosenFields[i],FieldColor,asc,i);
 		     //narysuj pole
@@ -379,13 +397,11 @@ class SliderView extends WatchUi.WatchFace
 		value = offlineFieldValues[fieldType];
 			}
 		//System.println("gettin field"+fieldType+"got"+value);
-
-	//renderSymbol(DrawContext,x,y,fontSize,fieldType,FieldColor);
-	sRenderer.renderSymbol(x,y,fieldType,FieldColor);
-//	renderText(DrawContext,x+fontSize+5,y,fontSize,value.toString(),FieldColor);
-	
-	tRenderer.drawText(x+fontSize*0.8,y-fontSize,font_data, value, Graphics.TEXT_JUSTIFY_LEFT);
-
+	if (fieldType !=10)
+	{
+		sRenderer.renderSymbol(x,y,fieldType,FieldColor);	
+		tRenderer.drawText(x+fontSize*0.8,y-fontSize,font_data, value, Graphics.TEXT_JUSTIFY_LEFT);
+	}	
 				if ( fieldno==0)
 				{
 					offCalcField1 = [DrawContext,x,y,fontSize,fieldType,FieldColor,value];
@@ -393,17 +409,16 @@ class SliderView extends WatchUi.WatchFace
 				if ( fieldno==5)
 				{
 					 offCalcField6 = [DrawContext,x,y,fontSize,fieldType,FieldColor,value];
-					}					
+					}
+										
 	
 	}
 	function drawOffCalcField(DrawContext,x,y,fontSize,fieldType,FieldColor,value) {
-			//sRenderer._dc.setClip(curClip[0][0], curClip[0][1], curClip[1], curClip[2]); 
-			tRenderer._dc.setClip(curClip[0][0], curClip[0][1], curClip[1], curClip[2]); 
-
-			//sRenderer.renderSymbol(x,y,fieldType,FieldColor);
-
-			tRenderer.drawText(x+fontSize*0.8,y-fontSize,font_data, value, Graphics.TEXT_JUSTIFY_LEFT);
-
+	if (fieldType !=10)
+		{
+				tRenderer._dc.setClip(curClip[0][0], curClip[0][1], curClip[1], curClip[2]); 
+				tRenderer.drawText(x+fontSize*0.8,y-fontSize,font_data, value, Graphics.TEXT_JUSTIFY_LEFT);
+		}
 	}
 	
 		function RenderShade(dc,x1,y1,x2,y2,Bg,Fg) {
@@ -467,42 +482,63 @@ function DrawPolygon(DrawContext,polygon) {
  
  
  
-	function getColorSettings() {
+	public function getColorSettings(app) {
+	if(app ==null)
+		{
+		app = SliderView;
+		}
+			
         if(Application.getApp().getProperty("BackgroundColor") != null)
         {
-        BgColor = Application.getApp().getProperty("BackgroundColor");
+        app.BgColor = Application.getApp().getProperty("BackgroundColor");
         }
         else
         	{
-        	Application.getApp().setProperty("BackgroundColor", BgColor);
+        	Application.getApp().setProperty("BackgroundColor", app.BgColor);
         	}
         	 
       	if(Application.getApp().getProperty("ForegroundColor") != null)
         {
-        FgColor = Application.getApp().getProperty("ForegroundColor");
+        app.FgColor = Application.getApp().getProperty("ForegroundColor");
         }
         else
         	{
-        	Application.getApp().setProperty("ForegroundColor", FgColor);
+        	Application.getApp().setProperty("ForegroundColor", app.FgColor);
         	}      
         if(Application.getApp().getProperty("ThemeColor") != null)
         {
-        ThemeColor = Application.getApp().getProperty("ThemeColor");
+        app.ThemeColor = Application.getApp().getProperty("ThemeColor");
         
         }   
         else
         	{
-        	Application.getApp().setProperty("ThemeColor", ThemeColor);
+        	Application.getApp().setProperty("ThemeColor", app.ThemeColor);
         	}	
         if(Application.getApp().getProperty("SecondsColor") != null)
         {
-        SecondsColor = Application.getApp().getProperty("SecondsColor");
+        app.SecondsColor = Application.getApp().getProperty("SecondsColor");
         
         }   
         else
         	{
-        	Application.getApp().setProperty("SecondsColor", SecondsColor);
+        	Application.getApp().setProperty("SecondsColor", app.SecondsColor);
         	}	
+        if(Application.getApp().getProperty("displaySeconds") != null)
+        {
+        app.displaySeconds = Application.getApp().getProperty("displaySeconds");
+        }   
+        else
+        	{
+        	Application.getApp().setProperty("displaySeconds", app.displaySeconds);
+        	} 
+        if(Application.getApp().getProperty("btStatus") != null)
+        {
+        app.btStatus = Application.getApp().getProperty("btStatus");
+        }   
+        else
+        	{
+        	Application.getApp().setProperty("btStatus", app.btStatus);
+        	}         	        	
 	}
 
 	
@@ -647,7 +683,7 @@ function miniBgRedraw(dc)
     
 
           
-    function getFields () {
+  public  function getFields () {
     
    
     var j=0;
@@ -656,24 +692,44 @@ function miniBgRedraw(dc)
     {
     j++;
 	     if(Application.getApp().getProperty("Field_"+j) != null) { 
-		     	chosenFields[i] = Application.getApp().getProperty("Field_"+j);
+		     	me.chosenFields[i] = Application.getApp().getProperty("Field_"+j);
 		     	}
-	         	else{Application.getApp().setProperty("Field_"+j, chosenFields[i]);
+	         	else{Application.getApp().setProperty("Field_"+j, me.chosenFields[i]);
 	         	} 
 	         	
 	     }        	         	         	         	         	         	
     }
     function onPartialUpdate(dc) {
+   //  var conInfo = PhoneConnection();
      
 		
 		if( displaySeconds==true) {
 		miniBgRedraw(dc);
 		 var secs = System.getClockTime().sec;
+		 phoneConnectionStatus = PhoneConnection();
 			drawSeconds(dc,SecondsColor, secs);  
 	}
-	//System.println("partial, secs="+seconds);
+	//System.println(conInfo[1]);
     
-    }		     
+    }	
+    function PhoneConnection() {
+    var status = [1, "Connected"];
+    var isConnected = System.getDeviceSettings().phoneConnected;
+    if(!isConnected)
+    	{
+    	status = [0, "Disconnected"];
+    	}
+    	return status;
+    }
+    function onSettingsChanged(app) {
+          		 app.getColorSettings(app);
+ 		 app.sRenderer._themeColor = app.ThemeColor;
+ 		 app.sRenderer._bgColor = app.BgColor;  
+ 		 app.tRenderer.fgColor = app.FgColor;
+ 		 app.tRenderer.bgColor = app.BgColor;   		   
+         app.chosenFields = [1,2,3,4,5,6];
+         app.getFields ();  
+    }	     
 }
 class SliderViewDelegate extends WatchUi.WatchFaceDelegate {
     // The onPowerBudgetExceeded callback is called by the system if the

@@ -11,8 +11,11 @@ using Toybox.Application.Storage;
 
 class PureSettingsView extends WatchUi.View {
 
+var i;
     function initialize() {
         View.initialize();
+        
+        i=0;
     }
 
     function onUpdate(dc) {
@@ -20,8 +23,11 @@ class PureSettingsView extends WatchUi.View {
         dc.setColor(Graphics.COLOR_BLACK, Graphics.COLOR_BLACK);
         dc.clear();
         dc.setColor(Graphics.COLOR_WHITE, Graphics.COLOR_TRANSPARENT);
-
+		//i++;
         dc.drawText(dc.getWidth() / 2, dc.getHeight() / 2 - 30, Graphics.FONT_SMALL, "Press Menu \nfor settings", Graphics.TEXT_JUSTIFY_CENTER);
+        Storage.setValue("SettingsChanged", true); 
+        //System.println("opening menu for "+i+"th time");
+        //PureSettingsDelegate.onMenu();
     }
 }
 
@@ -37,9 +43,10 @@ class PureSettingsDelegate extends WatchUi.BehaviorDelegate {
         menu.addItem(new WatchUi.MenuItem("Foreground Color","Main Color for hours, date and data", 2, null));
         menu.addItem(new WatchUi.MenuItem("Theme Color", "Color of minutes&Icons", 3, null));
         var secEnabled = Application.getApp().getProperty("displaySeconds");
-        
+        var btEnabled = Application.getApp().getProperty("btStatus");
         menu.addItem(new WatchUi.ToggleMenuItem("Display Seconds", null, 4,secEnabled ,null));
         menu.addItem(new WatchUi.MenuItem("Seconds Color", "seconds indicator color", 5, null));
+        menu.addItem(new WatchUi.ToggleMenuItem("Bt Status", "Bt status on seconds thick", 20,btEnabled, null));
         for(var i=1;i<=6;i++)
         	{
         	 menu.addItem(new WatchUi.MenuItem("Field "+i, "Field Settings", 10+i, null));

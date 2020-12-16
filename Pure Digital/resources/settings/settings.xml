@@ -81,7 +81,7 @@
             <listEntry value="7">@Strings.Messages</listEntry>
              <listEntry value="8">@Strings.MemoryUsed</listEntry>
              <listEntry value="9">@Strings.Distance</listEntry>
-             
+             <listEntry value="10">@Strings.Empty</listEntry> 
         </settingConfig>
     </setting> 
       <setting propertyKey="@Properties.Field_2" title="@Strings.Field_2_Title">
@@ -96,7 +96,7 @@
             <listEntry value="7">@Strings.Messages</listEntry>
               <listEntry value="8">@Strings.MemoryUsed</listEntry>
               <listEntry value="9">@Strings.Distance</listEntry>
-             
+             <listEntry value="10">@Strings.Empty</listEntry> 
         </settingConfig>
     </setting> 
       <setting propertyKey="@Properties.Field_3" title="@Strings.Field_3_Title">
@@ -111,7 +111,7 @@
             <listEntry value="7">@Strings.Messages</listEntry>
   			<listEntry value="8">@Strings.MemoryUsed</listEntry> 
   			<listEntry value="9">@Strings.Distance</listEntry>           
-             
+            <listEntry value="10">@Strings.Empty</listEntry>  
         </settingConfig>
     </setting> 
       <setting propertyKey="@Properties.Field_4" title="@Strings.Field_4_Title">
@@ -126,7 +126,7 @@
             <listEntry value="7">@Strings.Messages</listEntry>
   			<listEntry value="8">@Strings.MemoryUsed</listEntry> 
   			<listEntry value="9">@Strings.Distance</listEntry>           
-             
+            <listEntry value="10">@Strings.Empty</listEntry>  
         </settingConfig>
     </setting> 
       <setting propertyKey="@Properties.Field_5" title="@Strings.Field_5_Title">
@@ -141,7 +141,7 @@
             <listEntry value="7">@Strings.Messages</listEntry>
             <listEntry value="8">@Strings.MemoryUsed</listEntry> 
             <listEntry value="9">@Strings.Distance</listEntry>
-             
+            <listEntry value="10">@Strings.Empty</listEntry>  
         </settingConfig>
     </setting> 
       <setting propertyKey="@Properties.Field_6" title="@Strings.Field_6_Title">
@@ -156,12 +156,15 @@
             <listEntry value="7">@Strings.Messages</listEntry>
             <listEntry value="8">@Strings.MemoryUsed</listEntry> 
             <listEntry value="9">@Strings.Distance</listEntry>
-             
+            <listEntry value="10">@Strings.Empty</listEntry> 
         </settingConfig>
     </setting>                     
          <setting propertyKey="@Properties.displaySeconds" title="@Strings.displaySeconds">
         <settingConfig type="boolean" />
     </setting> 
+         <setting propertyKey="@Properties.btStatus" title="@Strings.btStatus">
+        <settingConfig type="boolean" />
+    </setting>     
     <setting propertyKey="@Properties.SecondsColor" title="@Strings.SecondsColorTitle">
         <settingConfig type="list">
 <listEntry value="0x000000">@Strings.ColorBlack</listEntry>
