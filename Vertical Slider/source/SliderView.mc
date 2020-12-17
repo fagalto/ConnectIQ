@@ -205,7 +205,9 @@ class SliderView extends WatchUi.WatchFace
 		    break;
 		}        	        	      	           	     	   
         // We always want to refresh the full screen when we get a regular onUpdate call.
-		dc.clearClip();
+        if( partialUpdatesAllowed) {
+        dc.clearClip();
+        }		
  		drawBackground(dc);
 	
 /*****************************************************/
@@ -328,7 +330,7 @@ class SliderView extends WatchUi.WatchFace
 	//dc.drawText(100,10,0,step, Graphics.TEXT_JUSTIFY_CENTER);	
 	///horus
 	var font =  ClockFont;
-	var AxeX = dc.getWidth()*hcoord;
+	var AxeX = dc.getWidth()*hcoord;hcoord= 105/170f;
 	var timeX = dc.getWidth()*hcoord -9;
 	var timeY = dc.getHeight()*hcoord-Graphics.getFontHeight(font)/1.1;
 	//var h = Graphics.getFontHeight(17);
@@ -790,10 +792,10 @@ class SliderView extends WatchUi.WatchFace
 	}
 
 
-	function drawBatteryStatic(dc,bw) {
+	function drawBatteryStatic(dc,bw,secs) {
 	//BatBarStatic;
 	
-		if(BatBarStatic != null) {
+		if(BatBarStatic != null and (secs>52 or secs<7)) {
 		dc.setPenWidth(bw);
 		 dc.setColor(BatBarStatic[4] , Graphics.COLOR_TRANSPARENT);	
 		
@@ -801,9 +803,9 @@ class SliderView extends WatchUi.WatchFace
 		//System.println("printing bar from: "+BatBarStatic[0]+" to "+BatBarStatic[2]);	
 		}	
 	}
-	function drawDateStatic(dc,Color) {
+	function drawDateStatic(dc,Color,seconds) {
 
-	if(dtVecTxt != null && dtVecNum != null)
+	if(dtVecTxt != null && dtVecNum != null && (seconds <15 or seconds >45) )
 	{
 						 dc.setColor(Color , Graphics.COLOR_TRANSPARENT);	
 	//System.println("drawing date : "+dtVecTxt[2]+" on pos "+dtVecTxt[0]);
@@ -826,29 +828,35 @@ class SliderView extends WatchUi.WatchFace
 		}							
 
 	}
-	function drawHoursStatic(dc,Color) {
+	function drawHoursStatic(dc,Color,seconds) {
 
-						 dc.setColor(Color , Graphics.COLOR_TRANSPARENT);	//minVecTxt
-	if(hourVecTxt != null)
-	{
-	
+							//minVecTxt
+							// dc.setColor(Graphics.COLOR_WHITE , Graphics.COLOR_WHITE);
+							 
+	if(hourVecTxt != null and (seconds >14 and seconds <47))
+	{//dc.clear();
+	 dc.setColor(Color , BgColor);
 						dc.drawText(hourVecTxt[0], hourVecTxt[1], ClockFont,hourVecTxt[2] , hourVecTxt[3]);
 						
 						}
-	if(minVecTxt != null) {
-						dc.drawText(minVecTxt[0], minVecTxt[1], font1,minVecTxt[2] , minVecTxt[3]);
-						//System.println("printing minute: "+minVecTxt[2]+" on pos "+minVecTxt[1]);
-						}
-						
-		 dc.setColor(DtColor , Graphics.COLOR_TRANSPARENT);		
- 		if(MinPoint != null) {					
-		dc.drawPoint(MinPoint[0], MinPoint[1]);
-		//System.println("printing DOT: "+MinPoint[1]+" on pos "+MinPoint[0]);
-		}		
-		
+	if((seconds >32 and seconds <42) or(seconds>12 and seconds<21))
+	{
+	dc.setColor(Color , BgColor);
+		if(minVecTxt != null) {
+		dc.drawText(minVecTxt[0], minVecTxt[1], font1,minVecTxt[2] , minVecTxt[3]);
+							//System.println("printing minute: "+minVecTxt[2]+" on pos "+minVecTxt[1]);
+				}
+							
+			 dc.setColor(DtColor , BgColor);		
+	 	if(MinPoint != null ) {					
+			dc.drawPoint(MinPoint[0], MinPoint[1]);
+			//System.println("printing DOT: "+MinPoint[1]+" on pos "+MinPoint[0]);
+			}		
+			
 		if(MinThick != null) {
-		dc.drawLine(MinThick[0],MinThick[1],MinThick[2],MinThick[3]);	
-		//System.println("printing thick: "+MinThick[2]+" on pos "+MinThick[1]);	
+			dc.drawLine(MinThick[0],MinThick[1],MinThick[2],MinThick[3]);	
+			//System.println("printing thick: "+MinThick[2]+" on pos "+MinThick[1]);	->   35 <-28-46
+			}
 		}
 
 					
@@ -857,10 +865,12 @@ class SliderView extends WatchUi.WatchFace
 						
 
 	}
- function drawStepStatic(dc,Color) {
+ function drawStepStatic(dc,Color,secs) {
 
  //StepTxt
- dc.setColor(Color , Graphics.COLOR_TRANSPARENT);		
+ if(secs>52 or secs<7)
+ {
+		 dc.setColor(Color , Graphics.COLOR_TRANSPARENT);
  		if(StepDot != null) {					
 		dc.drawPoint(StepDot[0], StepDot[1]);
 		//System.println("printing DOT: "+DateDot[1]+" on pos "+DateDot[0]);
@@ -876,6 +886,7 @@ class SliderView extends WatchUi.WatchFace
 					//	System.println("printing steps txt: "+StepTxt[2]+" on pos "+StepTxt[1]);
 						}
 	}
+}
 
 	
     // Handle the partial update event
@@ -890,7 +901,7 @@ class SliderView extends WatchUi.WatchFace
             
         
          var seconds = System.getClockTime().sec;
-        // System.println("update"+seconds);
+       // System.println("second: "+seconds);
 		var minutes = System.getClockTime().min;
 		if(minutes%2!=0)
 			{
@@ -967,15 +978,15 @@ function drawSeconds(dc,Color,secs)	{
 		if(1)//fullScreenRefresh==false)
 		{
 		dc.setPenWidth(2);
-		drawDateStatic(dc,FgColor);
-		drawHoursStatic(dc,FgColor);
-		drawStepStatic(dc,DtColor);
-		drawBatteryStatic(dc,2);
+		drawDateStatic(dc,FgColor,secs);
+		drawHoursStatic(dc,FgColor,secs);
+		drawStepStatic(dc,DtColor,secs);
+		drawBatteryStatic(dc,2,secs);
 		dc.setPenWidth(3);
 		}
 	dc.setColor(Color, BgColor);
 	dc.drawLine(curX-2,height,curX+2,height);
-	 dc.clearClip();
+
 //System.println("line-="+(curY-3)+"line+=:"+(curY+3));
 //System.println("diff-="+((curY+2)-(curY-2))+"px");		
 }
@@ -987,13 +998,12 @@ function drawSeconds(dc,Color,secs)	{
     // second before outputing the new one.
     function drawBackground(dc) {
 
-    	if(fullScreenRefresh==true)
+    	if(1)//fullScreenRefresh==true)
      	{//switch fonts to aliased;
 		//System.println("drawin full bg");
      	 
      	 
         dc.setColor(BgColor, BgColor);
-
 		dc.clear();
 		dc.setColor(BgColor, BgColor);
 		dc.fillRectangle(0, 0, dc.getWidth(), dc.getHeight());
