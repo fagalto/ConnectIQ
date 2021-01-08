@@ -144,7 +144,7 @@ var value = 0;
 					value = (myStats.usedMemory/1024).toNumber()+"k";	
 					//System.println("value memory is "+value);	
 		break;
-		case 10: //Weather
+		case 11: //Weather
 				value = "since CIQ 3.2.0";
 				if(Toybox.Weather has :getCurrentConditions)	
 					{
@@ -158,7 +158,16 @@ var value = 0;
 					//System.println("value weather is "+weather);	
 					}
 		//value = 1;
-		break;						
+		break;
+		case 10: //bluetooth
+			     value = "On";
+			    var isConnected = System.getDeviceSettings().phoneConnected;
+			    if(!isConnected)
+			    	{
+			    	value = "Off";
+			    	}
+		
+		break;									
 		default:
 		value = 0;
 		break;										

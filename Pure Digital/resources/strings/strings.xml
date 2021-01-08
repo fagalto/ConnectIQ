@@ -6,6 +6,7 @@
     <string id="ForegroundColorTitle">Foreground Color</string>
     <string id="ThemeColorTitle">Theme Color</string>
      <string id="SecondsColorTitle">Seconds Color</string>
+	<string id="HoursColorTitle">Hours Color</string>     
      <string id="StepCalsTitle">Cals | Steps | Temp | Elev</string>
     <string id="DotColorTitle">Tiny Dots Color</string>
 

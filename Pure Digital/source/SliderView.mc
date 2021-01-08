@@ -34,6 +34,7 @@ class SliderView extends WatchUi.WatchFace
     public var FgColor;
     public var ThemeColor;
     public var SecondsColor;
+    public var HoursColor;
 
 
  	public var chosenFields;
@@ -227,7 +228,7 @@ class SliderView extends WatchUi.WatchFace
 		var y = Math.floor(sHeight/2-fheights[0]*1.1);
 		
 	 
-		tRenderer.fgColor = FgColor;
+		
 	
 
 			var x = sWidth/2;
@@ -236,7 +237,7 @@ class SliderView extends WatchUi.WatchFace
 		dc.setClip(0,sHeight/2-fheights[0]*0.55,sWidth/2,fsize*1.1)	;
 
 		
-
+		tRenderer.fgColor = HoursColor;
 		tRenderer.drawText(x+fheights[0]*0.05, y, font_hours, hours, Graphics.TEXT_JUSTIFY_RIGHT);
 
 			var xd = sWidth/2;
@@ -244,6 +245,7 @@ class SliderView extends WatchUi.WatchFace
 		
 		
 		dc.setClip(0,0,sWidth/2,sHeight/3)	;
+		tRenderer.fgColor = FgColor;
 		tRenderer.drawText(x,yb,font_date, daten, Graphics.TEXT_JUSTIFY_RIGHT);
 		
 		
@@ -279,22 +281,7 @@ class SliderView extends WatchUi.WatchFace
 	}	
 	
 	
-	function drawHoursoffCalc(dc,x,y,fsize,hours,shade,Color) {
-	//System.println("drawin"+hours+"with"+shade+" shade");
-		dc.setColor(Color,BgColor);	
-		//renderText(dc,x,y,fsize,hours,Color);
-		tRenderer.calcText(fsize,hours);
-		tRenderer.drawText(x,y);
-		if(shade==true)
-			{
-			RenderShade(dc,x,y-fsize,sWidth/2-5,y,BgColor,Color);
-			}	
-			if(curClip !=null)
-				{
-				//System.println("drawin"+hours+"with clip set");
-				}
-	
-		}
+
 
 
 	
@@ -397,7 +384,7 @@ class SliderView extends WatchUi.WatchFace
 		value = offlineFieldValues[fieldType];
 			}
 		//System.println("gettin field"+fieldType+"got"+value);
-	if (fieldType !=10)
+	if (fieldType !=11)
 	{
 		sRenderer.renderSymbol(x,y,fieldType,FieldColor);	
 		tRenderer.drawText(x+fontSize*0.8,y-fontSize,font_data, value, Graphics.TEXT_JUSTIFY_LEFT);
@@ -414,7 +401,7 @@ class SliderView extends WatchUi.WatchFace
 	
 	}
 	function drawOffCalcField(DrawContext,x,y,fontSize,fieldType,FieldColor,value) {
-	if (fieldType !=10)
+	if (fieldType !=11)
 		{
 				tRenderer._dc.setClip(curClip[0][0], curClip[0][1], curClip[1], curClip[2]); 
 				tRenderer.drawText(x+fontSize*0.8,y-fontSize,font_data, value, Graphics.TEXT_JUSTIFY_LEFT);
@@ -523,6 +510,15 @@ function DrawPolygon(DrawContext,polygon) {
         	{
         	Application.getApp().setProperty("SecondsColor", app.SecondsColor);
         	}	
+        if(Application.getApp().getProperty("HoursColor") != null)
+        {
+        app.HoursColor = Application.getApp().getProperty("HoursColor");
+        
+        }   
+        else
+        	{
+        	Application.getApp().setProperty("HoursColor", app.HoursColor);
+        	}        	
         if(Application.getApp().getProperty("displaySeconds") != null)
         {
         app.displaySeconds = Application.getApp().getProperty("displaySeconds");

@@ -15,7 +15,7 @@ var i;
     function initialize() {
         View.initialize();
         
-        i=0;
+        i=false;
     }
 
     function onUpdate(dc) {
@@ -24,10 +24,16 @@ var i;
         dc.clear();
         dc.setColor(Graphics.COLOR_WHITE, Graphics.COLOR_TRANSPARENT);
 		//i++;
-        dc.drawText(dc.getWidth() / 2, dc.getHeight() / 2 - 30, Graphics.FONT_SMALL, "Press Menu \nfor settings", Graphics.TEXT_JUSTIFY_CENTER);
-        Storage.setValue("SettingsChanged", true); 
+	
         //System.println("opening menu for "+i+"th time");
-        //PureSettingsDelegate.onMenu();
+        if(i==false)
+        {i = PureSettingsDelegate.onMenu();
+        }
+        else
+        	{
+		 dc.drawText(dc.getWidth() / 2, dc.getHeight() / 2 - 30, Graphics.FONT_SMALL, "Press Back again \nfor save", Graphics.TEXT_JUSTIFY_CENTER);
+        Storage.setValue("SettingsChanged", true); 
+        	}
     }
 }
 
@@ -42,6 +48,7 @@ class PureSettingsDelegate extends WatchUi.BehaviorDelegate {
         menu.addItem(new WatchUi.MenuItem("Background Color","Color of background" , 1, null));
         menu.addItem(new WatchUi.MenuItem("Foreground Color","Main Color for hours, date and data", 2, null));
         menu.addItem(new WatchUi.MenuItem("Theme Color", "Color of minutes&Icons", 3, null));
+        menu.addItem(new WatchUi.MenuItem("Hours Color", "Color of Hours", 6, null));
         var secEnabled = Application.getApp().getProperty("displaySeconds");
         var btEnabled = Application.getApp().getProperty("btStatus");
         menu.addItem(new WatchUi.ToggleMenuItem("Display Seconds", null, 4,secEnabled ,null));
@@ -55,6 +62,7 @@ class PureSettingsDelegate extends WatchUi.BehaviorDelegate {
         
 		
         WatchUi.pushView( menu, new PureSettingsMenuDelegate(), WatchUi.SLIDE_IMMEDIATE);
+        return true;
     }
 }
 

@@ -190,7 +190,27 @@ i++; availableColors[i]=["0xFFFFFF",0xFFFFFF];
  						themeMenu.setFocus(themeColor);  			            					    
 				    WatchUi.pushView(themeMenu, new BasicCustomDelegate("ThemeColor"), WatchUi.SLIDE_UP );          		 
           		 
-        } else if( item.getId().equals(5) ) {
+        }else if( item.getId().equals(6) ) {
+        //Theme Color
+						var hoursC = Application.getApp().getProperty("HoursColor");
+           			var hoursColor = new BasicCustomMenu(35,Graphics.COLOR_WHITE,{
+				        :focusItemHeight=>45,
+				        :foreground=>new Rez.Drawables.MenuForeground(),
+				        :title=>new DrawableMenuTitle("Hours Color",hoursC),
+				        :footer=>new DrawableMenuFooter()
+				    });
+			        for (var i=0;i<availableColors.size();i++)
+			            	{
+			           		
+			           		 hoursColor.addItem(new CustomItem(availableColors[i][1], availableColors[i][0],false));
+			            	}
+			        var hoursCurrentColor = hoursColor.findItemById(hoursC);
+ 						hoursColor.setFocus(hoursCurrentColor);  			            					    
+				    WatchUi.pushView(hoursColor, new BasicCustomDelegate("HoursColor"), WatchUi.SLIDE_UP );          		 
+          		 
+        }
+        
+         else if( item.getId().equals(5) ) {
         //Theme Color
 						var secC = Application.getApp().getProperty("SecondsColor");
            			var secondsColor = new BasicCustomMenu(35,Graphics.COLOR_WHITE,{
@@ -234,7 +254,7 @@ i++; availableColors[i]=["0xFFFFFF",0xFFFFFF];
         
         } else if( item.getId().toNumber()>10 and item.getId().toNumber()<17 ) { 
  
-				 var availableSettings = new[11];
+				 var availableSettings = new[12];
 				 var i =0;
 				 var propertyId = item.getId().toNumber()-10;
 				availableSettings[i]=["Steps",i]; i++;
@@ -247,6 +267,7 @@ i++; availableColors[i]=["0xFFFFFF",0xFFFFFF];
 				availableSettings[i]=["Messages",i]; i++;
 				availableSettings[i]=["MemoryUsed",i]; i++;
 				availableSettings[i]=["Distance",i]; i++;
+				availableSettings[i]=["Bt Connection",i]; i++;
 				availableSettings[i]=["Empty Field",i]; i++;
 				//availableSettings[i]=["Weather",i]; i++;
 				//System.println(availableSettings);

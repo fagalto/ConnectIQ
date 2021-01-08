@@ -3,6 +3,7 @@
     <property id="BackgroundColor" type="number">0x000000</property>
     <property id="ForegroundColor" type="number">0xFFFFFF</property>
     <property id="ThemeColor" type="number">0x555555</property>
+    <property id="HoursColor" type="number">0xFFFFFF</property>
     <property id="Field_1" type="number">1</property>
     <property id="Field_2" type="number">2</property>
     <property id="Field_3" type="number">3</property>
@@ -11,6 +12,7 @@
     <property id="Field_6" type="number">6</property>
     <property id="displaySeconds" type="boolean">true</property>
     <property id="SecondsColor" type="number">0x555555</property>
+    
     <property id="btStatus" type="boolean">false</property>
 
 </properties>
