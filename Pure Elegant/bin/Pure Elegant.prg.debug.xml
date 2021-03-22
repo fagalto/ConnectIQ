@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<manifest filename="C:\Users\grabowski.a\workspace\Pure Elegant\manifest.xml"/>
+<pcToLineNum>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Elegant\\source\\PureElegantApp.mc" id="3" lineNum="6" pc="268435456" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Elegant\\source\\PureElegantApp.mc" id="3" lineNum="7" pc="268435460" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Elegant\\source\\PureElegantApp.mc" id="4" lineNum="11" pc="268435479" symbol="onStart"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Elegant\\source\\PureElegantApp.mc" id="5" lineNum="15" pc="268435484" symbol="onStop"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Elegant\\source\\PureElegantApp.mc" id="6" lineNum="19" pc="268435489" symbol="getInitialView"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Elegant\\source\\PureElegantApp.mc" id="6" lineNum="20" pc="268435493" symbol="getInitialView"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Elegant\\source\\PureElegantApp.mc" id="7" lineNum="24" pc="268435531" symbol="onSettingsChanged"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Elegant\\source\\PureElegantApp.mc" id="7" lineNum="25" pc="268435535" symbol="onSettingsChanged"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Elegant\\source\\PureElegantView.mc" id="9" lineNum="30" pc="268435552" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Elegant\\source\\PureElegantView.mc" id="9" lineNum="32" pc="268435556" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Elegant\\source\\PureElegantView.mc" id="9" lineNum="33" pc="268435566" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Elegant\\source\\PureElegantView.mc" id="9" lineNum="34" pc="268435595" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Elegant\\source\\PureElegantView.mc" id="9" lineNum="35" pc="268435624" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Elegant\\source\\PureElegantView.mc" id="9" lineNum="36" pc="268435658" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Elegant\\source\\PureElegantView.mc" id="9" lineNum="37" pc="268435676" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Elegant\\source\\PureElegantView.mc" id="9" lineNum="38" pc="268435696" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Elegant\\source\\PureElegantView.mc" id="9" lineNum="39" pc="268435716" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Elegant\\source\\PureElegantView.mc" id="9" lineNum="40" pc="268435736" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Elegant\\source\\PureElegantView.mc" id="10" lineNum="48" pc="268435757" symbol="onLayout"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Elegant\\source\\PureElegantView.mc" id="10" lineNum="50" pc="268435761" symbol="onLayout"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Elegant\\source\\PureElegantView.mc" id="10" lineNum="51" pc="268435780" symbol="onLayout"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Elegant\\source\\PureElegantView.mc" id="10" lineNum="52" pc="268435799" symbol="onLayout"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Elegant\\source\\PureElegantView.mc" id="10" lineNum="53" pc="268435834" symbol="onLayout"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Elegant\\source\\PureElegantView.mc" id="10" lineNum="54" pc="268435854" symbol="onLayout"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Elegant\\source\\PureElegantView.mc" id="10" lineNum="55" pc="268435874" symbol="onLayout"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Elegant\\source\\PureElegantView.mc" id="10" lineNum="56" pc="268435919" symbol="onLayout"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Elegant\\source\\PureElegantView.mc" id="11" lineNum="59" pc="268435965" symbol="onShow"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Elegant\\source\\PureElegantView.mc" id="12" lineNum="63" pc="268435970" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Elegant\\source\\PureElegantView.mc" id="12" lineNum="66" pc="268435974" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Elegant\\source\\PureElegantView.mc" id="12" lineNum="67" pc="268436002" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Elegant\\source\\PureElegantView.mc" id="12" lineNum="69" pc="268436014" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Elegant\\source\\PureElegantView.mc" id="12" lineNum="71" pc="268436086" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Elegant\\source\\PureElegantView.mc" id="12" lineNum="72" pc="268436130" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Elegant\\source\\PureElegantView.mc" id="12" lineNum="73" pc="268436154" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Elegant\\source\\PureElegantView.mc" id="13" lineNum="80" pc="268436179" symbol="drawTime"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Elegant\\source\\PureElegantView.mc" id="13" lineNum="82" pc="268436183" symbol="drawTime"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Elegant\\source\\PureElegantView.mc" id="13" lineNum="83" pc="268436190" symbol="drawTime"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Elegant\\source\\PureElegantView.mc" id="13" lineNum="84" pc="268436207" symbol="drawTime"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Elegant\\source\\PureElegantView.mc" id="13" lineNum="85" pc="268436217" symbol="drawTime"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Elegant\\source\\PureElegantView.mc" id="13" lineNum="86" pc="268436241" symbol="drawTime"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Elegant\\source\\PureElegantView.mc" id="13" lineNum="87" pc="268436253" symbol="drawTime"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Elegant\\source\\PureElegantView.mc" id="13" lineNum="88" pc="268436264" symbol="drawTime"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Elegant\\source\\PureElegantView.mc" id="13" lineNum="91" pc="268436280" symbol="drawTime"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Elegant\\source\\PureElegantView.mc" id="13" lineNum="92" pc="268436312" symbol="drawTime"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Elegant\\source\\PureElegantView.mc" id="13" lineNum="93" pc="268436319" symbol="drawTime"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Elegant\\source\\PureElegantView.mc" id="13" lineNum="99" pc="268436340" symbol="drawTime"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Elegant\\source\\PureElegantView.mc" id="13" lineNum="100" pc="268436368" symbol="drawTime"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Elegant\\source\\PureElegantView.mc" id="13" lineNum="101" pc="268436419" symbol="drawTime"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Elegant\\source\\PureElegantView.mc" id="13" lineNum="102" pc="268436446" symbol="drawTime"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Elegant\\source\\PureElegantView.mc" id="13" lineNum="103" pc="268436474" symbol="drawTime"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Elegant\\source\\PureElegantView.mc" id="14" lineNum="107" pc="268436529" symbol="drawBar"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Elegant\\source\\PureElegantView.mc" id="14" lineNum="108" pc="268436533" symbol="drawBar"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Elegant\\source\\PureElegantView.mc" id="14" lineNum="109" pc="268436550" symbol="drawBar"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Elegant\\source\\PureElegantView.mc" id="14" lineNum="110" pc="268436578" symbol="drawBar"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Elegant\\source\\PureElegantView.mc" id="15" lineNum="113" pc="268436623" symbol="drawData"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Elegant\\source\\PureElegantView.mc" id="15" lineNum="115" pc="268436627" symbol="drawData"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Elegant\\source\\PureElegantView.mc" id="15" lineNum="116" pc="268436646" symbol="drawData"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Elegant\\source\\PureElegantView.mc" id="15" lineNum="117" pc="268436656" symbol="drawData"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Elegant\\source\\PureElegantView.mc" id="15" lineNum="118" pc="268436666" symbol="drawData"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Elegant\\source\\PureElegantView.mc" id="15" lineNum="119" pc="268436683" symbol="drawData"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Elegant\\source\\PureElegantView.mc" id="15" lineNum="120" pc="268436702" symbol="drawData"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Elegant\\source\\PureElegantView.mc" id="15" lineNum="121" pc="268436750" symbol="drawData"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Elegant\\source\\PureElegantView.mc" id="15" lineNum="122" pc="268436760" symbol="drawData"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Elegant\\source\\PureElegantView.mc" id="15" lineNum="124" pc="268436771" symbol="drawData"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Elegant\\source\\PureElegantView.mc" id="15" lineNum="126" pc="268436793" symbol="drawData"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Elegant\\source\\PureElegantView.mc" id="15" lineNum="127" pc="268436805" symbol="drawData"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Elegant\\source\\PureElegantView.mc" id="15" lineNum="128" pc="268436833" symbol="drawData"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Elegant\\source\\PureElegantView.mc" id="15" lineNum="129" pc="268436860" symbol="drawData"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Elegant\\source\\PureElegantView.mc" id="15" lineNum="131" pc="268436881" symbol="drawData"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Elegant\\source\\PureElegantView.mc" id="15" lineNum="132" pc="268436909" symbol="drawData"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Elegant\\source\\PureElegantView.mc" id="15" lineNum="133" pc="268436962" symbol="drawData"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Elegant\\source\\PureElegantView.mc" id="15" lineNum="134" pc="268436985" symbol="drawData"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Elegant\\source\\PureElegantView.mc" id="15" lineNum="135" pc="268437013" symbol="drawData"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Elegant\\source\\PureElegantView.mc" id="15" lineNum="137" pc="268437084" symbol="drawData"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Elegant\\source\\PureElegantView.mc" id="15" lineNum="138" pc="268437112" symbol="drawData"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Elegant\\source\\PureElegantView.mc" id="15" lineNum="139" pc="268437144" symbol="drawData"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Elegant\\source\\PureElegantView.mc" id="15" lineNum="140" pc="268437206" symbol="drawData"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Elegant\\source\\PureElegantView.mc" id="15" lineNum="141" pc="268437234" symbol="drawData"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Elegant\\source\\PureElegantView.mc" id="15" lineNum="143" pc="268437308" symbol="drawData"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Elegant\\source\\PureElegantView.mc" id="15" lineNum="144" pc="268437336" symbol="drawData"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Elegant\\source\\PureElegantView.mc" id="15" lineNum="145" pc="268437368" symbol="drawData"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Elegant\\source\\PureElegantView.mc" id="15" lineNum="146" pc="268437436" symbol="drawData"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Elegant\\source\\PureElegantView.mc" id="15" lineNum="147" pc="268437464" symbol="drawData"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Elegant\\source\\PureElegantView.mc" id="16" lineNum="151" pc="268437545" symbol="getTimeCoords"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Elegant\\source\\PureElegantView.mc" id="16" lineNum="153" pc="268437549" symbol="getTimeCoords"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Elegant\\source\\PureElegantView.mc" id="17" lineNum="155" pc="268437589" symbol="getBarCoords"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Elegant\\source\\PureElegantView.mc" id="17" lineNum="156" pc="268437593" symbol="getBarCoords"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Elegant\\source\\PureElegantView.mc" id="17" lineNum="157" pc="268437600" symbol="getBarCoords"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Elegant\\source\\PureElegantView.mc" id="17" lineNum="158" pc="268437620" symbol="getBarCoords"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Elegant\\source\\PureElegantView.mc" id="17" lineNum="159" pc="268437636" symbol="getBarCoords"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Elegant\\source\\PureElegantView.mc" id="18" lineNum="162" pc="268437720" symbol="getDataCoords"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Elegant\\source\\PureElegantView.mc" id="18" lineNum="163" pc="268437724" symbol="getDataCoords"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Elegant\\source\\PureElegantView.mc" id="18" lineNum="164" pc="268437731" symbol="getDataCoords"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Elegant\\source\\PureElegantView.mc" id="18" lineNum="165" pc="268437751" symbol="getDataCoords"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Elegant\\source\\PureElegantView.mc" id="18" lineNum="166" pc="268437767" symbol="getDataCoords"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Elegant\\source\\PureElegantView.mc" id="19" lineNum="169" pc="268437851" symbol="dayOfWeek"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Elegant\\source\\PureElegantView.mc" id="19" lineNum="171" pc="268437855" symbol="dayOfWeek"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Elegant\\source\\PureElegantView.mc" id="19" lineNum="172" pc="268437967" symbol="dayOfWeek"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Elegant\\source\\PureElegantView.mc" id="19" lineNum="173" pc="268437976" symbol="dayOfWeek"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Elegant\\source\\PureElegantView.mc" id="19" lineNum="174" pc="268437989" symbol="dayOfWeek"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Elegant\\source\\PureElegantView.mc" id="19" lineNum="175" pc="268438002" symbol="dayOfWeek"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Elegant\\source\\PureElegantView.mc" id="19" lineNum="176" pc="268438015" symbol="dayOfWeek"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Elegant\\source\\PureElegantView.mc" id="19" lineNum="177" pc="268438028" symbol="dayOfWeek"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Elegant\\source\\PureElegantView.mc" id="19" lineNum="178" pc="268438041" symbol="dayOfWeek"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Elegant\\source\\PureElegantView.mc" id="19" lineNum="179" pc="268438054" symbol="dayOfWeek"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Elegant\\source\\PureElegantView.mc" id="19" lineNum="181" pc="268438067" symbol="dayOfWeek"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Elegant\\source\\PureElegantView.mc" id="20" lineNum="188" pc="268438093" symbol="onHide"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Elegant\\source\\PureElegantView.mc" id="21" lineNum="192" pc="268438098" symbol="onExitSleep"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Elegant\\source\\PureElegantView.mc" id="22" lineNum="196" pc="268438103" symbol="onEnterSleep"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Elegant\\source\\PureElegantBackground.mc" id="24" lineNum="7" pc="268438108" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Elegant\\source\\PureElegantBackground.mc" id="24" lineNum="8" pc="268438112" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Elegant\\source\\PureElegantBackground.mc" id="24" lineNum="12" pc="268438133" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Elegant\\source\\PureElegantBackground.mc" id="25" lineNum="15" pc="268438154" symbol="draw"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Elegant\\source\\PureElegantBackground.mc" id="25" lineNum="17" pc="268438158" symbol="draw"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Elegant\\source\\PureElegantBackground.mc" id="25" lineNum="18" pc="268438211" symbol="draw"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="8388639" module="true" symbol="Graphics"/>
+<entry field="true" id="26" symbol="tempUnits"/>
+<entry id="8388632" method="true" symbol="&lt;init&gt;"/>
+<entry id="39" method="true" symbol="drawData"/>
+<entry id="4" module="true" symbol="globals/Rez/Menus"/>
+<entry id="43" method="true" symbol="dayOfWeek"/>
+<entry field="true" id="8389671" symbol="screenWidth"/>
+<entry id="8389683" method="true" symbol="onSettingsChanged"/>
+<entry field="true" id="16" symbol="ColorRed"/>
+<entry field="true" id="29" symbol="dataFont"/>
+<entry field="true" id="20" symbol="MilitaryFormatTitle"/>
+<entry id="8388924" module="true" symbol="Gregorian"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry field="true" id="15" symbol="ColorBlue"/>
+<entry id="40" method="true" symbol="getTimeCoords"/>
+<entry id="37" method="true" symbol="drawTime"/>
+<entry field="true" id="23" symbol="AppName"/>
+<entry field="true" id="35" symbol="bgColor"/>
+<entry id="8" module="true" symbol="globals/Rez/Strings"/>
+<entry id="8388772" module="true" object="true" symbol="Fonts"/>
+<entry id="42" method="true" symbol="getDataCoords"/>
+<entry id="38" method="true" symbol="drawBar"/>
+<entry id="8388648" module="true" symbol="WatchUi"/>
+<entry id="8390097" method="true" symbol="onPartialUpdate"/>
+<entry field="true" id="24" symbol="fullScreenRefresh"/>
+<entry id="2" module="true" symbol="globals/Rez"/>
+<entry id="41" method="true" symbol="getBarCoords"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="8388771" module="true" object="true" symbol="Drawables"/>
+<entry id="12" module="true" symbol="Menus"/>
+<entry field="true" id="19" symbol="ColorDarkGray"/>
+<entry id="6" module="true" symbol="globals/Rez/Layouts"/>
+<entry field="true" id="8389672" symbol="screenHeight"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry field="true" id="25" symbol="is24hour"/>
+<entry id="8389376" method="true" symbol="onEnterSleep"/>
+<entry field="true" id="8389063" symbol="identifier"/>
+<entry id="10" object="true" symbol="PureElegantView"/>
+<entry field="true" id="22" symbol="ColorWhite"/>
+<entry field="true" id="34" symbol="themeColor"/>
+<entry id="7" module="true" symbol="globals/Rez/JsonData"/>
+<entry field="true" id="21" symbol="ColorBlack"/>
+<entry id="3" module="true" symbol="globals/Rez/Drawables"/>
+<entry id="8389377" method="true" symbol="onExitSleep"/>
+<entry id="8388644" module="true" symbol="System"/>
+<entry id="8388769" module="true" object="true" symbol="Rez"/>
+<entry field="true" id="28" symbol="clockFont"/>
+<entry id="8388640" module="true" symbol="Lang"/>
+<entry id="8390088" module="true" object="true" symbol="JsonData"/>
+<entry id="8389068" method="true" symbol="draw"/>
+<entry field="true" id="13" symbol="LauncherIcon"/>
+<entry id="8388610" symbol="statics"/>
+<entry id="9" object="true" symbol="PureElegantApp"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry field="true" id="30" symbol="tCoords"/>
+<entry id="8389350" module="true" symbol="globals"/>
+<entry field="true" id="32" symbol="dataCoords"/>
+<entry field="true" id="18" symbol="BackgroundColorTitle"/>
+<entry id="8388770" module="true" object="true" symbol="Strings"/>
+<entry id="8390146" module="true" object="true" symbol="Background"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry field="true" id="27" symbol="partialUpdatesAllowed"/>
+<entry field="true" id="36" symbol="fgColor"/>
+<entry field="true" id="14" symbol="ColorLightGray"/>
+<entry field="true" id="31" symbol="barCoords"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry field="true" id="33" symbol="hourColor"/>
+<entry field="true" id="17" symbol="ForegroundColorTitle"/>
+<entry id="11" module="true" symbol="Layouts"/>
+<entry id="5" module="true" symbol="globals/Rez/Fonts"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+<entry id="8388635" module="true" symbol="Application"/>
+</symbolTable>
+<localVars>
+<entry arg="true" endPc="268435484" name="state" stackId="1" startPc="268435479"/>
+<entry arg="true" endPc="268435489" name="state" stackId="1" startPc="268435484"/>
+<entry arg="true" endPc="268435965" name="dc" stackId="1" startPc="268435757"/>
+<entry endPc="268436178" name="colors" stackId="2" startPc="268435974"/>
+<entry arg="true" endPc="268436179" name="dc" stackId="1" startPc="268435970"/>
+<entry endPc="268436528" name="hours" stackId="7" startPc="268436183"/>
+<entry endPc="268436528" name="minutes" stackId="8" startPc="268436183"/>
+<entry endPc="268436528" name="xOffset" stackId="9" startPc="268436183"/>
+<entry endPc="268436528" name="clockTime" stackId="6" startPc="268436183"/>
+<entry endPc="268436528" name="timeFormat" stackId="5" startPc="268436183"/>
+<entry arg="true" endPc="268436529" name="x" stackId="2" startPc="268436179"/>
+<entry arg="true" endPc="268436529" name="colors" stackId="4" startPc="268436179"/>
+<entry arg="true" endPc="268436529" name="dc" stackId="1" startPc="268436179"/>
+<entry arg="true" endPc="268436529" name="y" stackId="3" startPc="268436179"/>
+<entry arg="true" endPc="268436623" name="colors" stackId="3" startPc="268436529"/>
+<entry arg="true" endPc="268436623" name="dc" stackId="1" startPc="268436529"/>
+<entry arg="true" endPc="268436623" name="coords" stackId="2" startPc="268436529"/>
+<entry endPc="268437544" name="months" stackId="10" startPc="268436627"/>
+<entry endPc="268437544" name="fontHeight" stackId="13" startPc="268436627"/>
+<entry endPc="268437544" name="info" stackId="4" startPc="268436627"/>
+<entry endPc="268437544" name="dayOfWeek" stackId="12" startPc="268436627"/>
+<entry endPc="268437544" name="daten" stackId="11" startPc="268436627"/>
+<entry endPc="268437544" name="myStats" stackId="7" startPc="268436627"/>
+<entry endPc="268437544" name="battery" stackId="8" startPc="268436627"/>
+<entry endPc="268437544" name="xyOffset" stackId="14" startPc="268436627"/>
+<entry endPc="268437544" name="cals" stackId="5" startPc="268436627"/>
+<entry endPc="268437544" name="today" stackId="9" startPc="268436627"/>
+<entry endPc="268437544" name="steps" stackId="6" startPc="268436627"/>
+<entry arg="true" endPc="268437545" name="colors" stackId="3" startPc="268436623"/>
+<entry arg="true" endPc="268437545" name="dc" stackId="1" startPc="268436623"/>
+<entry arg="true" endPc="268437545" name="coords" stackId="2" startPc="268436623"/>
+<entry arg="true" endPc="268437589" name="height" stackId="2" startPc="268437545"/>
+<entry arg="true" endPc="268437589" name="width" stackId="1" startPc="268437545"/>
+<entry endPc="268437719" name="yOff" stackId="7" startPc="268437593"/>
+<entry endPc="268437719" name="xOff" stackId="5" startPc="268437593"/>
+<entry endPc="268437719" name="yOffset" stackId="6" startPc="268437593"/>
+<entry arg="true" endPc="268437720" name="height" stackId="3" startPc="268437589"/>
+<entry arg="true" endPc="268437720" name="dc" stackId="1" startPc="268437589"/>
+<entry arg="true" endPc="268437720" name="font" stackId="4" startPc="268437589"/>
+<entry arg="true" endPc="268437720" name="width" stackId="2" startPc="268437589"/>
+<entry endPc="268437850" name="yOff" stackId="7" startPc="268437724"/>
+<entry endPc="268437850" name="xOff" stackId="5" startPc="268437724"/>
+<entry endPc="268437850" name="yOffset" stackId="6" startPc="268437724"/>
+<entry arg="true" endPc="268437851" name="height" stackId="3" startPc="268437720"/>
+<entry arg="true" endPc="268437851" name="dc" stackId="1" startPc="268437720"/>
+<entry arg="true" endPc="268437851" name="font" stackId="4" startPc="268437720"/>
+<entry arg="true" endPc="268437851" name="width" stackId="2" startPc="268437720"/>
+<entry endPc="268438092" name="days" stackId="2" startPc="268437855"/>
+<entry arg="true" endPc="268438093" name="day" stackId="1" startPc="268437851"/>
+<entry endPc="268438153" name="dictionary" stackId="1" startPc="268438112"/>
+<entry arg="true" endPc="268438224" name="dc" stackId="1" startPc="268438154"/>
+</localVars>
+<annotations/>
+<dataEntryOffsetMappings>
+<dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+<dataEntry offset="158" parentId="globals" symbolId="Background" type="class"/>
+<dataEntry offset="213" parentId="globals" symbolId="PureElegantApp" type="class"/>
+<dataEntry offset="292" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry offset="371" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry offset="410" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry offset="441" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry offset="472" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry offset="503" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry offset="534" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry offset="645" parentId="globals" symbolId="PureElegantView" type="class"/>
+</dataEntryOffsetMappings>
+<functions>
+<functionEntry accessMode="public" name="initialize" parent="PureElegantApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStart" parent="PureElegantApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStop" parent="PureElegantApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getInitialView" parent="PureElegantApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onSettingsChanged" parent="PureElegantApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="PureElegantView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onLayout" parent="PureElegantView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onShow" parent="PureElegantView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onUpdate" parent="PureElegantView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawTime" parent="PureElegantView">
+<param id="dc"/>
+<param id="x"/>
+<param id="y"/>
+<param id="colors"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawBar" parent="PureElegantView">
+<param id="dc"/>
+<param id="coords"/>
+<param id="colors"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawData" parent="PureElegantView">
+<param id="dc"/>
+<param id="coords"/>
+<param id="colors"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getTimeCoords" parent="PureElegantView">
+<param id="width"/>
+<param id="height"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getBarCoords" parent="PureElegantView">
+<param id="dc"/>
+<param id="width"/>
+<param id="height"/>
+<param id="font"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getDataCoords" parent="PureElegantView">
+<param id="dc"/>
+<param id="width"/>
+<param id="height"/>
+<param id="font"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="dayOfWeek" parent="PureElegantView">
+<param id="day"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onHide" parent="PureElegantView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onExitSleep" parent="PureElegantView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onEnterSleep" parent="PureElegantView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="Background">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="draw" parent="Background">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+</functions>
+</debugInfo>
