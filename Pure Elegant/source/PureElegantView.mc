@@ -4,6 +4,8 @@ using Toybox.System;
 using Toybox.Lang;
 using Toybox.Application;
 using Toybox.Time.Gregorian;
+using Toybox.Application.Properties;
+using Toybox.Application.Storage;
 
 class PureElegantView extends WatchUi.WatchFace {
 
@@ -22,10 +24,11 @@ class PureElegantView extends WatchUi.WatchFace {
 	
 	var dataCoords;
 	
-	var hourColor;
-	var themeColor;
-	var bgColor;
-	var fgColor;
+	public var hourColor;
+	public var themeColor;
+	public var bgColor;
+	public	var fgColor;
+	public var displaySeconds;
 
     function initialize() {
     
@@ -34,10 +37,7 @@ class PureElegantView extends WatchUi.WatchFace {
         tempUnits = System.getDeviceSettings().temperatureUnits ;
         partialUpdatesAllowed = ( Toybox.WatchUi.WatchFace has :onPartialUpdate );
         WatchFace.initialize();
-        bgColor = Graphics.COLOR_BLACK;
-        fgColor = Graphics.COLOR_WHITE;
-        themeColor = Graphics.COLOR_RED;
-        hourColor = Graphics.COLOR_DK_GRAY;
+
         
        
         
@@ -54,6 +54,7 @@ class PureElegantView extends WatchUi.WatchFace {
 		 dataFont = Graphics.FONT_XTINY;
 		 barCoords = getBarCoords(dc,screenWidth,screenHeight,clockFont);
 		 dataCoords = getDataCoords(dc,screenWidth,screenHeight,clockFont);
+		 getColorSettings(me);
       
     }
     function onShow() {
@@ -62,7 +63,11 @@ class PureElegantView extends WatchUi.WatchFace {
     // Update the view
     function onUpdate(dc) {
         // Get the current time and format it correctly
-        
+			if(Storage.getValue("SettingsChanged") == true)
+				{
+				      		 getColorSettings(me);
+					         Storage.setValue("SettingsChanged", false); 
+				}        
         dc.setColor(fgColor,bgColor);
         dc.clear();
         
@@ -71,6 +76,7 @@ class PureElegantView extends WatchUi.WatchFace {
 		drawTime(dc,tCoords[0],tCoords[1],colors);
 		drawBar(dc,barCoords,colors);
 		drawData(dc,dataCoords,colors);
+		
 
 
         // Call the parent onUpdate function to redraw the layout
@@ -84,15 +90,10 @@ class PureElegantView extends WatchUi.WatchFace {
         var hours = clockTime.hour;
         var minutes = clockTime.min.format("%02d");
         if (!is24hour) {
-            if (hours > 12) {
-                hours = hours - 12;
-            }
-        } else {
-            if (Application.getApp().getProperty("UseMilitaryFormat")) {
-                timeFormat = "$1$$2$";
-                hours = hours.format("%02d");
-            }
-        }
+	            if (hours > 12) {
+	                hours = hours - 12;
+	            }
+        	} 
         //hours = "23";
         //minutes = "33";
           
@@ -105,7 +106,7 @@ class PureElegantView extends WatchUi.WatchFace {
     
     }
     function drawBar(dc,coords,colors) {
-   	dc.setPenWidth(2);
+   	dc.setPenWidth(3);
 	dc.setColor(colors[2], colors[1]);
 	dc.drawLine(coords[0], coords[1], coords[2], coords[3]);
     }
@@ -195,5 +196,72 @@ class PureElegantView extends WatchUi.WatchFace {
     // Terminate any active timers and prepare for slow updates.
     function onEnterSleep() {
     }
+    function onSettingsChanged(app) {
+          		 app.getColorSettings(app); 
+    }    
 
+	public function getColorSettings(app) {
+	if(app ==null)
+		{
+		app = PureElegantView;
+		}
+			
+        if(Application.getApp().getProperty("BackgroundColor") != null)
+        {
+        app.bgColor = Application.getApp().getProperty("BackgroundColor");
+        }
+        else
+        	{
+        	Application.getApp().setProperty("BackgroundColor", app.bgColor);
+        	}
+        	 
+      	if(Application.getApp().getProperty("ForegroundColor") != null)
+        {
+        app.fgColor = Application.getApp().getProperty("ForegroundColor");
+        }
+        else
+        	{
+        	Application.getApp().setProperty("ForegroundColor", app.fgColor);
+        	}      
+        if(Application.getApp().getProperty("ThemeColor") != null)
+        {
+        app.themeColor = Application.getApp().getProperty("ThemeColor");
+        
+        }   
+        else
+        	{
+        	Application.getApp().setProperty("ThemeColor", app.themeColor);
+        	}		
+        if(Application.getApp().getProperty("HoursColor") != null)
+        {
+        app.hourColor = Application.getApp().getProperty("HoursColor");
+        
+        }   
+        else
+        	{
+        	Application.getApp().setProperty("HoursColor", app.hourColor);
+        	}        	
+        if(Application.getApp().getProperty("displaySeconds") != null)
+        {
+        app.displaySeconds = Application.getApp().getProperty("displaySeconds");
+        }   
+        else
+        	{
+        	Application.getApp().setProperty("displaySeconds", app.displaySeconds);
+        	}        	        	
+	}
+
+
+}
+class ElegantViewDelegate extends WatchUi.WatchFaceDelegate {
+    // The onPowerBudgetExceeded callback is called by the system if the
+    // onPartialUpdate method exceeds the allowed power budget. If this occurs,
+    // the system will stop invoking onPartialUpdate each second, so we set the
+    // partialUpdatesAllowed flag here to let the rendering methods know they
+    // should not be rendering a second hand.
+    function onPowerBudgetExceeded(powerInfo) {
+        System.println( "Average execution time: " + powerInfo.executionTimeAverage );
+        System.println( "Allowed execution time: " + powerInfo.executionTimeLimit );
+        partialUpdatesAllowed = false;
+    }
 }
