@@ -47,6 +47,7 @@ class PureElegantView extends WatchUi.WatchFace {
     // Load your resources here
     function onLayout(dc) {
     
+    
     	screenWidth = dc.getWidth();
 		screenHeight = dc.getHeight();
 		tCoords = getTimeCoords(screenWidth,screenHeight);
@@ -55,6 +56,7 @@ class PureElegantView extends WatchUi.WatchFace {
 		 barCoords = getBarCoords(dc,screenWidth,screenHeight,clockFont);
 		 dataCoords = getDataCoords(dc,screenWidth,screenHeight,clockFont);
 		 getColorSettings(me);
+		 dc.setAntiAlias(true);
       
     }
     function onShow() {
@@ -71,7 +73,7 @@ class PureElegantView extends WatchUi.WatchFace {
         dc.setColor(fgColor,bgColor);
         dc.clear();
         
-        var colors = [fgColor,bgColor,themeColor,hourColor];
+        var colors = [fgColor,bgColor,themeColor,hourColor, Graphics.COLOR_TRANSPARENT];
 
 		drawTime(dc,tCoords[0],tCoords[1],colors);
 		drawBar(dc,barCoords,colors);
@@ -97,9 +99,9 @@ class PureElegantView extends WatchUi.WatchFace {
         //hours = "23";
         //minutes = "33";
           
-        dc.setColor(colors[0], colors[1]);
+        dc.setColor(colors[0], colors[4]);
         dc.drawText(x, y, clockFont , minutes, Graphics.TEXT_JUSTIFY_RIGHT | Graphics.TEXT_JUSTIFY_VCENTER);
-        var xOffset = dc.getTextWidthInPixels(minutes, Graphics.FONT_NUMBER_HOT);
+        var xOffset = dc.getTextWidthInPixels(minutes, clockFont);
         dc.setColor(colors[3], colors[1]);
         dc.drawText(x-xOffset, y, clockFont, hours, Graphics.TEXT_JUSTIFY_RIGHT | Graphics.TEXT_JUSTIFY_VCENTER);
        // System.println("drawin "+timeString+ "on coords "+x+","+y+" with font "+Graphics.FONT_NUMBER_HOT);
@@ -107,7 +109,7 @@ class PureElegantView extends WatchUi.WatchFace {
     }
     function drawBar(dc,coords,colors) {
    	dc.setPenWidth(3);
-	dc.setColor(colors[2], colors[1]);
+	dc.setColor(colors[2], colors[4]);
 	dc.drawLine(coords[0], coords[1], coords[2], coords[3]);
     }
     
@@ -118,6 +120,7 @@ class PureElegantView extends WatchUi.WatchFace {
 	var steps = info.steps;
 	var	myStats = System.getSystemStats();
 	var battery = myStats.battery.toNumber();	
+	var rightMargin = screenWidth*0.93;
 		var today = Gregorian.info(Time.now(), Time.FORMAT_SHORT );
 		var months = today.month;
 		if(months<10)
@@ -129,23 +132,26 @@ class PureElegantView extends WatchUi.WatchFace {
 		var dayOfWeek = dayOfWeek(today.day_of_week)+" ";
 		var fontHeight = dc.getFontDescent(dataFont);
 			
-	dc.setColor(colors[0],colors[1]);
+	dc.setColor(colors[0],colors[4]);
 	dc.drawText(coords[0], coords[1]-fontHeight, dataFont, dayOfWeek, Graphics.TEXT_JUSTIFY_LEFT  );	
 	var xyOffset = dc.getTextDimensions(dayOfWeek, dataFont); 
-	dc.setColor(colors[3],colors[1]);
-	dc.drawText(coords[0]+xyOffset[0], coords[1]-fontHeight, dataFont, daten.toUpper(), Graphics.TEXT_JUSTIFY_LEFT);
+	dc.setColor(colors[3],colors[4]);
+	//dc.drawText(coords[0]+xyOffset[0], coords[1]-fontHeight, dataFont, daten.toUpper(), Graphics.TEXT_JUSTIFY_LEFT);
+	dc.drawText(rightMargin, coords[1]-fontHeight, dataFont, daten.toUpper(), Graphics.TEXT_JUSTIFY_RIGHT);
 
-	dc.setColor(colors[0],colors[1]);
+	dc.setColor(colors[0],colors[4]);
 	xyOffset = dc.getTextDimensions(cals.toString(), dataFont);
-	dc.drawText(coords[0], coords[1]+xyOffset[1]-fontHeight, dataFont, cals, Graphics.TEXT_JUSTIFY_LEFT);
-	dc.setColor(colors[3],colors[1]);
-	dc.drawText(coords[0]+xyOffset[0],coords[1]+xyOffset[1]-fontHeight, dataFont, " kcal", Graphics.TEXT_JUSTIFY_LEFT  );		
+	dc.drawText(coords[0], coords[1]+xyOffset[1]-fontHeight, dataFont, steps, Graphics.TEXT_JUSTIFY_LEFT);
+	dc.setColor(colors[3],colors[4]);
+	//dc.drawText(coords[0]+xyOffset[0],coords[1]+xyOffset[1]-fontHeight, dataFont, " kcal", Graphics.TEXT_JUSTIFY_LEFT  );	
+	dc.drawText(rightMargin,coords[1]+xyOffset[1]-fontHeight, dataFont, " stps", Graphics.TEXT_JUSTIFY_RIGHT  );		
 
-	dc.setColor(colors[0],colors[1]);
+	dc.setColor(colors[0],colors[4]);
 	xyOffset = dc.getTextDimensions(steps.toString(), dataFont);
-	dc.drawText(coords[0], coords[1]+2*xyOffset[1]-fontHeight, dataFont, steps, Graphics.TEXT_JUSTIFY_LEFT);
-	dc.setColor(colors[3],colors[1]);
-	dc.drawText(coords[0]+xyOffset[0],coords[1]+2*xyOffset[1]-fontHeight, dataFont, " steps", Graphics.TEXT_JUSTIFY_LEFT  );	
+	dc.drawText(coords[0], coords[1]+2*xyOffset[1]-fontHeight, dataFont, cals, Graphics.TEXT_JUSTIFY_LEFT);
+	dc.setColor(colors[3],colors[4]);
+	//dc.drawText(coords[0]+xyOffset[0],coords[1]+2*xyOffset[1]-fontHeight, dataFont, " steps", Graphics.TEXT_JUSTIFY_LEFT  );	
+	dc.drawText(rightMargin,coords[1]+2*xyOffset[1]-fontHeight, dataFont, " kcal", Graphics.TEXT_JUSTIFY_RIGHT  );	
 	
     }
     
@@ -162,7 +168,11 @@ class PureElegantView extends WatchUi.WatchFace {
     
     function getDataCoords(dc,width,height,font) {
     var xOff = 0.66;
-    var yOffset = dc.getTextDimensions("0", font);//i wanna height only
+    var yOffset = dc.getTextDimensions("012", font);//i wanna height only
+    System.println("font dimensions are: "+yOffset);
+     System.println("font height are: "+dc.getFontHeight(font));
+      System.println("font descent are: "+dc.getFontDescent(font)); 
+
  				var yOff = yOffset[1]/2;
     	return [width*xOff,height*0.5-yOff/2,width*xOff,height*0.5+yOff/2];   
     }
