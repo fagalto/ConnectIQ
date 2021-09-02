@@ -212,7 +212,7 @@
 <entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Elegant\\source\\PureSettingsMenu.mc" id="32" lineNum="229" pc="268441978" symbol="onSelect"/>
 <entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Elegant\\source\\PureSettingsMenu.mc" id="32" lineNum="233" pc="268442015" symbol="onSelect"/>
 <entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Elegant\\source\\PureSettingsMenu.mc" id="32" lineNum="237" pc="268442052" symbol="onSelect"/>
-<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Elegant\\source\\PureSettingsMenu.mc" id="32" lineNum="22" pc="268444512" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Elegant\\source\\PureSettingsMenu.mc" id="32" lineNum="22" pc="268444488" symbol="&lt;init&gt;"/>
 <entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Elegant\\source\\PureSettingsMenu.mc" id="34" lineNum="248" pc="268442069" symbol="initialize"/>
 <entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Elegant\\source\\PureSettingsMenu.mc" id="34" lineNum="249" pc="268442073" symbol="initialize"/>
 <entry filename="C:\\Users\\grabowski.a\\workspace\\Pure Elegant\\source\\PureSettingsMenu.mc" id="34" lineNum="250" pc="268442097" symbol="initialize"/>
@@ -313,9 +313,9 @@
 <entry filename="Rez" id="64" lineNum="11" pc="268444154" symbol="initialize"/>
 <entry filename="Rez" id="64" lineNum="12" pc="268444158" symbol="initialize"/>
 <entry filename="Rez" id="65" lineNum="15" pc="268444183" symbol="draw"/>
-<entry filename="Rez" id="65" lineNum="17" pc="268444187" symbol="draw"/>
-<entry filename="Rez" id="65" lineNum="18" pc="268444223" symbol="draw"/>
-<entry filename="Rez" id="65" lineNum="19" pc="268444279" symbol="draw"/>
+<entry filename="Rez" id="65" lineNum="16" pc="268444187" symbol="draw"/>
+<entry filename="Rez" id="65" lineNum="17" pc="268444223" symbol="draw"/>
+<entry filename="Rez" id="65" lineNum="18" pc="268444255" symbol="draw"/>
 </pcToLineNum>
 <symbolTable>
 <entry id="8388639" module="true" symbol="Graphics"/>
@@ -528,15 +528,12 @@
 <entry endPc="268443349" name="labelY" stackId="3" startPc="268443150"/>
 <entry endPc="268443349" name="labelX" stackId="2" startPc="268443150"/>
 <entry arg="true" endPc="268443350" name="dc" stackId="1" startPc="268443146"/>
-<entry arg="true" endPc="268443383" name="instance" stackId="1" startPc="268443350"/>
 <entry arg="true" endPc="268443630" name="dc" stackId="1" startPc="268443383"/>
-<entry arg="true" endPc="268443653" name="instance" stackId="1" startPc="268443630"/>
-<entry endPc="268444037" name="secEnabled" stackId="3" startPc="268443657"/>
-<entry endPc="268444037" name="menu" stackId="2" startPc="268443657"/>
-<entry arg="true" endPc="268444038" name="app" stackId="1" startPc="268443653"/>
+<entry endPc="268444037" name="secEnabled" stackId="2" startPc="268443657"/>
+<entry endPc="268444037" name="menu" stackId="1" startPc="268443657"/>
 <entry endPc="268444083" name="dictionary" stackId="1" startPc="268444042"/>
 <entry arg="true" endPc="268444154" name="dc" stackId="1" startPc="268444084"/>
-<entry arg="true" endPc="268444316" name="dc" stackId="1" startPc="268444183"/>
+<entry arg="true" endPc="268444292" name="dc" stackId="1" startPc="268444183"/>
 </localVars>
 <annotations/>
 <dataEntryOffsetMappings>
@@ -731,7 +728,6 @@
 <documentation/>
 </functionEntry>
 <functionEntry accessMode="public" name="initialize" parent="PureSettingsView">
-<param id="instance"/>
 <documentation/>
 </functionEntry>
 <functionEntry accessMode="public" name="onUpdate" parent="PureSettingsView">
@@ -739,11 +735,9 @@
 <documentation/>
 </functionEntry>
 <functionEntry accessMode="public" name="initialize" parent="PureSettingsDelegate">
-<param id="instance"/>
 <documentation/>
 </functionEntry>
 <functionEntry accessMode="public" name="onMenu" parent="PureSettingsDelegate">
-<param id="app"/>
 <documentation/>
 </functionEntry>
 <functionEntry accessMode="public" name="initialize" parent="Background">
