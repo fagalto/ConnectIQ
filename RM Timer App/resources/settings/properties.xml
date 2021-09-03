@@ -1,0 +1,11 @@
+<properties>
+
+	<property id="ActiveTraining" type="number">2</property>
+    <property id="T_1" type="string">3x(2x150@600/1,5' + 400@1K/3')</property>
+    <property id="T_2" type="string">3x(1000T + 200@1K/3')</property>
+    <property id="T_3" type="string">2x(600@2K/3' + 200@800/2' + 150@400/1,5')</property>
+    <property id="T_4" type="string">600@2K/3' + 2x300@1,5K/3' + 2x150@600/1,5' + 4x100@400/1'</property>
+    <property id="T_5" type="string">5x(2x1500@600/1,5' + 400@1K/3')</property>
+
+
+</properties>

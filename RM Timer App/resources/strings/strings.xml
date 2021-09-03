@@ -1,0 +1,20 @@
+<strings>
+    <string id="AppName">RM Timer App</string>
+
+    <string id="prompt">Click the menu button</string>
+
+    <string id="menu_label_1">Item 1</string>
+    <string id="menu_label_2">Item 2</string>
+    
+    <string id="TrainingOneTitle">Training 1 Timers</string>
+      <string id="TrainingTwoTitle">Training 2 Timers</string>
+          <string id="TrainingThreeTitle">Training 3 Timers</string>
+              <string id="TrainingFourTitle">Training 4 Timers</string>
+                  <string id="TrainingFiveTitle">Training 5 Timers</string>
+                   		<string id="Training1">Training 1</string>
+                    	<string id="Training2">Training 2</string>
+                     	<string id="Training3">Training 3</string>
+                     	<string id="Training4">Training 4</string>
+                     	<string id="Training5">Training 5</string>
+                  	<string id="ActiveTraining">ActiveTraining</string>    
+</strings>

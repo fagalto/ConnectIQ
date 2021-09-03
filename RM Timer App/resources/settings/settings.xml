@@ -1,0 +1,28 @@
+<settings>
+    <setting propertyKey="@Properties.ActiveTraining" title="@Strings.ActiveTraining">
+        <settingConfig type="list">
+            <listEntry value="1">@Strings.Training1</listEntry>
+            <listEntry value="2">@Strings.Training2</listEntry>
+            <listEntry value="3">@Strings.Training3</listEntry>
+            <listEntry value="4">@Strings.Training4</listEntry>
+            <listEntry value="5">@Strings.Training5</listEntry>
+ 
+        </settingConfig>
+    </setting>
+    <setting propertyKey="@Properties.T_1" title="@Strings.TrainingOneTitle">
+ 		<settingConfig type="alphaNumeric" required="true" />
+    </setting>
+    <setting propertyKey="@Properties.T_2" title="@Strings.TrainingTwoTitle">
+ 		<settingConfig type="alphaNumeric" required="true" />
+    </setting>
+    <setting propertyKey="@Properties.T_3" title="@Strings.TrainingThreeTitle">
+ 		<settingConfig type="alphaNumeric" required="true" />
+    </setting>
+    <setting propertyKey="@Properties.T_4" title="@Strings.TrainingFourTitle">
+ 		<settingConfig type="alphaNumeric" required="true" />
+    </setting>
+    <setting propertyKey="@Properties.T_5" title="@Strings.TrainingFiveTitle">
+ 		<settingConfig type="alphaNumeric" required="true" />
+    </setting>  
+              
+</settings>

@@ -1,0 +1,11 @@
+<properties>
+
+	<property id="ActiveTraining" type="number">1</property>
+    <property id="T_1" type="string">12</property>
+    <property id="T_2" type="string">12,13</property>
+    <property id="T_3" type="string">12,13,12,13,12,13</property>
+    <property id="T_4" type="string">12</property>
+    <property id="T_5" type="string">12</property>
+
+
+</properties>

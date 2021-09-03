@@ -1,0 +1,869 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<manifest filename="C:\Users\grabowski.a\workspace\RM Timer App\manifest.xml"/>
+<pcToLineNum>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\StringFunctions.mc" id="3" lineNum="3" pc="268435456" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\StringFunctions.mc" id="4" lineNum="7" pc="268435461" symbol="replace"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\StringFunctions.mc" id="4" lineNum="9" pc="268435465" symbol="replace"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\StringFunctions.mc" id="4" lineNum="10" pc="268435483" symbol="replace"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\StringFunctions.mc" id="4" lineNum="14" pc="268435489" symbol="replace"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\StringFunctions.mc" id="4" lineNum="15" pc="268435571" symbol="replace"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\VdotCalculator.mc" id="6" lineNum="6" pc="268435575" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\VdotCalculator.mc" id="6" lineNum="8" pc="268435579" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\VdotCalculator.mc" id="6" lineNum="9" pc="268435598" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\VdotCalculator.mc" id="6" lineNum="10" pc="268435612" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\VdotCalculator.mc" id="6" lineNum="30" pc="268435886" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\VdotCalculator.mc" id="7" lineNum="33" pc="268435899" symbol="calculateRacePaces"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\VdotCalculator.mc" id="7" lineNum="34" pc="268435903" symbol="calculateRacePaces"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\VdotCalculator.mc" id="7" lineNum="35" pc="268435910" symbol="calculateRacePaces"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\VdotCalculator.mc" id="7" lineNum="36" pc="268435940" symbol="calculateRacePaces"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\VdotCalculator.mc" id="7" lineNum="37" pc="268435964" symbol="calculateRacePaces"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\VdotCalculator.mc" id="8" lineNum="41" pc="268436009" symbol="calclulateIntensity"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\VdotCalculator.mc" id="8" lineNum="42" pc="268436013" symbol="calclulateIntensity"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\VdotCalculator.mc" id="8" lineNum="65" pc="268436405" symbol="calclulateIntensity"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\VdotCalculator.mc" id="8" lineNum="65" pc="268436701" symbol="calclulateIntensity"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\VdotCalculator.mc" id="8" lineNum="44" pc="268436707" symbol="calclulateIntensity"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\VdotCalculator.mc" id="8" lineNum="44" pc="268437003" symbol="calclulateIntensity"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\VdotCalculator.mc" id="8" lineNum="45" pc="268437006" symbol="calclulateIntensity"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\VdotCalculator.mc" id="8" lineNum="45" pc="268437302" symbol="calclulateIntensity"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\VdotCalculator.mc" id="8" lineNum="46" pc="268437305" symbol="calclulateIntensity"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\VdotCalculator.mc" id="8" lineNum="46" pc="268437601" symbol="calclulateIntensity"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\VdotCalculator.mc" id="8" lineNum="47" pc="268437604" symbol="calclulateIntensity"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\VdotCalculator.mc" id="8" lineNum="47" pc="268437894" symbol="calclulateIntensity"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\VdotCalculator.mc" id="8" lineNum="48" pc="268437897" symbol="calclulateIntensity"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\VdotCalculator.mc" id="8" lineNum="48" pc="268438221" symbol="calclulateIntensity"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\VdotCalculator.mc" id="8" lineNum="49" pc="268438224" symbol="calclulateIntensity"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\VdotCalculator.mc" id="8" lineNum="49" pc="268438520" symbol="calclulateIntensity"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\VdotCalculator.mc" id="8" lineNum="50" pc="268438523" symbol="calclulateIntensity"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\VdotCalculator.mc" id="8" lineNum="50" pc="268438847" symbol="calclulateIntensity"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\VdotCalculator.mc" id="8" lineNum="51" pc="268438850" symbol="calclulateIntensity"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\VdotCalculator.mc" id="8" lineNum="51" pc="268439146" symbol="calclulateIntensity"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\VdotCalculator.mc" id="8" lineNum="52" pc="268439149" symbol="calclulateIntensity"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\VdotCalculator.mc" id="8" lineNum="52" pc="268439445" symbol="calclulateIntensity"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\VdotCalculator.mc" id="8" lineNum="53" pc="268439448" symbol="calclulateIntensity"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\VdotCalculator.mc" id="8" lineNum="53" pc="268439614" symbol="calclulateIntensity"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\VdotCalculator.mc" id="8" lineNum="54" pc="268439617" symbol="calclulateIntensity"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\VdotCalculator.mc" id="8" lineNum="54" pc="268439913" symbol="calclulateIntensity"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\VdotCalculator.mc" id="8" lineNum="55" pc="268439916" symbol="calclulateIntensity"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\VdotCalculator.mc" id="8" lineNum="55" pc="268440212" symbol="calclulateIntensity"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\VdotCalculator.mc" id="8" lineNum="56" pc="268440215" symbol="calclulateIntensity"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\VdotCalculator.mc" id="8" lineNum="56" pc="268440511" symbol="calclulateIntensity"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\VdotCalculator.mc" id="8" lineNum="57" pc="268440514" symbol="calclulateIntensity"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\VdotCalculator.mc" id="8" lineNum="57" pc="268440810" symbol="calclulateIntensity"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\VdotCalculator.mc" id="8" lineNum="58" pc="268440813" symbol="calclulateIntensity"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\VdotCalculator.mc" id="8" lineNum="58" pc="268441109" symbol="calclulateIntensity"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\VdotCalculator.mc" id="8" lineNum="59" pc="268441112" symbol="calclulateIntensity"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\VdotCalculator.mc" id="8" lineNum="59" pc="268441312" symbol="calclulateIntensity"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\VdotCalculator.mc" id="8" lineNum="60" pc="268441315" symbol="calclulateIntensity"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\VdotCalculator.mc" id="8" lineNum="60" pc="268441515" symbol="calclulateIntensity"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\VdotCalculator.mc" id="8" lineNum="61" pc="268441518" symbol="calclulateIntensity"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\VdotCalculator.mc" id="8" lineNum="61" pc="268441718" symbol="calclulateIntensity"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\VdotCalculator.mc" id="8" lineNum="62" pc="268441721" symbol="calclulateIntensity"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\VdotCalculator.mc" id="8" lineNum="62" pc="268441921" symbol="calclulateIntensity"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\VdotCalculator.mc" id="8" lineNum="63" pc="268441924" symbol="calclulateIntensity"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\VdotCalculator.mc" id="8" lineNum="63" pc="268441930" symbol="calclulateIntensity"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\VdotCalculator.mc" id="9" lineNum="70" pc="268441937" symbol="secondsToPace"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\VdotCalculator.mc" id="9" lineNum="71" pc="268441941" symbol="secondsToPace"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\VdotCalculator.mc" id="9" lineNum="72" pc="268441982" symbol="secondsToPace"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\VdotCalculator.mc" id="9" lineNum="74" pc="268442032" symbol="secondsToPace"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\VdotCalculator.mc" id="9" lineNum="75" pc="268442076" symbol="secondsToPace"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\SettingsParser.mc" id="11" lineNum="7" pc="268442089" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\SettingsParser.mc" id="11" lineNum="8" pc="268442093" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\SettingsParser.mc" id="11" lineNum="9" pc="268442132" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\SettingsParser.mc" id="12" lineNum="18" pc="268442181" symbol="onSettingsChanged"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\SettingsParser.mc" id="12" lineNum="20" pc="268442185" symbol="onSettingsChanged"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\SettingsParser.mc" id="12" lineNum="21" pc="268442224" symbol="onSettingsChanged"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\SettingsParser.mc" id="13" lineNum="28" pc="268442273" symbol="parseTrainingStringToTimerObject"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\SettingsParser.mc" id="13" lineNum="31" pc="268442277" symbol="parseTrainingStringToTimerObject"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\SettingsParser.mc" id="13" lineNum="32" pc="268442284" symbol="parseTrainingStringToTimerObject"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\SettingsParser.mc" id="13" lineNum="33" pc="268442308" symbol="parseTrainingStringToTimerObject"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\SettingsParser.mc" id="13" lineNum="34" pc="268442315" symbol="parseTrainingStringToTimerObject"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\SettingsParser.mc" id="13" lineNum="38" pc="268442342" symbol="parseTrainingStringToTimerObject"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\SettingsParser.mc" id="13" lineNum="40" pc="268442349" symbol="parseTrainingStringToTimerObject"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\SettingsParser.mc" id="13" lineNum="41" pc="268442361" symbol="parseTrainingStringToTimerObject"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\SettingsParser.mc" id="13" lineNum="42" pc="268442385" symbol="parseTrainingStringToTimerObject"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\SettingsParser.mc" id="13" lineNum="43" pc="268442392" symbol="parseTrainingStringToTimerObject"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\SettingsParser.mc" id="13" lineNum="45" pc="268442414" symbol="parseTrainingStringToTimerObject"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\SettingsParser.mc" id="13" lineNum="46" pc="268442421" symbol="parseTrainingStringToTimerObject"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\SettingsParser.mc" id="13" lineNum="48" pc="268442431" symbol="parseTrainingStringToTimerObject"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\SettingsParser.mc" id="13" lineNum="49" pc="268442436" symbol="parseTrainingStringToTimerObject"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\SettingsParser.mc" id="13" lineNum="50" pc="268442465" symbol="parseTrainingStringToTimerObject"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\SettingsParser.mc" id="13" lineNum="54" pc="268442500" symbol="parseTrainingStringToTimerObject"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\SettingsParser.mc" id="13" lineNum="57" pc="268442507" symbol="parseTrainingStringToTimerObject"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\SettingsParser.mc" id="13" lineNum="58" pc="268442522" symbol="parseTrainingStringToTimerObject"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\SettingsParser.mc" id="13" lineNum="63" pc="268442565" symbol="parseTrainingStringToTimerObject"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\SettingsParser.mc" id="14" lineNum="67" pc="268442575" symbol="splitSubsetString"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\SettingsParser.mc" id="14" lineNum="68" pc="268442579" symbol="splitSubsetString"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\SettingsParser.mc" id="14" lineNum="69" pc="268442587" symbol="splitSubsetString"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\SettingsParser.mc" id="14" lineNum="70" pc="268442594" symbol="splitSubsetString"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\SettingsParser.mc" id="14" lineNum="71" pc="268442604" symbol="splitSubsetString"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\SettingsParser.mc" id="14" lineNum="72" pc="268442625" symbol="splitSubsetString"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\SettingsParser.mc" id="14" lineNum="73" pc="268442659" symbol="splitSubsetString"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\SettingsParser.mc" id="14" lineNum="74" pc="268442692" symbol="splitSubsetString"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\SettingsParser.mc" id="14" lineNum="76" pc="268442702" symbol="splitSubsetString"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\SettingsParser.mc" id="14" lineNum="78" pc="268442751" symbol="splitSubsetString"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\SettingsParser.mc" id="14" lineNum="79" pc="268442784" symbol="splitSubsetString"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\SettingsParser.mc" id="15" lineNum="83" pc="268442788" symbol="singleSplitAnalyse"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\SettingsParser.mc" id="15" lineNum="86" pc="268442792" symbol="singleSplitAnalyse"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\SettingsParser.mc" id="15" lineNum="87" pc="268442799" symbol="singleSplitAnalyse"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\SettingsParser.mc" id="15" lineNum="88" pc="268442817" symbol="singleSplitAnalyse"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\SettingsParser.mc" id="15" lineNum="90" pc="268442824" symbol="singleSplitAnalyse"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\SettingsParser.mc" id="15" lineNum="91" pc="268442856" symbol="singleSplitAnalyse"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\SettingsParser.mc" id="15" lineNum="93" pc="268442902" symbol="singleSplitAnalyse"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\SettingsParser.mc" id="15" lineNum="94" pc="268442907" symbol="singleSplitAnalyse"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\SettingsParser.mc" id="15" lineNum="96" pc="268442922" symbol="singleSplitAnalyse"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\SettingsParser.mc" id="15" lineNum="100" pc="268442956" symbol="singleSplitAnalyse"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\SettingsParser.mc" id="15" lineNum="102" pc="268442971" symbol="singleSplitAnalyse"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\SettingsParser.mc" id="16" lineNum="107" pc="268442975" symbol="splitDecode"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\SettingsParser.mc" id="16" lineNum="108" pc="268442979" symbol="splitDecode"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\SettingsParser.mc" id="16" lineNum="109" pc="268442986" symbol="splitDecode"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\SettingsParser.mc" id="16" lineNum="110" pc="268442993" symbol="splitDecode"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\SettingsParser.mc" id="16" lineNum="111" pc="268443000" symbol="splitDecode"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\SettingsParser.mc" id="16" lineNum="112" pc="268443018" symbol="splitDecode"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\SettingsParser.mc" id="16" lineNum="114" pc="268443025" symbol="splitDecode"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\SettingsParser.mc" id="16" lineNum="115" pc="268443071" symbol="splitDecode"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\SettingsParser.mc" id="16" lineNum="117" pc="268443120" symbol="splitDecode"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\SettingsParser.mc" id="16" lineNum="118" pc="268443141" symbol="splitDecode"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\SettingsParser.mc" id="16" lineNum="119" pc="268443175" symbol="splitDecode"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\SettingsParser.mc" id="16" lineNum="120" pc="268443221" symbol="splitDecode"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\SettingsParser.mc" id="16" lineNum="121" pc="268443228" symbol="splitDecode"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\SettingsParser.mc" id="16" lineNum="124" pc="268443285" symbol="splitDecode"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\SettingsParser.mc" id="16" lineNum="125" pc="268443306" symbol="splitDecode"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\SettingsParser.mc" id="16" lineNum="126" pc="268443340" symbol="splitDecode"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\SettingsParser.mc" id="16" lineNum="128" pc="268443350" symbol="splitDecode"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\SettingsParser.mc" id="16" lineNum="129" pc="268443371" symbol="splitDecode"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\SettingsParser.mc" id="16" lineNum="130" pc="268443405" symbol="splitDecode"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\SettingsParser.mc" id="16" lineNum="134" pc="268443415" symbol="splitDecode"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\SettingsParser.mc" id="16" lineNum="136" pc="268443430" symbol="splitDecode"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\DataRecorder.mc" id="18" lineNum="7" pc="268443490" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\DataRecorder.mc" id="18" lineNum="8" pc="268443494" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\DataRecorder.mc" id="19" lineNum="13" pc="268443515" symbol="receivedPosition"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\DataRecorder.mc" id="19" lineNum="15" pc="268443519" symbol="receivedPosition"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\DataRecorder.mc" id="19" lineNum="16" pc="268443539" symbol="receivedPosition"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\DataRecorder.mc" id="19" lineNum="17" pc="268443555" symbol="receivedPosition"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\TrainingSet.mc" id="21" lineNum="24" pc="268443586" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\TrainingSet.mc" id="21" lineNum="25" pc="268443590" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\TrainingSet.mc" id="21" lineNum="26" pc="268443604" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\TrainingSet.mc" id="21" lineNum="27" pc="268443617" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\TrainingSet.mc" id="21" lineNum="28" pc="268443630" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\TrainingSet.mc" id="21" lineNum="29" pc="268443666" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\TrainingSet.mc" id="21" lineNum="30" pc="268443679" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\TrainingSet.mc" id="21" lineNum="31" pc="268443689" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\TrainingSet.mc" id="21" lineNum="32" pc="268443698" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\TrainingSet.mc" id="21" lineNum="33" pc="268443707" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\TrainingSet.mc" id="21" lineNum="34" pc="268443721" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\TrainingSet.mc" id="22" lineNum="41" pc="268443762" symbol="changeSessionValues"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\TrainingSet.mc" id="22" lineNum="42" pc="268443766" symbol="changeSessionValues"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\TrainingSet.mc" id="22" lineNum="43" pc="268443776" symbol="changeSessionValues"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\TrainingSet.mc" id="23" lineNum="46" pc="268443789" symbol="serializeTrainingObject"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\TrainingSet.mc" id="23" lineNum="47" pc="268443793" symbol="serializeTrainingObject"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\TrainingSet.mc" id="23" lineNum="49" pc="268443807" symbol="serializeTrainingObject"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\TrainingSet.mc" id="23" lineNum="51" pc="268443841" symbol="serializeTrainingObject"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\TrainingSet.mc" id="23" lineNum="52" pc="268443875" symbol="serializeTrainingObject"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\TrainingSet.mc" id="23" lineNum="53" pc="268443882" symbol="serializeTrainingObject"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\TrainingSet.mc" id="23" lineNum="54" pc="268443908" symbol="serializeTrainingObject"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\TrainingSet.mc" id="23" lineNum="55" pc="268443935" symbol="serializeTrainingObject"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\TrainingSet.mc" id="23" lineNum="57" pc="268443950" symbol="serializeTrainingObject"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\TrainingSet.mc" id="23" lineNum="58" pc="268444025" symbol="serializeTrainingObject"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\TrainingSet.mc" id="23" lineNum="59" pc="268444091" symbol="serializeTrainingObject"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\TrainingSet.mc" id="23" lineNum="61" pc="268444114" symbol="serializeTrainingObject"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\TrainingSet.mc" id="23" lineNum="63" pc="268444161" symbol="serializeTrainingObject"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\TrainingSet.mc" id="23" lineNum="64" pc="268444198" symbol="serializeTrainingObject"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\TrainingSet.mc" id="23" lineNum="65" pc="268444236" symbol="serializeTrainingObject"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\TrainingSet.mc" id="23" lineNum="66" pc="268444274" symbol="serializeTrainingObject"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\TrainingSet.mc" id="23" lineNum="67" pc="268444298" symbol="serializeTrainingObject"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\TrainingSet.mc" id="24" lineNum="71" pc="268444308" symbol="getSessionStatus"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\TrainingSet.mc" id="24" lineNum="72" pc="268444312" symbol="getSessionStatus"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\TrainingSet.mc" id="25" lineNum="75" pc="268444322" symbol="sessionStart"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\TrainingSet.mc" id="25" lineNum="76" pc="268444326" symbol="sessionStart"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\TrainingSet.mc" id="25" lineNum="77" pc="268444339" symbol="sessionStart"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\TrainingSet.mc" id="25" lineNum="78" pc="268444366" symbol="sessionStart"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\TrainingSet.mc" id="25" lineNum="79" pc="268444393" symbol="sessionStart"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\TrainingSet.mc" id="25" lineNum="81" pc="268444413" symbol="sessionStart"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\TrainingSet.mc" id="26" lineNum="83" pc="268444417" symbol="sessionStop"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\TrainingSet.mc" id="26" lineNum="84" pc="268444421" symbol="sessionStop"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\TrainingSet.mc" id="26" lineNum="85" pc="268444434" symbol="sessionStop"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\TrainingSet.mc" id="26" lineNum="86" pc="268444452" symbol="sessionStop"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\TrainingSet.mc" id="26" lineNum="88" pc="268444479" symbol="sessionStop"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\TrainingSet.mc" id="27" lineNum="90" pc="268444483" symbol="sessionPause"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\TrainingSet.mc" id="27" lineNum="91" pc="268444487" symbol="sessionPause"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\TrainingSet.mc" id="27" lineNum="92" pc="268444500" symbol="sessionPause"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\TrainingSet.mc" id="27" lineNum="93" pc="268444518" symbol="sessionPause"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\TrainingSet.mc" id="27" lineNum="95" pc="268444545" symbol="sessionPause"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\TrainingSet.mc" id="28" lineNum="97" pc="268444549" symbol="sessionResume"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\TrainingSet.mc" id="28" lineNum="98" pc="268444553" symbol="sessionResume"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\TrainingSet.mc" id="28" lineNum="99" pc="268444594" symbol="sessionResume"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\TrainingSet.mc" id="28" lineNum="100" pc="268444621" symbol="sessionResume"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\TrainingSet.mc" id="28" lineNum="102" pc="268444634" symbol="sessionResume"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\TrainingSet.mc" id="29" lineNum="108" pc="268444638" symbol="lapKeyPressed"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\TrainingSet.mc" id="29" lineNum="109" pc="268444642" symbol="lapKeyPressed"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\TrainingSet.mc" id="29" lineNum="110" pc="268444658" symbol="lapKeyPressed"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\TrainingSet.mc" id="29" lineNum="111" pc="268444699" symbol="lapKeyPressed"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\TrainingSet.mc" id="29" lineNum="113" pc="268444712" symbol="lapKeyPressed"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\TrainingSet.mc" id="29" lineNum="114" pc="268444735" symbol="lapKeyPressed"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\TrainingSet.mc" id="29" lineNum="115" pc="268444753" symbol="lapKeyPressed"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\TrainingSet.mc" id="29" lineNum="117" pc="268444766" symbol="lapKeyPressed"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\TrainingSet.mc" id="29" lineNum="121" pc="268444807" symbol="lapKeyPressed"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\TrainingSet.mc" id="29" lineNum="126" pc="268444845" symbol="lapKeyPressed"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\TrainingSet.mc" id="29" lineNum="127" pc="268444858" symbol="lapKeyPressed"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\TrainingSet.mc" id="29" lineNum="128" pc="268444879" symbol="lapKeyPressed"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\TrainingSet.mc" id="29" lineNum="129" pc="268444897" symbol="lapKeyPressed"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\TrainingSet.mc" id="29" lineNum="131" pc="268444924" symbol="lapKeyPressed"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\TrainingSet.mc" id="29" lineNum="132" pc="268444956" symbol="lapKeyPressed"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\TrainingSet.mc" id="29" lineNum="133" pc="268444979" symbol="lapKeyPressed"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\TrainingSet.mc" id="29" lineNum="137" pc="268445023" symbol="lapKeyPressed"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\TrainingSet.mc" id="29" lineNum="138" pc="268445032" symbol="lapKeyPressed"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\TrainingSet.mc" id="29" lineNum="139" pc="268445051" symbol="lapKeyPressed"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\TrainingSet.mc" id="29" lineNum="140" pc="268445064" symbol="lapKeyPressed"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\TrainingSet.mc" id="29" lineNum="142" pc="268445084" symbol="lapKeyPressed"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\TrainingSet.mc" id="29" lineNum="147" pc="268445107" symbol="lapKeyPressed"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\TrainingSet.mc" id="29" lineNum="149" pc="268445130" symbol="lapKeyPressed"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\TrainingSet.mc" id="29" lineNum="150" pc="268445139" symbol="lapKeyPressed"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\TrainingSet.mc" id="30" lineNum="164" pc="268445152" symbol="timerCallback"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\TrainingSet.mc" id="30" lineNum="166" pc="268445156" symbol="timerCallback"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\TrainingSet.mc" id="31" lineNum="169" pc="268445176" symbol="beginTrainingSession"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\TrainingSet.mc" id="31" lineNum="170" pc="268445180" symbol="beginTrainingSession"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\TrainingSet.mc" id="31" lineNum="171" pc="268445203" symbol="beginTrainingSession"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\TrainingSet.mc" id="31" lineNum="172" pc="268445224" symbol="beginTrainingSession"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\TrainingSet.mc" id="31" lineNum="173" pc="268445254" symbol="beginTrainingSession"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\TrainingSet.mc" id="31" lineNum="174" pc="268445278" symbol="beginTrainingSession"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\TrainingSet.mc" id="31" lineNum="175" pc="268445338" symbol="beginTrainingSession"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\TrainingSet.mc" id="32" lineNum="177" pc="268445380" symbol="WarmUpSplit"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\TrainingSet.mc" id="32" lineNum="178" pc="268445384" symbol="WarmUpSplit"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\TrainingSet.mc" id="33" lineNum="183" pc="268445444" symbol="CoolDownSplit"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\TrainingSet.mc" id="33" lineNum="184" pc="268445448" symbol="CoolDownSplit"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\TrainingSet.mc" id="34" lineNum="190" pc="268445508" symbol="getStepInfo"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\TrainingSet.mc" id="34" lineNum="192" pc="268445512" symbol="getStepInfo"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\TrainingSet.mc" id="34" lineNum="193" pc="268445551" symbol="getStepInfo"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\TrainingSet.mc" id="34" lineNum="194" pc="268445569" symbol="getStepInfo"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\TrainingSet.mc" id="34" lineNum="195" pc="268445587" symbol="getStepInfo"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\TrainingSet.mc" id="34" lineNum="197" pc="268445628" symbol="getStepInfo"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\TrainingSet.mc" id="34" lineNum="198" pc="268445664" symbol="getStepInfo"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\TrainingSet.mc" id="34" lineNum="199" pc="268445685" symbol="getStepInfo"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\TrainingSet.mc" id="34" lineNum="201" pc="268445703" symbol="getStepInfo"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\TrainingSet.mc" id="35" lineNum="210" pc="268445789" symbol="setPosition"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\TrainingSet.mc" id="35" lineNum="212" pc="268445793" symbol="setPosition"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\RMTimerAppMenuDelegate.mc" id="37" lineNum="6" pc="268445820" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\RMTimerAppMenuDelegate.mc" id="37" lineNum="7" pc="268445824" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\RMTimerAppMenuDelegate.mc" id="38" lineNum="10" pc="268445843" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\RMTimerAppMenuDelegate.mc" id="38" lineNum="11" pc="268445847" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\RMTimerAppMenuDelegate.mc" id="38" lineNum="12" pc="268445858" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\RMTimerAppMenuDelegate.mc" id="38" lineNum="13" pc="268445879" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\RMTimerAppMenuDelegate.mc" id="38" lineNum="14" pc="268445909" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\RMTimerAppMenuDelegate.mc" id="38" lineNum="15" pc="268445920" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\RMTimerAppApp.mc" id="40" lineNum="15" pc="268445945" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\RMTimerAppApp.mc" id="40" lineNum="16" pc="268445949" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\RMTimerAppApp.mc" id="40" lineNum="17" pc="268445967" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\RMTimerAppApp.mc" id="40" lineNum="18" pc="268445997" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\RMTimerAppApp.mc" id="40" lineNum="19" pc="268446032" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\RMTimerAppApp.mc" id="40" lineNum="20" pc="268446070" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\RMTimerAppApp.mc" id="40" lineNum="21" pc="268446100" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\RMTimerAppApp.mc" id="40" lineNum="22" pc="268446119" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\RMTimerAppApp.mc" id="40" lineNum="23" pc="268446139" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\RMTimerAppApp.mc" id="41" lineNum="29" pc="268446186" symbol="onStart"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\RMTimerAppApp.mc" id="41" lineNum="30" pc="268446190" symbol="onStart"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\RMTimerAppApp.mc" id="42" lineNum="32" pc="268446235" symbol="start"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\RMTimerAppApp.mc" id="42" lineNum="35" pc="268446239" symbol="start"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\RMTimerAppApp.mc" id="42" lineNum="36" pc="268446256" symbol="start"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\RMTimerAppApp.mc" id="42" lineNum="37" pc="268446295" symbol="start"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\RMTimerAppApp.mc" id="42" lineNum="41" pc="268446357" symbol="start"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\RMTimerAppApp.mc" id="42" lineNum="43" pc="268446378" symbol="start"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\RMTimerAppApp.mc" id="42" lineNum="44" pc="268446414" symbol="start"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\RMTimerAppApp.mc" id="42" lineNum="45" pc="268446432" symbol="start"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\RMTimerAppApp.mc" id="42" lineNum="46" pc="268446450" symbol="start"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\RMTimerAppApp.mc" id="42" lineNum="49" pc="268446465" symbol="start"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\RMTimerAppApp.mc" id="43" lineNum="52" pc="268446469" symbol="changeStatus"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\RMTimerAppApp.mc" id="43" lineNum="53" pc="268446473" symbol="changeStatus"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\RMTimerAppApp.mc" id="44" lineNum="55" pc="268446492" symbol="lapPressed"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\RMTimerAppApp.mc" id="44" lineNum="56" pc="268446496" symbol="lapPressed"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\RMTimerAppApp.mc" id="45" lineNum="58" pc="268446515" symbol="pause"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\RMTimerAppApp.mc" id="45" lineNum="59" pc="268446519" symbol="pause"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\RMTimerAppApp.mc" id="46" lineNum="61" pc="268446538" symbol="resume"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\RMTimerAppApp.mc" id="46" lineNum="62" pc="268446542" symbol="resume"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\RMTimerAppApp.mc" id="47" lineNum="64" pc="268446561" symbol="fitSave"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\RMTimerAppApp.mc" id="47" lineNum="65" pc="268446565" symbol="fitSave"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\RMTimerAppApp.mc" id="47" lineNum="66" pc="268446601" symbol="fitSave"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\RMTimerAppApp.mc" id="47" lineNum="67" pc="268446619" symbol="fitSave"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\RMTimerAppApp.mc" id="47" lineNum="68" pc="268446637" symbol="fitSave"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\RMTimerAppApp.mc" id="48" lineNum="72" pc="268446650" symbol="onStop"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\RMTimerAppApp.mc" id="48" lineNum="74" pc="268446654" symbol="onStop"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\RMTimerAppApp.mc" id="49" lineNum="78" pc="268446699" symbol="onPosition"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\RMTimerAppApp.mc" id="49" lineNum="79" pc="268446703" symbol="onPosition"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\RMTimerAppApp.mc" id="50" lineNum="81" pc="268446724" symbol="gpsQualityChange"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\RMTimerAppApp.mc" id="50" lineNum="82" pc="268446728" symbol="gpsQualityChange"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\RMTimerAppApp.mc" id="51" lineNum="84" pc="268446747" symbol="onSettingsChanged"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\RMTimerAppApp.mc" id="51" lineNum="85" pc="268446751" symbol="onSettingsChanged"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\RMTimerAppApp.mc" id="51" lineNum="86" pc="268446769" symbol="onSettingsChanged"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\RMTimerAppApp.mc" id="51" lineNum="87" pc="268446788" symbol="onSettingsChanged"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\RMTimerAppApp.mc" id="51" lineNum="88" pc="268446808" symbol="onSettingsChanged"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\RMTimerAppApp.mc" id="52" lineNum="92" pc="268446835" symbol="getInitialView"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\RMTimerAppApp.mc" id="52" lineNum="93" pc="268446839" symbol="getInitialView"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\RMTimerAppDelegate.mc" id="54" lineNum="6" pc="268446901" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\RMTimerAppDelegate.mc" id="54" lineNum="7" pc="268446905" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\RMTimerAppDelegate.mc" id="54" lineNum="8" pc="268446923" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\RMTimerAppDelegate.mc" id="55" lineNum="11" pc="268446934" symbol="onMenu"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\RMTimerAppDelegate.mc" id="55" lineNum="12" pc="268446938" symbol="onMenu"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\RMTimerAppDelegate.mc" id="55" lineNum="13" pc="268447022" symbol="onMenu"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\RMTimerAppDelegate.mc" id="56" lineNum="15" pc="268447026" symbol="onBack"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\RMTimerAppDelegate.mc" id="56" lineNum="17" pc="268447030" symbol="onBack"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\RMTimerAppDelegate.mc" id="56" lineNum="18" pc="268447057" symbol="onBack"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\RMTimerAppDelegate.mc" id="57" lineNum="21" pc="268447061" symbol="onKey"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\RMTimerAppDelegate.mc" id="57" lineNum="24" pc="268447065" symbol="onKey"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\RMTimerAppDelegate.mc" id="57" lineNum="29" pc="268447085" symbol="onKey"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\RMTimerAppDelegate.mc" id="57" lineNum="30" pc="268447188" symbol="onKey"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\RMTimerAppDelegate.mc" id="57" lineNum="31" pc="268447194" symbol="onKey"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\RMTimerAppDelegate.mc" id="57" lineNum="31" pc="268447212" symbol="onKey"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\RMTimerAppDelegate.mc" id="57" lineNum="32" pc="268447215" symbol="onKey"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\RMTimerAppDelegate.mc" id="57" lineNum="32" pc="268447233" symbol="onKey"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\RMTimerAppDelegate.mc" id="57" lineNum="33" pc="268447236" symbol="onKey"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\RMTimerAppDelegate.mc" id="57" lineNum="33" pc="268447254" symbol="onKey"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\RMTimerAppDelegate.mc" id="57" lineNum="34" pc="268447257" symbol="onKey"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\RMTimerAppDelegate.mc" id="57" lineNum="34" pc="268447275" symbol="onKey"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\RMTimerAppDelegate.mc" id="57" lineNum="38" pc="268447278" symbol="onKey"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\RMTimerAppDelegate.mc" id="57" lineNum="40" pc="268447308" symbol="onKey"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\RMTimerAppDelegate.mc" id="57" lineNum="43" pc="268447328" symbol="onKey"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\RMTimerAppDelegate.mc" id="57" lineNum="47" pc="268447358" symbol="onKey"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\AppBackground.mc" id="59" lineNum="9" pc="268447362" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\AppBackground.mc" id="59" lineNum="10" pc="268447366" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\AppBackground.mc" id="59" lineNum="14" pc="268447387" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\AppBackground.mc" id="59" lineNum="15" pc="268447407" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\AppBackground.mc" id="60" lineNum="17" pc="268447421" symbol="setColor"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\AppBackground.mc" id="60" lineNum="18" pc="268447425" symbol="setColor"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\AppBackground.mc" id="61" lineNum="21" pc="268447436" symbol="draw"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\AppBackground.mc" id="61" lineNum="22" pc="268447440" symbol="draw"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\AppBackground.mc" id="61" lineNum="23" pc="268447472" symbol="draw"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\RMTimerAppView.mc" id="63" lineNum="18" pc="268447485" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\RMTimerAppView.mc" id="63" lineNum="19" pc="268447489" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\RMTimerAppView.mc" id="63" lineNum="20" pc="268447507" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\RMTimerAppView.mc" id="63" lineNum="21" pc="268447517" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\RMTimerAppView.mc" id="63" lineNum="22" pc="268447527" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\RMTimerAppView.mc" id="63" lineNum="23" pc="268447540" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\RMTimerAppView.mc" id="63" lineNum="24" pc="268447553" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\RMTimerAppView.mc" id="63" lineNum="25" pc="268447566" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\RMTimerAppView.mc" id="63" lineNum="27" pc="268447579" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\RMTimerAppView.mc" id="63" lineNum="28" pc="268447619" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\RMTimerAppView.mc" id="63" lineNum="29" pc="268447641" symbol="initialize"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\RMTimerAppView.mc" id="64" lineNum="33" pc="268447678" symbol="settingChanged"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\RMTimerAppView.mc" id="64" lineNum="34" pc="268447682" symbol="settingChanged"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\RMTimerAppView.mc" id="64" lineNum="35" pc="268447714" symbol="settingChanged"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\RMTimerAppView.mc" id="65" lineNum="40" pc="268447725" symbol="onLayout"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\RMTimerAppView.mc" id="65" lineNum="41" pc="268447729" symbol="onLayout"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\RMTimerAppView.mc" id="65" lineNum="42" pc="268447748" symbol="onLayout"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\RMTimerAppView.mc" id="66" lineNum="44" pc="268447768" symbol="refreshStatus"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\RMTimerAppView.mc" id="67" lineNum="51" pc="268447773" symbol="onShow"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\RMTimerAppView.mc" id="67" lineNum="52" pc="268447777" symbol="onShow"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\RMTimerAppView.mc" id="68" lineNum="57" pc="268447801" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\RMTimerAppView.mc" id="68" lineNum="59" pc="268447805" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\RMTimerAppView.mc" id="68" lineNum="61" pc="268447825" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\RMTimerAppView.mc" id="68" lineNum="62" pc="268447839" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\RMTimerAppView.mc" id="68" lineNum="65" pc="268447867" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\RMTimerAppView.mc" id="68" lineNum="66" pc="268447964" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\RMTimerAppView.mc" id="68" lineNum="68" pc="268447998" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\RMTimerAppView.mc" id="68" lineNum="69" pc="268448032" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\RMTimerAppView.mc" id="68" lineNum="70" pc="268448143" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\RMTimerAppView.mc" id="68" lineNum="72" pc="268448177" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\RMTimerAppView.mc" id="68" lineNum="73" pc="268448308" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\RMTimerAppView.mc" id="68" lineNum="74" pc="268448381" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\RMTimerAppView.mc" id="68" lineNum="79" pc="268448477" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\RMTimerAppView.mc" id="68" lineNum="80" pc="268448550" symbol="onUpdate"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\RMTimerAppView.mc" id="69" lineNum="95" pc="268448633" symbol="onHide"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\RMTimerAppView.mc" id="69" lineNum="96" pc="268448637" symbol="onHide"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\RMTimerAppView.mc" id="70" lineNum="98" pc="268448656" symbol="pause"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\RMTimerAppView.mc" id="70" lineNum="99" pc="268448660" symbol="pause"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\RMTimerAppView.mc" id="71" lineNum="101" pc="268448679" symbol="resume"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\RMTimerAppView.mc" id="71" lineNum="102" pc="268448683" symbol="resume"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\RMTimerAppView.mc" id="72" lineNum="104" pc="268448725" symbol="gpsChange"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\RMTimerAppView.mc" id="72" lineNum="105" pc="268448729" symbol="gpsChange"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\RMTimerAppView.mc" id="72" lineNum="106" pc="268448767" symbol="gpsChange"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\RMTimerAppView.mc" id="72" lineNum="107" pc="268448829" symbol="gpsChange"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\RMTimerAppView.mc" id="73" lineNum="109" pc="268448846" symbol="drawBackground"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\RMTimerAppView.mc" id="73" lineNum="112" pc="268448850" symbol="drawBackground"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\RMTimerAppView.mc" id="73" lineNum="113" pc="268448878" symbol="drawBackground"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\RMTimerAppView.mc" id="73" lineNum="114" pc="268448890" symbol="drawBackground"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\RMTimerAppView.mc" id="73" lineNum="115" pc="268448934" symbol="drawBackground"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\RMTimerAppView.mc" id="74" lineNum="118" pc="268448963" symbol="redrawCallback"/>
+<entry filename="C:\\Users\\grabowski.a\\workspace\\RM Timer App\\source\\RMTimerAppView.mc" id="74" lineNum="119" pc="268448967" symbol="redrawCallback"/>
+<entry filename="Rez" id="80" lineNum="15" pc="268448984" symbol="MainLayout"/>
+<entry filename="Rez" id="80" lineNum="17" pc="268448996" symbol="MainLayout"/>
+<entry filename="Rez" id="80" lineNum="19" pc="268449020" symbol="MainLayout"/>
+<entry filename="Rez" id="83" lineNum="32" pc="268449038" symbol="initialize"/>
+<entry filename="Rez" id="83" lineNum="33" pc="268449042" symbol="initialize"/>
+<entry filename="Rez" id="83" lineNum="34" pc="268449060" symbol="initialize"/>
+<entry filename="Rez" id="83" lineNum="35" pc="268449116" symbol="initialize"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="8388639" module="true" symbol="Graphics"/>
+<entry field="true" id="40" symbol="gpsQuality"/>
+<entry id="72" method="true" symbol="getStepInfo"/>
+<entry field="true" id="46" symbol="elapsedIntervalTime"/>
+<entry id="73" method="true" symbol="setPosition"/>
+<entry id="71" method="true" symbol="CoolDownSplit"/>
+<entry id="8388632" method="true" symbol="&lt;init&gt;"/>
+<entry field="true" id="104" symbol="trainingString"/>
+<entry id="99" method="true" symbol="changeStatus"/>
+<entry id="4" module="true" symbol="globals/Rez/Menus"/>
+<entry id="8388638" module="true" symbol="ActivityRecording"/>
+<entry id="78" method="true" symbol="MainLayout"/>
+<entry id="8389683" method="true" symbol="onSettingsChanged"/>
+<entry field="true" id="82" symbol="ActiveTraining"/>
+<entry id="15" object="true" symbol="RMTimerAppApp"/>
+<entry field="true" id="8388890" symbol="sport"/>
+<entry id="60" method="true" symbol="changeSessionValues"/>
+<entry field="true" id="45" symbol="sessionTimer"/>
+<entry field="true" id="97" symbol="vDotCalc"/>
+<entry id="103" method="true" symbol="gpsQualityChange"/>
+<entry id="35" method="true" symbol="resume"/>
+<entry id="102" method="true" symbol="onPosition"/>
+<entry id="106" method="true" symbol="parseTrainingStringToTimerObject"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry id="108" method="true" symbol="singleSplitAnalyse"/>
+<entry field="true" id="49" symbol="sessionSize"/>
+<entry id="33" method="true" symbol="refreshStatus"/>
+<entry id="18" method="true" symbol="replace"/>
+<entry id="41" method="true" symbol="receivedPosition"/>
+<entry id="14" object="true" symbol="RMTimerAppMenuDelegate"/>
+<entry field="true" id="96" symbol="AppView"/>
+<entry field="true" id="83" symbol="AppName"/>
+<entry field="true" id="26" symbol="FgColor"/>
+<entry id="8" module="true" symbol="globals/Rez/Strings"/>
+<entry field="true" id="48" symbol="currentSet"/>
+<entry id="8389080" method="true" symbol="onMenu"/>
+<entry id="8388772" module="true" object="true" symbol="Fonts"/>
+<entry field="true" id="44" symbol="sessionStatus"/>
+<entry field="true" id="57" symbol="nextStepName"/>
+<entry id="8388648" module="true" symbol="WatchUi"/>
+<entry id="8389081" method="true" symbol="onBack"/>
+<entry id="2" module="true" symbol="globals/Rez"/>
+<entry id="109" method="true" symbol="splitDecode"/>
+<entry field="true" id="93" symbol="prompt"/>
+<entry field="true" id="51" symbol="userVdot"/>
+<entry field="true" id="28" symbol="drawContext"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="17" object="true" symbol="RMTimerAppView"/>
+<entry field="true" id="105" symbol="trainingSetObject"/>
+<entry id="115" method="true" symbol="secondsToPace"/>
+<entry id="66" method="true" symbol="sessionResume"/>
+<entry id="62" method="true" symbol="getSessionStatus"/>
+<entry field="true" id="39" symbol="ts"/>
+<entry id="8388771" module="true" object="true" symbol="Drawables"/>
+<entry field="true" id="42" symbol="trainingObject"/>
+<entry id="117" symbol="item_2"/>
+<entry id="116" symbol="item_1"/>
+<entry id="75" module="true" symbol="Menus"/>
+<entry id="32" method="true" symbol="settingChanged"/>
+<entry field="true" id="111" symbol="racePaces"/>
+<entry id="6" module="true" symbol="globals/Rez/Layouts"/>
+<entry field="true" id="47" symbol="setIntervalTime"/>
+<entry field="true" id="56" symbol="curStepName"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry field="true" id="8389063" symbol="identifier"/>
+<entry field="true" id="95" symbol="trainingSet"/>
+<entry field="true" id="52" symbol="intervalStartTime"/>
+<entry field="true" id="58" symbol="stepNames"/>
+<entry field="true" id="22" symbol="trainingSessionStatus"/>
+<entry field="true" id="50" symbol="trainingArray"/>
+<entry id="13" object="true" symbol="TrainingSet"/>
+<entry id="10" object="true" symbol="VdotCalculator"/>
+<entry id="8389131" method="true" symbol="setColor"/>
+<entry id="7" module="true" symbol="globals/Rez/JsonData"/>
+<entry id="11" object="true" symbol="SettingsParser"/>
+<entry id="36" method="true" symbol="gpsChange"/>
+<entry field="true" id="110" symbol="vDot"/>
+<entry id="114" method="true" symbol="calclulateIntensity"/>
+<entry id="64" method="true" symbol="sessionStop"/>
+<entry id="3" module="true" symbol="globals/Rez/Drawables"/>
+<entry field="true" id="53" symbol="intervalStopTime"/>
+<entry id="77" object="true" symbol="MainMenu"/>
+<entry id="69" method="true" symbol="beginTrainingSession"/>
+<entry field="true" id="29" symbol="sWidth"/>
+<entry field="true" id="21" symbol="recorder"/>
+<entry id="37" method="true" symbol="drawBackground"/>
+<entry id="38" method="true" symbol="redrawCallback"/>
+<entry field="true" id="30" symbol="sHeight"/>
+<entry id="8388644" module="true" symbol="System"/>
+<entry field="true" id="85" symbol="TrainingTwoTitle"/>
+<entry id="8388645" module="true" symbol="Time"/>
+<entry id="8388769" module="true" object="true" symbol="Rez"/>
+<entry id="68" method="true" symbol="timerCallback"/>
+<entry id="9" object="true" symbol="StringFunctions"/>
+<entry field="true" id="54" symbol="restStartTime"/>
+<entry id="8390088" module="true" object="true" symbol="JsonData"/>
+<entry field="true" id="8389130" symbol="mColor"/>
+<entry id="8389068" method="true" symbol="draw"/>
+<entry field="true" id="80" symbol="TrainingOneTitle"/>
+<entry field="true" id="76" symbol="LauncherIcon"/>
+<entry id="113" method="true" symbol="calculateRacePaces"/>
+<entry id="8388610" symbol="statics"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry id="12" object="true" symbol="DataRecorder"/>
+<entry field="true" id="88" symbol="Training5"/>
+<entry field="true" id="90" symbol="Training4"/>
+<entry field="true" id="91" symbol="Training3"/>
+<entry field="true" id="92" symbol="Training2"/>
+<entry field="true" id="86" symbol="Training1"/>
+<entry field="true" id="23" symbol="BgColor"/>
+<entry id="8389350" module="true" symbol="globals"/>
+<entry field="true" id="24" symbol="ThemeColor"/>
+<entry id="8388770" module="true" object="true" symbol="Strings"/>
+<entry field="true" id="55" symbol="currentStageInfo"/>
+<entry id="8390146" module="true" object="true" symbol="Background"/>
+<entry field="true" id="59" symbol="stepInfo"/>
+<entry id="67" method="true" symbol="lapKeyPressed"/>
+<entry id="61" method="true" symbol="serializeTrainingObject"/>
+<entry id="70" method="true" symbol="WarmUpSplit"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="43" symbol="serializedObject"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry field="true" id="8388892" symbol="name"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry id="16" object="true" symbol="RMTimerAppDelegate"/>
+<entry field="true" id="94" symbol="sParser"/>
+<entry id="8389109" method="true" symbol="onMenuItem"/>
+<entry field="true" id="112" symbol="paceDistances"/>
+<entry field="true" id="79" symbol="TrainingThreeTitle"/>
+<entry field="true" id="31" symbol="headerColors"/>
+<entry id="101" method="true" symbol="fitSave"/>
+<entry id="8389097" method="true" symbol="onKey"/>
+<entry field="true" id="25" symbol="hdBgColor"/>
+<entry id="107" method="true" symbol="splitSubsetString"/>
+<entry id="74" module="true" symbol="Layouts"/>
+<entry id="8388698" method="true" symbol="start"/>
+<entry field="true" id="19" symbol="currentTrainingId"/>
+<entry id="8388642" module="true" symbol="Position"/>
+<entry field="true" id="27" symbol="redrawTimer"/>
+<entry id="34" method="true" symbol="pause"/>
+<entry field="true" id="20" symbol="tSet"/>
+<entry id="63" method="true" symbol="sessionStart"/>
+<entry id="5" module="true" symbol="globals/Rez/Fonts"/>
+<entry id="65" method="true" symbol="sessionPause"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+<entry field="true" id="98" symbol="session"/>
+<entry id="8388635" module="true" symbol="Application"/>
+<entry field="true" id="84" symbol="TrainingFiveTitle"/>
+<entry field="true" id="81" symbol="TrainingFourTitle"/>
+<entry field="true" id="89" symbol="menu_label_2"/>
+<entry field="true" id="87" symbol="menu_label_1"/>
+<entry id="100" method="true" symbol="lapPressed"/>
+</symbolTable>
+<localVars>
+<entry endPc="268435574" name="replaced" stackId="4" startPc="268435489"/>
+<entry arg="true" endPc="268435575" name="toWhat" stackId="2" startPc="268435461"/>
+<entry arg="true" endPc="268435575" name="what" stackId="1" startPc="268435461"/>
+<entry arg="true" endPc="268435575" name="text" stackId="3" startPc="268435461"/>
+<entry arg="true" endPc="268435899" name="vDotFromSettings" stackId="1" startPc="268435575"/>
+<entry endPc="268436008" name="i" stackId="2" startPc="268435940"/>
+<entry endPc="268436008" name="paceInSeconds" stackId="1" startPc="268435903"/>
+<entry arg="true" endPc="268441937" name="distance" stackId="1" startPc="268436009"/>
+<entry endPc="268442088" name="secs" stackId="3" startPc="268441941"/>
+<entry endPc="268442088" name="minutes" stackId="2" startPc="268441941"/>
+<entry endPc="268442088" name="formattedSeconds" stackId="4" startPc="268441941"/>
+<entry arg="true" endPc="268442089" name="seconds" stackId="1" startPc="268441937"/>
+<entry endPc="268442574" name="isBracket" stackId="1" startPc="268442277"/>
+<entry endPc="268442574" name="subsets" stackId="6" startPc="268442277"/>
+<entry endPc="268442574" name="bracketEndPos" stackId="3" startPc="268442277"/>
+<entry endPc="268442574" name="stringLeft" stackId="5" startPc="268442277"/>
+<entry endPc="268442574" name="bracketStartPos" stackId="2" startPc="268442277"/>
+<entry endPc="268442574" name="noOfSets" stackId="4" startPc="268442277"/>
+<entry endPc="268442748" name="split" stackId="4" startPc="268442625"/>
+<entry endPc="268442787" name="i" stackId="3" startPc="268442579"/>
+<entry endPc="268442787" name="set" stackId="2" startPc="268442579"/>
+<entry arg="true" endPc="268442788" name="subsetString" stackId="1" startPc="268442575"/>
+<entry endPc="268442953" name="i" stackId="5" startPc="268442922"/>
+<entry endPc="268442953" name="cleanSplit" stackId="4" startPc="268442824"/>
+<entry endPc="268442974" name="splitCount" stackId="3" startPc="268442792"/>
+<entry endPc="268442974" name="splited" stackId="2" startPc="268442792"/>
+<entry arg="true" endPc="268442975" name="split" stackId="1" startPc="268442788"/>
+<entry endPc="268443489" name="isThereAnyBreak" stackId="5" startPc="268442979"/>
+<entry endPc="268443489" name="splitRestTime" stackId="4" startPc="268442979"/>
+<entry endPc="268443489" name="splitIntensity" stackId="3" startPc="268442979"/>
+<entry endPc="268443489" name="splitDistance" stackId="2" startPc="268442979"/>
+<entry arg="true" endPc="268443490" name="split" stackId="1" startPc="268442975"/>
+<entry arg="true" endPc="268443586" name="info" stackId="1" startPc="268443515"/>
+<entry arg="true" endPc="268443762" name="vDot" stackId="1" startPc="268443586"/>
+<entry arg="true" endPc="268443789" name="values" stackId="1" startPc="268443762"/>
+<entry endPc="268444114" name="k" stackId="4" startPc="268443950"/>
+<entry endPc="268444161" name="i" stackId="3" startPc="268443935"/>
+<entry endPc="268444307" name="subsets" stackId="1" startPc="268443793"/>
+<entry endPc="268444307" name="j" stackId="2" startPc="268443793"/>
+<entry endPc="268445148" name="currentStep" stackId="1" startPc="268444712"/>
+<entry endPc="268445148" name="restTime" stackId="2" startPc="268444712"/>
+<entry endPc="268445379" name="restTime" stackId="2" startPc="268445180"/>
+<entry arg="true" endPc="268445380" name="step" stackId="1" startPc="268445176"/>
+<entry endPc="268445788" name="currentStep" stackId="2" startPc="268445512"/>
+<entry endPc="268445788" name="restTime" stackId="3" startPc="268445512"/>
+<entry endPc="268445788" name="stepGoalTime" stackId="6" startPc="268445512"/>
+<entry endPc="268445788" name="stepPace" stackId="5" startPc="268445512"/>
+<entry endPc="268445788" name="stepHasName" stackId="4" startPc="268445512"/>
+<entry arg="true" endPc="268445789" name="step" stackId="1" startPc="268445508"/>
+<entry arg="true" endPc="268445820" name="info" stackId="1" startPc="268445789"/>
+<entry arg="true" endPc="268445945" name="item" stackId="1" startPc="268445843"/>
+<entry endPc="268446185" name="trainingSetObject" stackId="1" startPc="268445949"/>
+<entry arg="true" endPc="268446235" name="state" stackId="1" startPc="268446186"/>
+<entry arg="true" endPc="268446699" name="state" stackId="1" startPc="268446650"/>
+<entry arg="true" endPc="268446724" name="info" stackId="1" startPc="268446699"/>
+<entry endPc="268446834" name="trainingSetObject" stackId="1" startPc="268446751"/>
+<entry arg="true" endPc="268446934" name="trainingSet" stackId="1" startPc="268446901"/>
+<entry arg="true" endPc="268447362" name="keyEvent" stackId="1" startPc="268447061"/>
+<entry endPc="268447420" name="dictionary" stackId="1" startPc="268447366"/>
+<entry arg="true" endPc="268447436" name="color" stackId="1" startPc="268447421"/>
+<entry arg="true" endPc="268447485" name="dc" stackId="1" startPc="268447436"/>
+<entry arg="true" endPc="268447678" name="ts" stackId="1" startPc="268447485"/>
+<entry arg="true" endPc="268447678" name="rec" stackId="2" startPc="268447485"/>
+<entry arg="true" endPc="268447725" name="tse" stackId="1" startPc="268447678"/>
+<entry arg="true" endPc="268447768" name="dc" stackId="1" startPc="268447725"/>
+<entry arg="true" endPc="268448633" name="dc" stackId="1" startPc="268447801"/>
+<entry arg="true" endPc="268448963" name="dc" stackId="1" startPc="268448846"/>
+<entry endPc="268449037" name="rez_cmp_local_custom_drawable_75226939521210068305" stackId="2" startPc="268448996"/>
+<entry arg="true" endPc="268449038" name="dc" stackId="1" startPc="268448984"/>
+</localVars>
+<annotations/>
+<dataEntryOffsetMappings>
+<dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+<dataEntry offset="214" parentId="globals" symbolId="StringFunctions" type="class"/>
+<dataEntry offset="269" parentId="globals" symbolId="RMTimerAppView" type="class"/>
+<dataEntry offset="508" parentId="globals" symbolId="RMTimerAppDelegate" type="class"/>
+<dataEntry offset="587" parentId="globals" symbolId="DataRecorder" type="class"/>
+<dataEntry offset="650" parentId="globals" symbolId="TrainingSet" type="class"/>
+<dataEntry offset="953" parentId="globals" symbolId="RMTimerAppMenuDelegate" type="class"/>
+<dataEntry offset="1008" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry offset="1087" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry offset="1126" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry offset="1165" parentId="Menus" symbolId="MainMenu" type="class"/>
+<dataEntry offset="1212" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry offset="1243" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry offset="1282" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry offset="1313" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry offset="1464" parentId="globals" symbolId="RMTimerAppApp" type="class"/>
+<dataEntry offset="1655" parentId="globals" symbolId="SettingsParser" type="class"/>
+<dataEntry offset="1766" parentId="globals" symbolId="Background" type="class"/>
+<dataEntry offset="1837" parentId="globals" symbolId="VdotCalculator" type="class"/>
+</dataEntryOffsetMappings>
+<functions>
+<functionEntry accessMode="public" name="initialize" parent="StringFunctions">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="replace" parent="StringFunctions">
+<param id="what"/>
+<param id="toWhat"/>
+<param id="text"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="VdotCalculator">
+<param id="vDotFromSettings"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="calculateRacePaces" parent="VdotCalculator">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="calclulateIntensity" parent="VdotCalculator">
+<param id="distance"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="secondsToPace" parent="VdotCalculator">
+<param id="seconds"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="SettingsParser">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onSettingsChanged" parent="SettingsParser">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="parseTrainingStringToTimerObject" parent="SettingsParser">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="splitSubsetString" parent="SettingsParser">
+<param id="subsetString"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="singleSplitAnalyse" parent="SettingsParser">
+<param id="split"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="splitDecode" parent="SettingsParser">
+<param id="split"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="DataRecorder">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="receivedPosition" parent="DataRecorder">
+<param id="info"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="TrainingSet">
+<param id="vDot"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="changeSessionValues" parent="TrainingSet">
+<param id="values"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="serializeTrainingObject" parent="TrainingSet">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getSessionStatus" parent="TrainingSet">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="sessionStart" parent="TrainingSet">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="sessionStop" parent="TrainingSet">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="sessionPause" parent="TrainingSet">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="sessionResume" parent="TrainingSet">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="lapKeyPressed" parent="TrainingSet">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="timerCallback" parent="TrainingSet">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="beginTrainingSession" parent="TrainingSet">
+<param id="step"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="WarmUpSplit" parent="TrainingSet">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="CoolDownSplit" parent="TrainingSet">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getStepInfo" parent="TrainingSet">
+<param id="step"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="setPosition" parent="TrainingSet">
+<param id="info"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="RMTimerAppMenuDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onMenuItem" parent="RMTimerAppMenuDelegate">
+<param id="item"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="RMTimerAppApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStart" parent="RMTimerAppApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="start" parent="RMTimerAppApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="changeStatus" parent="RMTimerAppApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="lapPressed" parent="RMTimerAppApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="pause" parent="RMTimerAppApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="resume" parent="RMTimerAppApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="fitSave" parent="RMTimerAppApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStop" parent="RMTimerAppApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onPosition" parent="RMTimerAppApp">
+<param id="info"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="gpsQualityChange" parent="RMTimerAppApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onSettingsChanged" parent="RMTimerAppApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getInitialView" parent="RMTimerAppApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="RMTimerAppDelegate">
+<param id="trainingSet"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onMenu" parent="RMTimerAppDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onBack" parent="RMTimerAppDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onKey" parent="RMTimerAppDelegate">
+<param id="keyEvent"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="Background">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="setColor" parent="Background">
+<param id="color"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="draw" parent="Background">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="RMTimerAppView">
+<param id="ts"/>
+<param id="rec"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="settingChanged" parent="RMTimerAppView">
+<param id="tse"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onLayout" parent="RMTimerAppView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="refreshStatus" parent="RMTimerAppView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onShow" parent="RMTimerAppView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onUpdate" parent="RMTimerAppView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onHide" parent="RMTimerAppView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="pause" parent="RMTimerAppView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="resume" parent="RMTimerAppView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="gpsChange" parent="RMTimerAppView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawBackground" parent="RMTimerAppView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="redrawCallback" parent="RMTimerAppView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="MainLayout" parent="Layouts">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="MainMenu">
+<documentation/>
+</functionEntry>
+</functions>
+</debugInfo>
